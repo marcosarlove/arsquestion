@@ -159,7 +159,7 @@ const UI = (() => {
                             </div>
                         </header>
 
-                        <main class="flex-1 flex flex-col items-center justify-center p-4 md:p-6 overflow-hidden">
+                        <main class="flex-1 flex flex-col items-center p-4 md:p-6 overflow-hidden pt-8">
                             <div class="w-full flex flex-col items-center justify-center overflow-hidden h-full max-h-full">
                                 <div class="w-full max-w-2xl text-center animate-slide-up">
                                     <h2 class="text-2xl md:text-3xl font-bold text-slate-100 mb-6">${question.question}</h2>
@@ -170,7 +170,7 @@ const UI = (() => {
                             </div>
                         </main>
 
-                        <footer class="px-4 py-4 md:py-6 border-t border-white/5 bg-slate-950/90 backdrop-blur-xl flex justify-center gap-4 md:gap-10 shrink-0">
+                        <footer class="px-4 py-4 md:py-6 border-t border-white/5 bg-slate-950/90 backdrop-blur-xl flex justify-center gap-4 md:gap-10 shrink-0 mt-8">
                             <button id="lifeline-fiftyFifty" ${gameState.lifelines.fiftyFifty ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.fiftyFifty ? 'border-blue-500/30 bg-blue-500/5 text-blue-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
                                 <span class="text-base md:text-lg mb-0.5">50:50</span>
                             </button>
