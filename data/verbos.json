@@ -1,0 +1,472 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Verbos",
+  "questions": [
+    {
+      "id": "verbos-001",
+      "question": "Na frase 'O aluno leu o livro', a voz verbal é:",
+      "options": [
+        "Ativa",
+        "Passiva",
+        "Reflexiva",
+        "Nenhuma das opções"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O sujeito ('O aluno') pratica a ação de ler. Quando o sujeito é o agente da ação, qual é a voz verbal?",
+      "hintCorrect": "Correto! Na voz ativa, o sujeito é o agente, ou seja, ele pratica a ação expressa pelo verbo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ativa'. O sujeito 'O aluno' está praticando a ação.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-002",
+      "question": "Qual é a forma correta do verbo 'ver' no Futuro do Subjuntivo?",
+      "options": [
+        "Quando eu ver",
+        "Quando eu vir",
+        "Quando eu verei",
+        "Quando eu visse"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Futuro do Subjuntivo de 'ver' e seus derivados ('prever', 'rever') é irregular. Pense na frase 'Se você ___ o meu amigo, diga-lhe olá.'",
+      "hintCorrect": "Exato! A conjugação correta é 'Quando eu vir', 'Quando tu vires', 'Quando ele vir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Quando eu vir'. O verbo 'ver' é irregular no Futuro do Subjuntivo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-003",
+      "question": "Qual é a forma correta do verbo 'haver' na frase: '___ muitos problemas na cidade.'?",
+      "options": [
+        "Havia",
+        "Haviam",
+        "Existe",
+        "Existem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'haver', no sentido de 'existir', é impessoal e fica sempre na 3ª pessoa do singular.",
+      "hintCorrect": "Correto! No sentido de existência, 'haver' é impessoal e não vai para o plural.",
+      "hintWrong": "Incorreto. A resposta certa é 'Havia'. O verbo 'haver' com sentido de 'existir' é impessoal e fica no singular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-004",
+      "question": "A frase 'Vendem-se casas' está na voz:",
+      "options": [
+        "Ativa",
+        "Passiva Sintética",
+        "Passiva Analítica",
+        "Reflexiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A partícula 'se' está apassivando o verbo. A frase pode ser reescrita como 'Casas são vendidas'.",
+      "hintCorrect": "Exato! É a voz passiva sintética, onde o 'se' funciona como partícula apassivadora e 'casas' é o sujeito paciente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Passiva Sintética'. A frase equivale a 'Casas são vendidas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-005",
+      "question": "Qual a forma correta do verbo 'manter' (derivado de 'ter') na 3ª pessoa do plural do presente do indicativo?",
+      "options": [
+        "Eles mantêm",
+        "Eles mantem",
+        "Eles mantêm",
+        "Eles mantam"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Verbos derivados de 'ter' e 'vir' recebem acento agudo no singular ('mantém') e circunflexo no plural ('mantêm').",
+      "hintCorrect": "Correto! A forma correta é 'mantêm', com acento circunflexo, para diferenciar da 3ª pessoa do singular ('mantém').",
+      "hintWrong": "Incorreto. A resposta certa é 'mantêm'. Derivados de 'ter' e 'vir' usam acento circunflexo na 3ª pessoa do plural.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-006",
+      "question": "Na frase 'Se eu ___ tempo, eu iria à festa', qual a forma correta do verbo 'ter'?",
+      "options": [
+        "ter",
+        "tiver",
+        "tivesse",
+        "tenho"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A segunda oração usa o Futuro do Pretérito ('iria'). Isso pede uma correlação com o Pretérito Imperfeito do Subjuntivo na primeira oração.",
+      "hintCorrect": "Exato! A correlação verbal correta é 'Se eu tivesse' (Pretérito Imperfeito do Subjuntivo) com 'eu iria' (Futuro do Pretérito do Indicativo).",
+      "hintWrong": "Incorreto. A resposta certa é 'tivesse'. A correlação verbal pede o Pretérito Imperfeito do Subjuntivo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-007",
+      "question": "A frase 'Precisa-se de funcionários' tem o 'se' classificado como:",
+      "options": [
+        "Partícula Apassivadora",
+        "Índice de Indeterminação do Sujeito",
+        "Pronome Reflexivo",
+        "Parte integrante do verbo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'precisar' é transitivo indireto ('precisar de'). Quando o 'se' acompanha verbos que não são transitivos diretos, ele indetermina o sujeito.",
+      "hintCorrect": "Correto! Como o verbo é transitivo indireto, o 'se' funciona como índice de indeterminação do sujeito, e o verbo fica obrigatoriamente no singular.",
+      "hintWrong": "Incorreto. A resposta certa é 'Índice de Indeterminação do Sujeito'. O verbo não é transitivo direto, então o 'se' indetermina o sujeito.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-008",
+      "question": "Qual é a forma correta do particípio do verbo 'pagar' com os auxiliares 'ter' ou 'haver'?",
+      "options": [
+        "Eu tinha pago.",
+        "Eu tinha pagado.",
+        "Ambas estão corretas.",
+        "Nenhuma está correta."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos abundantes como 'pagar' têm um particípio regular (-ado, -ido) para 'ter/haver' e um irregular para 'ser/estar'.",
+      "hintCorrect": "Exato! Com os auxiliares 'ter' e 'haver', usa-se o particípio regular: 'tinha pagado'. O particípio irregular ('pago') é usado com 'ser' e 'estar': 'A conta foi paga'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu tinha pagado'. Com 'ter' e 'haver', usa-se o particípio regular.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-009",
+      "question": "Transformando 'Eu fiz o trabalho' para a voz passiva analítica, a forma correta é:",
+      "options": [
+        "O trabalho foi feito por mim.",
+        "O trabalho era feito por mim.",
+        "O trabalho é feito por mim.",
+        "O trabalho será feito por mim."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo auxiliar 'ser' deve ficar no mesmo tempo do verbo da voz ativa ('fiz' está no Pretérito Perfeito).",
+      "hintCorrect": "Correto! O verbo 'ser' vai para o Pretérito Perfeito ('foi') e o verbo principal vai para o particípio ('feito').",
+      "hintWrong": "Incorreto. A resposta certa é 'O trabalho foi feito por mim'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-010",
+      "question": "Na frase 'Fui eu que paguei a conta', a concordância verbal está correta por quê?",
+      "options": [
+        "O verbo concorda com 'eu'.",
+        "O verbo concorda com 'que'.",
+        "O verbo deveria estar no plural.",
+        "O verbo deveria ser 'pagou'."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Quando o pronome relativo 'que' tem como antecedente um pronome pessoal, o verbo concorda com esse pronome pessoal.",
+      "hintCorrect": "Correto! Com o pronome relativo 'que', o verbo concorda com o termo antecedente, neste caso, 'eu'.",
+      "hintWrong": "Incorreto. A resposta certa é 'O verbo concorda com 'eu''.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-011",
+      "question": "Qual é a forma correta do verbo 'pôr' no Pretérito Imperfeito do Subjuntivo?",
+      "options": [
+        "Se eu por",
+        "Se eu ponho",
+        "Se eu pusesse",
+        "Se eu ponha"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo 'pôr' e seus derivados são irregulares. Pense na conjugação: 'Se eu fizesse', 'Se eu quisesse'...",
+      "hintCorrect": "Exato! A conjugação correta é 'Se eu pusesse', 'Se tu pusesses', 'Se ele pusesse'...",
+      "hintWrong": "Incorreto. A resposta certa é 'Se eu pusesse'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-012",
+      "question": "A frase 'Os amigos abraçaram-se' expressa uma voz:",
+      "options": [
+        "Ativa",
+        "Passiva",
+        "Reflexiva Recíproca",
+        "Reflexiva Simples"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A ação de abraçar é mútua entre os elementos do sujeito (um abraçou o outro).",
+      "hintCorrect": "Correto! É uma voz reflexiva recíproca, pois a ação é trocada entre os membros do sujeito.",
+      "hintWrong": "Incorreto. A resposta certa é 'Reflexiva Recíproca'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-013",
+      "question": "Qual a forma correta do verbo 'ir' no Presente do Subjuntivo (para 'eu')?",
+      "options": [
+        "que eu vou",
+        "que eu vá",
+        "que eu ir",
+        "que eu fui"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'ir' é anômalo (altamente irregular). Pense na frase 'Espero que você ___ bem.'",
+      "hintCorrect": "Correto! A conjugação é 'que eu vá', 'que tu vás', 'que ele vá'...",
+      "hintWrong": "Incorreto. A resposta certa é 'que eu vá'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-014",
+      "question": "Na frase 'A maioria dos alunos passaram', a concordância está correta?",
+      "options": [
+        "Não, deveria ser 'passou'.",
+        "Sim, pois o verbo pode concordar com 'alunos'.",
+        "Não, o verbo não concorda com 'maioria'.",
+        "Sim, pois 'maioria' é plural."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Com expressões partitivas como 'a maioria de', o verbo pode concordar com o núcleo da expressão ('maioria', singular) ou com o substantivo seguinte ('alunos', plural).",
+      "hintCorrect": "Exato! Ambas as formas são aceitas: 'A maioria dos alunos passou' (concordando com 'maioria') e 'A maioria dos alunos passaram' (concordando com 'alunos').",
+      "hintWrong": "Incorreto. A resposta certa é 'Sim, pois o verbo pode concordar com 'alunos''. A forma 'passou' também estaria correta.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-015",
+      "question": "Qual é a forma correta do verbo 'vir' no Futuro do Subjuntivo?",
+      "options": [
+        "Quando eu vir",
+        "Quando eu vier",
+        "Quando eu vim",
+        "Quando eu venho"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Futuro do Subjuntivo de 'vir' e seus derivados ('convir', 'intervir') é irregular.",
+      "hintCorrect": "Correto! A conjugação correta é 'Quando eu vier', 'Quando tu vieres', 'Quando ele vier'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Quando eu vier'. 'Quando eu vir' é do verbo 'ver'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-016",
+      "question": "A frase 'Os Estados Unidos são uma potência' está correta por quê?",
+      "options": [
+        "O verbo concorda com 'potência'.",
+        "O verbo concorda com o nome no plural que é usado com artigo ('Os').",
+        "O verbo deveria estar no singular.",
+        "A frase está incorreta."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Para nomes que só existem no plural, a presença do artigo ('os', 'as') define a concordância.",
+      "hintCorrect": "Correto! Como 'Os Estados Unidos' está precedido de artigo no plural, o verbo também vai para o plural.",
+      "hintWrong": "Incorreto. A resposta certa é 'O verbo concorda com o nome no plural que é usado com artigo ('Os')'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-017",
+      "question": "Qual é o tempo verbal da forma 'cantara'?",
+      "options": [
+        "Pretérito Perfeito do Indicativo",
+        "Pretérito Imperfeito do Indicativo",
+        "Pretérito Mais-que-perfeito do Indicativo",
+        "Futuro do Pretérito do Indicativo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este tempo verbal indica uma ação que ocorreu antes de outra ação já passada. Ex: 'Quando cheguei, ele já cantara.'",
+      "hintCorrect": "Exato! A terminação '-ra' é característica do Pretérito Mais-que-perfeito do Indicativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pretérito Mais-que-perfeito do Indicativo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-018",
+      "question": "Na frase 'Tudo são flores', o verbo 'ser' concorda com:",
+      "options": [
+        "O sujeito 'Tudo'.",
+        "O predicativo 'flores'.",
+        "Deveria ser 'é'.",
+        "Está incorreto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'ser' tem regras de concordância especiais. Quando o sujeito é um pronome indefinido ('tudo', 'nada') e o predicativo está no plural, o verbo tende a concordar com o predicativo.",
+      "hintCorrect": "Correto! Em casos como este, o verbo 'ser' concorda com o predicativo do sujeito ('flores'), que está no plural.",
+      "hintWrong": "Incorreto. A resposta certa é 'O predicativo 'flores''.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-019",
+      "question": "Qual é a forma correta do verbo 'intervir' na 3ª pessoa do singular do presente do indicativo?",
+      "options": [
+        "Ele interveio",
+        "Ele intervém",
+        "Ele interviu",
+        "Ele intervê"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'intervir' deriva de 'vir' e segue a mesma conjugação. Como se conjuga 'ele vem'?",
+      "hintCorrect": "Correto! Assim como 'ele vem', a forma correta é 'ele intervém', com acento agudo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ele intervém'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-020",
+      "question": "A frase 'Faz dez anos que não o vejo' está correta por quê?",
+      "options": [
+        "Deveria ser 'Fazem'.",
+        "O verbo 'fazer', indicando tempo, é impessoal e fica no singular.",
+        "O verbo concorda com 'dez anos'.",
+        "A frase está incorreta."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Assim como 'haver', o verbo 'fazer' indicando tempo decorrido é impessoal.",
+      "hintCorrect": "Exato! O verbo 'fazer' indicando tempo é impessoal e permanece sempre na 3ª pessoa do singular.",
+      "hintWrong": "Incorreto. A resposta certa é 'O verbo 'fazer', indicando tempo, é impessoal e fica no singular'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-021",
+      "question": "Qual é a forma correta do particípio do verbo 'imprimir' com o auxiliar 'ser'?",
+      "options": [
+        "O documento foi imprimido.",
+        "O documento foi impresso.",
+        "Ambas estão corretas.",
+        "Nenhuma está correta."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Imprimir' é um verbo abundante. Com 'ser' e 'estar', usa-se o particípio irregular.",
+      "hintCorrect": "Correto! Com os auxiliares 'ser' e 'estar', usa-se o particípio irregular: 'foi impresso'. O particípio regular ('imprimido') é usado com 'ter' e 'haver': 'tinha imprimido'.",
+      "hintWrong": "Incorreto. A resposta certa é 'O documento foi impresso'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-022",
+      "question": "Na frase 'O menino feriu-se', a voz é:",
+      "options": [
+        "Ativa",
+        "Passiva",
+        "Reflexiva",
+        "Impessoal"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O sujeito ('O menino') pratica e sofre a ação ao mesmo tempo (feriu a si mesmo).",
+      "hintCorrect": "Correto! Na voz reflexiva, a ação do sujeito recai sobre ele mesmo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Reflexiva'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-023",
+      "question": "Qual é a forma correta do verbo 'querer' no Pretérito Perfeito do Indicativo (para 'eu')?",
+      "options": [
+        "Eu quiz",
+        "Eu quis",
+        "Eu queri",
+        "Eu queria"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'querer' é irregular neste tempo.",
+      "hintCorrect": "Exato! A conjugação correta é 'eu quis', 'tu quiseste', 'ele quis'...",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu quis'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-024",
+      "question": "Na frase 'Fui eu quem paguei a conta', a concordância está correta?",
+      "options": [
+        "Não, deveria ser 'pagou'.",
+        "Sim, pois com 'quem' o verbo pode concordar com o antecedente.",
+        "Não, o verbo deveria ser 'paga'.",
+        "Sim, pois 'quem' exige a 1ª pessoa."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Com o pronome relativo 'quem', o verbo pode ficar na 3ª pessoa do singular ou concordar com o termo antecedente ('eu').",
+      "hintCorrect": "Correto! Ambas as formas são aceitas: 'Fui eu quem paguei' (concordando com 'eu') e 'Fui eu quem pagou' (verbo na 3ª pessoa).",
+      "hintWrong": "Incorreto. A resposta certa é 'Sim, pois com 'quem' o verbo pode concordar com o antecedente'. A forma 'pagou' também estaria correta.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-025",
+      "question": "Qual é a forma correta do verbo 'reaver' no presente do indicativo (para 'nós')?",
+      "options": [
+        "Nós reavemos",
+        "Nós reavimos",
+        "Nós reouvemos",
+        "Não é conjugado nesta forma."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "'Reaver' é um verbo defectivo, derivado de 'haver', mas só é conjugado nas formas em que o 'haver' tem a letra 'v'.",
+      "hintCorrect": "Exato! O verbo 'reaver' é defectivo e não se conjuga em todas as pessoas do presente do indicativo. As únicas formas existentes são 'nós reavemos' e 'vós reaveis'. A questão é capciosa, a opção correta seria 'Nós reavemos', mas a opção 'Não é conjugado' é mais precisa para as outras pessoas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não é conjugado nesta forma.'. O verbo 'reaver' é defectivo e só se conjuga em 'nós' (reavemos) e 'vós' (reaveis) no presente do indicativo.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-026",
+      "question": "A forma 'falando' é um exemplo de qual forma nominal do verbo?",
+      "options": [
+        "Infinitivo",
+        "Gerúndio",
+        "Particípio",
+        "Imperativo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Esta forma nominal, terminada em -ndo, indica uma ação em andamento.",
+      "hintCorrect": "Correto! O gerúndio expressa uma ação em curso.",
+      "hintWrong": "Incorreto. A resposta certa é 'Gerúndio'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-027",
+      "question": "Qual é a forma correta do verbo 'deter' na 1ª pessoa do plural do pretérito perfeito?",
+      "options": [
+        "Nós detemos",
+        "Nós detivemos",
+        "Nós deteremos",
+        "Nós detíamos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'deter' deriva de 'ter' e segue sua conjugação irregular. Pense em como se conjuga 'nós tivemos'.",
+      "hintCorrect": "Correto! Assim como 'nós tivemos', a forma correta é 'nós detivemos'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Nós detivemos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-028",
+      "question": "Na frase 'Choveu muito ontem', o verbo 'chover' é classificado como:",
+      "options": [
+        "Verbo de ligação",
+        "Verbo transitivo direto",
+        "Verbo que indica fenómeno da natureza (impessoal)",
+        "Verbo irregular"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Verbos que expressam fenómenos da natureza não têm sujeito e são conjugados na 3ª pessoa do singular.",
+      "hintCorrect": "Exato! 'Chover', 'nevar', 'ventar' são verbos que indicam fenómenos da natureza e são impessoais.",
+      "hintWrong": "Incorreto. A resposta certa é 'Verbo que indica fenómeno da natureza (impessoal)'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-029",
+      "question": "Qual é a forma correta do verbo 'caber' no presente do indicativo (para 'eu')?",
+      "options": [
+        "Eu cabo",
+        "Eu caibo",
+        "Eu queibo",
+        "Eu cabo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'caber' é irregular na primeira pessoa do presente.",
+      "hintCorrect": "Correto! A conjugação correta é 'eu caibo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu caibo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-030",
+      "question": "A frase 'O bolo foi comido por mim' está na voz:",
+      "options": [
+        "Ativa",
+        "Passiva Analítica",
+        "Passiva Sintética",
+        "Reflexiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A estrutura é: Sujeito Paciente + Verbo Auxiliar 'ser' + Particípio + Agente da Passiva.",
+      "hintCorrect": "Correto! Esta é a estrutura clássica da voz passiva analítica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Passiva Analítica'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-101",
+      "question": "Qual é a forma correta do verbo 'ser' no Pretérito Perfeito do Indicativo (para 'nós')?",
+      "options": [
+        "Nós somos",
+        "Nós fomos",
+        "Nós éramos",
+        "Nós seremos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'ser' é anômalo e tem a mesma forma do verbo 'ir' neste tempo.",
+      "hintCorrect": "Correto! A conjugação correta é 'nós fomos'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Nós fomos'.",
+      "difficulty": "easy"
+    }
+  ]
+}

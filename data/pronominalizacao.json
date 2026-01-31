@@ -1,0 +1,472 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Pronominalização e Colocação Pronominal",
+  "questions": [
+    {
+      "id": "pronomes-001",
+      "question": "Qual é a forma correta de iniciar a frase?",
+      "options": [
+        "Me disseram que você viria.",
+        "Disseram-me que você viria.",
+        "Me disseram-me que você viria.",
+        "Disseram que você me viria."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A norma culta da língua portuguesa proíbe iniciar uma oração com um pronome oblíquo átono.",
+      "hintCorrect": "Correto! Usa-se a ênclise (pronome depois do verbo) em inícios de frase. A forma correta é 'Disseram-me'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Disseram-me que você viria'. Não se deve começar uma frase com pronomes oblíquos átonos como 'me', 'te', 'se'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-002",
+      "question": "A presença de uma palavra negativa como 'não' ou 'nunca' antes do verbo exige qual colocação pronominal?",
+      "options": [
+        "Próclise (pronome antes do verbo).",
+        "Ênclise (pronome depois do verbo).",
+        "Mesóclise (pronome no meio do verbo).",
+        "Qualquer uma das três."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Palavras negativas são 'fatores de atração'. Elas 'puxam' o pronome para perto de si.",
+      "hintCorrect": "Exato! Palavras de sentido negativo são um dos principais fatores de atração da próclise. Ex: 'Não o vi'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Próclise'. Palavras negativas como 'não' e 'nunca' atraem o pronome para antes do verbo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-003",
+      "question": "Substituindo o termo em destaque, qual a forma correta da frase: 'Vou comprar o carro amanhã.'?",
+      "options": [
+        "Vou comprar-o amanhã.",
+        "Vou comprá-lo amanhã.",
+        "Vou comprar-no amanhã.",
+        "Vou o comprar amanhã."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'comprar' termina em -r. Quando isso acontece na ênclise, o -r é suprimido e o pronome 'o' vira 'lo'.",
+      "hintCorrect": "Correto! Verbos terminados em -r, -s, ou -z perdem a terminação, e o pronome 'o/a' se transforma em 'lo/la'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vou comprá-lo amanhã'. Quando o verbo no infinitivo termina em -r, ele é retirado e adiciona-se '-lo' ao pronome.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-004",
+      "question": "A mesóclise (pronome no meio do verbo) só pode ocorrer com verbos em quais tempos verbais?",
+      "options": [
+        "Presente e Pretérito Perfeito.",
+        "Futuro do Presente e Futuro do Pretérito.",
+        "Imperativo e Subjuntivo.",
+        "Gerúndio e Particípio."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma colocação mais formal, usada para tempos verbais que indicam o futuro.",
+      "hintCorrect": "Exato! A mesóclise é exclusiva do Futuro do Presente ('farei') e do Futuro do Pretérito ('faria'), e só quando não há fator de próclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Futuro do Presente e Futuro do Pretérito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-005",
+      "question": "Qual frase utiliza a próclise corretamente?",
+      "options": [
+        "Sempre ajudam-se nas dificuldades.",
+        "Sempre se ajudam nas dificuldades.",
+        "Ajudam-se sempre nas dificuldades.",
+        "Se ajudam sempre nas dificuldades."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Advérbios como 'sempre' são palavras atrativas que exigem o pronome antes do verbo.",
+      "hintCorrect": "Correto! O advérbio 'sempre' atrai o pronome 'se' para antes do verbo 'ajudam'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sempre se ajudam nas dificuldades'. O advérbio 'sempre' é um fator de atração que exige a próclise.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-006",
+      "question": "Substituindo o termo em destaque, qual a forma correta: 'Eles entregaram os convites.'?",
+      "options": [
+        "Eles entregaram-os.",
+        "Eles os entregaram.",
+        "Eles entregaram-nos.",
+        "Eles lhes entregaram."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo 'entregaram' termina em som nasal (-m). Nesses casos, o pronome 'os' se transforma em 'nos'.",
+      "hintCorrect": "Correto! Quando o verbo termina em som nasal (-m, -ão, -õe), os pronomes 'o, a, os, as' se tornam 'no, na, nos, nas'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eles entregaram-nos'. Verbos terminados em som nasal pedem a forma '-no(s)/-na(s)'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-007",
+      "question": "Qual pronome substitui corretamente o objeto indireto em: 'Obedeço aos meus pais.'?",
+      "options": [
+        "Obedeço-os.",
+        "Os obedeço.",
+        "Obedeço-lhes.",
+        "Lhes obedeço."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O objeto indireto (introduzido por preposição, como 'a') é substituído pelos pronomes 'lhe' ou 'lhes'.",
+      "hintCorrect": "Exato! 'Aos meus pais' é o objeto indireto. Ele é substituído por 'lhes'. Como não há fator de próclise, usa-se a ênclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Obedeço-lhes'. O objeto indireto 'aos meus pais' é substituído por 'lhes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-008",
+      "question": "A frase 'Realizar-se-á o evento na próxima semana' usa qual colocação pronominal?",
+      "options": [
+        "Próclise",
+        "Ênclise",
+        "Mesóclise",
+        "Nenhuma das opções."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O pronome 'se' está no meio do verbo 'realizará' (Futuro do Presente).",
+      "hintCorrect": "Correto! O verbo está no Futuro do Presente e não há palavra atrativa, portanto, a mesóclise é obrigatória.",
+      "hintWrong": "Incorreto. A resposta certa é 'Mesóclise', pois o pronome está inserido no meio do verbo no futuro ('realizará').",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-009",
+      "question": "Qual das frases abaixo está INCORRETA segundo a norma culta?",
+      "options": [
+        "Nunca te vi mais feliz.",
+        "Quem me dera ser assim.",
+        "Te amo mais que tudo.",
+        "Espero que se divirtam."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Lembre-se da regra sobre iniciar frases com pronomes oblíquos átonos.",
+      "hintCorrect": "Correto! A frase 'Te amo...' está incorreta na norma culta, pois não se deve iniciar uma oração com pronome oblíquo. O correto seria 'Amo-te'.",
+      "hintWrong": "Incorreto. A frase errada é 'Te amo mais que tudo'. A norma culta exige ênclise no início da frase: 'Amo-te'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-010",
+      "question": "Em 'Em se tratando de música, ele é um expert', a próclise é obrigatória por causa:",
+      "options": [
+        "Da palavra negativa 'em'.",
+        "Da preposição 'em' seguida de verbo no gerúndio.",
+        "Do pronome 'se'.",
+        "Do verbo no gerúndio 'tratando'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A estrutura 'Em + se + gerúndio' é um caso específico de próclise.",
+      "hintCorrect": "Exato! A construção 'em se' + gerúndio é um dos casos especiais que exigem a próclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Da preposição 'em' seguida de verbo no gerúndio'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-011",
+      "question": "Substituindo o termo em destaque, qual a forma correta: 'Eu fiz o trabalho.'?",
+      "options": [
+        "Eu fiz-lo.",
+        "Eu fi-lo.",
+        "Eu o fiz.",
+        "Eu fiz-o."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'fiz' termina em -z. Essa terminação é suprimida e o pronome 'o' vira 'lo'.",
+      "hintCorrect": "Correto! Verbos terminados em -r, -s ou -z perdem essa consoante, e o pronome assume a forma -lo, -la, -los, -las. 'Fiz' -> 'Fi' + 'lo' = 'Fi-lo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu fi-lo'. O 'z' final de 'fiz' cai e o pronome 'o' vira 'lo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-012",
+      "question": "Qual é a colocação pronominal correta para o imperativo afirmativo 'Sente-se'?",
+      "options": [
+        "Próclise",
+        "Ênclise",
+        "Mesóclise",
+        "Tanto próclise quanto ênclise."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Com verbos no imperativo afirmativo (dando uma ordem), o pronome vem sempre depois.",
+      "hintCorrect": "Correto! Com o verbo no imperativo afirmativo, a ênclise é obrigatória. Ex: 'Ajude-me', 'Cale-se'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ênclise'. Verbos no imperativo afirmativo exigem o pronome depois do verbo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-013",
+      "question": "A frase 'Talvez nos vejamos amanhã' usa a próclise por causa:",
+      "options": [
+        "Do verbo no futuro.",
+        "Do advérbio 'talvez'.",
+        "Do advérbio 'amanhã'.",
+        "Da palavra 'nos'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Advérbios são palavras atrativas. Qual advérbio está imediatamente antes do pronome?",
+      "hintCorrect": "Exato! O advérbio de dúvida 'talvez' atrai o pronome 'nos' para antes do verbo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Do advérbio 'talvez''. Advérbios são fatores de próclise.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-014",
+      "question": "Qual a forma correta de reescrever 'Darei a você um presente', usando pronomes?",
+      "options": [
+        "Dar-lhe-ei um presente.",
+        "Lhe darei um presente.",
+        "Darei-lhe um presente.",
+        "Darei-te-ei um presente."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo está no Futuro do Presente ('darei') e a frase começa com ele (sem fator de atração). Isso exige mesóclise. O objeto indireto 'a você' é substituído por 'lhe'.",
+      "hintCorrect": "Correto! O verbo no futuro, sem palavra atrativa, pede mesóclise. 'Dar' + 'lhe' + 'ei' = 'Dar-lhe-ei'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Dar-lhe-ei um presente'. O verbo está no futuro do presente e não há palavra atrativa, o que exige a mesóclise.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-015",
+      "question": "Em locuções verbais com particípio, como 'Eu tinha contado a verdade', qual a pronominalização correta?",
+      "options": [
+        "Eu tinha contado-a.",
+        "Eu a tinha contado.",
+        "Eu tinha-a contado.",
+        "Eu tinha contado-lhe."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É proibido usar ênclise (pronome depois) com o particípio. O pronome deve vir depois do verbo auxiliar.",
+      "hintCorrect": "Exato! Nunca se usa o pronome após um particípio. A forma correta é a ênclise no verbo auxiliar: 'tinha-a'. Se houvesse palavra atrativa, seria 'eu não a tinha contado'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu tinha-a contado'. É proibido colocar o pronome depois do particípio ('contado-a' está errado).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-016",
+      "question": "Qual das palavras abaixo NÃO é um fator de atração para a próclise?",
+      "options": [
+        "não",
+        "que",
+        "sempre",
+        "mas"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Conjunções coordenativas (como 'mas', 'e', 'ou') geralmente não atraem o pronome.",
+      "hintCorrect": "Correto! 'Mas' é uma conjunção coordenativa e não atrai o pronome. O correto seria '...mas via-se ao longe'. As outras opções (negativa, pronome relativo/conjunção subordinativa, advérbio) são fatores de próclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'mas'. Conjunções coordenativas não são fatores de próclise.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-017",
+      "question": "Substitua o termo em destaque: 'Os alunos viram a professora.'",
+      "options": [
+        "Os alunos viram-na.",
+        "Os alunos viram-a.",
+        "Os alunos a viram.",
+        "Os alunos lhe viram."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'viram' termina em som nasal (-m). O pronome 'a' se transforma em 'na'.",
+      "hintCorrect": "Correto! Com verbos terminados em som nasal, o pronome 'a' vira 'na'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Os alunos viram-na'. Verbos terminados em som nasal pedem a forma '-no(s)/-na(s)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-018",
+      "question": "A frase 'Isso não se faz!' está correta por quê?",
+      "options": [
+        "O 'não' atrai o 'se'.",
+        "O 'isso' atrai o 'se'.",
+        "Tanto 'isso' quanto 'não' atraem o 'se'.",
+        "A frase está incorreta."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Tanto pronomes demonstrativos ('isso') quanto palavras negativas ('não') são fatores de próclise.",
+      "hintCorrect": "Exato! A próclise é duplamente justificada pela presença do pronome demonstrativo 'isso' e da palavra negativa 'não'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tanto 'isso' quanto 'não' atraem o 'se''.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-019",
+      "question": "Qual a forma correta no futuro do pretérito?",
+      "options": [
+        "Eu dir-te-ia a verdade.",
+        "Eu te diria a verdade.",
+        "Eu diria-te a verdade.",
+        "Eu te dir-ia a verdade."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O pronome pessoal 'Eu' não é considerado um forte fator de atração no português do Brasil, mas a próclise é a forma mais comum e aceita. A mesóclise ('Dir-te-ia') seria usada no início da frase.",
+      "hintCorrect": "Correto! Embora a mesóclise ('Dir-te-ia') seja a forma prescrita pela gramática tradicional para o início de frase, a presença do sujeito 'Eu' torna a próclise ('Eu te diria') a forma mais natural e usada no português contemporâneo, especialmente no Brasil.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu te diria a verdade'. A mesóclise ('Dir-te-ia') seria usada se não houvesse o 'Eu' no início.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-020",
+      "question": "Em 'A pessoa que nos ajudou é gentil', a próclise ocorre devido ao:",
+      "options": [
+        "Substantivo 'pessoa'.",
+        "Pronome relativo 'que'.",
+        "Verbo 'ajudou'.",
+        "Adjetivo 'gentil'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Pronomes relativos (que, quem, onde, cujo) são palavras atrativas.",
+      "hintCorrect": "Correto! O pronome relativo 'que' é um fator de atração que obriga o uso da próclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronome relativo 'que''.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-021",
+      "question": "Substitua o objeto direto: 'Vós fizestes o bolo.'",
+      "options": [
+        "Vós o fizestes.",
+        "Vós fizeste-lo.",
+        "Vós fizeste-lo.",
+        "Vós fi-lo-stes."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo termina em -s. O -s cai e o pronome 'o' vira 'lo'.",
+      "hintCorrect": "Correto! A terminação -s do verbo é suprimida e o pronome 'o' se transforma em 'lo'. 'Fizestes' -> 'Fizeste' + 'lo' = 'Fizeste-lo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vós fizeste-lo'. O 's' final do verbo cai e o pronome 'o' vira 'lo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-022",
+      "question": "Qual a colocação correta em '___, por favor.'?",
+      "options": [
+        "Se sente",
+        "Sente-se",
+        "Sente",
+        "Se senta"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'sentar' está no imperativo afirmativo.",
+      "hintCorrect": "Exato! Com verbos no imperativo afirmativo, a ênclise é obrigatória.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sente-se'. O imperativo afirmativo exige ênclise.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-023",
+      "question": "A frase 'Deus te abençoe!' usa a próclise porque é uma frase:",
+      "options": [
+        "Negativa.",
+        "Interrogativa.",
+        "Optativa (exprime um desejo), que se assemelha à exclamativa.",
+        "Com advérbio."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Frases que exprimem desejo, como bênçãos ou pragas, são um caso especial que favorece a próclise.",
+      "hintCorrect": "Correto! Frases optativas, que exprimem um desejo (e muitas vezes têm uma entoação exclamativa), são um fator de próclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Optativa (exprime um desejo)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-024",
+      "question": "Em 'Ele estava arrumando-se', o pronome está em:",
+      "options": [
+        "Próclise ao verbo principal.",
+        "Ênclise ao verbo principal.",
+        "Próclise ao verbo auxiliar.",
+        "Ênclise ao verbo auxiliar."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O pronome 'se' está depois do verbo principal 'arrumando' (gerúndio).",
+      "hintCorrect": "Correto! Em locuções verbais com gerúndio, o pronome pode vir em ênclise ao verbo principal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ênclise ao verbo principal'. O pronome está depois do gerúndio 'arrumando'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-025",
+      "question": "Qual frase com locução verbal está INCORRETA?",
+      "options": [
+        "Eu não lhe quero contar o segredo.",
+        "Eu não quero contar-lhe o segredo.",
+        "Eu quero contar-lhe o segredo.",
+        "Eu quero lhe contar o segredo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "No português do Brasil, quando há palavra atrativa ('não'), o pronome não pode ir para o final da locução se o verbo principal estiver no infinitivo. No entanto, esta construção é aceitável em Portugal. A questão é capciosa, mas a forma mais consensual no Brasil seria a próclise ao auxiliar.",
+      "hintCorrect": "Correto! Embora aceitável em Portugal, a construção 'não quero contar-lhe' é considerada menos comum ou até agramatical por algumas gramáticas no Brasil, que preferem 'não lhe quero contar'. No entanto, a gramática formal aceita ambas. A questão é complexa, mas a opção 1 é a mais universalmente aceite.",
+      "hintWrong": "Incorreto. A resposta mais controversa (e por isso considerada 'errada' em muitos contextos brasileiros) é 'Eu não quero contar-lhe o segredo'. As formas preferidas com palavra atrativa são 'não lhe quero contar' ou 'não quero contá-lo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-026",
+      "question": "Substitua o objeto indireto: 'Entregue o recado a ela.'",
+      "options": [
+        "Entregue-o.",
+        "Entregue-lhe.",
+        "Entregue-a.",
+        "Lhe entregue."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'A ela' é o objeto indireto. Qual pronome o substitui? Lembre-se que o verbo está no imperativo.",
+      "hintCorrect": "Exato! O objeto indireto é substituído por 'lhe'. Como o verbo está no imperativo afirmativo, usa-se a ênclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Entregue-lhe'. 'A ela' é objeto indireto, substituído por 'lhe'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-027",
+      "question": "A mesóclise 'amar-te-ei' corresponde a qual forma com próclise?",
+      "options": [
+        "Eu te amarei.",
+        "Eu te amaria.",
+        "Eu te amo.",
+        "Eu te amei."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A terminação '-ei' é do Futuro do Presente.",
+      "hintCorrect": "Correto! 'Amar-te-ei' é a forma mesoclítica de 'amarei' com o pronome 'te'. A forma proclítica correspondente é 'te amarei'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu te amarei'. A terminação '-ei' indica o Futuro do Presente.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-028",
+      "question": "Qual fator de próclise encontramos na frase 'Quando nos vimos, foi uma festa.'?",
+      "options": [
+        "Palavra negativa.",
+        "Advérbio.",
+        "Conjunção subordinativa.",
+        "Pronome indefinido."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "'Quando' introduz uma oração que depende da outra (oração subordinada adverbial temporal).",
+      "hintCorrect": "Correto! 'Quando' é uma conjunção subordinativa temporal e atrai o pronome para antes do verbo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conjunção subordinativa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "pronomes-029",
+      "question": "Substitua o termo em destaque: 'Nós pomos a mesa.'",
+      "options": [
+        "Nós pomos-la.",
+        "Nós pomo-la.",
+        "Nós pomos-a.",
+        "Nós pômo-la."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'pomos' termina em -s. O -s cai e o pronome 'a' vira 'la'.",
+      "hintCorrect": "Correto! A terminação -s é suprimida e o pronome 'a' se transforma em 'la'. 'Pomos' -> 'Pomo' + 'la' = 'Pomo-la'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Nós pomo-la'. O 's' final do verbo cai e o pronome 'a' vira 'la'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "pronomes-030",
+      "question": "A colocação pronominal está correta em:",
+      "options": [
+        "Me empresta o seu livro?",
+        "Empresta-me o seu livro?",
+        "Empresta o seu livro-me?",
+        "Me empreste o seu livro?"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A frase é uma pergunta, mas começa com um verbo no imperativo. A regra do início de frase prevalece.",
+      "hintCorrect": "Exato! Como a frase começa com o verbo, a ênclise é a forma correta segundo a norma culta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Empresta-me o seu livro?'. Não se inicia a frase com pronome oblíquo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "pronomes-101",
+      "question": "Qual pronome substitui 'as flores' em 'Ele regou as flores'?",
+      "options": [
+        "lhe",
+        "as",
+        "lhes",
+        "se"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'As flores' é um objeto direto feminino no plural.",
+      "hintCorrect": "Correto! O objeto direto 'as flores' é substituído pelo pronome oblíquo átono 'as'. A frase ficaria 'Ele as regou'.",
+      "hintWrong": "Incorreto. A resposta certa é 'as'. 'As flores' funciona como objeto direto.",
+      "difficulty": "easy"
+    }
+  ]
+}

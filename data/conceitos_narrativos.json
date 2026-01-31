@@ -1,0 +1,1522 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Conceitos de Narrativa",
+  "questions": [
+    {
+      "id": "narrativa-conceito-001",
+      "question": "Qual é a função da 'Situação Inicial' numa narrativa?",
+      "options": [
+        "Apresentar o momento de maior tensão da história.",
+        "Resolver todos os conflitos das personagens.",
+        "Apresentar as personagens, o cenário e o estado de normalidade.",
+        "Introduzir o clímax da história de forma súbita."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A resposta correta descreve o ponto de partida da história, antes de o problema principal começar.",
+      "hintCorrect": "Correto! A Situação Inicial serve para estabelecer a base da história, apresentando o 'mundo normal' antes do conflito.",
+      "hintWrong": "Incorreto. A resposta certa é 'Apresentar as personagens, o cenário e o estado de normalidade'. O momento de maior tensão é o Clímax.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-002",
+      "question": "O que é o 'Clímax' de uma história?",
+      "options": [
+        "O final da história, onde tudo se resolve.",
+        "O momento de máxima tensão, onde o conflito atinge o auge.",
+        "A introdução das personagens secundárias.",
+        "Um evento que perturba a situação inicial."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Pense no ponto mais emocionante e decisivo de um filme ou livro. A resposta correta define esse momento.",
+      "hintCorrect": "Exato! O Clímax é o ponto culminante da narrativa, o momento de maior intensidade emocional e decisivo para o destino das personagens.",
+      "hintWrong": "Errado. A resposta certa é 'O momento de máxima tensão, onde o conflito atinge o auge'. O final da história é o Desenlace.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-003",
+      "question": "Uma 'Personagem Plana' (ou Tipo) é definida como:",
+      "options": [
+        "Uma personagem complexa e com profundidade psicológica.",
+        "Uma personagem que evolui e muda ao longo da história.",
+        "Uma personagem construída em torno de uma única ideia ou qualidade, sendo previsível.",
+        "A personagem principal da narrativa."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este tipo de personagem é muitas vezes usado em contos populares para representar uma característica específica, como 'o herói' ou 'o vilão'.",
+      "hintCorrect": "Correto! A personagem plana é simples, previsível e não se altera, representando um 'tipo' social ou moral.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma personagem construída em torno de uma única ideia ou qualidade, sendo previsível'. Uma personagem complexa que evolui é chamada de 'Modelada' ou 'Redonda'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-004",
+      "question": "O que significa 'Caracterização Direta'?",
+      "options": [
+        "As características da personagem são deduzidas pelo leitor através das suas ações.",
+        "As características da personagem são explicitamente descritas pelo narrador ou por outra personagem.",
+        "A personagem descreve-se a si mesma num monólogo.",
+        "O leitor nunca chega a conhecer as verdadeiras características da personagem."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'Direta' é a chave. A informação é dada de forma clara e explícita, sem necessidade de interpretação.",
+      "hintCorrect": "Exato! Na caracterização direta, o narrador diz diretamente ao leitor como a personagem é. Ex: 'Ele era um homem corajoso'.",
+      "hintWrong": "Errado. A resposta certa é 'As características da personagem são explicitamente descritas pelo narrador ou por outra personagem'. Quando deduzimos as características pelas ações, o processo chama-se Caracterização Indireta.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-005",
+      "question": "Um narrador que participa na história como personagem principal é chamado de:",
+      "options": [
+        "Narrador heterodiegético",
+        "Narrador-testemunha",
+        "Narrador-protagonista",
+        "Narrador omnisciente"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este narrador diz 'eu' e a história que conta é a sua própria história. A resposta correta combina os termos 'narrador' e 'protagonista'.",
+      "hintCorrect": "Correto! O narrador-protagonista é um tipo de narrador homodiegético (participante) que é a figura central da sua própria narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Narrador-protagonista'. Um narrador heterodiegético está fora da história, e um narrador-testemunha é uma personagem secundária que conta o que viu.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-006",
+      "question": "O que é uma 'Analepse' na organização do tempo narrativo?",
+      "options": [
+        "Uma antecipação de eventos futuros.",
+        "A omissão de um período de tempo na narrativa.",
+        "Uma interrupção na narrativa para contar algo que aconteceu no passado.",
+        "A descrição do tempo psicológico da personagem."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este recurso é mais conhecido pelo seu nome em inglês: 'flashback'.",
+      "hintCorrect": "Exato! Analepse é o termo técnico para um flashback, um recuo no tempo para apresentar eventos passados.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma interrupção na narrativa para contar algo que aconteceu no passado'. A antecipação de eventos futuros chama-se Prolepse.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-007",
+      "question": "Qual categoria da narrativa se refere ao 'cenário' onde a ação decorre?",
+      "options": [
+        "O Tempo",
+        "O Enredo",
+        "O Espaço",
+        "O Narrador"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense no local físico, social ou mesmo mental onde as personagens atuam. A resposta correta é o nome dessa categoria.",
+      "hintCorrect": "Correto! O Espaço é a categoria que engloba os locais e ambientes da narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'O Espaço'. O Tempo refere-se a quando a história acontece, e o Enredo à sequência de ações.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-008",
+      "question": "Um 'Narrador Omnisciente' é aquele que:",
+      "options": [
+        "Sabe apenas o que pode ser visto e ouvido do exterior.",
+        "Conta a história do ponto de vista de uma única personagem.",
+        "Sabe tudo sobre as personagens, incluindo os seus pensamentos e sentimentos.",
+        "Participa na história como uma personagem secundária."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'Omnisciente' significa 'que sabe tudo'. Este narrador tem um conhecimento ilimitado.",
+      "hintCorrect": "Correto! O narrador omnisciente é como um 'deus' na narrativa, com acesso total ao universo da história, incluindo o mundo interior das personagens.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sabe tudo sobre as personagens, incluindo os seus pensamentos e sentimentos'. O narrador que sabe apenas o que se vê por fora usa a Focalização Externa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-009",
+      "question": "O que é o 'Desenlace' de uma narrativa?",
+      "options": [
+        "O início da história.",
+        "O conjunto de aventuras e obstáculos.",
+        "O momento de maior tensão.",
+        "A conclusão da história, onde o conflito se resolve."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Pense na parte final de um filme, depois do grande confronto. A resposta correta define essa resolução.",
+      "hintCorrect": "Exato! O Desenlace é a parte final da narrativa, que mostra as consequências do clímax e estabelece uma nova ordem.",
+      "hintWrong": "Incorreto. A resposta certa é 'A conclusão da história, onde o conflito se resolve'. O momento de maior tensão é o Clímax, e o conjunto de aventuras são as Peripécias.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-010",
+      "question": "Qual é a principal diferença entre 'Personagem Principal' e 'Antagonista'?",
+      "options": [
+        "Não há diferença, são a mesma coisa.",
+        "O protagonista é bom e o antagonista é mau.",
+        "O protagonista é a figura central, e o antagonista é a força que se lhe opõe.",
+        "O protagonista é uma personagem plana e o antagonista é uma personagem modelada."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O antagonista não é necessariamente 'mau', mas representa o principal obstáculo que o protagonista tem de enfrentar.",
+      "hintCorrect": "Correto! O protagonista é o foco da história, enquanto o antagonista representa o principal conflito ou oposição que move a trama.",
+      "hintWrong": "Incorreto. A resposta certa é 'O protagonista é a figura central, e o antagonista é a força que se lhe opõe'. Um antagonista pode ser uma pessoa, a sociedade, a natureza ou até um conflito interno do protagonista.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-011",
+      "question": "O que é o 'Conflito' numa narrativa?",
+      "options": [
+        "A harmonia inicial da história.",
+        "O evento que perturba a situação inicial e dá início à ação.",
+        "A resolução final de todos os problemas.",
+        "Uma conversa entre duas personagens."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o 'problema' que quebra a normalidade e força as personagens a agir.",
+      "hintCorrect": "Exato! O conflito é o motor da narrativa, o elemento que quebra o equilíbrio e desencadeia a sequência de peripécias.",
+      "hintWrong": "Incorreto. A resposta certa é 'O evento que perturba a situação inicial e dá início à ação'. A harmonia inicial é a Situação Inicial.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-012",
+      "question": "A 'Caracterização Indireta' acontece quando:",
+      "options": [
+        "O narrador descreve a personagem com muitos adjetivos.",
+        "Uma personagem fala sobre outra.",
+        "As características da personagem são deduzidas a partir das suas ações, falas ou pensamentos.",
+        "A personagem não tem características definidas."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Neste caso, o leitor tem de ser um 'detetive' e interpretar as pistas que o texto dá. O narrador 'mostra' em vez de 'contar'.",
+      "hintCorrect": "Correto! A caracterização indireta exige que o leitor infira a personalidade da personagem através do seu comportamento e falas.",
+      "hintWrong": "Incorreto. A resposta certa é 'As características da personagem são deduzidas a partir das suas ações, falas ou pensamentos'. Quando o narrador descreve explicitamente, é Caracterização Direta.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-013",
+      "question": "O que é um 'Narrador Heterodiegético'?",
+      "options": [
+        "Um narrador que participa na história (usa a 1ª pessoa).",
+        "Um narrador que está fora da história (usa a 3ª pessoa).",
+        "Um narrador que mente ao leitor.",
+        "Um narrador que só aparece no final da história."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Lembre-se que 'hetero' significa 'diferente' ou 'outro'. Este narrador é uma entidade 'outra', separada do mundo que narra.",
+      "hintCorrect": "Exato! O narrador heterodiegético não é uma personagem na história e narra os eventos de uma perspetiva externa, usando 'ele', 'ela', 'eles'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Um narrador que está fora da história (usa a 3ª pessoa)'. O narrador que participa na história é chamado de Homodiegético.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-014",
+      "question": "O 'Espaço Psicológico' refere-se a:",
+      "options": [
+        "Uma descrição detalhada da geografia de um lugar.",
+        "O ambiente social e cultural da história.",
+        "O mundo interior de uma personagem (pensamentos, sonhos, medos).",
+        "Um lugar imaginário que não existe no mundo real."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este 'espaço' não é um lugar físico, mas sim a 'paisagem mental' de uma personagem.",
+      "hintCorrect": "Correto! O espaço psicológico é a dimensão interior da personagem, e muitas vezes o espaço físico exterior reflete esse estado de espírito.",
+      "hintWrong": "Incorreto. A resposta certa é 'O mundo interior de uma personagem (pensamentos, sonhos, medos)'. A descrição de um lugar é o Espaço Físico, e o ambiente cultural é o Espaço Social.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-015",
+      "question": "O que é uma 'Elipse' no tempo do discurso?",
+      "options": [
+        "Um avanço rápido para o futuro da história.",
+        "Um recuo para um evento do passado.",
+        "A omissão de um período de tempo que não é relevante para a ação.",
+        "Contar a história na ordem cronológica exata."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É um 'salto' no tempo. O narrador usa expressões como 'Anos mais tarde...' para focar-se no que é importante.",
+      "hintCorrect": "Exato! A elipse é uma técnica para acelerar o ritmo da narrativa, omitindo intervalos de tempo que não contêm eventos importantes.",
+      "hintWrong": "Incorreto. A resposta certa é 'A omissão de um período de tempo que não é relevante para a ação'. Um avanço para o futuro é uma Prolepse, e um recuo ao passado é uma Analepse.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-016",
+      "question": "Uma 'Personagem Modelada' (ou Redonda) distingue-se por ser:",
+      "options": [
+        "Previsível e simples.",
+        "Construída em torno de uma única qualidade.",
+        "Complexa, com profundidade psicológica e capaz de evoluir.",
+        "Uma personagem com pouca importância para a história."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense numa personagem que parece uma pessoa real, com qualidades, defeitos e a capacidade de nos surpreender.",
+      "hintCorrect": "Correto! A personagem modelada é multifacetada e dinâmica, o que a torna mais realista e interessante.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complexa, com profundidade psicológica e capaz de evoluir'. Uma personagem simples e previsível é uma Personagem Plana.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-017",
+      "question": "Qual é a função das 'Peripécias' no enredo?",
+      "options": [
+        "Apresentar a situação de calma inicial.",
+        "Formar a sequência de ações, aventuras e obstáculos que as personagens enfrentam.",
+        "Mostrar o resultado final da história.",
+        "Descrever o espaço físico em detalhe."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "São os 'eventos' que compõem a maior parte da história, o recheio entre o conflito inicial e o clímax.",
+      "hintCorrect": "Exato! As peripécias são o corpo da narrativa, a cadeia de eventos que surge a partir do conflito e leva ao clímax.",
+      "hintWrong": "Incorreto. A resposta certa é 'Formar a sequência de ações, aventuras e obstáculos que as personagens enfrentam'. A calma inicial é a Situação Inicial, e o resultado final é o Desenlace.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-018",
+      "question": "Um 'Narrador-Testemunha' é:",
+      "options": [
+        "O protagonista da história.",
+        "Um narrador que está fora da história.",
+        "Uma personagem secundária que conta uma história que presenciou.",
+        "Um narrador que sabe os pensamentos de todas as personagens."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este narrador diz 'eu', mas a história principal não é sobre si. Ele conta o que viu acontecer a outras personagens.",
+      "hintCorrect": "Correto! O narrador-testemunha é um observador participante. Ele faz parte do mundo da história, mas o foco da narrativa está noutra personagem.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma personagem secundária que conta uma história que presenciou'. O protagonista que conta a sua história é o Narrador-Protagonista.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-019",
+      "question": "O que é a 'Focalização Externa'?",
+      "options": [
+        "O narrador sabe tudo, incluindo pensamentos e sentimentos.",
+        "A história é contada a partir da perspetiva de uma personagem.",
+        "O narrador sabe apenas o que pode ser visto e ouvido do exterior, como uma câmara de cinema.",
+        "O narrador foca-se apenas no espaço psicológico."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense numa câmara de filmar que apenas regista o que acontece objetivamente, sem entrar na mente de ninguém.",
+      "hintCorrect": "Exato! A focalização externa limita o conhecimento do narrador aos eventos observáveis, sem acesso à vida interior das personagens.",
+      "hintWrong": "Incorreto. A resposta certa é 'O narrador sabe apenas o que pode ser visto e ouvido do exterior'. Quando o narrador sabe tudo, é Omnisciente. Quando a história é contada pela perspetiva de uma personagem, é Focalização Interna.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-020",
+      "question": "O 'Tempo Psicológico' refere-se a:",
+      "options": [
+        "A ordem cronológica exata dos eventos.",
+        "A época ou ano em que a história se passa.",
+        "A perceção subjetiva do tempo por uma personagem.",
+        "A omissão de partes da história."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É a sensação de que o tempo 'passa a correr' ou 'se arrasta', dependendo do estado emocional da personagem.",
+      "hintCorrect": "Correto! O tempo psicológico está ligado à experiência interior da personagem, mostrando como as emoções podem distorcer a perceção do tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'A perceção subjetiva do tempo por uma personagem'. A ordem dos eventos é o Tempo Cronológico, e a omissão de tempo é a Elipse.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-021",
+      "question": "Qual é a principal característica de um 'Antagonista'?",
+      "options": [
+        "Ser sempre uma pessoa má.",
+        "Apoiar o protagonista nos seus objetivos.",
+        "Ser a força de oposição ao protagonista.",
+        "Ser uma personagem secundária sem importância."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O antagonista é a fonte do conflito principal para a personagem principal.",
+      "hintCorrect": "Correto! O antagonista é a personagem, força ou conceito que se opõe diretamente aos objetivos do protagonista, criando o conflito central da narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ser a força de oposição ao protagonista'. O antagonista não é necessariamente mau; pode ser a natureza, a sociedade ou até um conflito interno.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-022",
+      "question": "O que é uma 'Prolepse'?",
+      "options": [
+        "Um regresso ao passado.",
+        "Uma pausa na narrativa para descrever o cenário.",
+        "Uma antecipação de um evento futuro.",
+        "A conclusão da história."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É o oposto de um flashback. O narrador dá uma pista ou revela algo que ainda vai acontecer.",
+      "hintCorrect": "Exato! Prolepse, ou flashforward, é a técnica de adiantar eventos futuros, criando expetativa ou suspense.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma antecipação de um evento futuro'. Um regresso ao passado é uma Analepse.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-023",
+      "question": "Uma personagem 'Figurante' tem como função:",
+      "options": [
+        "Ser o protagonista da história.",
+        "Opor-se ao protagonista.",
+        "Ter uma presença meramente decorativa para compor o cenário.",
+        "Ser complexa e cheia de surpresas."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense nos 'extras' de um filme. Eles estão lá para criar o ambiente, mas não têm um papel individual na trama.",
+      "hintCorrect": "Correto! Os figurantes ajudam a dar vida ao cenário (ex: a multidão numa praça), mas não têm impacto direto no enredo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter uma presença meramente decorativa para compor o cenário'. O protagonista é a personagem principal, e quem se lhe opõe é o antagonista.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-024",
+      "question": "O 'Espaço Social' numa narrativa representa:",
+      "options": [
+        "Os pensamentos e sentimentos de uma personagem.",
+        "O local geográfico onde a história acontece.",
+        "O ambiente sociocultural das personagens.",
+        "O tempo em que a história se passa."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Refere-se ao 'mundo' das personagens: a sua classe social, costumes, profissões, etc.",
+      "hintCorrect": "Exato! O espaço social define o contexto de vida das personagens, como uma corte real, uma aldeia de camponeses ou uma cidade moderna.",
+      "hintWrong": "Incorreto. A resposta certa é 'O ambiente sociocultural das personagens'. O local geográfico é o Espaço Físico, e os pensamentos são o Espaço Psicológico.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-025",
+      "question": "Qual é a diferença fundamental entre 'Autor' e 'Narrador'?",
+      "options": [
+        "São a mesma pessoa.",
+        "O autor escreve a história, o narrador é a 'voz' que a conta dentro do texto.",
+        "O autor é uma personagem, o narrador não.",
+        "O autor é real, o narrador é sempre fictício, exceto em autobiografias."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É crucial não confundir a pessoa real que criou a obra com a entidade ficcional que a narra.",
+      "hintCorrect": "Correto! O autor é a pessoa real que escreve o livro. O narrador é uma criação do autor, uma 'entidade' ficcional cuja função é contar a história.",
+      "hintWrong": "Incorreto. A resposta certa é 'O autor escreve a história, o narrador é a 'voz' que a conta dentro do texto'. O narrador é uma construção literária, não a pessoa de carne e osso.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-026",
+      "question": "O que é a 'Focalização Interna'?",
+      "options": [
+        "O narrador sabe tudo sobre todas as personagens.",
+        "A história é contada através do ponto de vista de uma personagem específica.",
+        "O narrador apenas descreve o que se pode ver por fora.",
+        "O narrador participa como protagonista."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O conhecimento do leitor fica limitado ao que a personagem em foco sabe, vê e sente.",
+      "hintCorrect": "Exato! Na focalização interna, a narrativa é filtrada pela consciência de uma personagem, dando uma perspetiva mais subjetiva dos eventos.",
+      "hintWrong": "Incorreto. A resposta certa é 'A história é contada através do ponto de vista de uma personagem específica'. Saber tudo é ser Omnisciente, e descrever por fora é Focalização Externa.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-027",
+      "question": "O 'Tempo do Discurso' refere-se a:",
+      "options": [
+        "A duração real dos eventos.",
+        "A forma como o narrador organiza e apresenta os acontecimentos.",
+        "A perceção do tempo por uma personagem.",
+        "O período histórico em que a obra foi escrita."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Não é 'o que' aconteceu, mas 'como' a história é contada em termos de ordem e ritmo temporal (usando analepses, prolepses, etc.).",
+      "hintCorrect": "Correto! O tempo do discurso é a manipulação artística do tempo cronológico feita pelo narrador para criar certos efeitos no leitor.",
+      "hintWrong": "Incorreto. A resposta certa é 'A forma como o narrador organiza e apresenta os acontecimentos'. A duração real é o Tempo da História, e a perceção do tempo é o Tempo Psicológico.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-028",
+      "question": "Um narrador 'Homodiegético' é sempre:",
+      "options": [
+        "Omnisciente.",
+        "Uma personagem dentro da história.",
+        "O autor da obra.",
+        "Um narrador que usa a 3ª pessoa."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Homo' significa 'igual'. Este narrador está no 'mesmo' mundo que as outras personagens.",
+      "hintCorrect": "Exato! Um narrador homodiegético é aquele que participa na ação que narra, usando a 1ª pessoa ('eu'). Pode ser protagonista ou testemunha.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma personagem dentro da história'. O narrador que usa a 3ª pessoa é Heterodiegético.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-029",
+      "question": "Qual destes elementos faz parte do 'Desenvolvimento' do enredo?",
+      "options": [
+        "Situação Inicial.",
+        "Desenlace.",
+        "Peripécias.",
+        "Clímax."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Desenvolvimento é a maior parte da história, onde as personagens enfrentam desafios. A resposta correta é o nome desses desafios.",
+      "hintCorrect": "Correto! As peripécias (sequência de ações e obstáculos) são o coração do desenvolvimento da narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Peripécias'. A Situação Inicial vem antes, e o Clímax e o Desenlace vêm depois do Desenvolvimento.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-030",
+      "question": "Se um narrador descreve uma personagem como 'tímida', mas depois mostra essa personagem a discursar em público com confiança, que tipo de personagem ela provavelmente é?",
+      "options": [
+        "Plana.",
+        "Figurante.",
+        "Modelada.",
+        "Antagonista."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A personagem mostra complexidade e a capacidade de surpreender o leitor, contrariando a descrição inicial. Que tipo de personagem faz isso?",
+      "hintCorrect": "Exato! Esta contradição e evolução sugerem que a personagem é Modelada (ou Redonda), pois ela não se resume a um único traço e é capaz de mudar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Modelada'. Uma personagem Plana seria consistentemente tímida e não surpreenderia o leitor dessa forma.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-031",
+      "question": "O que é o 'Enredo' de uma narrativa?",
+      "options": [
+        "A mensagem ou moral da história.",
+        "A sequência de acontecimentos que formam a história.",
+        "O local onde a história se passa.",
+        "A perspetiva a partir da qual a história é contada."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Também é conhecido como 'Ação' ou 'Trama'. É o 'o quê?' da história.",
+      "hintCorrect": "Correto! O enredo é o esqueleto da narrativa, a cadeia de eventos interligados que constituem a história.",
+      "hintWrong": "Incorreto. A resposta certa é 'A sequência de acontecimentos que formam a história'. O local é o Espaço, e a perspetiva é o Narrador.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-032",
+      "question": "Quando o espaço físico (ex: uma tempestade) reflete o estado de espírito de uma personagem (ex: angústia), dizemos que o espaço físico é um reflexo do:",
+      "options": [
+        "Espaço Social.",
+        "Espaço Psicológico.",
+        "Tempo Cronológico.",
+        "Desenlace."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O cenário exterior espelha o mundo interior da personagem.",
+      "hintCorrect": "Exato! Esta é uma técnica comum em que o Espaço Físico funciona como um espelho ou símbolo do Espaço Psicológico da personagem.",
+      "hintWrong": "Incorreto. A resposta certa é 'Espaço Psicológico'. O cenário está a refletir os sentimentos e pensamentos da personagem.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-033",
+      "question": "Qual é a função de uma 'Personagem Secundária'?",
+      "options": [
+        "Não ter qualquer papel na história.",
+        "Ser o foco principal da narrativa.",
+        "Opor-se ao protagonista.",
+        "Apoiar a trama e interagir com as personagens principais, sem ser o foco."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Elas são importantes para a história, mas a trama não gira em torno delas.",
+      "hintCorrect": "Correto! As personagens secundárias são essenciais para o desenvolvimento da ação e para a caracterização das personagens principais, mas não são o centro da história.",
+      "hintWrong": "Incorreto. A resposta certa é 'Apoiar a trama e interagir com as personagens principais, sem ser o foco'. O foco principal é o Protagonista.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-034",
+      "question": "Se um narrador diz 'Mal sabia ele que aquele seria o seu último dia de paz', que técnica de manipulação do tempo está a usar?",
+      "options": [
+        "Analepse.",
+        "Elipse.",
+        "Prolepse.",
+        "Tempo Psicológico."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O narrador está a antecipar um evento futuro, criando suspense. Qual é o nome técnico para isso?",
+      "hintCorrect": "Exato! Isto é uma Prolepse (ou flashforward), pois o narrador adianta uma informação sobre o futuro da personagem.",
+      "hintWrong": "Incorreto. A resposta certa é 'Prolepse'. Uma Analepse seria contar algo do passado.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-035",
+      "question": "A classificação do narrador quanto à 'Ciência' refere-se:",
+      "options": [
+        "Se ele participa ou não na história.",
+        "Ao seu nível de conhecimento sobre o universo da história.",
+        "À sua complexidade psicológica.",
+        "Ao período histórico em que ele narra."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Esta classificação mede 'o quanto' o narrador sabe (se sabe tudo, se sabe apenas o que vê, etc.).",
+      "hintCorrect": "Correto! A ciência do narrador (ou focalização) determina a quantidade e o tipo de informação a que o leitor tem acesso.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ao seu nível de conhecimento sobre o universo da história'. A participação na história (dentro ou fora) é a classificação quanto à Presença.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-036",
+      "question": "O que é um narrador autodiegetico?",
+      "options": [
+        "Um narrador que conta a sua própria história.",
+        "Um narrador que está fora da história.",
+        "Um narrador que é uma personagem secundária.",
+        "Um narrador que sabe tudo sobre todos."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O prefixo 'auto' significa 'de si mesmo'. Este narrador é o protagonista da história que narra.",
+      "hintCorrect": "Correto! O narrador autodiegetico é um tipo de narrador homodiegético que é também o protagonista da sua narrativa. É o 'eu' que conta a sua própria vida.",
+      "hintWrong": "Incorreto. A resposta certa é 'Um narrador que conta a sua própria história'. Este é um caso específico de narrador-protagonista.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-037",
+      "question": "Qual momento do enredo é caracterizado por uma quebra da normalidade?",
+      "options": [
+        "Situação Inicial",
+        "Conflito",
+        "Desenlace",
+        "Clímax"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o evento que dá início à ação principal da história.",
+      "hintCorrect": "Exato! O Conflito é o que perturba a Situação Inicial e desencadeia a trama.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conflito'. A Situação Inicial é o estado de normalidade antes da quebra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-038",
+      "question": "A expressão 'Passaram dez anos' no meio de uma história é um exemplo de:",
+      "options": [
+        "Analepse",
+        "Prolepse",
+        "Elipse",
+        "Clímax"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O narrador está a 'saltar' uma grande porção de tempo. Qual é o nome dessa técnica?",
+      "hintCorrect": "Correto! Isto é uma Elipse, a omissão de um período de tempo que não é crucial para a narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Elipse'. Analepse é um recuo ao passado e Prolepse é um avanço ao futuro.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-039",
+      "question": "Se um narrador descreve os pensamentos secretos de duas personagens diferentes ao mesmo tempo, ele é classificado como:",
+      "options": [
+        "Focalização Externa",
+        "Focalização Interna",
+        "Omnisciente",
+        "Narrador-Testemunha"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este narrador tem acesso ilimitado ao mundo interior de múltiplas personagens.",
+      "hintCorrect": "Correto! A capacidade de conhecer os pensamentos e sentimentos de todas as personagens é a marca de um Narrador Omnisciente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Omnisciente'. A Focalização Interna limita-se a uma personagem, e a Externa não acede a nenhuns pensamentos.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-040",
+      "question": "A classificação de uma personagem como 'Plana' ou 'Modelada' refere-se à sua:",
+      "options": [
+        "Importância na história (Relevo).",
+        "Complexidade psicológica (Composição).",
+        "Forma como é descrita (Caracterização).",
+        "Relação com o protagonista."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Esta classificação avalia se a personagem é simples e previsível ou complexa e capaz de evoluir.",
+      "hintCorrect": "Exato! A classificação quanto à Composição analisa a profundidade psicológica da personagem.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complexidade psicológica (Composição)'. A importância na história é o Relevo (principal, secundária, etc.).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-041",
+      "question": "O que é o 'Tempo Cronológico'?",
+      "options": [
+        "A forma como o narrador conta a história.",
+        "A perceção do tempo por uma personagem.",
+        "A sucessão linear e real dos acontecimentos.",
+        "Um salto para o futuro."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É o tempo 'do relógio', a ordem em que os eventos aconteceriam na vida real.",
+      "hintCorrect": "Correto! O Tempo Cronológico (ou da História) é a sequência natural dos eventos, do mais antigo para o mais recente.",
+      "hintWrong": "Incorreto. A resposta certa é 'A sucessão linear e real dos acontecimentos'. A forma como o narrador conta é o Tempo do Discurso.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-042",
+      "question": "Numa história, a 'chuva torrencial' que começa no momento em que a personagem recebe uma má notícia é um exemplo de:",
+      "options": [
+        "Caracterização Direta.",
+        "O Espaço Físico a refletir o Espaço Psicológico.",
+        "Uma Analepse.",
+        "Um Desenlace."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O ambiente exterior está a espelhar os sentimentos interiores da personagem.",
+      "hintCorrect": "Correto! Este é um uso clássico do Espaço Físico (a chuva) para simbolizar e intensificar o Espaço Psicológico (a tristeza) da personagem.",
+      "hintWrong": "Incorreto. A resposta certa é 'O Espaço Físico a refletir o Espaço Psicológico'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-043",
+      "question": "Qual das seguintes opções descreve melhor uma 'Personagem Principal' (Protagonista)?",
+      "options": [
+        "Uma personagem que aparece brevemente.",
+        "A personagem em torno da qual a história se desenvolve.",
+        "A personagem que se opõe à figura central.",
+        "Uma personagem que representa um 'tipo' social."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a figura central, o foco da narrativa.",
+      "hintCorrect": "Exato! O protagonista é a personagem cujas ações, motivações e desenvolvimento constituem o fio condutor da história.",
+      "hintWrong": "Incorreto. A resposta certa é 'A personagem em torno da qual a história se desenvolve'. A personagem que se opõe é o Antagonista.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-044",
+      "question": "A frase 'Ele era o homem mais corajoso da aldeia' é um exemplo de:",
+      "options": [
+        "Caracterização Indireta.",
+        "Caracterização Direta.",
+        "Espaço Psicológico.",
+        "Focalização Externa."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O narrador está a 'contar' explicitamente uma qualidade da personagem, em vez de a 'mostrar' através de ações.",
+      "hintCorrect": "Correto! Isto é Caracterização Direta, pois a qualidade ('corajoso') é afirmada diretamente pelo narrador.",
+      "hintWrong": "Incorreto. A resposta certa é 'Caracterização Direta'. A Caracterização Indireta seria mostrar a sua coragem através de um ato heroico.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-045",
+      "question": "O conjunto de 'peripécias' ocorre em que parte do enredo?",
+      "options": [
+        "Situação Inicial",
+        "Desenvolvimento",
+        "Clímax",
+        "Desenlace"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "As peripécias são as aventuras e desafios que preenchem a maior parte da história.",
+      "hintCorrect": "Correto! O Desenvolvimento é a fase da narrativa onde ocorrem as peripécias, ou seja, a sucessão de eventos que complicam a trama.",
+      "hintWrong": "Incorreto. A resposta certa é 'Desenvolvimento'. As peripécias são o 'recheio' da história, entre o conflito e o clímax.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-046",
+      "question": "Um narrador que diz 'Eu vi quando o meu amigo cometeu o crime' é um:",
+      "options": [
+        "Narrador-Protagonista",
+        "Narrador-Testemunha",
+        "Narrador Heterodiegético",
+        "Narrador Omnisciente"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Ele participa na história (diz 'eu'), mas a ação principal é sobre o 'amigo'. Ele está a testemunhar os eventos.",
+      "hintCorrect": "Exato! Este é um Narrador-Testemunha, pois ele é uma personagem que narra eventos que presenciou, mas que não o têm como figura central.",
+      "hintWrong": "Incorreto. A resposta certa é 'Narrador-Testemunha'. Se a história fosse sobre o próprio crime que ele cometeu, seria um Narrador-Protagonista.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-047",
+      "question": "A classificação do narrador como 'Participante' ou 'Não-Participante' refere-se à sua:",
+      "options": [
+        "Presença na diegese (história).",
+        "Nível de conhecimento.",
+        "Opinião sobre os eventos.",
+        "Complexidade."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A questão é se o narrador está 'dentro' ou 'fora' do mundo que narra.",
+      "hintCorrect": "Correto! A classificação quanto à Presença (ou participação) define se o narrador é uma personagem na história (Homodiegético/Participante) ou uma voz externa (Heterodiegético/Não-Participante).",
+      "hintWrong": "Incorreto. A resposta certa é 'Presença na diegese (história)'. O nível de conhecimento é a classificação quanto à Ciência ou Focalização.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-048",
+      "question": "O que distingue uma personagem 'Modelada' de uma 'Plana'?",
+      "options": [
+        "A sua importância na história.",
+        "A sua capacidade de evoluir e a sua complexidade psicológica.",
+        "O facto de ser boa ou má.",
+        "A sua presença física no texto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Uma é simples e previsível, a outra é complexa e pode surpreender o leitor.",
+      "hintCorrect": "Correto! A principal distinção é a profundidade. A personagem modelada (redonda) é multifacetada e dinâmica, enquanto a plana é unidimensional e estática.",
+      "hintWrong": "Incorreto. A resposta certa é 'A sua capacidade de evoluir e a sua complexidade psicológica'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-049",
+      "question": "Qual das seguintes categorias da narrativa corresponde ao 'quem'?",
+      "options": [
+        "Ação",
+        "Espaço",
+        "Tempo",
+        "Personagem"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Esta categoria refere-se aos intervenientes da história.",
+      "hintCorrect": "Exato! A categoria 'Personagem' responde à pergunta 'Quem participa na ação?'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Personagem'. A Ação responde a 'O quê?', o Espaço a 'Onde?' e o Tempo a 'Quando?'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-050",
+      "question": "Um narrador que não conhece os pensamentos das personagens e apenas descreve o que é observável está a usar:",
+      "options": [
+        "Omnisciência",
+        "Focalização Interna",
+        "Focalização Externa",
+        "Caracterização Direta"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Funciona como uma câmara de cinema, registando apenas o exterior.",
+      "hintCorrect": "Correto! A Focalização Externa limita a perspetiva do narrador ao que é empiricamente observável, sem acesso à subjetividade das personagens.",
+      "hintWrong": "Incorreto. A resposta certa é 'Focalização Externa'. A Omnisciência permite saber tudo, e a Focalização Interna foca-se na mente de uma personagem.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-051",
+      "question": "O que é a 'diegese'?",
+      "options": [
+        "O estilo de escrita do autor.",
+        "O mundo ficcional onde a história acontece (personagens, eventos, etc.).",
+        "O diálogo entre duas personagens.",
+        "A moral da história."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o universo da narrativa. Um narrador 'homodiegético' está dentro deste universo.",
+      "hintCorrect": "Correto! Diegese é o termo técnico para o universo ficcional da história, incluindo todos os seus elementos: ação, personagens, espaço e tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'O mundo ficcional onde a história acontece'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-052",
+      "question": "Se uma história começa pelo fim e depois recua para contar como tudo aconteceu, o 'Tempo do Discurso' está a ser manipulado através de uma grande:",
+      "options": [
+        "Elipse",
+        "Prolepse",
+        "Analepse",
+        "Focalização Interna"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A história inteira funciona como um grande 'flashback' para explicar o final já apresentado.",
+      "hintCorrect": "Exato! Esta estrutura narrativa é dominada por uma longa Analepse, onde a maior parte da narração é um recuo ao passado para explicar a situação inicial (que, neste caso, é o fim).",
+      "hintWrong": "Incorreto. A resposta certa é 'Analepse'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-053",
+      "question": "A personagem que representa o principal obstáculo para o protagonista é o:",
+      "options": [
+        "Figurante",
+        "Antagonista",
+        "Herói",
+        "Narrador"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Esta personagem ou força cria o conflito central da história.",
+      "hintCorrect": "Correto! O Antagonista é a força de oposição ao protagonista.",
+      "hintWrong": "Incorreto. A resposta certa é 'Antagonista'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-054",
+      "question": "A descrição de 'um baile da nobreza' refere-se a que tipo de espaço?",
+      "options": [
+        "Espaço Físico",
+        "Espaço Social",
+        "Espaço Psicológico",
+        "Espaço Temporal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Não descreve apenas um lugar, mas um ambiente com as suas próprias regras, costumes e hierarquias.",
+      "hintCorrect": "Correto! 'Um baile da nobreza' define um Espaço Social, um ambiente sociocultural específico com as suas próprias normas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Espaço Social'. O Espaço Físico seria o 'salão do palácio'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-055",
+      "question": "Quando o narrador usa a 1ª pessoa ('eu'), ele é classificado como:",
+      "options": [
+        "Heterodiegético",
+        "Homodiegético",
+        "Omnisciente",
+        "Externo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Homo' significa 'igual', indicando que o narrador pertence ao mesmo universo das personagens.",
+      "hintCorrect": "Correto! O uso da 1ª pessoa indica que o narrador é uma personagem na história, sendo, portanto, Homodiegético (ou participante).",
+      "hintWrong": "Incorreto. A resposta certa é 'Homodiegético'. Heterodiegético refere-se a um narrador externo que usa a 3ª pessoa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-056",
+      "question": "O momento da 'resolução' do conflito principal é chamado de:",
+      "options": [
+        "Situação Inicial",
+        "Clímax",
+        "Desenlace",
+        "Conflito"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É a parte final da história, que ocorre após o ponto de maior tensão.",
+      "hintCorrect": "Correto! O Desenlace (ou conclusão) é a fase em que o conflito se resolve e um novo equilíbrio é estabelecido.",
+      "hintWrong": "Incorreto. A resposta certa é 'Desenlace'. O Clímax é o auge da tensão, não a sua resolução.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-057",
+      "question": "Deduzir que uma personagem é 'egoísta' porque ela se recusa a partilhar comida é um exemplo de:",
+      "options": [
+        "Caracterização Direta",
+        "Caracterização Indireta",
+        "Personagem Plana",
+        "Narrador Omnisciente"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A característica não é dita, mas sim 'mostrada' através de uma ação. O leitor tem de inferir.",
+      "hintCorrect": "Exato! Esta é a Caracterização Indireta, onde o leitor deduz os traços de personalidade da personagem a partir do seu comportamento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Caracterização Indireta'. Se o narrador dissesse 'Ele era egoísta', seria Caracterização Direta.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-058",
+      "question": "Qual é a principal função de um 'Figurante'?",
+      "options": [
+        "Resolver o conflito principal.",
+        "Ser o herói da história.",
+        "Ajudar a compor o cenário e o ambiente.",
+        "Narrar a história."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense neles como 'mobília humana' que torna o cenário mais credível.",
+      "hintCorrect": "Correto! Os figurantes são elementos decorativos que contribuem para a atmosfera e credibilidade do Espaço Social, mas não influenciam a trama.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ajudar a compor o cenário e o ambiente'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-059",
+      "question": "A sensação de que 'o tempo voou' durante um encontro feliz é um exemplo de:",
+      "options": [
+        "Tempo Cronológico",
+        "Tempo do Discurso",
+        "Tempo Psicológico",
+        "Elipse"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A perceção do tempo é alterada pelo estado emocional da personagem.",
+      "hintCorrect": "Correto! Isto é o Tempo Psicológico, a experiência subjetiva da passagem do tempo por uma personagem.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tempo Psicológico'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-060",
+      "question": "Um narrador que conta a história na 3ª pessoa ('ele', 'ela') é classificado como:",
+      "options": [
+        "Homodiegético",
+        "Heterodiegético",
+        "Protagonista",
+        "Testemunha"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Hetero' significa 'diferente', indicando que o narrador é uma entidade externa à história.",
+      "hintCorrect": "Correto! O uso da 3ª pessoa é a marca de um narrador Heterodiegético (ou não-participante), que está fora do universo narrado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Heterodiegético'. Um narrador Homodiegético usa a 1ª pessoa ('eu').",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-061",
+      "question": "O que é uma personagem 'tipo'?",
+      "options": [
+        "Uma personagem complexa e imprevisível.",
+        "Um sinónimo de personagem principal.",
+        "Uma personagem que representa uma categoria social ou moral (ex: o avarento, o herói).",
+        "Uma personagem que narra a história."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É outro nome para 'Personagem Plana'.",
+      "hintCorrect": "Correto! Uma personagem 'tipo' é uma personagem plana, construída em torno de um único traço para representar uma ideia ou um grupo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma personagem que representa uma categoria social ou moral'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-062",
+      "question": "A estrutura 'Situação Inicial -> Conflito -> Desenvolvimento -> Clímax -> Desenlace' refere-se a:",
+      "options": [
+        "As categorias da narrativa.",
+        "Os tipos de personagem.",
+        "A estrutura clássica do Enredo.",
+        "Os modos de narração."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Descreve as fases pelas quais uma história tradicionalmente passa.",
+      "hintCorrect": "Exato! Esta é a estrutura canónica do Enredo (ou Ação), que organiza a sequência de eventos de uma narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'A estrutura clássica do Enredo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-063",
+      "question": "Se a história é contada do ponto de vista de um cão, mas o narrador é uma voz externa que sabe tudo o que o cão pensa e sente, que tipo de focalização é usada?",
+      "options": [
+        "Focalização Externa",
+        "Focalização Interna (na personagem do cão)",
+        "Omnisciência",
+        "Narrador-Testemunha"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A narrativa está 'filtrada' pela consciência de uma personagem específica, mesmo que essa personagem não seja humana.",
+      "hintCorrect": "Correto! Trata-se de uma Focalização Interna, pois o leitor tem acesso apenas ao universo de conhecimento e sensações daquela personagem específica (o cão).",
+      "hintWrong": "Incorreto. A resposta certa é 'Focalização Interna'. Se o narrador soubesse também o que os humanos pensavam, seria Omnisciência.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-064",
+      "question": "A 'Ação' numa narrativa é sinónimo de:",
+      "options": [
+        "Personagem",
+        "Enredo",
+        "Espaço",
+        "Tempo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a sucessão de eventos que compõem a história.",
+      "hintCorrect": "Correto! Ação e Enredo são termos sinónimos para designar a sequência de acontecimentos da narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Enredo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-065",
+      "question": "Qual destes elementos NÃO faz parte das cinco categorias da narrativa?",
+      "options": [
+        "Personagem",
+        "Ação",
+        "Moral da História",
+        "Narrador"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "As cinco categorias são: Ação, Personagem, Espaço, Tempo e Narrador. Qual das opções não está nesta lista?",
+      "hintCorrect": "Correto! A 'Moral da História' é uma interpretação ou tema que se pode extrair da narrativa, mas não é uma das suas categorias estruturais fundamentais.",
+      "hintWrong": "Incorreto. A resposta certa é 'Moral da História'. As outras três opções são categorias essenciais da narrativa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-066",
+      "question": "Um 'flashback' é o termo comum para:",
+      "options": [
+        "Prolepse",
+        "Analepse",
+        "Elipse",
+        "Clímax"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma interrupção na história para mostrar uma cena do passado.",
+      "hintCorrect": "Exato! 'Flashback' é o termo popular para Analepse, a técnica de recuar no tempo narrativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Analepse'. Prolepse é o oposto, um 'flashforward'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-067",
+      "question": "A personagem 'redonda' é outro nome para:",
+      "options": [
+        "Personagem Plana",
+        "Personagem Modelada",
+        "Figurante",
+        "Antagonista"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Este tipo de personagem tem múltiplas facetas, como uma esfera que pode ser vista de vários ângulos.",
+      "hintCorrect": "Correto! Personagem 'Redonda' e 'Modelada' são sinónimos para descrever uma personagem complexa, multifacetada e capaz de evoluir.",
+      "hintWrong": "Incorreto. A resposta certa é 'Personagem Modelada'. Personagem Plana é o seu oposto.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-068",
+      "question": "O que é o 'ponto de vista' numa narrativa?",
+      "options": [
+        "A opinião do leitor sobre a história.",
+        "A perspetiva a partir da qual a história é contada, geralmente associada ao narrador.",
+        "O local físico onde a personagem principal se encontra.",
+        "A moral da história."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Refere-se a 'quem conta' a história e 'como' a conta (o seu nível de conhecimento e participação).",
+      "hintCorrect": "Correto! O ponto de vista (ou focalização) é a perspetiva do narrador, que determina como a informação é filtrada e apresentada ao leitor.",
+      "hintWrong": "Incorreto. A resposta certa é 'A perspetiva a partir da qual a história é contada, geralmente associada ao narrador'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-069",
+      "question": "Se um narrador se dirige diretamente ao leitor com frases como 'Caro leitor, imagine a cena...', que tipo de intervenção está a fazer?",
+      "options": [
+        "Caracterização Indireta",
+        "Comentário ou intrusão do narrador",
+        "Analepse",
+        "Focalização Externa"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O narrador quebra a 'quarta parede' para falar com quem está a ler.",
+      "hintCorrect": "Correto! Isto é um comentário ou uma intrusão do narrador, uma característica comum em narradores omniscientes do século XIX, que quebram a ilusão da história para dialogar com o leitor.",
+      "hintWrong": "Incorreto. A resposta certa é 'Comentário ou intrusão do narrador'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-070",
+      "question": "A classificação de uma personagem quanto ao 'relevo' diz respeito à sua:",
+      "options": [
+        "Complexidade psicológica.",
+        "Importância na trama (principal, secundária, etc.).",
+        "Evolução ao longo da história.",
+        "Caracterização física."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Mede o 'tamanho' do papel da personagem na história.",
+      "hintCorrect": "Exato! A classificação quanto ao relevo hierarquiza as personagens pela sua importância para o desenvolvimento do enredo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Importância na trama'. A complexidade psicológica é a 'composição'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-071",
+      "question": "O que é um 'flashforward'?",
+      "options": [
+        "Um recuo ao passado.",
+        "Uma antecipação do futuro.",
+        "Um salto no tempo que omite eventos.",
+        "A perceção subjetiva do tempo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o termo em inglês para 'Prolepse'.",
+      "hintCorrect": "Correto! 'Flashforward' é o termo popular para Prolepse, a técnica de adiantar eventos futuros na narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma antecipação do futuro'. Um recuo ao passado é um 'flashback' (Analepse).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-072",
+      "question": "Um narrador que é personagem, mas não a principal, e conta o que viu, é um:",
+      "options": [
+        "Narrador-protagonista",
+        "Narrador-testemunha",
+        "Narrador heterodiegético",
+        "Narrador onisciente"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Ele diz 'eu', mas a história é sobre outra pessoa que ele observou.",
+      "hintCorrect": "Correto! Este é o Narrador-testemunha, uma personagem secundária que relata os acontecimentos em que esteve presente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Narrador-testemunha'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-073",
+      "question": "A 'intriga' é outro nome para:",
+      "options": [
+        "O Desenlace",
+        "A Situação Inicial",
+        "O Conflito",
+        "O Clímax"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É o evento que 'complica' a história e dá início à ação.",
+      "hintCorrect": "Correto! Intriga ou Conflito é o elemento que quebra a estabilidade inicial e desencadeia a narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'O Conflito'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-074",
+      "question": "A descrição de uma 'aldeia pobre e isolada' refere-se principalmente ao:",
+      "options": [
+        "Espaço Físico e Social",
+        "Espaço Psicológico",
+        "Tempo Cronológico",
+        "Enredo"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A descrição combina um lugar geográfico ('aldeia') com uma característica do seu ambiente de vida ('pobre').",
+      "hintCorrect": "Correto! A descrição aponta tanto para o Espaço Físico (a aldeia) quanto para o Espaço Social (a pobreza e o isolamento da comunidade).",
+      "hintWrong": "Incorreto. A resposta certa é 'Espaço Físico e Social'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-075",
+      "question": "Qual é a principal característica de uma personagem 'plana'?",
+      "options": [
+        "Ser complexa e surpreendente.",
+        "Evoluir ao longo da história.",
+        "Ser previsível e construída em torno de um só traço.",
+        "Ser sempre o protagonista."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma personagem 'bidimensional', sem profundidade.",
+      "hintCorrect": "Correto! A personagem plana (ou tipo) é definida pela sua simplicidade e previsibilidade, não apresentando evolução psicológica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ser previsível e construída em torno de um só traço'. Uma personagem complexa é 'modelada' ou 'redonda'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-076",
+      "question": "O narrador que sabe tudo, até os segredos mais íntimos das personagens, é:",
+      "options": [
+        "Heterodiegético com focalização externa",
+        "Homodiegético",
+        "Omnisciente",
+        "Testemunha"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'omni' significa 'tudo' e 'sciente' significa 'saber'.",
+      "hintCorrect": "Correto! O Narrador Omnisciente tem conhecimento ilimitado sobre o universo da história, incluindo o acesso à consciência de todas as personagens.",
+      "hintWrong": "Incorreto. A resposta certa é 'Omnisciente'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-077",
+      "question": "O que marca o fim do 'Desenvolvimento' e o início do 'Desenlace'?",
+      "options": [
+        "A Situação Inicial",
+        "O Conflito",
+        "O Clímax",
+        "Uma Analepse"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É o ponto de viragem, o momento de máxima tensão que decide o rumo da história.",
+      "hintCorrect": "Correto! O Clímax é o auge do desenvolvimento e o evento que desencadeia o Desenlace (a resolução).",
+      "hintWrong": "Incorreto. A resposta certa é 'O Clímax'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-078",
+      "question": "Mostrar que uma personagem rói as unhas antes de uma prova é um exemplo de:",
+      "options": [
+        "Caracterização Direta (dizendo que ela é ansiosa).",
+        "Caracterização Indireta (mostrando o seu nervosismo).",
+        "Prolepse (antecipando que ela vai chumbar).",
+        "Espaço Social."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A ação (roer as unhas) permite ao leitor deduzir o estado emocional da personagem.",
+      "hintCorrect": "Exato! É um exemplo de Caracterização Indireta, pois o nervosismo é 'mostrado' através de um comportamento, e não 'contado' com um adjetivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Caracterização Indireta'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-079",
+      "question": "A ordem pela qual os acontecimentos são apresentados ao leitor chama-se:",
+      "options": [
+        "Tempo da História",
+        "Tempo do Discurso",
+        "Tempo Psicológico",
+        "Tempo Cronológico"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Refere-se à organização e manipulação do tempo feita pelo narrador.",
+      "hintCorrect": "Correto! O Tempo do Discurso é a forma como a sequência de eventos é organizada na narrativa, que pode ou não seguir a ordem cronológica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tempo do Discurso'. O Tempo Cronológico (ou da História) é a ordem real dos eventos.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-080",
+      "question": "Qual é a principal diferença entre narrador 'homodiegético' e 'heterodiegético'?",
+      "options": [
+        "O nível de conhecimento que possuem.",
+        "A sua participação ou não na história.",
+        "A sua complexidade.",
+        "O tempo verbal que utilizam."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A questão central é se o narrador é uma personagem (está 'dentro') ou uma voz externa (está 'fora').",
+      "hintCorrect": "Correto! A diferença reside na sua presença na diegese: o homodiegético participa (1ª pessoa), enquanto o heterodiegético não participa (3ª pessoa).",
+      "hintWrong": "Incorreto. A resposta certa é 'A sua participação ou não na história'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-081",
+      "question": "O que é uma personagem 'co-protagonista'?",
+      "options": [
+        "O mesmo que antagonista.",
+        "Uma personagem secundária.",
+        "Uma de várias personagens principais que partilham o foco da história.",
+        "Uma personagem figurante."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O prefixo 'co-' indica partilha ou conjunto. Pense em 'co-autor'.",
+      "hintCorrect": "Correto! Um co-protagonista é uma das várias personagens que têm um papel central na narrativa, partilhando o protagonismo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma de várias personagens principais que partilham o foco da história'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-082",
+      "question": "A 'conclusão' da história é também conhecida como:",
+      "options": [
+        "Clímax",
+        "Desenlace",
+        "Conflito",
+        "Situação Inicial"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a fase final, onde as pontas soltas são atadas.",
+      "hintCorrect": "Exato! O Desenlace é o termo técnico para a conclusão ou resolução da narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Desenlace'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-083",
+      "question": "Se um narrador apenas descreve o que uma câmara de segurança poderia captar, que focalização está a usar?",
+      "options": [
+        "Omnisciente",
+        "Focalização Interna",
+        "Focalização Externa",
+        "Homodiegética"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A perspetiva é puramente objetiva e limitada ao que é visível e audível.",
+      "hintCorrect": "Correto! Esta é a definição de Focalização Externa, uma narração objetiva que não acede à interioridade das personagens.",
+      "hintWrong": "Incorreto. A resposta certa é 'Focalização Externa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-084",
+      "question": "A 'trama' de uma história é o mesmo que:",
+      "options": [
+        "O Espaço",
+        "O Tempo",
+        "O Enredo",
+        "A Personagem"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É a sequência de eventos interligados.",
+      "hintCorrect": "Correto! Trama, Enredo e Ação são sinónimos para a estrutura de acontecimentos que compõe a história.",
+      "hintWrong": "Incorreto. A resposta certa é 'O Enredo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-085",
+      "question": "Qual destes não é um momento do enredo?",
+      "options": [
+        "Clímax",
+        "Desenvolvimento",
+        "Caracterização",
+        "Desenlace"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Três das opções são fases da história. Uma delas é um processo de descrição de personagem.",
+      "hintCorrect": "Correto! A Caracterização é o processo de construção de uma personagem, não um momento da estrutura do enredo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Caracterização'. Os outros três são momentos fundamentais do enredo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-086",
+      "question": "O que é um narrador fidedigno?",
+      "options": [
+        "Um narrador em quem o leitor pode confiar.",
+        "Um narrador que mente ou engana o leitor.",
+        "Um narrador que participa na história.",
+        "Um narrador que sabe tudo."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Vem da palavra 'fé' ou 'fidelidade'. A sua narração é apresentada como a verdade dentro da diegese.",
+      "hintCorrect": "Correto! Um narrador fidedigno (ou confiável) é aquele cuja narração dos eventos é aceite como verdadeira pelo leitor. O oposto é um narrador não-fidedigno.",
+      "hintWrong": "Incorreto. A resposta certa é 'Um narrador em quem o leitor pode confiar'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-087",
+      "question": "A 'complicação' da história dá-se com o surgimento do:",
+      "options": [
+        "Desenlace",
+        "Conflito",
+        "Protagonista",
+        "Espaço"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o evento que complica a situação inicial.",
+      "hintCorrect": "Exato! O Conflito (ou complicação, ou intriga) é o que dá início ao desenvolvimento da trama.",
+      "hintWrong": "Incorreto. A resposta certa é 'O Conflito'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-088",
+      "question": "A classificação de uma personagem como 'principal' ou 'secundária' refere-se ao seu:",
+      "options": [
+        "Relevo",
+        "Composição",
+        "Caracterização",
+        "Discurso"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Mede a sua importância ou destaque na história.",
+      "hintCorrect": "Correto! A classificação quanto ao Relevo define a hierarquia de importância das personagens na narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Relevo'. A Composição refere-se à sua complexidade psicológica.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-089",
+      "question": "O que é o 'monólogo interior'?",
+      "options": [
+        "Um diálogo entre várias personagens.",
+        "A transcrição direta dos pensamentos de uma personagem, como se estivessem a fluir na sua mente.",
+        "A descrição do espaço físico.",
+        "O discurso do narrador a comentar a ação."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma técnica para dar acesso direto ao 'espaço psicológico' de uma personagem.",
+      "hintCorrect": "Correto! O monólogo interior é uma técnica narrativa que apresenta o fluxo de consciência de uma personagem, os seus pensamentos e sensações de forma direta e, por vezes, caótica.",
+      "hintWrong": "Incorreto. A resposta certa é 'A transcrição direta dos pensamentos de uma personagem'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-090",
+      "question": "Qual é a função do 'ponto culminante'?",
+      "options": [
+        "Apresentar as personagens.",
+        "Ser o momento de máxima tensão e viragem da história.",
+        "Concluir a narrativa de forma calma.",
+        "Descrever o cenário."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É outro nome para 'Clímax'.",
+      "hintCorrect": "Exato! O ponto culminante, ou clímax, é o pico de intensidade da narrativa, onde o conflito principal atinge o seu auge.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ser o momento de máxima tensão e viragem da história'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-091",
+      "question": "A expressão 'Era uma vez...' normalmente introduz que parte do enredo?",
+      "options": [
+        "O Clímax",
+        "O Desenlace",
+        "A Situação Inicial",
+        "O Conflito"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma fórmula clássica para começar uma história, apresentando o tempo e o lugar.",
+      "hintCorrect": "Correto! 'Era uma vez...' é uma fórmula tradicional para marcar a Situação Inicial, transportando o leitor para um tempo e espaço indeterminados onde a história vai começar.",
+      "hintWrong": "Incorreto. A resposta certa é 'A Situação Inicial'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-092",
+      "question": "Um narrador que diz 'Nós vimos o navio afundar' é:",
+      "options": [
+        "Heterodiegético",
+        "Homodiegético",
+        "Omnisciente com focalização externa",
+        "O autor"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O uso da 1ª pessoa do plural ('nós') indica que o narrador faz parte de um grupo de personagens dentro da história.",
+      "hintCorrect": "Correto! O uso de 'nós' classifica o narrador como Homodiegético (participante), pois ele se inclui no grupo de personagens que vivenciam a ação.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homodiegético'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-093",
+      "question": "A 'aparência física' de uma personagem faz parte de que processo?",
+      "options": [
+        "Enredo",
+        "Caracterização",
+        "Tempo",
+        "Clímax"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma das formas de dar a conhecer uma personagem ao leitor.",
+      "hintCorrect": "Correto! A descrição da aparência física é um dos elementos do processo de Caracterização de uma personagem, podendo ser feita de forma direta ou indireta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Caracterização'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-094",
+      "question": "O que é uma narrativa 'in media res'?",
+      "options": [
+        "Uma narrativa que começa pelo fim.",
+        "Uma narrativa que começa pelo meio da ação.",
+        "Uma narrativa que começa pela apresentação das personagens.",
+        "Uma narrativa contada por várias vozes."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A expressão latina significa 'no meio das coisas'.",
+      "hintCorrect": "Correto! Uma narrativa 'in media res' começa diretamente no meio de um momento de ação ou conflito, sem uma situação inicial tradicional. O contexto é depois explicado através de analepses (flashbacks).",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma narrativa que começa pelo meio da ação'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-095",
+      "question": "A 'atmosfera' de uma história (ex: de terror, de romance) é criada principalmente pela interação entre:",
+      "options": [
+        "Ação e Personagens",
+        "Espaço, Tempo e Narração",
+        "Apenas o Diálogo",
+        "Apenas o Desenlace"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Pense em como um cenário escuro (espaço), à noite (tempo), e uma narração tensa (narrador) criam uma atmosfera de suspense.",
+      "hintCorrect": "Correto! A atmosfera é um efeito global criado pela forma como o narrador descreve o espaço e manipula o tempo para evocar certas emoções no leitor.",
+      "hintWrong": "Incorreto. A resposta certa é 'Espaço, Tempo e Narração'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "narrativa-conceito-096",
+      "question": "Qual é a função do 'antagonista'?",
+      "options": [
+        "Ajudar o protagonista.",
+        "Criar obstáculos e conflito para o protagonista.",
+        "Ser uma personagem neutra.",
+        "Narrar a história."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a força que se opõe ao herói ou personagem principal.",
+      "hintCorrect": "Exato! A função primordial do antagonista é gerar o conflito central da trama, desafiando o protagonista e impulsionando a história.",
+      "hintWrong": "Incorreto. A resposta certa é 'Criar obstáculos e conflito para o protagonista'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-097",
+      "question": "O que é o 'discurso direto'?",
+      "options": [
+        "O narrador conta o que a personagem disse.",
+        "A transcrição exata da fala de uma personagem, geralmente marcada por travessão ou aspas.",
+        "Os pensamentos de uma personagem.",
+        "A descrição de uma personagem."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É quando 'ouvimos' a personagem a falar com as suas próprias palavras.",
+      "hintCorrect": "Correto! O discurso direto reproduz fielmente a fala da personagem. Ex: — Vou sair agora.",
+      "hintWrong": "Incorreto. A resposta certa é 'A transcrição exata da fala de uma personagem'. Quando o narrador conta o que foi dito (ex: Ele disse que ia sair), chama-se discurso indireto.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-098",
+      "question": "Uma personagem que não muda nem evolui ao longo da história é:",
+      "options": [
+        "Modelada",
+        "Redonda",
+        "Plana",
+        "Protagonista"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma personagem estática e previsível.",
+      "hintCorrect": "Correto! A personagem Plana (ou tipo) mantém as mesmas características do início ao fim da narrativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Plana'. As personagens Modeladas ou Redondas são as que evoluem.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-099",
+      "question": "O que é o 'discurso indireto livre'?",
+      "options": [
+        "A fala exata de uma personagem.",
+        "O narrador a contar o que a personagem disse.",
+        "A fusão da voz do narrador com a voz da personagem, sem marcas de citação.",
+        "Um diálogo entre o narrador e o leitor."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma técnica subtil onde os pensamentos ou a 'voz' da personagem se misturam na narração em 3ª pessoa.",
+      "hintCorrect": "Correto! O discurso indireto livre é uma técnica sofisticada onde a narração em 3ª pessoa absorve o ponto de vista, as palavras e os pensamentos de uma personagem, sem usar verbos como 'disse que' ou 'pensou que'.",
+      "hintWrong": "Incorreto. A resposta certa é 'A fusão da voz do narrador com a voz da personagem, sem marcas de citação'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "narrativa-conceito-100",
+      "question": "A categoria da narrativa que responde à pergunta 'Quando?' é o:",
+      "options": [
+        "Espaço",
+        "Tempo",
+        "Enredo",
+        "Narrador"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Refere-se à dimensão temporal da história.",
+      "hintCorrect": "Exato! O Tempo é a categoria que situa os eventos numa cronologia e explora a sua duração e ordem.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tempo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "narrativa-conceito-101",
+      "question": "Qual é o oposto de um narrador 'participante'?",
+      "options": [
+        "Narrador omnisciente",
+        "Narrador não-participante",
+        "Narrador protagonista",
+        "Narrador fidedigno"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Se um está 'dentro' da história, o outro está 'fora'.",
+      "hintCorrect": "Correto! O narrador não-participante (ou heterodiegético) é o oposto do participante (ou homodiegético), pois narra a história de uma perspetiva externa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Narrador não-participante'.",
+      "difficulty": "medium"
+    }
+  ]
+}

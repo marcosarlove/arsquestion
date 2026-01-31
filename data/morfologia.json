@@ -1,0 +1,472 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Morfologia",
+  "questions": [
+    {
+      "id": "morfologia-001",
+      "question": "Na frase 'O menino feliz correu', qual é a classe gramatical da palavra 'feliz'?",
+      "options": [
+        "Substantivo",
+        "Advérbio",
+        "Adjetivo",
+        "Verbo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'feliz' está a dar uma característica ao substantivo 'menino'.",
+      "hintCorrect": "Correto! 'Feliz' é um adjetivo, pois caracteriza o substantivo 'menino'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjetivo'. A palavra 'feliz' qualifica o substantivo 'menino'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-002",
+      "question": "Qual das palavras abaixo é um substantivo abstrato?",
+      "options": [
+        "Cadeira",
+        "Fada",
+        "Saudade",
+        "Livro"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Substantivos abstratos nomeiam sentimentos, qualidades, ações e estados, cuja existência depende de outro ser.",
+      "hintCorrect": "Exato! 'Saudade' é um sentimento, portanto, um substantivo abstrato. 'Cadeira' e 'Livro' são concretos. 'Fada' é concreto no sentido gramatical, pois tem uma representação imaginária.",
+      "hintWrong": "Incorreto. A resposta certa é 'Saudade'. Substantivos abstratos nomeiam conceitos que não existem por si sós.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-003",
+      "question": "Qual é o plural correto de 'cidadão'?",
+      "options": [
+        "Cidadãos",
+        "Cidadões",
+        "Cidadães",
+        "Cidadãos"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Palavras terminadas em '-ão' podem ter plurais diferentes. Pense em 'mão' -> 'mãos'.",
+      "hintCorrect": "Correto! O plural de 'cidadão' é 'cidadãos'.",
+      "hintWrong": "Incorreto. A resposta certa é 'cidadãos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-004",
+      "question": "Na frase 'Comprei um carro novo', a palavra 'um' é classificada como:",
+      "options": [
+        "Artigo definido",
+        "Artigo indefinido",
+        "Numeral cardinal",
+        "Pronome indefinido"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'um' especifica um carro qualquer, não um carro específico. Qual tipo de artigo faz isso?",
+      "hintCorrect": "Exato! 'Um' é um artigo indefinido, pois não especifica qual carro foi comprado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Artigo indefinido'. 'O' seria um artigo definido.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-005",
+      "question": "Qual é o grau superlativo absoluto sintético do adjetivo 'fácil'?",
+      "options": [
+        "Muito fácil",
+        "Facílimo",
+        "Mais fácil que",
+        "O mais fácil"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O superlativo absoluto sintético é formado, geralmente, pela adição do sufixo '-íssimo', '-imo' ou '-érrimo'.",
+      "hintCorrect": "Correto! O superlativo de 'fácil' é 'facílimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'facílimo'. 'Muito fácil' é o superlativo absoluto analítico.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-006",
+      "question": "A palavra 'correr' está em qual forma nominal?",
+      "options": [
+        "Gerúndio",
+        "Particípio",
+        "Infinitivo",
+        "Imperativo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Esta é a forma 'pura' do verbo, como ele aparece no dicionário.",
+      "hintCorrect": "Correto! O infinitivo é a forma nominal que representa o 'nome' do verbo, terminando em -ar, -er ou -ir.",
+      "hintWrong": "Incorreto. A resposta certa é 'Infinitivo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-007",
+      "question": "Na frase 'Ele falou muito', a palavra 'muito' é um:",
+      "options": [
+        "Adjetivo",
+        "Pronome indefinido",
+        "Advérbio de intensidade",
+        "Substantivo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'muito' está a modificar o verbo 'falou', intensificando a ação.",
+      "hintCorrect": "Exato! 'Muito' é um advérbio de intensidade, pois modifica o verbo 'falou'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Advérbio de intensidade'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-008",
+      "question": "Qual das conjunções abaixo é adversativa?",
+      "options": [
+        "e",
+        "ou",
+        "mas",
+        "logo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Conjunções adversativas expressam uma ideia de oposição ou contraste. Qual delas é sinónimo de 'porém'?",
+      "hintCorrect": "Correto! 'Mas' é uma conjunção coordenativa adversativa, assim como 'porém', 'contudo', 'todavia'.",
+      "hintWrong": "Incorreto. A resposta certa é 'mas'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-009",
+      "question": "A palavra 'guarda-chuva' é um substantivo:",
+      "options": [
+        "Simples",
+        "Composto",
+        "Primitivo",
+        "Derivado"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É formado por mais de um radical (palavra).",
+      "hintCorrect": "Correto! 'Guarda-chuva' é um substantivo composto, formado pela junção de 'guarda' e 'chuva'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Composto'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-010",
+      "question": "Na frase 'Aquele livro é meu', a palavra 'aquele' é um:",
+      "options": [
+        "Pronome possessivo",
+        "Pronome demonstrativo",
+        "Pronome relativo",
+        "Artigo definido"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Este tipo de pronome é usado para indicar a posição de algo ou alguém no espaço, no tempo ou no discurso.",
+      "hintCorrect": "Exato! 'Aquele' é um pronome demonstrativo, que indica algo que está longe da pessoa que fala e da pessoa com quem se fala.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronome demonstrativo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-011",
+      "question": "Qual é o plural de 'couve-flor'?",
+      "options": [
+        "Couves-flor",
+        "Couve-flores",
+        "Couves-flores",
+        "Couves-flors"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Em substantivos compostos formados por substantivo + substantivo, ambos os elementos geralmente vão para o plural.",
+      "hintCorrect": "Correto! O plural correto é 'couves-flores', pois ambos os elementos são substantivos e variam.",
+      "hintWrong": "Incorreto. A resposta certa é 'couves-flores'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-012",
+      "question": "A palavra 'infelizmente' é um advérbio de:",
+      "options": [
+        "Tempo",
+        "Lugar",
+        "Modo",
+        "Negação"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Muitos advérbios terminados em '-mente' indicam a maneira como a ação ocorre.",
+      "hintCorrect": "Correto! 'Infelizmente' é um advérbio de modo, indicando a maneira como algo aconteceu.",
+      "hintWrong": "Incorreto. A resposta certa é 'Advérbio de modo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-013",
+      "question": "Na frase 'Gosto de você', a palavra 'de' é uma:",
+      "options": [
+        "Conjunção",
+        "Preposição",
+        "Interjeição",
+        "Artigo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Esta classe de palavras serve para ligar dois termos, estabelecendo uma relação de dependência entre eles.",
+      "hintCorrect": "Exato! 'De' é uma preposição, ligando o verbo 'gosto' ao seu complemento 'você'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Preposição'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-014",
+      "question": "Qual das palavras abaixo é um pronome pessoal do caso reto?",
+      "options": [
+        "Me",
+        "Mim",
+        "Eu",
+        "Comigo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pronomes do caso reto funcionam como sujeito da oração.",
+      "hintCorrect": "Correto! 'Eu' é um pronome pessoal do caso reto, que exerce a função de sujeito. 'Me', 'mim' e 'comigo' são do caso oblíquo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-015",
+      "question": "A palavra 'livreiro' (pessoa que vende livros) é um substantivo:",
+      "options": [
+        "Primitivo",
+        "Derivado",
+        "Composto",
+        "Coletivo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'livreiro' foi formada a partir de outra palavra ('livro').",
+      "hintCorrect": "Correto! 'Livreiro' é um substantivo derivado, pois vem da palavra primitiva 'livro'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Derivado'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-016",
+      "question": "Qual é o grau comparativo de superioridade do adjetivo 'bom'?",
+      "options": [
+        "Mais bom",
+        "Melhor",
+        "Ótimo",
+        "Boníssimo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O adjetivo 'bom' tem uma forma irregular para o comparativo de superioridade.",
+      "hintCorrect": "Exato! O comparativo de superioridade de 'bom' é 'melhor'. 'Mais bom' é incorreto na maioria dos contextos.",
+      "hintWrong": "Incorreto. A resposta certa é 'melhor'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-017",
+      "question": "A palavra 'Uau!' é classificada como:",
+      "options": [
+        "Advérbio",
+        "Conjunção",
+        "Preposição",
+        "Interjeição"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Esta classe de palavras expressa emoções e sentimentos súbitos.",
+      "hintCorrect": "Correto! 'Uau!' é uma interjeição que expressa surpresa ou admiração.",
+      "hintWrong": "Incorreto. A resposta certa é 'Interjeição'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-018",
+      "question": "Qual é o substantivo coletivo de 'ilhas'?",
+      "options": [
+        "Cardume",
+        "Arquipélago",
+        "Alcateia",
+        "Constelação"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Procure o termo que designa um conjunto de ilhas.",
+      "hintCorrect": "Correto! 'Arquipélago' é o coletivo de ilhas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Arquipélago'. 'Cardume' é de peixes, 'Alcateia' de lobos, 'Constelação' de estrelas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-019",
+      "question": "Na frase 'O homem que chegou é meu pai', a palavra 'que' é um:",
+      "options": [
+        "Pronome interrogativo",
+        "Pronome relativo",
+        "Conjunção integrante",
+        "Conjunção causal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Este pronome retoma um termo anterior ('O homem') e inicia uma nova oração. Pode ser substituído por 'o qual'.",
+      "hintCorrect": "Exato! 'Que' é um pronome relativo, pois se refere ao antecedente 'homem'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronome relativo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-020",
+      "question": "Qual das alternativas contém um numeral ordinal?",
+      "options": [
+        "Dois",
+        "Metade",
+        "Segundo",
+        "Dúzia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Numerais ordinais indicam ordem ou posição em uma série.",
+      "hintCorrect": "Correto! 'Segundo' é um numeral ordinal. 'Dois' é cardinal, 'Metade' é fracionário e 'Dúzia' é coletivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Segundo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-021",
+      "question": "A palavra 'porque' (junto e sem acento) é uma:",
+      "options": [
+        "Preposição",
+        "Conjunção",
+        "Advérbio",
+        "Interjeição"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Ela é usada para ligar duas orações, sendo que a segunda dá uma explicação ou causa para a primeira.",
+      "hintCorrect": "Correto! 'Porque' é uma conjunção, usada principalmente para introduzir orações explicativas ou causais.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conjunção'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-022",
+      "question": "Qual é o feminino de 'poeta'?",
+      "options": [
+        "Poetisa",
+        "Poetiza",
+        "Poeta",
+        "Poetina"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Muitos substantivos masculinos terminados em -a ou -e formam o feminino com o sufixo -isa.",
+      "hintCorrect": "Correto! O feminino de 'poeta' é 'poetisa'.",
+      "hintWrong": "Incorreto. A resposta certa é 'poetisa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-023",
+      "question": "Na frase 'Ela chegou cedo', a palavra 'cedo' é um advérbio de:",
+      "options": [
+        "Modo",
+        "Lugar",
+        "Intensidade",
+        "Tempo"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A palavra 'cedo' responde à pergunta 'Quando?'.",
+      "hintCorrect": "Correto! 'Cedo' é um advérbio de tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Advérbio de tempo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-024",
+      "question": "A expressão 'caixa de papelão' é um exemplo de:",
+      "options": [
+        "Adjetivo pátrio",
+        "Locução adjetiva",
+        "Advérbio de modo",
+        "Locução adverbial"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma expressão formada por preposição + substantivo que tem o valor de um adjetivo ('papelão' caracteriza 'caixa').",
+      "hintCorrect": "Exato! 'De papelão' é uma locução adjetiva, pois equivale ao adjetivo 'papelonea' (embora este seja pouco usado).",
+      "hintWrong": "Incorreto. A resposta certa é 'Locução adjetiva'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-025",
+      "question": "Qual é o plural de 'o terno azul-escuro'?",
+      "options": [
+        "Os ternos azuis-escuros",
+        "Os ternos azul-escuros",
+        "Os ternos azuis-escuro",
+        "Os ternos azul-escuro"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Em adjetivos compostos onde o segundo elemento é um substantivo (como 'cor de...'), apenas o primeiro elemento varia. Mas em cor + cor, a regra é diferente. Em adjetivo + adjetivo, geralmente só o último varia.",
+      "hintCorrect": "Correto! Em adjetivos compostos formados por adjetivo + adjetivo indicando cor, apenas o segundo elemento vai para o plural. Portanto, 'os ternos azul-escuros'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Os ternos azul-escuros'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-026",
+      "question": "A palavra 'ninguém' é um:",
+      "options": [
+        "Pronome pessoal",
+        "Pronome possessivo",
+        "Pronome indefinido",
+        "Pronome interrogativo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Refere-se à terceira pessoa do discurso de forma vaga, imprecisa.",
+      "hintCorrect": "Correto! 'Ninguém' é um pronome indefinido, pois se refere a 'nenhuma pessoa'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronome indefinido'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-027",
+      "question": "Qual é o grau do adjetivo na frase 'Este carro é mais rápido que aquele'?",
+      "options": [
+        "Comparativo de igualdade",
+        "Comparativo de superioridade",
+        "Superlativo relativo de superioridade",
+        "Superlativo absoluto sintético"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A estrutura 'mais... que' é usada para comparar dois seres, indicando que um tem uma qualidade superior ao outro.",
+      "hintCorrect": "Exato! É o grau comparativo de superioridade.",
+      "hintWrong": "Incorreto. A resposta certa é 'Comparativo de superioridade'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-028",
+      "question": "A palavra 'comigo' é a contração de:",
+      "options": [
+        "Com + eu",
+        "Com + me",
+        "Com + mim",
+        "Não é uma contração."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É um pronome oblíquo tónico precedido da preposição 'com'.",
+      "hintCorrect": "Correto! 'Comigo' é a forma aglutinada da preposição 'com' e do pronome oblíquo tónico 'mim'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Com + mim'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-029",
+      "question": "Qual das palavras abaixo é um verbo?",
+      "options": [
+        "Belo",
+        "Beleza",
+        "Embelezar",
+        "Belamente"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Verbos indicam ação, estado ou fenômeno e podem ser conjugados.",
+      "hintCorrect": "Correto! 'Embelezar' é um verbo (deixar belo). 'Belo' é adjetivo, 'Beleza' é substantivo e 'Belamente' é advérbio.",
+      "hintWrong": "Incorreto. A resposta certa é 'Embelezar'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-030",
+      "question": "A palavra 'embora' é uma conjunção subordinativa:",
+      "options": [
+        "Causal",
+        "Consecutiva",
+        "Concessiva",
+        "Condicional"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Ela introduz uma ideia que se opõe à da oração principal, mas não a impede de acontecer. Ex: 'Embora estivesse cansado, ele continuou a trabalhar.'",
+      "hintCorrect": "Exato! 'Embora' é a principal conjunção concessiva, assim como 'ainda que', 'mesmo que'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Concessiva'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-101",
+      "question": "Qual é o substantivo coletivo para um conjunto de lobos?",
+      "options": [
+        "Manada",
+        "Rebanho",
+        "Alcateia",
+        "Cardume"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Este termo é específico para lobos.",
+      "hintCorrect": "Correto! O coletivo de lobos é 'alcateia'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Alcateia'.",
+      "difficulty": "easy"
+    }
+  ]
+}

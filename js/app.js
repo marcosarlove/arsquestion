@@ -1,5 +1,19 @@
 document.addEventListener('DOMContentLoaded', async () => {
-    const QUIZ_FILES = ['sample.json', 'historia.json', 'ciencia.json'];
+    const QUIZ_FILES = [
+        'acentuacao_grafica.json',
+        'formas_de_tratamento.json',
+        'pronominalizacao.json',
+        'sintaxe_oracoes.json',
+        'verbos.json',
+        'conceitos_narrativos.json',
+        'morfologia.json',
+        'regras_de_pontuacao.json',
+        'sintaxe_termos_da_oracao.json',
+        'crase.json',
+        'ortografia.json',
+        'relacao_semantica.json',
+        'uso_do_imperativo.json'
+    ];
 
     AudioPlayer.preload('correct', 'audios/win.ogg');
     AudioPlayer.preload('wrong', 'audios/wrong.ogg');

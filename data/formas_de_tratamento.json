@@ -1,0 +1,922 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Formas de Tratamento",
+  "questions": [
+    {
+      "id": "tratamento-001",
+      "question": "Qual é a concordância verbal correta para os pronomes de tratamento?",
+      "options": [
+        "Sempre na 1ª pessoa (eu/nós).",
+        "Sempre na 2ª pessoa (tu/vós).",
+        "Sempre na 3ª pessoa (ele/ela).",
+        "Depende da formalidade."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Embora se refiram à pessoa com quem se fala (2ª pessoa), a regra de concordância é diferente. Pense em como você conjuga o verbo para 'Você'.",
+      "hintCorrect": "Correto! A regra de ouro é que todos os pronomes de tratamento, de 'você' a 'Vossa Santidade', exigem o verbo na 3ª pessoa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sempre na 3ª pessoa (ele/ela)'. Ex: 'Você fez', 'Vossa Excelência decidiu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-002",
+      "question": "Quando se usa 'Vossa Excelência' em vez de 'Sua Excelência'?",
+      "options": [
+        "Para falar sobre o presidente com um amigo.",
+        "Para falar diretamente com o presidente.",
+        "Quando se escreve uma notícia sobre o presidente.",
+        "Não há diferença, podem ser usados livremente."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Vossa' é usado para um diálogo direto, como um vocativo.",
+      "hintCorrect": "Exato! Usa-se 'Vossa' para se dirigir diretamente à autoridade. Ex: 'Senhor Presidente, Vossa Excelência está convidado.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Para falar diretamente com o presidente'. Usa-se 'Sua Excelência' para falar a respeito dele.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-003",
+      "question": "Qual é a forma de tratamento correta para se dirigir a um Reitor de Universidade?",
+      "options": [
+        "Vossa Excelência",
+        "Vossa Senhoria",
+        "Vossa Magnificência",
+        "Vossa Reverendíssima"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O cargo de Reitor tem um tratamento 'magnífico', único no meio académico.",
+      "hintCorrect": "Correto! A forma de tratamento para reitores é Vossa Magnificência (V. Mag.ª).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Magnificência'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-004",
+      "question": "Se o Presidente da República for um homem, qual é a concordância correta do adjetivo?",
+      "options": [
+        "Vossa Excelência está ocupada.",
+        "Vossa Excelência está ocupado.",
+        "Vossa Excelência estais ocupado.",
+        "Vossa Excelência estamos ocupados."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O adjetivo deve concordar com o sexo da pessoa, e não com o género gramatical do pronome ('Excelência' é feminino).",
+      "hintCorrect": "Exato! O adjetivo concorda com o género da pessoa (masculino), resultando em 'ocupado'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Excelência está ocupado'. O adjetivo concorda com o sexo da pessoa, não com o género da palavra 'Excelência'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-005",
+      "question": "Qual é a abreviação correta de 'Vossa Senhoria'?",
+      "options": [
+        "V.S.",
+        "V. Sr.ª",
+        "V. S.ª",
+        "V. Sa."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A abreviação inclui as iniciais e a terminação elevada.",
+      "hintCorrect": "Correto! A abreviação padrão para Vossa Senhoria é V. S.ª.",
+      "hintWrong": "Incorreto. A resposta certa é 'V. S.ª'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-006",
+      "question": "Para qual autoridade se usa 'Vossa Santidade'?",
+      "options": [
+        "Reis e Rainhas",
+        "Presidentes",
+        "Juízes",
+        "Papa"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "É a mais alta autoridade da Igreja Católica.",
+      "hintCorrect": "Correto! 'Vossa Santidade' é a forma de tratamento reservada ao Papa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Papa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-007",
+      "question": "Complete a frase: 'Senhor Diretor, espero que ___ aceite o meu pedido.'",
+      "options": [
+        "Vossa Senhoria",
+        "Sua Senhoria",
+        "Vossa Excelência",
+        "Ele"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Você está a falar diretamente com o diretor. Qual pronome se usa para o tratamento direto?",
+      "hintCorrect": "Correto! Como a fala é direta ('Senhor Diretor,...'), usa-se 'Vossa Senhoria'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Senhoria'. Usa-se 'Vossa' para falar diretamente com a pessoa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-008",
+      "question": "Complete a frase: 'Informo que ___ , o Ministro da Educação, não poderá comparecer.'",
+      "options": [
+        "Vossa Excelência",
+        "Sua Excelência",
+        "Vossa Senhoria",
+        "Ele"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Você está a falar sobre o ministro para uma terceira pessoa. Qual pronome se usa para falar 'a respeito de' alguém?",
+      "hintCorrect": "Correto! Como se está a falar sobre o ministro (e não com ele), usa-se 'Sua Excelência'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sua Excelência'. Usa-se 'Sua' para falar a respeito da pessoa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-009",
+      "question": "Qual é a forma de tratamento para Cardeais?",
+      "options": [
+        "Vossa Santidade",
+        "Vossa Eminência",
+        "Vossa Reverendíssima",
+        "Vossa Excelência Reverendíssima"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Cardeais são considerados 'príncipes da Igreja' e têm um tratamento 'eminente'.",
+      "hintCorrect": "Exato! A forma de tratamento correta para Cardeais é Vossa Eminência (V. Em.ª).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Eminência'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-010",
+      "question": "A concordância verbal para 'você' é na 3ª pessoa porque:",
+      "options": [
+        "É uma regra nova da gramática.",
+        "É uma palavra de origem indígena.",
+        "É uma contração da antiga forma de tratamento 'Vossa Mercê'.",
+        "É um pronome pessoal do caso reto."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O guia menciona a evolução: Vossa Mercê -> Vosmecê -> Você.",
+      "hintCorrect": "Correto! 'Você' herdou a concordância de 3ª pessoa da sua forma original, 'Vossa Mercê', que era um pronome de tratamento formal.",
+      "hintWrong": "Incorreto. A resposta certa é 'É uma contração da antiga forma de tratamento 'Vossa Mercê''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-011",
+      "question": "Qual é a forma de tratamento para Reis e Rainhas?",
+      "options": [
+        "Vossa Alteza",
+        "Vossa Soberania",
+        "Vossa Majestade",
+        "Vossa Realeza"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense em filmes e contos de fadas. Como as personagens se dirigem ao rei?",
+      "hintCorrect": "Correto! A forma de tratamento para reis e rainhas é Vossa Majestade (V. M.).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Majestade'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-012",
+      "question": "Qual frase está gramaticalmente correta?",
+      "options": [
+        "Você fizeste um bom trabalho.",
+        "Você fez um bom trabalho.",
+        "Você faz um bom trabalho.",
+        "Você farás um bom trabalho."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo que acompanha 'você' deve estar na 3ª pessoa do singular.",
+      "hintCorrect": "Correto! 'Você' exige o verbo na 3ª pessoa do singular ('ele fez').",
+      "hintWrong": "Incorreto. A resposta certa é 'Você fez um bom trabalho'. O verbo deve concordar na 3ª pessoa.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-013",
+      "question": "Para se dirigir a um Juiz, qual é a forma de tratamento adequada?",
+      "options": [
+        "Vossa Senhoria",
+        "Vossa Magnificência",
+        "Vossa Excelência",
+        "Meritíssimo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Juízes estão entre as altas autoridades do Estado.",
+      "hintCorrect": "Exato! Juízes, assim como outras altas autoridades do poder judiciário, legislativo e executivo, são tratados por Vossa Excelência. 'Meritíssimo' é usado como vocativo ('Meritíssimo Juiz').",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Excelência'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-014",
+      "question": "Qual é a forma de tratamento para Príncipes e Princesas?",
+      "options": [
+        "Vossa Majestade",
+        "Vossa Alteza",
+        "Vossa Graça",
+        "Vossa Nobreza"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Eles não são os monarcas supremos, mas estão em uma posição 'alta' na nobreza.",
+      "hintCorrect": "Correto! Príncipes, princesas, duques e duquesas são tratados por Vossa Alteza (V. A.).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Alteza'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-015",
+      "question": "Ao escrever uma carta para um Senador, o vocativo (endereçamento) correto é:",
+      "options": [
+        "Caro Senador,",
+        "Senhor Senador,",
+        "Excelentíssimo Senhor Senador,",
+        "Vossa Excelência,"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Para altas autoridades tratadas por 'Vossa Excelência', o vocativo em correspondência oficial segue uma fórmula específica.",
+      "hintCorrect": "Correto! O vocativo para altas autoridades é 'Excelentíssimo Senhor' seguido do cargo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Excelentíssimo Senhor Senador,'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-016",
+      "question": "Qual é a abreviação correta de 'Vossa Excelência'?",
+      "options": [
+        "V. E.",
+        "V. Exc.",
+        "V. Ex.ª",
+        "V. E.ª"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A abreviação formal inclui as iniciais e a terminação elevada.",
+      "hintCorrect": "Correto! A abreviação padrão para Vossa Excelência é V. Ex.ª.",
+      "hintWrong": "Incorreto. A resposta certa é 'V. Ex.ª'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-017",
+      "question": "Se uma juíza é 'rígida', como devemos nos referir a ela em um texto?",
+      "options": [
+        "Sua Excelência, a juíza, é rígido.",
+        "Sua Excelência, a juíza, é rígida.",
+        "Vossa Excelência, a juíza, é rígido.",
+        "Sua Excelência, a juíza, são rígidos."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O adjetivo ('rígida') concorda com o sexo da pessoa (feminino), e o pronome é 'Sua' porque estamos a falar 'sobre' ela.",
+      "hintCorrect": "Exato! Usa-se 'Sua' para falar sobre a pessoa, e o adjetivo 'rígida' concorda com o género feminino da juíza.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sua Excelência, a juíza, é rígida'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-018",
+      "question": "A forma 'Senhor/Senhora' é usada para:",
+      "options": [
+        "Tratamento íntimo, entre amigos.",
+        "Apenas para pessoas muito importantes.",
+        "Tratamento formal e respeitoso.",
+        "Apenas para membros da realeza."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É a forma de tratamento respeitosa mais comum no dia a dia.",
+      "hintCorrect": "Correto! 'Senhor' e 'Senhora' são usados em situações formais, para pessoas mais velhas ou como sinal de respeito em geral.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tratamento formal e respeitoso'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-019",
+      "question": "Qual forma de tratamento é usada para Arcebispos e Bispos?",
+      "options": [
+        "Vossa Santidade",
+        "Vossa Eminência",
+        "Vossa Excelência Reverendíssima",
+        "Vossa Reverendíssima"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma forma que combina o tratamento de alta autoridade ('Excelência') com o tratamento religioso ('Reverendíssima').",
+      "hintCorrect": "Correto! A forma correta para arcebispos e bispos é Vossa Excelência Reverendíssima (V. Ex.ª Rev.ma).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Excelência Reverendíssima'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-020",
+      "question": "Complete a frase: 'Vossa Senhoria ___ tomar as providências necessárias.'",
+      "options": [
+        "deve",
+        "deveis",
+        "devemos",
+        "devo"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Lembre-se da regra de ouro da concordância verbal. O verbo deve ir para a 3ª pessoa do singular.",
+      "hintCorrect": "Correto! O verbo que acompanha 'Vossa Senhoria' fica na 3ª pessoa do singular: '(ele/ela) deve'.",
+      "hintWrong": "Incorreto. A resposta certa é 'deve'. A concordância é sempre na 3ª pessoa.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-021",
+      "question": "O pronome 'você' é mais comum em qual variante do português?",
+      "options": [
+        "Português de Portugal, em situações formais.",
+        "Português do Brasil, tanto em situações formais quanto informais.",
+        "Em ambas, apenas para tratamento íntimo.",
+        "Em nenhuma, é considerado incorreto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "No Brasil, o uso de 'tu' é restrito a algumas regiões, sendo 'você' a forma dominante.",
+      "hintCorrect": "Correto! No português brasileiro, 'você' é a forma de tratamento padrão na maior parte do país, usada em quase todos os contextos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Português do Brasil, tanto em situações formais quanto informais'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-022",
+      "question": "Para se dirigir a um embaixador, usa-se:",
+      "options": [
+        "Vossa Senhoria",
+        "Vossa Excelência",
+        "Vossa Magnificência",
+        "Vossa Alteza"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Embaixadores são considerados altas autoridades do Estado, representantes do país no exterior.",
+      "hintCorrect": "Exato! Embaixadores são tratados por Vossa Excelência.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Excelência'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-023",
+      "question": "Qual é a forma de tratamento para sacerdotes e pastores em geral?",
+      "options": [
+        "Vossa Santidade",
+        "Vossa Eminência",
+        "Vossa Excelência Reverendíssima",
+        "Vossa Reverendíssima"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "É a forma de tratamento religioso mais geral, para quem não ocupa os mais altos cargos da hierarquia.",
+      "hintCorrect": "Correto! Para sacerdotes, pastores e outros religiosos, a forma de tratamento é Vossa Reverendíssima (V. Rev.ma).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Reverendíssima'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-024",
+      "question": "A frase 'Vossa Majestade parece cansada' refere-se a:",
+      "options": [
+        "Um rei.",
+        "Uma rainha.",
+        "Um príncipe.",
+        "Um duque."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O adjetivo 'cansada' está no feminino. A quem ele deve concordar?",
+      "hintCorrect": "Correto! O adjetivo 'cansada' concorda com o sexo da pessoa, que neste caso é uma mulher (uma rainha).",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma rainha', pois o adjetivo 'cansada' está no feminino.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-025",
+      "question": "Qual pronome possessivo acompanha 'Vossa Excelência'?",
+      "options": [
+        "Vosso/Vossa",
+        "Teu/Tua",
+        "Seu/Sua",
+        "Meu/Minha"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A concordância pronominal também é feita na 3ª pessoa. Ex: 'V.Ex.ª e o ___ gabinete.'",
+      "hintCorrect": "Exato! Assim como o verbo, os pronomes possessivos e oblíquos que se referem a um pronome de tratamento são sempre os de 3ª pessoa (seu, sua, o, a, lhe).",
+      "hintWrong": "Incorreto. A resposta certa é 'Seu/Sua'. A concordância é toda na 3ª pessoa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-026",
+      "question": "A forma 'Senhorita' (Srta.) é tradicionalmente usada para:",
+      "options": [
+        "Mulheres casadas.",
+        "Mulheres solteiras.",
+        "Qualquer mulher, como sinal de respeito.",
+        "Meninas muito jovens."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o equivalente feminino de um homem jovem e solteiro.",
+      "hintCorrect": "Correto! 'Senhorita' é a forma de tratamento historicamente usada para mulheres solteiras, embora seu uso esteja em declínio.",
+      "hintWrong": "Incorreto. A resposta certa é 'Mulheres solteiras'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-027",
+      "question": "Ao falar sobre o Papa com outra pessoa, qual forma você usaria?",
+      "options": [
+        "Vossa Santidade",
+        "Sua Santidade",
+        "O Papa",
+        "Qualquer uma das anteriores está correta."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quando se fala 'sobre' a autoridade, pode-se usar 'Sua...' ou simplesmente o cargo.",
+      "hintCorrect": "Correto! Pode-se dizer 'Sua Santidade viajará' ou 'O Papa viajará'. Ambas as formas são adequadas para se referir à autoridade em uma conversa com terceiros.",
+      "hintWrong": "Incorreto. A resposta certa é 'Qualquer uma das anteriores está correta'. 'Sua Santidade' e 'O Papa' são formas válidas para falar sobre ele.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-028",
+      "question": "Qual é a abreviação de 'Vossa Majestade'?",
+      "options": [
+        "V. M. I.",
+        "V. M.",
+        "V. Maj.",
+        "V. M.ª"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A abreviação é formada pelas iniciais.",
+      "hintCorrect": "Correto! A abreviação padrão para Vossa Majestade é V. M.",
+      "hintWrong": "Incorreto. A resposta certa é 'V. M.'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-029",
+      "question": "A forma de tratamento 'Vossa Senhoria' é comumente usada para:",
+      "options": [
+        "Presidentes e Reis.",
+        "Pessoas da família.",
+        "Funcionários graduados e em correspondência comercial.",
+        "Sacerdotes e Bispos."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É um tratamento formal, mas um degrau abaixo de 'Vossa Excelência'.",
+      "hintCorrect": "Correto! 'Vossa Senhoria' é o tratamento padrão para diretores, chefes de seção e em ofícios e cartas comerciais.",
+      "hintWrong": "Incorreto. A resposta certa é 'Funcionários graduados e em correspondência comercial'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-030",
+      "question": "Complete a frase: 'Vossa Alteza parece ___.' (referindo-se a um príncipe)",
+      "options": [
+        "preocupado",
+        "preocupada",
+        "preocupados",
+        "preocupadas"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O adjetivo concorda com o sexo da pessoa (um príncipe é do sexo masculino).",
+      "hintCorrect": "Correto! O adjetivo 'preocupado' concorda com o género masculino do príncipe.",
+      "hintWrong": "Incorreto. A resposta certa é 'preocupado', pois concorda com o sexo do príncipe.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-031",
+      "question": "Qual é a regra de concordância para pronomes de tratamento?",
+      "options": [
+        "Verbo na 2ª pessoa, pronome na 3ª.",
+        "Verbo na 3ª pessoa, pronome na 2ª.",
+        "Verbo e pronomes sempre na 3ª pessoa.",
+        "Verbo e pronomes sempre na 2ª pessoa."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Toda a concordância (verbal e pronominal) segue o mesmo padrão.",
+      "hintCorrect": "Exato! A regra é simples: tudo (verbo, pronome possessivo, pronome oblíquo) vai para a 3ª pessoa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Verbo e pronomes sempre na 3ª pessoa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-032",
+      "question": "A forma 'você' é considerada, na maior parte do Brasil:",
+      "options": [
+        "Extremamente formal.",
+        "Um tratamento padrão, nem formal nem informal.",
+        "Um tratamento regional e pouco usado.",
+        "Um erro gramatical."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a forma como as pessoas se tratam no dia a dia, em quase todas as situações.",
+      "hintCorrect": "Correto! 'Você' tornou-se o pronome de tratamento padrão no Brasil, transitando entre a informalidade e a formalidade do dia a dia.",
+      "hintWrong": "Incorreto. A resposta certa é 'Um tratamento padrão, nem formal nem informal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-033",
+      "question": "Para se dirigir a um General do exército, usa-se:",
+      "options": [
+        "Vossa Senhoria",
+        "Vossa Paternidade",
+        "Vossa Excelência",
+        "Vossa Majestade"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Oficiais generais das Forças Armadas estão no grupo das altas autoridades.",
+      "hintCorrect": "Correto! Generais, Almirantes e Brigadeiros são tratados por Vossa Excelência.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Excelência'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-034",
+      "question": "Qual frase demonstra o uso correto de 'Sua Excelência'?",
+      "options": [
+        "Senhor Ministro, Sua Excelência pode me ajudar?",
+        "O jornal informou que Sua Excelência, o Governador, assinou o decreto.",
+        "Sua Excelência, por favor, sente-se.",
+        "Eu disse a Sua Excelência que o projeto estava pronto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a frase onde se está a falar 'sobre' a autoridade, e não 'com' ela.",
+      "hintCorrect": "Exato! A frase fala sobre o governador, relatando uma ação dele. Portanto, o uso de 'Sua Excelência' está correto.",
+      "hintWrong": "Incorreto. A resposta certa é 'O jornal informou que Sua Excelência, o Governador, assinou o decreto'. Nas outras opções, por ser um diálogo direto, o correto seria 'Vossa Excelência'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-035",
+      "question": "A forma 'Vossa Magnificência' é reservada para:",
+      "options": [
+        "Juízes do Supremo Tribunal.",
+        "Reitores de Universidades.",
+        "Cardeais.",
+        "Reis."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É um tratamento específico do meio académico.",
+      "hintCorrect": "Correto! É o tratamento exclusivo para reitores.",
+      "hintWrong": "Incorreto. A resposta certa é 'Reitores de Universidades'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-036",
+      "question": "Complete a frase: 'Vossa Eminência ___ convidado para a cerimónia.' (falando com um Cardeal)",
+      "options": [
+        "está",
+        "estais",
+        "está Vossa",
+        "é"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo deve estar na 3ª pessoa do singular.",
+      "hintCorrect": "Correto! A concordância verbal é sempre na 3ª pessoa: '(ele) está'.",
+      "hintWrong": "Incorreto. A resposta certa é 'está'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-037",
+      "question": "A forma 'tu' (2ª pessoa do singular) é mais comum em qual contexto?",
+      "options": [
+        "Na maior parte do Brasil, em situações formais.",
+        "Em Portugal e em algumas regiões do Brasil, em tratamento informal.",
+        "Em documentos oficiais.",
+        "Para se dirigir a autoridades."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Enquanto o Brasil adotou 'você', Portugal manteve o uso de 'tu' para a informalidade.",
+      "hintCorrect": "Correto! 'Tu' é o pronome informal padrão em Portugal e em certas regiões do Brasil (como o Sul e partes do Norte/Nordeste).",
+      "hintWrong": "Incorreto. A resposta certa é 'Em Portugal e em algumas regiões do Brasil, em tratamento informal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-038",
+      "question": "Qual é a abreviação de 'Vossa Alteza'?",
+      "options": [
+        "V. A.",
+        "V. Alt.",
+        "V. Alz.",
+        "V. A.ª"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A abreviação é formada pelas iniciais.",
+      "hintCorrect": "Correto! A abreviação padrão para Vossa Alteza é V. A.",
+      "hintWrong": "Incorreto. A resposta certa é 'V. A.'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-039",
+      "question": "Se um rei é 'justo', como um súbdito se dirige a ele?",
+      "options": [
+        "Vossa Majestade sois justo.",
+        "Vossa Majestade é justo.",
+        "Sua Majestade é justo.",
+        "Vossa Majestade é justa."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use 'Vossa' para falar com ele, verbo na 3ª pessoa, e adjetivo concordando com o sexo masculino.",
+      "hintCorrect": "Exato! 'Vossa' (diálogo direto) + verbo na 3ª pessoa ('é') + adjetivo no masculino ('justo').",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Majestade é justo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-040",
+      "question": "O vocativo 'Magnífico Reitor' é usado em:",
+      "options": [
+        "Qualquer conversa com um reitor.",
+        "No início de uma correspondência oficial para um reitor.",
+        "Para falar sobre o reitor.",
+        "Apenas em cerimónias de posse."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a forma cerimonial de se endereçar a um reitor no início de um ofício ou discurso.",
+      "hintCorrect": "Correto! 'Magnífico Reitor' é o vocativo formal usado para iniciar um documento ou discurso dirigido a essa autoridade.",
+      "hintWrong": "Incorreto. A resposta certa é 'No início de uma correspondência oficial para um reitor'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-041",
+      "question": "Qual pronome de tratamento deu origem a 'você'?",
+      "options": [
+        "Vossa Senhoria",
+        "Vossa Alteza",
+        "Vossa Mercê",
+        "Vós"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Era uma forma de tratamento respeitosa que foi sendo contraída com o tempo.",
+      "hintCorrect": "Correto! A evolução foi Vossa Mercê > Vosmecê > Você.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Mercê'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-042",
+      "question": "Para se dirigir a um Deputado, usa-se:",
+      "options": [
+        "Vossa Senhoria",
+        "Vossa Excelência",
+        "Vossa Paternidade",
+        "Vossa Magnificência"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Membros do poder legislativo (deputados, senadores) são altas autoridades do Estado.",
+      "hintCorrect": "Correto! Deputados são tratados por Vossa Excelência.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Excelência'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-043",
+      "question": "A frase 'Vossa Excelência está enganada' refere-se a:",
+      "options": [
+        "Um homem.",
+        "Uma mulher.",
+        "Um grupo de pessoas.",
+        "Não é possível saber."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O adjetivo 'enganada' está no feminino.",
+      "hintCorrect": "Correto! O adjetivo concorda com o sexo da pessoa, que neste caso é uma mulher.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma mulher', pois o adjetivo 'enganada' está no feminino.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-044",
+      "question": "Qual a diferença principal entre 'você' e 'tu'?",
+      "options": [
+        "Não há diferença.",
+        "'Você' é formal e 'tu' é informal.",
+        "A concordância verbal: 'você' usa 3ª pessoa e 'tu' usa 2ª pessoa.",
+        "'Você' é para homens e 'tu' para mulheres."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense na conjugação dos verbos: 'Tu fazes' vs 'Você faz'.",
+      "hintCorrect": "Exato! A principal diferença gramatical é a conjugação do verbo. 'Tu' exige a 2ª pessoa ('tu és', 'tu queres'), enquanto 'você' exige a 3ª pessoa ('você é', 'você quer').",
+      "hintWrong": "Incorreto. A resposta certa é 'A concordância verbal: 'você' usa 3ª pessoa e 'tu' usa 2ª pessoa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-045",
+      "question": "A forma 'Vossa Reverendíssima' é para:",
+      "options": [
+        "O Papa.",
+        "Cardeais.",
+        "Sacerdotes e pastores em geral.",
+        "Reis."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É um tratamento religioso, mas não para as mais altas hierarquias.",
+      "hintCorrect": "Correto! É a forma de tratamento geral para religiosos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sacerdotes e pastores em geral'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-046",
+      "question": "Complete a frase: 'Gostaria de saber se Vossa Senhoria ___ o documento.'",
+      "options": [
+        "recebeu",
+        "recebestes",
+        "recebi",
+        "recebemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo deve estar na 3ª pessoa do singular.",
+      "hintCorrect": "Correto! A concordância é com 'ele/ela': '(ele) recebeu'.",
+      "hintWrong": "Incorreto. A resposta certa é 'recebeu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-047",
+      "question": "O uso de 'Sua' (em 'Sua Excelência') é para:",
+      "options": [
+        "Falar diretamente com a pessoa.",
+        "Falar a respeito da pessoa.",
+        "Situações informais.",
+        "Sempre que o verbo estiver no plural."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É usado quando a autoridade é o assunto da conversa, não o interlocutor.",
+      "hintCorrect": "Correto! 'Sua' é usado para se referir à autoridade quando se fala sobre ela.",
+      "hintWrong": "Incorreto. A resposta certa é 'Falar a respeito da pessoa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-048",
+      "question": "Qual é a forma de tratamento para um Imperador?",
+      "options": [
+        "Vossa Majestade (V. M.)",
+        "Vossa Majestade Imperial (V. M. I.)",
+        "Vossa Alteza Imperial (V. A. I.)",
+        "Vossa Soberania (V. S.)"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É semelhante ao tratamento de reis, mas com um adjetivo que denota o império.",
+      "hintCorrect": "Correto! Para imperadores, a forma correta é Vossa Majestade Imperial.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Majestade Imperial (V. M. I.)'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-049",
+      "question": "A frase 'Peço a Vossa Excelência que reconsidere sua decisão' está correta por quê?",
+      "options": [
+        "Está errada, deveria ser 'vossa decisão'.",
+        "Está correta, pois o pronome possessivo concorda na 3ª pessoa.",
+        "Está errada, deveria ser 'tua decisão'.",
+        "Está errada, o verbo deveria ser 'peçais'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Lembre-se da regra de concordância pronominal para as formas de tratamento.",
+      "hintCorrect": "Exato! Embora nos dirijamos a 'Vossa Excelência', o pronome possessivo que se refere a ele/ela é sempre o de 3ª pessoa ('seu/sua').",
+      "hintWrong": "Incorreto. A resposta certa é 'Está correta, pois o pronome possessivo concorda na 3ª pessoa'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-050",
+      "question": "O vocativo 'Excelentíssimo Senhor' é usado para iniciar uma carta para um:",
+      "options": [
+        "Diretor de empresa.",
+        "Amigo próximo.",
+        "Presidente da República.",
+        "Sacerdote."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É o endereçamento formal para as mais altas autoridades do Estado.",
+      "hintCorrect": "Correto! Esta é a fórmula do vocativo para autoridades tratadas por 'Vossa Excelência'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Presidente da República'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-051",
+      "question": "Qual a forma correta de se dirigir a uma rainha?",
+      "options": [
+        "Vossa Alteza",
+        "Vossa Majestade",
+        "Vossa Senhoria",
+        "Vossa Eminência"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o tratamento máximo da monarquia.",
+      "hintCorrect": "Correto! Reis e rainhas são tratados por Vossa Majestade.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Majestade'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-052",
+      "question": "A frase 'Vós sois o sal da terra' usa qual pessoa do discurso?",
+      "options": [
+        "1ª pessoa do plural (nós)",
+        "2ª pessoa do plural (vós)",
+        "3ª pessoa do plural (eles)",
+        "3ª pessoa do singular (ele)"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Vós' é um pronome pessoal, diferente dos pronomes de tratamento.",
+      "hintCorrect": "Correto! 'Vós' é o pronome pessoal da 2ª pessoa do plural, com conjugação verbal própria ('sois'), e não deve ser confundido com os pronomes de tratamento.",
+      "hintWrong": "Incorreto. A resposta certa é '2ª pessoa do plural (vós)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-053",
+      "question": "Qual o tratamento para um Duque?",
+      "options": [
+        "Vossa Majestade",
+        "Vossa Alteza",
+        "Vossa Senhoria",
+        "Vossa Excelência"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Duques, príncipes e princesas partilham o mesmo tratamento.",
+      "hintCorrect": "Correto! Duques são tratados por Vossa Alteza.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Alteza'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-054",
+      "question": "A concordância de género com pronomes de tratamento (ex: Vossa Excelência) é feita com:",
+      "options": [
+        "O género da palavra (ex: 'Excelência' é feminino).",
+        "O sexo da pessoa a quem nos referimos.",
+        "É sempre no masculino.",
+        "É sempre no feminino."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Se falamos com uma governadora, dizemos que ela está 'ocupada', não 'ocupado'.",
+      "hintCorrect": "Exato! O adjetivo concorda com o sexo da pessoa, ignorando o género gramatical do pronome de tratamento.",
+      "hintWrong": "Incorreto. A resposta certa é 'O sexo da pessoa a quem nos referimos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "tratamento-055",
+      "question": "Qual frase está errada?",
+      "options": [
+        "Você vai à festa?",
+        "Tu vais à festa?",
+        "O senhor vai à festa?",
+        "Vossa Excelência ides à festa?"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Lembre-se da regra de ouro da concordância verbal para pronomes de tratamento.",
+      "hintCorrect": "Correto! A frase está errada porque 'Vossa Excelência' exige o verbo na 3ª pessoa ('vai'), e não na 2ª do plural ('ides').",
+      "hintWrong": "Incorreto. A frase errada é 'Vossa Excelência ides à festa?'. O correto seria 'Vossa Excelência vai à festa?'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-056",
+      "question": "O tratamento 'Senhor'/'Senhora' denota:",
+      "options": [
+        "Intimidade e amizade.",
+        "Respeito e formalidade.",
+        "Hierarquia religiosa.",
+        "Hierarquia monárquica."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É a forma mais comum de demonstrar deferência em situações quotidianas.",
+      "hintCorrect": "Correto! É o pronome de tratamento formal padrão da língua.",
+      "hintWrong": "Incorreto. A resposta certa é 'Respeito e formalidade'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "tratamento-057",
+      "question": "Para falar sobre um Reitor, você diz:",
+      "options": [
+        "Vossa Magnificência",
+        "Sua Magnificência",
+        "O Magnífico",
+        "O Reitor"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Para falar 'a respeito de', usa-se 'Sua...'.",
+      "hintCorrect": "Correto! Usa-se 'Sua Magnificência' para se referir ao reitor em uma conversa com terceiros.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sua Magnificência'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-058",
+      "question": "Qual a abreviação de 'Vossa Reverendíssima'?",
+      "options": [
+        "V. R.",
+        "V. Rev.",
+        "V. Rev.ma",
+        "V. R.ma"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A abreviação inclui parte da palavra e a terminação elevada.",
+      "hintCorrect": "Correto! A abreviação padrão é V. Rev.ma.",
+      "hintWrong": "Incorreto. A resposta certa é 'V. Rev.ma'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-059",
+      "question": "A frase 'Sua Majestade, o rei, está doente' está correta?",
+      "options": [
+        "Sim, pois fala-se 'sobre' o rei.",
+        "Não, deveria ser 'Vossa Majestade'.",
+        "Não, o verbo deveria ser 'estais'.",
+        "Não, o adjetivo deveria ser 'doenta'."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Analise o pronome ('Sua' ou 'Vossa'), o verbo e o adjetivo.",
+      "hintCorrect": "Correto! A frase está perfeita: 'Sua' é usado para falar sobre o rei, o verbo 'está' está na 3ª pessoa, e 'doente' concorda com o sujeito.",
+      "hintWrong": "Incorreto. A frase está correta. Usa-se 'Sua' para falar sobre o rei.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-060",
+      "question": "O tratamento por 'Vossa Excelência' NÃO se aplica a:",
+      "options": [
+        "Ministros de Estado.",
+        "Senadores.",
+        "Diretores de escolas.",
+        "Generais."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Qual dos cargos não pertence ao grupo de 'altas autoridades do Estado'?",
+      "hintCorrect": "Correto! Diretores de escolas são tratados por 'Vossa Senhoria' (ou 'Senhor Diretor'). 'Vossa Excelência' é para altas patentes.",
+      "hintWrong": "Incorreto. A resposta certa é 'Diretores de escolas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "tratamento-101",
+      "question": "Qual é a forma de tratamento para um Papa?",
+      "options": [
+        "Vossa Eminência",
+        "Vossa Santidade",
+        "Vossa Majestade",
+        "Vossa Reverendíssima"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É o tratamento máximo da Igreja Católica, associado à santidade.",
+      "hintCorrect": "Correto! O Papa é tratado por Vossa Santidade (V.S.).",
+      "hintWrong": "Incorreto. A resposta certa é 'Vossa Santidade'.",
+      "difficulty": "easy"
+    }
+  ]
+}

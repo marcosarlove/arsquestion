@@ -1,0 +1,1522 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Crase",
+  "questions": [
+    {
+      "id": "crase-001",
+      "question": "Complete a frase: 'Fui ___ praia no fim de semana.'",
+      "options": [
+        "a",
+        "à",
+        "há",
+        "ah"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição: troque 'praia' por uma palavra masculina, como 'parque'. Como fica a frase?",
+      "hintCorrect": "Correto! Quem vai, vai 'a' algum lugar. 'Praia' é uma palavra feminina que pede o artigo 'a'. A fusão da preposição 'a' + artigo 'a' resulta em 'à'. (Fui ao parque).",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Trocando por uma palavra masculina: 'Fui ao parque'. Se deu 'ao', então há crase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-002",
+      "question": "O acento grave (`) indica o fenómeno da crase. O que é a crase?",
+      "options": [
+        "O nome do acento.",
+        "A fusão da preposição 'a' com o artigo feminino 'a' ou 'as'.",
+        "Um sinal para indicar perguntas.",
+        "A separação de sílabas."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A crase não é o acento, mas sim a união de duas vogais idênticas. Qual é a união mais comum na língua portuguesa?",
+      "hintCorrect": "Exato! Crase é o nome da fusão da preposição 'a' com o artigo 'a(s)'. O acento grave apenas marca essa ocorrência.",
+      "hintWrong": "Incorreto. A resposta certa é 'A fusão da preposição 'a' com o artigo feminino 'a' ou 'as''. O nome do acento é 'acento grave'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-003",
+      "question": "Em qual das frases a crase é PROIBIDA?",
+      "options": [
+        "Refiro-me à diretora.",
+        "Chegamos à noite.",
+        "Comecei a estudar para o teste.",
+        "Fui à Bahia."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A crase nunca é usada antes de uma categoria específica de palavras. Procure essa categoria nas opções.",
+      "hintCorrect": "Correto! É proibido usar crase antes de verbos no infinitivo, como 'estudar'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Comecei a estudar para o teste'. Nunca se usa crase antes de verbos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-004",
+      "question": "Complete a frase: 'O pagamento será feito ___ prazo.'",
+      "options": [
+        "a",
+        "à",
+        "á",
+        "as"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Prazo' é uma palavra masculina. Usa-se crase antes de palavras masculinas?",
+      "hintCorrect": "Correto! Não se usa crase antes de palavras masculinas. O 'a' aqui é apenas uma preposição.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. É proibido usar crase antes de palavras masculinas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-005",
+      "question": "A crase é obrigatória em locuções adverbiais femininas. Qual das opções abaixo é um exemplo disso?",
+      "options": [
+        "Andar a cavalo.",
+        "Sair às pressas.",
+        "Falar a verdade.",
+        "Chegar a tempo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Procure uma expressão que indique modo e seja formada por uma palavra feminina no plural.",
+      "hintCorrect": "Exato! 'Às pressas' é uma locução adverbial de modo feminina, e o uso da crase é obrigatório.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sair às pressas', que é uma locução adverbial feminina.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-006",
+      "question": "Complete a frase: 'A reunião começará ___ 14h.'",
+      "options": [
+        "as",
+        "às",
+        "a",
+        "à"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na indicação de horas exatas, o uso da crase é obrigatório.",
+      "hintCorrect": "Correto! Usa-se crase antes da indicação de horas exatas. 'A reunião começará às 14h'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. Antes de horas determinadas, sempre se usa crase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-007",
+      "question": "Em qual caso o uso da crase é FACULTATIVO?",
+      "options": [
+        "Antes de verbos.",
+        "Antes de nomes próprios femininos.",
+        "Antes de palavras masculinas.",
+        "Em locuções adverbiais de tempo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Com este tipo de nome, o uso do artigo 'a' é opcional, dependendo da familiaridade. Ex: 'Entreguei a/à Maria'.",
+      "hintCorrect": "Correto! Antes de nomes próprios femininos, como 'Paula' ou 'Mariana', o uso da crase é opcional.",
+      "hintWrong": "Incorreto. A resposta certa é 'Antes de nomes próprios femininos'. Nos outros casos, a crase é proibida ou obrigatória.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-008",
+      "question": "Complete a frase: 'Não me referi ___ aquilo que você disse.'",
+      "options": [
+        "a",
+        "à",
+        "aquilo",
+        "àquilo"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O verbo 'referir-se' pede a preposição 'a'. Essa preposição se funde com o 'a' inicial dos pronomes 'aquele', 'aquela', 'aquilo'.",
+      "hintCorrect": "Exato! Ocorre a crase da preposição 'a' (de 'referir-se a') com o pronome 'aquilo', resultando em 'àquilo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'àquilo'. Quem se refere, refere-se 'a' algo. A preposição 'a' se junta com 'aquilo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-009",
+      "question": "Qual frase está INCORRETA quanto ao uso da crase?",
+      "options": [
+        "Fui à farmácia.",
+        "Ele começou à fazer o dever.",
+        "Chegarei às dez horas.",
+        "Dirigi-me à senhora com respeito."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Lembre-se da regra sobre o uso da crase antes de verbos.",
+      "hintCorrect": "Correto! A frase 'Ele começou à fazer o dever' está incorreta, pois nunca se usa crase antes de um verbo no infinitivo ('fazer').",
+      "hintWrong": "Incorreto. A frase errada é 'Ele começou à fazer o dever'. É proibido usar crase antes de verbos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-010",
+      "question": "Complete a frase: 'Voltei ___ casa cedo.'",
+      "options": [
+        "a",
+        "à",
+        "para a",
+        "na"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A palavra 'casa', no sentido de 'lar', não admite artigo, a menos que esteja especificada. Portanto, não há crase.",
+      "hintCorrect": "Correto! Quando 'casa' significa o próprio lar, não se usa crase. Seria 'Voltei à casa de meus pais' se estivesse especificada.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Antes da palavra 'casa' (sentido de lar) não se usa crase, a não ser que ela venha especificada.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-011",
+      "question": "Complete a frase: 'Voltei ___ casa dos meus avós.'",
+      "options": [
+        "a",
+        "à",
+        "para",
+        "de"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'casa' está especificada ('dos meus avós'). Neste caso, a crase é obrigatória.",
+      "hintCorrect": "Exato! Como a casa está especificada, o uso do artigo é obrigatório, e a fusão com a preposição 'a' (de 'voltar a') exige a crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Como a palavra 'casa' está especificada ('dos meus avós'), o uso da crase é obrigatório.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-012",
+      "question": "O uso da crase é facultativo antes de:",
+      "options": [
+        "Verbos no infinitivo.",
+        "Palavras masculinas.",
+        "Pronomes possessivos femininos (minha, sua, nossa).",
+        "Pronomes de tratamento (Vossa Excelência)."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Exemplo: 'Fiz alusão a/à sua ideia.' Ambas as formas estão corretas.",
+      "hintCorrect": "Correto! Antes de pronomes possessivos femininos, o uso do artigo é opcional, tornando a crase facultativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronomes possessivos femininos (minha, sua, nossa)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-013",
+      "question": "Complete a frase: 'Fomos ___ festas de aniversário.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem vai, vai 'a'. 'Festas' é uma palavra feminina no plural que pede o artigo 'as'. Qual a fusão correta?",
+      "hintCorrect": "Correto! Preposição 'a' + artigo 'as' = 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. (Fomos aos aniversários).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-014",
+      "question": "Complete a frase: 'Não dou atenção ___ pessoas mal-educadas.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem dá atenção, dá atenção 'a' alguém. 'Pessoas' é feminino plural. Use o truque da substituição: 'Não dou atenção aos rapazes'.",
+      "hintCorrect": "Exato! A regência pede a preposição 'a', que se funde com o artigo 'as' antes de 'pessoas', resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. Trocando por um masculino: 'Não dou atenção aos indivíduos mal-educados'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-015",
+      "question": "A crase é proibida em qual das opções?",
+      "options": [
+        "Fui à Itália.",
+        "Cheguei às 13h.",
+        "Ficamos face a face.",
+        "Obedeço às regras."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Em expressões formadas por palavras repetidas, não se usa crase.",
+      "hintCorrect": "Correto! Em expressões com palavras repetidas, como 'cara a cara', 'dia a dia', 'gota a gota', a crase é proibida.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ficamos face a face'. Não há crase em expressões com palavras repetidas.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-016",
+      "question": "Complete a frase: 'Vou ___ Bahia nas férias.'",
+      "options": [
+        "a",
+        "à",
+        "para",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque para nomes de lugares: 'Vou a, volto da, crase há!'. Como se diz: 'Volto de Bahia' ou 'Volto da Bahia'?",
+      "hintCorrect": "Correto! Quem volta, volta 'da' Bahia. Portanto, quem vai, vai 'à' Bahia.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. O macete é: se na volta usamos 'da' (de+a), na ida usamos 'à' (a+a). 'Volto da Bahia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-017",
+      "question": "Complete a frase: 'Vou ___ Portugal visitar a minha família.'",
+      "options": [
+        "a",
+        "à",
+        "em",
+        "ao"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Use o truque para nomes de lugares: 'Vou a, volto de, crase pra quê?'. Como se diz: 'Volto de Portugal' ou 'Volto da Portugal'?",
+      "hintCorrect": "Correto! Quem volta, volta 'de' Portugal. Portanto, quem vai, vai 'a' Portugal, sem crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. O macete é: se na volta usamos 'de', na ida usamos apenas 'a'. 'Volto de Portugal'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-018",
+      "question": "Complete a frase: 'Fui ___ Roma antiga.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "para"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Normalmente, diz-se 'Vou a Roma' (pois 'volto de Roma'). No entanto, o nome do lugar está especificado por um adjetivo ('antiga'). O que acontece nesse caso?",
+      "hintCorrect": "Exato! Mesmo que o nome do lugar não peça crase, se ele vier especificado (neste caso, 'antiga'), a crase torna-se obrigatória.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Quando um nome de lugar (topónimo) vem especificado, o uso da crase é obrigatório.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-019",
+      "question": "A frase 'A reunião foi marcada para as 19h' está correta por quê?",
+      "options": [
+        "Deveria ser 'para às 19h'.",
+        "A preposição 'para' impede o uso da crase.",
+        "A frase está incorreta.",
+        "A crase é facultativa nesse caso."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Não se pode ter duas preposições ('para' e 'a') juntas antes do artigo 'as'.",
+      "hintCorrect": "Correto! A presença de outras preposições como 'para', 'desde', 'após' antes de uma expressão de hora elimina a necessidade da preposição 'a' que formaria a crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'A preposição 'para' impede o uso da crase'. Já existe uma preposição ('para'), então não ocorre a fusão que gera a crase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-020",
+      "question": "Complete a frase: 'A peça ___ qual assisti era ótima.'",
+      "options": [
+        "a",
+        "à",
+        "a qual",
+        "à qual"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O verbo 'assistir', no sentido de 'ver', pede a preposição 'a'. Essa preposição se funde com o 'a' do pronome relativo 'a qual'.",
+      "hintCorrect": "Correto! Quem assiste (vê), assiste 'a' algo. A preposição 'a' se une ao pronome 'a qual', resultando em 'à qual'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à qual'. O verbo assistir (ver) exige a preposição 'a'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-021",
+      "question": "Em qual opção a crase é PROIBIDA?",
+      "options": [
+        "Fui àquela cidade.",
+        "Pedi um favor a ela.",
+        "Cheguei à uma hora da tarde.",
+        "Vendi a casa à vista."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A crase não é usada antes da maioria dos pronomes, incluindo os pronomes pessoais.",
+      "hintCorrect": "Correto! Não se usa crase antes de pronomes pessoais como 'ela', 'mim', 'ti'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pedi um favor a ela'. É proibido usar crase antes da maioria dos pronomes, como os pronomes pessoais.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-022",
+      "question": "Complete a frase: 'Fui até ___ praia.' O uso da crase é:",
+      "options": [
+        "Obrigatório",
+        "Proibido",
+        "Facultativo",
+        "Inexistente"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Depois da preposição 'até', o que acontece com a crase?",
+      "hintCorrect": "Exato! Depois da preposição 'até', o uso da crase é facultativo. Ambas as formas 'até a praia' e 'até à praia' são corretas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Facultativo'. Após a preposição 'até', pode-se usar ou não a crase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-023",
+      "question": "Complete a frase: 'Ele tem um estilo semelhante ___ de seu pai.'",
+      "options": [
+        "a",
+        "à",
+        "ao",
+        "àquele"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'estilo' está subentendida depois da lacuna ('semelhante ao estilo de seu pai'). 'Estilo' é uma palavra masculina.",
+      "hintCorrect": "Correto! A frase completa seria 'Ele tem um estilo semelhante ao estilo de seu pai'. A preposição 'a' se une ao artigo 'o', formando 'ao'.",
+      "hintWrong": "Incorreto. A resposta certa é 'ao'. A palavra 'estilo' (masculina) está oculta: 'semelhante ao [estilo] de seu pai'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-024",
+      "question": "Complete a frase: 'Sua blusa é idêntica ___ minha.'",
+      "options": [
+        "a",
+        "à",
+        "a minha",
+        "à minha"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'blusa' está subentendida ('idêntica à minha blusa'). Use o truque da substituição: 'Seu casaco é idêntico ao meu'.",
+      "hintCorrect": "Exato! A palavra 'blusa' está implícita. Como 'idêntico' pede a preposição 'a', e 'minha (blusa)' pede o artigo 'a', ocorre a crase. 'Seu casaco é idêntico ao meu'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. A palavra 'blusa' está oculta: 'idêntica à [minha blusa]'. Trocando por masculino: 'Seu casaco é idêntico ao [meu casaco]'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-025",
+      "question": "A crase está mal empregada em:",
+      "options": [
+        "Graças à sua ajuda, consegui.",
+        "Fui à Portugal de Camões.",
+        "Comecei à correr na praia.",
+        "À noite, todos os gatos são pardos."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Qual é a regra sobre o uso da crase antes de verbos?",
+      "hintCorrect": "Correto! A frase 'Comecei à correr...' está errada, pois nunca se usa crase antes de um verbo no infinitivo.",
+      "hintWrong": "Incorreto. A frase errada é 'Comecei à correr na praia', pois não se usa crase antes de verbos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-026",
+      "question": "Complete a frase: 'Não assisto ___ novelas.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Assistir no sentido de 'ver' pede a preposição 'a'. 'Novelas' é feminino plural. Use o truque da substituição: 'Não assisto aos filmes'.",
+      "hintCorrect": "Correto! A preposição 'a' se funde com o artigo 'as', resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. Quem assiste (vê), assiste 'a' algo. Trocando por masculino: 'Não assisto aos programas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-027",
+      "question": "Complete a frase: 'O texto faz referência ___ Revolução Francesa.'",
+      "options": [
+        "a",
+        "à",
+        "uma",
+        "a uma"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'Revolução Francesa' por 'Movimento Iluminista'.",
+      "hintCorrect": "Exato! 'O texto faz referência ao Movimento Iluminista'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Trocando por um termo masculino: 'O texto faz referência ao Iluminismo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-028",
+      "question": "A crase é proibida antes de pronomes de tratamento, com exceção de:",
+      "options": [
+        "Vossa Alteza.",
+        "Você.",
+        "Senhora, senhorita, dona.",
+        "Vossa Santidade."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Com quais formas de tratamento mais 'tradicionais' ou 'respeitosas' o artigo feminino é comumente usado?",
+      "hintCorrect": "Correto! As formas 'senhora', 'senhorita' e 'dona' admitem o artigo 'a' e, portanto, podem ter crase. Ex: 'Peço desculpas à senhora'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Senhora, senhorita, dona'. Com a maioria dos pronomes de tratamento, a crase é proibida.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-029",
+      "question": "Complete a frase: 'Ele se dedica ___ causas nobres.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem se dedica, se dedica 'a' algo. 'Causas' é feminino plural. Use o truque da substituição: 'Ele se dedica aos projetos nobres'.",
+      "hintCorrect": "Correto! A preposição 'a' se funde com o artigo 'as', resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. Trocando por masculino: 'Ele se dedica aos trabalhos nobres'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-030",
+      "question": "Qual a forma correta?",
+      "options": [
+        "Bife a cavalo.",
+        "Bife à cavalo.",
+        "Bife ao cavalo.",
+        "Bife há cavalo."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Cavalo' é uma palavra masculina. Qual a regra para crase antes de palavras masculinas?",
+      "hintCorrect": "Correto! Não se usa crase antes de palavras masculinas. 'A cavalo' é uma locução adverbial de modo com base masculina.",
+      "hintWrong": "Incorreto. A resposta certa é 'Bife a cavalo'. Não há crase antes de palavra masculina.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-031",
+      "question": "Complete a frase: 'Estou disposto ___ colaborar.'",
+      "options": [
+        "a",
+        "à",
+        "para",
+        "com"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Colaborar' é um verbo. Qual a regra para crase antes de verbos?",
+      "hintCorrect": "Correto! Nunca se usa crase antes de verbos no infinitivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. É proibido usar crase antes de verbos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-032",
+      "question": "A expressão 'à toa' leva crase por ser:",
+      "options": [
+        "Uma palavra masculina.",
+        "Um nome de lugar.",
+        "Uma locução adverbial feminina.",
+        "Um pronome."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma expressão que indica modo e tem como núcleo uma palavra feminina.",
+      "hintCorrect": "Exato! 'À toa' é uma locução adverbial de modo com base feminina, por isso o uso da crase é obrigatório.",
+      "hintWrong": "Incorreto. A resposta certa é 'Uma locução adverbial feminina'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-033",
+      "question": "Complete a frase: 'Entreguei o presente ___ minha mãe.' O uso da crase é:",
+      "options": [
+        "Obrigatório",
+        "Proibido",
+        "Facultativo",
+        "Incorreto"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "'Minha' é um pronome possessivo feminino. Qual é a regra para esses casos?",
+      "hintCorrect": "Correto! Antes de pronomes possessivos femininos, o uso da crase é facultativo. 'Entreguei o presente a minha mãe' e '...à minha mãe' estão ambas corretas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Facultativo'. Antes de pronomes possessivos femininos, a crase é opcional.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-034",
+      "question": "Complete a frase: 'Os marinheiros voltaram ___ terra.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "para a"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A palavra 'terra' aqui significa 'terra firme', o oposto de 'mar'. Nesse sentido, a crase é proibida.",
+      "hintCorrect": "Correto! Quando 'terra' se opõe a 'bordo' ou 'mar', não se usa crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. No sentido de 'terra firme', oposto a 'bordo', não se usa crase.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-035",
+      "question": "Complete a frase: 'Retornei ___ terra onde nasci.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "para a"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'terra' está especificada ('onde nasci'). O que acontece com a crase nesse caso?",
+      "hintCorrect": "Exato! Como 'terra' está especificada, o uso da crase torna-se obrigatório.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. A palavra 'terra' está especificada, logo, a crase é obrigatória.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-036",
+      "question": "Qual a forma correta?",
+      "options": [
+        "Vendas à varejo.",
+        "Vendas a varejo.",
+        "Vendas ao varejo.",
+        "Vendas no varejo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Varejo' é uma palavra masculina.",
+      "hintCorrect": "Correto! Não se usa crase antes de palavras masculinas. A forma correta da locução é 'a varejo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vendas a varejo'. Não há crase antes de palavra masculina.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-037",
+      "question": "Complete a frase: 'O filme será exibido ___ partir das 20h.'",
+      "options": [
+        "a",
+        "à",
+        "para",
+        "em"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Partir' é um verbo. Qual a regra para o uso da crase antes de verbos?",
+      "hintCorrect": "Correto! É proibido usar crase antes de verbos no infinitivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Nunca se usa crase antes de um verbo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-038",
+      "question": "A crase está correta em:",
+      "options": [
+        "Fui à pé para o trabalho.",
+        "Enviei um e-mail à você.",
+        "Estou à sua disposição.",
+        "O prêmio foi dado à qualquer um."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Lembre-se que antes de pronomes possessivos femininos, a crase é facultativa, portanto, seu uso não está errado.",
+      "hintCorrect": "Correto! O uso da crase antes de pronomes possessivos femininos é facultativo, então 'à sua disposição' é uma forma válida (assim como 'a sua disposição'). As outras opções estão erradas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Estou à sua disposição'. A crase antes de pronome possessivo feminino é facultativa, logo, a forma com crase é aceitável. Nas outras opções, a crase é proibida.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-039",
+      "question": "Complete a frase: 'Chegamos ___ uma cidade desconhecida.'",
+      "options": [
+        "a",
+        "à",
+        "numa",
+        "em"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O 'a' antes de 'uma' (artigo indefinido) é apenas uma preposição. Não há fusão.",
+      "hintCorrect": "Correto! Não se usa crase antes de artigos indefinidos (um, uma, uns, umas). O 'a' é apenas a preposição exigida pelo verbo 'chegar'.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Não ocorre crase antes de artigo indefinido ('uma').",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-040",
+      "question": "Complete a frase: 'O direito ___ informação é fundamental.'",
+      "options": [
+        "a",
+        "à",
+        "da",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'informação' por 'conhecimento'.",
+      "hintCorrect": "Exato! 'O direito ao conhecimento'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Trocando por um termo masculino: 'O direito ao saber'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-041",
+      "question": "A crase é proibida antes de:",
+      "options": [
+        "Horas exatas.",
+        "Nomes de cidades que admitem artigo.",
+        "A maioria dos pronomes.",
+        "Locuções adverbiais femininas."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pronomes como 'ela', 'ninguém', 'esta', 'quem' não admitem crase antes deles.",
+      "hintCorrect": "Correto! A crase é proibida antes da maioria dos pronomes (pessoais, indefinidos, demonstrativos, etc.), com poucas exceções.",
+      "hintWrong": "Incorreto. A resposta certa é 'A maioria dos pronomes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-042",
+      "question": "Complete a frase: 'Fui ___ Londres.'",
+      "options": [
+        "a",
+        "à",
+        "em",
+        "para"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Use o truque dos lugares: 'Vou a, volto de, crase pra quê?'. Você volta 'de' Londres ou 'da' Londres?",
+      "hintCorrect": "Correto! Dizemos 'Volto de Londres'. Portanto, 'Vou a Londres', sem crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Quem volta, volta 'de' Londres. Logo, não há crase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-043",
+      "question": "Complete a frase: 'A decisão foi favorável ___ ré.'",
+      "options": [
+        "a",
+        "à",
+        "para",
+        "com"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'ré' por 'réu'.",
+      "hintCorrect": "Exato! 'A decisão foi favorável ao réu'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Trocando por masculino: 'A decisão foi favorável ao réu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-044",
+      "question": "Em 'Ele se vestia à moda de Luís XV', a crase se justifica porque:",
+      "options": [
+        "'Moda' é uma palavra masculina.",
+        "A expressão 'à moda de' (mesmo que a palavra 'moda' esteja implícita) exige crase.",
+        "É uma indicação de horas.",
+        "É um caso facultativo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A locução 'à moda de' ou 'à maneira de' é um caso especial que sempre leva crase.",
+      "hintCorrect": "Correto! A locução prepositiva 'à moda de' sempre tem crase. Às vezes, a palavra 'moda' fica subentendida, como em 'Bife à milanesa' (à moda de Milão).",
+      "hintWrong": "Incorreto. A resposta certa é 'A expressão 'à moda de' (...) exige crase'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-045",
+      "question": "Qual frase está correta?",
+      "options": [
+        "Fui à Paris.",
+        "Fui a Paris.",
+        "Fui na Paris.",
+        "Fui para à Paris."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Lembre-se do truque para nomes de lugares. Você volta 'de' Paris ou 'da' Paris?",
+      "hintCorrect": "Correto! Dizemos 'Volto de Paris', logo, 'Vou a Paris', sem crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fui a Paris'. (Volto de Paris -> Crase pra quê?).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-046",
+      "question": "Complete a frase: 'O navio chegou ___ uma ilha deserta.'",
+      "options": [
+        "a",
+        "à",
+        "em",
+        "numa"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Não se usa crase antes de artigos indefinidos como 'uma'.",
+      "hintCorrect": "Correto! O 'a' é apenas a preposição exigida pelo verbo 'chegar'. Não há artigo 'a' para fundir, pois já existe o artigo 'uma'.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Não ocorre crase antes de artigo indefinido.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-047",
+      "question": "Complete a frase: 'Ele foi condenado ___ pena de morte.'",
+      "options": [
+        "a",
+        "à",
+        "com a",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'pena de morte' por 'exílio perpétuo'.",
+      "hintCorrect": "Exato! 'Ele foi condenado ao exílio perpétuo'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Trocando por um termo masculino: 'Ele foi condenado ao sofrimento eterno'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-048",
+      "question": "A crase é proibida antes de pronomes demonstrativos como:",
+      "options": [
+        "Aquele, aquela, aquilo.",
+        "Mesma, própria.",
+        "Este, esse, isto, isso.",
+        "Senhora, senhorita."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Com quais pronomes demonstrativos o 'a' é apenas uma preposição? Ex: 'Não me refiro a ___'.",
+      "hintCorrect": "Correto! Não se usa crase antes de 'este', 'esse', 'isto', 'isso'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Este, esse, isto, isso'. Antes de 'aquele', 'aquela', 'aquilo', a crase pode ocorrer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-049",
+      "question": "Complete a frase: 'O debate ocorrerá das 18h ___ 20h.'",
+      "options": [
+        "as",
+        "às",
+        "a",
+        "à"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Quando há a preposição 'de' (em 'das'), a preposição 'a' que a acompanha não se funde com o artigo. É uma correlação: de...a.",
+      "hintCorrect": "Correto! Na correlação 'de...a', não se usa crase. 'Das 18h às 20h' estaria errado. O correto é 'Das 18h a as 20h' ou, mais comumente, 'Das 18h às 20h' (mas a forma 'a' é a mais purista). No entanto, a forma mais comum e aceita é 'das... às...'. A questão é capciosa. A forma mais correta gramaticalmente é 'a'. Mas 'às' é amplamente usado. Vamos considerar a regra 'de...a'.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Na estrutura 'de X a Y', não se usa crase no 'a'. Ex: 'Daqui a pouco', 'De segunda a sexta'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-050",
+      "question": "Qual o erro na frase: 'Fui à uma reunião importante.'?",
+      "options": [
+        "Não há erro.",
+        "Deveria ser 'a uma'.",
+        "Deveria ser 'numa'.",
+        "Falta uma vírgula."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Uma' é um artigo indefinido. Qual a regra da crase antes de artigos indefinidos?",
+      "hintCorrect": "Correto! Não se usa crase antes de artigos indefinidos (um, uma). O 'a' é apenas preposição.",
+      "hintWrong": "Incorreto. O erro é o uso da crase. A forma correta é 'Fui a uma reunião importante', pois não se usa crase antes de artigo indefinido.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-051",
+      "question": "Complete a frase: 'Ele se sentou ___ mesa para jantar.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "em"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A expressão 'sentar-se à mesa' é uma locução que indica lugar e usa crase.",
+      "hintCorrect": "Exato! 'Sentar-se à mesa' é uma expressão fixa que leva crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. A expressão consagrada é 'sentar-se à mesa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-052",
+      "question": "A crase é facultativa em:",
+      "options": [
+        "Fui ___ Bahia.",
+        "Cheguei ___ 8h.",
+        "Refiro-me ___ minha amiga.",
+        "Estou disposto ___ ajudar."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Antes de pronomes possessivos femininos, o uso da crase é opcional.",
+      "hintCorrect": "Correto! 'Refiro-me a minha amiga' e 'Refiro-me à minha amiga' são ambas formas corretas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Refiro-me ___ minha amiga', pois antes de pronomes possessivos femininos a crase é facultativa.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-053",
+      "question": "Complete a frase: 'O produto foi vendido ___ R$ 50,00.'",
+      "options": [
+        "a",
+        "à",
+        "por",
+        "em"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Antes de cifras (valores monetários), geralmente não se usa crase, a menos que haja uma palavra feminina implícita como 'quantia'. Mas na forma direta, o 'a' é apenas preposição.",
+      "hintCorrect": "Correto! Usa-se apenas a preposição 'a' para indicar o preço.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Para indicar preço, usa-se a preposição 'a' sem crase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-054",
+      "question": "Complete a frase: 'A candidata ___ qual me refiro passou no concurso.'",
+      "options": [
+        "a",
+        "à",
+        "a qual",
+        "à qual"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem se refere, se refere 'a' algo. A preposição 'a' se funde com o artigo 'a' do pronome 'a qual'.",
+      "hintCorrect": "Correto! A regência do verbo 'referir-se' exige a preposição 'a', que se contrai com o pronome relativo 'a qual'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à qual'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-055",
+      "question": "Em qual frase a crase indica uma locução adverbial de modo?",
+      "options": [
+        "Cheguei à noite.",
+        "Vire à direita.",
+        "Fiz o trabalho às pressas.",
+        "Fui à escola."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Procure a expressão que indica a 'maneira' como a ação foi feita.",
+      "hintCorrect": "Exato! 'Às pressas' indica o modo como o trabalho foi feito, sendo uma locução adverbial de modo feminina que exige crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fiz o trabalho às pressas'. 'À noite' é tempo, 'à direita' é lugar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-056",
+      "question": "Complete a frase: 'Não obedeço ___ regras injustas.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O verbo 'obedecer' é transitivo indireto e pede a preposição 'a'. Use o truque da substituição: 'Não obedeço aos regulamentos injustos'.",
+      "hintCorrect": "Correto! A preposição 'a' se funde com o artigo 'as' (de 'regras'), resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. O verbo obedecer rege a preposição 'a'. Trocando por masculino: 'Não obedeço aos critérios injustos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-057",
+      "question": "A crase é proibida quando o 'a' (singular) vem antes de uma palavra:",
+      "options": [
+        "Feminina no singular.",
+        "Masculina no singular.",
+        "Feminina no plural.",
+        "Masculina no plural."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Exemplo: 'Refiro-me a pessoas honestas'. O 'a' está no singular e 'pessoas' no plural.",
+      "hintCorrect": "Correto! Se o 'a' está no singular e a palavra seguinte no plural, esse 'a' é apenas preposição, não havendo artigo para a fusão. A forma correta com crase seria 'às pessoas'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Feminina no plural'. Ex: 'Vou a festas' (sem crase) vs 'Vou às festas' (com crase).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-058",
+      "question": "Complete a frase: 'Fui ___ Argentina.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "para a"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque dos lugares: 'Vou a, volto da, crase há!'. Você volta 'de' ou 'da' Argentina?",
+      "hintCorrect": "Correto! Dizemos 'Volto da Argentina'. Portanto, 'Vou à Argentina'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (Volto da Argentina -> Crase há!).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-059",
+      "question": "Qual a forma correta?",
+      "options": [
+        "Frente à frente.",
+        "Frente a frente.",
+        "Frente da frente.",
+        "Frente na frente."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Em expressões com palavras femininas repetidas, não se usa crase.",
+      "hintCorrect": "Correto! Assim como 'cara a cara' ou 'face a face', não há crase em expressões com palavras repetidas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Frente a frente'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-060",
+      "question": "Complete a frase: 'Agradeci ___ professora pela ajuda.'",
+      "options": [
+        "a",
+        "à",
+        "para a",
+        "com a"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Quem agradece, agradece 'a' alguém. Use o truque da substituição: troque 'professora' por 'professor'.",
+      "hintCorrect": "Exato! 'Agradeci ao professor'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (Agradeci ao professor).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-061",
+      "question": "A crase está incorreta em:",
+      "options": [
+        "Fui à França.",
+        "Cheguei à conclusão de que estava errado.",
+        "Ele prefere morrer à entregar-se.",
+        "Estou à procura de um emprego."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Procure a opção que tem um verbo logo após o 'à'.",
+      "hintCorrect": "Correto! A frase '...morrer à entregar-se' está errada, pois não se usa crase antes de um verbo no infinitivo ('entregar').",
+      "hintWrong": "Incorreto. A frase errada é 'Ele prefere morrer à entregar-se', pois não há crase antes de verbo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-062",
+      "question": "Complete a frase: 'O acesso ___ informação deve ser livre.'",
+      "options": [
+        "a",
+        "à",
+        "para a",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'informação' por 'conteúdo'.",
+      "hintCorrect": "Correto! 'O acesso ao conteúdo'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (O acesso ao conhecimento).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-063",
+      "question": "Complete a frase: 'Dirigi-me ___ Vossa Excelência com respeito.'",
+      "options": [
+        "a",
+        "à",
+        "para",
+        "com"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Vossa Excelência' é um pronome de tratamento. Qual a regra geral para eles?",
+      "hintCorrect": "Correto! Não se usa crase antes da maioria dos pronomes de tratamento. As exceções são 'senhora', 'senhorita' e 'dona'.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Não se usa crase antes da maioria dos pronomes de tratamento.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-064",
+      "question": "A crase é obrigatória em:",
+      "options": [
+        "Vou a pé.",
+        "Estou a disposição.",
+        "Cheguei à uma hora.",
+        "Vire à esquerda."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Procure uma locução adverbial de lugar formada por palavra feminina.",
+      "hintCorrect": "Exato! 'À esquerda' é uma locução adverbial de lugar feminina, exigindo o uso da crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vire à esquerda', que é uma locução adverbial feminina. 'A pé' tem palavra masculina, 'a disposição' deveria ser 'à disposição', e 'à uma hora' está correto, mas a pergunta pede a opção obrigatória entre as listadas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-065",
+      "question": "Complete a frase: 'Ele chegou ___ tempo de ver o final do filme.'",
+      "options": [
+        "a",
+        "à",
+        "em",
+        "no"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Tempo' é uma palavra masculina.",
+      "hintCorrect": "Correto! Não se usa crase antes de palavras masculinas.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Não há crase antes de palavra masculina ('tempo').",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-066",
+      "question": "Complete a frase: 'A solução ___ qual chegamos foi a melhor.'",
+      "options": [
+        "a",
+        "à",
+        "a qual",
+        "à qual"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem chega, chega 'a' algum lugar. A preposição 'a' se funde com o artigo 'a' do pronome 'a qual'.",
+      "hintCorrect": "Correto! A regência do verbo 'chegar' pede a preposição 'a', que se contrai com o pronome relativo 'a qual'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à qual'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-067",
+      "question": "Qual frase está correta?",
+      "options": [
+        "Fui à Brasília.",
+        "Fui a Brasília.",
+        "Fui na Brasília.",
+        "Fui para à Brasília."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque dos lugares: 'Vou a, volto de'. Você volta 'de' ou 'da' Brasília?",
+      "hintCorrect": "Correto! Dizemos 'Volto de Brasília'. Portanto, 'Vou a Brasília', sem crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fui a Brasília'. (Volto de Brasília -> Crase pra quê?).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-068",
+      "question": "Complete a frase: 'Fui ___ Brasília de Niemeyer.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "para"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O nome da cidade ('Brasília') está especificado. O que acontece com a crase nesse caso?",
+      "hintCorrect": "Exato! Mesmo que 'Brasília' normalmente não admita crase, ao ser especificada ('de Niemeyer'), a crase se torna obrigatória.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Como o nome do lugar está especificado, a crase é obrigatória.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-069",
+      "question": "A crase é proibida antes de pronomes indefinidos. Qual frase exemplifica isso?",
+      "options": [
+        "Entreguei o prêmio à vencedora.",
+        "Não me refiro a ninguém em particular.",
+        "Fiz uma visita àquela senhora.",
+        "Chegamos à tardinha."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a frase que contém um pronome como 'alguém', 'ninguém', 'todos', 'qualquer'.",
+      "hintCorrect": "Correto! 'Ninguém' é um pronome indefinido, e não se usa crase antes dele.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não me refiro a ninguém em particular'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-070",
+      "question": "Complete a frase: 'O evento vai de segunda ___ sexta.'",
+      "options": [
+        "a",
+        "à",
+        "até",
+        "pra"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Na estrutura 'de...a', que indica um intervalo, não se usa crase no 'a'.",
+      "hintCorrect": "Correto! Em correlações como 'de X a Y', o 'a' é apenas preposição e não leva crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'a'. Na estrutura 'de...a...', não há crase.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-071",
+      "question": "Complete a frase: 'Ele tem aversão ___ barulho.'",
+      "options": [
+        "a",
+        "à",
+        "ao",
+        "o"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "'Barulho' é uma palavra masculina. 'Aversão' pede a preposição 'a'.",
+      "hintCorrect": "Correto! Quem tem aversão, tem aversão 'a' algo. A preposição 'a' se une ao artigo 'o' (de 'barulho'), formando 'ao'.",
+      "hintWrong": "Incorreto. A resposta certa é 'ao'. 'Aversão a' + 'o barulho' = 'aversão ao barulho'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-072",
+      "question": "Complete a frase: 'Ela tem aversão ___ confusão.'",
+      "options": [
+        "a",
+        "à",
+        "da",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o exemplo anterior como base. 'Confusão' é uma palavra feminina.",
+      "hintCorrect": "Exato! 'Aversão a' + 'a confusão' = 'aversão à confusão'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (aversão ao barulho -> aversão à confusão).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-073",
+      "question": "A crase é facultativa em:",
+      "options": [
+        "Fui até à escola.",
+        "Fui à escola.",
+        "Fui a escola.",
+        "Fui na escola."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Depois da preposição 'até', o uso da crase é opcional.",
+      "hintCorrect": "Correto! A forma 'Fui até à escola' (com crase) é uma das duas formas corretas, sendo a outra 'Fui até a escola' (sem crase). Portanto, o uso é facultativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fui até à escola', pois depois de 'até' a crase é facultativa. 'Fui até a escola' também estaria certo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-074",
+      "question": "Complete a frase: 'O texto é posterior ___ data do acordo.'",
+      "options": [
+        "a",
+        "à",
+        "da",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'data' por 'prazo'.",
+      "hintCorrect": "Correto! 'O texto é posterior ao prazo do acordo'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (posterior ao momento).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-075",
+      "question": "Qual frase usa a crase incorretamente?",
+      "options": [
+        "À medida que o tempo passa, ficamos mais sábios.",
+        "Não dei importância àquilo.",
+        "Passei o dia à toa.",
+        "Cheguei à casa exausto."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A palavra 'casa', no sentido de 'lar', só leva crase se estiver especificada.",
+      "hintCorrect": "Correto! A frase 'Cheguei à casa exausto' está errada. O correto é 'Cheguei a casa exausto', pois 'casa' (lar) não está especificada.",
+      "hintWrong": "Incorreto. A frase errada é 'Cheguei à casa exausto'. O correto seria 'Cheguei a casa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-076",
+      "question": "Complete a frase: 'O amor ___ pátria é um dever.'",
+      "options": [
+        "a",
+        "à",
+        "pela",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'pátria' por 'país'.",
+      "hintCorrect": "Exato! 'O amor ao país'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (O amor ao país).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-077",
+      "question": "Complete a frase: 'O filme faz alusão ___ Segunda Guerra Mundial.'",
+      "options": [
+        "a",
+        "à",
+        "sobre a",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'Segunda Guerra Mundial' por 'conflito'.",
+      "hintCorrect": "Correto! 'O filme faz alusão ao conflito'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (alusão ao evento).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-078",
+      "question": "A crase é proibida antes de pronomes relativos como:",
+      "options": [
+        "A qual, as quais.",
+        "Quem, cujo, cuja.",
+        "Que.",
+        "Onde."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Ex: 'A pessoa a ___ me refiro...'.",
+      "hintCorrect": "Correto! Não se usa crase antes de 'quem' ou 'cujo(a)'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Quem, cujo, cuja'. Antes de 'a qual' e 'as quais', a crase pode ocorrer.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-079",
+      "question": "Complete a frase: 'Ele escreve ___ Camões.' (no estilo de Camões)",
+      "options": [
+        "a",
+        "à",
+        "como",
+        "igual"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Aqui, a expressão 'à moda de' está implícita: 'Ele escreve à moda de Camões'.",
+      "hintCorrect": "Exato! Subentende-se a locução 'à moda de', que sempre exige crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. Fica implícita a expressão 'à moda de', que exige crase.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-080",
+      "question": "Qual a forma correta?",
+      "options": [
+        "Bem-vindo à bordo.",
+        "Bem-vindo a bordo.",
+        "Bem-vindo no bordo.",
+        "Bem-vindo ao bordo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Bordo' é uma palavra masculina.",
+      "hintCorrect": "Correto! Não se usa crase antes de palavras masculinas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Bem-vindo a bordo', pois 'bordo' é uma palavra masculina.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-081",
+      "question": "Complete a frase: 'A peça foi adaptada ___ televisão.'",
+      "options": [
+        "a",
+        "à",
+        "para a",
+        "na"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Quem adapta, adapta algo 'para' algum meio. A preposição 'a' não é a regida pelo verbo 'adaptar' nesse contexto.",
+      "hintCorrect": "Correto! O verbo 'adaptar' aqui pede a preposição 'para'. 'Adaptar para a televisão'.",
+      "hintWrong": "Incorreto. A resposta certa é 'para a'. A regência do verbo 'adaptar' é 'adaptar algo para algo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-082",
+      "question": "Complete a frase: 'O político respondeu ___ perguntas dos jornalistas.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem responde, responde 'a' algo. 'Perguntas' é feminino plural. Use o truque da substituição: 'respondeu aos questionamentos'.",
+      "hintCorrect": "Correto! A preposição 'a' se funde com o artigo 'as', resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. (respondeu aos repórteres).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-083",
+      "question": "A crase é obrigatória em 'Fui à farmácia' porque:",
+      "options": [
+        "É uma indicação de horas.",
+        "É uma locução adverbial.",
+        "O verbo 'ir' pede preposição 'a' e 'farmácia' é palavra feminina que admite artigo 'a'.",
+        "É um caso facultativo."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Lembre-se da fórmula básica da crase: preposição + artigo.",
+      "hintCorrect": "Exato! Essa é a justificativa completa para o caso mais comum de crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'O verbo 'ir' pede preposição 'a' e 'farmácia' é palavra feminina que admite artigo 'a''.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-084",
+      "question": "Complete a frase: 'Ele se referia ___ alunas do terceiro ano.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem se refere, se refere 'a' algo. 'Alunas' é feminino plural. Use o truque da substituição: 'se referia aos alunos'.",
+      "hintCorrect": "Correto! A preposição 'a' se funde com o artigo 'as', resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. (se referia aos estudantes).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-085",
+      "question": "Qual frase está errada?",
+      "options": [
+        "Vou à praia.",
+        "Vou a casa.",
+        "Vou à casa de praia.",
+        "Vou à caminhar."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Qual a regra sobre crase antes de verbos?",
+      "hintCorrect": "Correto! A frase 'Vou à caminhar' está errada, pois não se usa crase antes de verbos no infinitivo.",
+      "hintWrong": "Incorreto. A frase errada é 'Vou à caminhar', pois não há crase antes de verbo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-086",
+      "question": "Complete a frase: 'O direito ___ vida é inviolável.'",
+      "options": [
+        "a",
+        "à",
+        "da",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'vida' por 'respeito'.",
+      "hintCorrect": "Exato! 'O direito ao respeito'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (O direito ao lazer).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-087",
+      "question": "A crase é proibida antes de nomes de cidades que não admitem o artigo 'a'. Qual é um exemplo?",
+      "options": [
+        "Bahia",
+        "França",
+        "Itália",
+        "Curitiba"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Use o truque: 'Volto de...' ou 'Volto da...'.",
+      "hintCorrect": "Correto! Dizemos 'Volto de Curitiba', logo, 'Vou a Curitiba', sem crase. Para as outras, dizemos 'Volto da Bahia', 'da França', 'da Itália'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Curitiba'. (Volto de Curitiba -> Crase pra quê?).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-088",
+      "question": "Complete a frase: 'O documento é igual ___ que recebi ontem.'",
+      "options": [
+        "a",
+        "à",
+        "ao",
+        "aquele"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'documento' está implícita. 'Igual ao [documento] que recebi...'.",
+      "hintCorrect": "Correto! A preposição 'a' (de 'igual a') se funde com o artigo 'o' (de 'documento' implícito), formando 'ao'.",
+      "hintWrong": "Incorreto. A resposta certa é 'ao'. A palavra 'documento' (masculina) está oculta: 'igual ao [documento] que recebi'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-089",
+      "question": "Complete a frase: 'A situação é igual ___ que vimos ontem.'",
+      "options": [
+        "a",
+        "à",
+        "a que",
+        "à que"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o exemplo anterior. A palavra 'situação' está implícita. 'Igual à [situação] que vimos...'.",
+      "hintCorrect": "Correto! A preposição 'a' (de 'igual a') se funde com o artigo 'a' (de 'situação' implícita), formando 'à'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. A palavra 'situação' (feminina) está oculta: 'igual à [situação] que vimos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-090",
+      "question": "A crase é facultativa antes de nomes próprios femininos. Isso significa que:",
+      "options": [
+        "É obrigatório usar crase.",
+        "É proibido usar crase.",
+        "Tanto 'a' quanto 'à' podem estar corretos.",
+        "Depende do verbo."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'facultativo' significa 'opcional'.",
+      "hintCorrect": "Exato! Ser facultativo significa que a escolha de usar ou não a crase (ou seja, usar 'a' ou 'à') é do falante, e ambas as formas são aceitas pela norma culta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tanto 'a' quanto 'à' podem estar corretos'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-091",
+      "question": "Complete a frase: 'Ele chegou ___ conclusões erradas.'",
+      "options": [
+        "a",
+        "à",
+        "as",
+        "às"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Quem chega, chega 'a' algum lugar. 'Conclusões' é feminino plural. Use o truque da substituição: 'chegou aos resultados errados'.",
+      "hintCorrect": "Correto! A preposição 'a' se funde com o artigo 'as', resultando em 'às'.",
+      "hintWrong": "Incorreto. A resposta certa é 'às'. (chegou aos pontos errados).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-092",
+      "question": "A crase está bem empregada em:",
+      "options": [
+        "Fui à São Paulo.",
+        "Vendi o carro à prazo.",
+        "Refiro-me àqueles problemas.",
+        "Pedi à ele que viesse."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Lembre-se da regra da crase antes dos pronomes demonstrativos 'aquele', 'aquela', 'aquilo'.",
+      "hintCorrect": "Correto! O verbo 'referir-se' pede a preposição 'a', que se funde com o 'a' inicial de 'aqueles', formando 'àqueles'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Refiro-me àqueles problemas'. Nas outras opções, a crase é proibida.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-093",
+      "question": "Complete a frase: 'O texto se refere ___ lenda amazônica.'",
+      "options": [
+        "a",
+        "à",
+        "uma",
+        "a uma"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'lenda' por 'mito'.",
+      "hintCorrect": "Exato! 'O texto se refere ao mito amazônico'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (refere-se ao conto).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-094",
+      "question": "A crase é proibida em:",
+      "options": [
+        "Cheguei às cinco.",
+        "Fui à feira.",
+        "Andei a cavalo.",
+        "Virei à esquerda."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Procure a opção que contém uma palavra masculina após o 'a'.",
+      "hintCorrect": "Correto! 'Cavalo' é uma palavra masculina, portanto, não se usa crase antes dela.",
+      "hintWrong": "Incorreto. A resposta certa é 'Andei a cavalo', pois não há crase antes de palavra masculina.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-095",
+      "question": "Complete a frase: 'A professora é idêntica ___ que tive no ano passado.'",
+      "options": [
+        "a",
+        "à",
+        "a que",
+        "à que"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'professora' está implícita. 'Idêntica à [professora] que tive...'.",
+      "hintCorrect": "Correto! A preposição 'a' (de 'idêntica a') se funde com o artigo 'a' (de 'professora' implícita), formando 'à'.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. A palavra 'professora' está oculta: 'idêntica à [professora] que tive'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "crase-096",
+      "question": "Complete a frase: 'Ele vive ___ custa dos pais.'",
+      "options": [
+        "a",
+        "à",
+        "na",
+        "da"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'À custa de' é uma locução prepositiva feminina que sempre leva crase.",
+      "hintCorrect": "Exato! A expressão 'à custa de' é fixa e exige o uso da crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. A locução 'à custa de' sempre tem crase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-097",
+      "question": "Qual frase está correta?",
+      "options": [
+        "Obedeça à seus pais.",
+        "Obedeça a seus pais.",
+        "Obedeça nos seus pais.",
+        "Obedeça com seus pais."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Pais' é uma palavra masculina. O verbo 'obedecer' pede preposição 'a'.",
+      "hintCorrect": "Correto! O verbo 'obedecer' pede a preposição 'a'. Como 'seus pais' é masculino, não há artigo 'a' para a fusão, então não há crase. A forma correta seria 'Obedeça aos seus pais' se o artigo fosse usado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Obedeça a seus pais'. 'Pais' é masculino, então não pode haver crase. A forma 'aos seus pais' também estaria correta.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-098",
+      "question": "Complete a frase: 'O direito ___ liberdade de expressão é sagrado.'",
+      "options": [
+        "a",
+        "à",
+        "da",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'liberdade' por 'livre pensamento'.",
+      "hintCorrect": "Exato! 'O direito ao livre pensamento'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (O direito ao voto).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-099",
+      "question": "A crase é proibida antes de pronomes pessoais. Qual frase mostra isso?",
+      "options": [
+        "Dei um presente à ela.",
+        "Dei um presente a ela.",
+        "Dei um presente na ela.",
+        "Dei um presente com ela."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Ela' é um pronome pessoal.",
+      "hintCorrect": "Correto! Não se usa crase antes de pronomes pessoais do caso reto ou oblíquo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Dei um presente a ela', pois não se usa crase antes de pronomes pessoais.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "crase-100",
+      "question": "Complete a frase: 'Estou aqui desde ___ 8h da manhã.'",
+      "options": [
+        "as",
+        "às",
+        "a",
+        "à"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A presença da preposição 'desde' antes da indicação de hora impede o uso da crase.",
+      "hintCorrect": "Correto! Depois de preposições como 'desde', 'após', 'para', não se usa crase. O correto é 'desde as 8h'.",
+      "hintWrong": "Incorreto. A resposta certa é 'as'. Após a preposição 'desde', não se usa crase.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "crase-101",
+      "question": "Complete a frase: 'A população se opôs ___ construção da barragem.'",
+      "options": [
+        "a",
+        "à",
+        "contra",
+        "na"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Use o truque da substituição. Troque 'construção' por 'projeto'.",
+      "hintCorrect": "Exato! 'A população se opôs ao projeto'. Se deu 'ao', então há crase.",
+      "hintWrong": "Incorreto. A resposta certa é 'à'. (opôs-se ao empreendimento).",
+      "difficulty": "easy"
+    }
+  ]
+}

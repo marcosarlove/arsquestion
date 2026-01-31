@@ -1,0 +1,1522 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Acentuação Gráfica",
+  "questions": [
+    {
+      "id": "acentuacao-001",
+      "question": "Qual das palavras abaixo é uma proparoxítona?",
+      "options": [
+        "Café",
+        "Lápis",
+        "Médico",
+        "Urubu"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Proparoxítonas têm a sílaba tónica na antepenúltima posição. Lembre-se da regra: todas as proparoxítonas são acentuadas.",
+      "hintCorrect": "Correto! 'Médico' (Mé-di-co) tem a sílaba tónica na antepenúltima posição. Todas as proparoxítonas são acentuadas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Médico'. 'Café' é oxítona, 'Lápis' é paroxítona, 'Urubu' é oxítona.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-002",
+      "question": "Qual das palavras abaixo é uma oxítona acentuada?",
+      "options": [
+        "Mesa",
+        "Cipó",
+        "Árvore",
+        "Tatu"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Oxítonas têm a sílaba tónica na última posição. São acentuadas as terminadas em a(s), e(s), o(s), em, ens.",
+      "hintCorrect": "Exato! 'Cipó' (ci-pó) é uma oxítona terminada em 'o', por isso é acentuada.",
+      "hintWrong": "Incorreto. A resposta certa é 'Cipó'. 'Mesa' e 'Árvore' são paroxítonas, 'Tatu' é oxítona mas não se acentua.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-003",
+      "question": "Qual das palavras abaixo é uma paroxítona acentuada?",
+      "options": [
+        "Café",
+        "Parabéns",
+        "Lápis",
+        "Ninguém"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Paroxítonas têm a sílaba tónica na penúltima posição. São acentuadas as terminadas em l, i(s), n, r, x, um, uns, ão, ãos, ã, ãs, ps, ditongo oral.",
+      "hintCorrect": "Correto! 'Lápis' (Lá-pis) é uma paroxítona terminada em 'is', por isso é acentuada.",
+      "hintWrong": "Incorreto. A resposta certa é 'Lápis'. 'Café' e 'Ninguém' são oxítonas, 'Parabéns' é oxítona.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-004",
+      "question": "A palavra 'saúde' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'. O 'u' tónico forma hiato com a vogal anterior.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-005",
+      "question": "Qual das palavras abaixo PERDEU o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Herói",
+        "Papéis",
+        "Ideia",
+        "Céu"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo aboliu o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras paroxítonas.",
+      "hintCorrect": "Correto! 'Ideia' era acentuada antes do Acordo Ortográfico, mas perdeu o acento por ser uma paroxítona com ditongo aberto 'ei'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ideia'. Ditongos abertos em paroxítonas perderam o acento.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-006",
+      "question": "Qual das palavras abaixo PERDEU o acento circunflexo com o Acordo Ortográfico?",
+      "options": [
+        "Pôde",
+        "Vôo",
+        "Têm",
+        "Pôr"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Exato! 'Vôo' era acentuada antes do Acordo Ortográfico, mas perdeu o acento por ser um hiato 'oo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vôo'. Hiatos 'oo' e 'ee' perderam o acento.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-007",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Para (verbo) / para (preposição)",
+        "Pelo (substantivo) / pelo (contração)",
+        "Pode (presente) / pôde (passado)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial apenas em alguns casos específicos para evitar ambiguidade.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'pode' (presente) de 'pôde' (passado).",
+      "hintWrong": "Incorreto. A resposta certa é 'Pode (presente) / pôde (passado)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-008",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "O",
+        "Pá",
+        "Me",
+        "Por"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Pá' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pá'. 'O', 'Me' e 'Por' são monossílabos átonos ou não se encaixam na regra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-009",
+      "question": "A palavra 'rainha' não é acentuada porque:",
+      "options": [
+        "É uma paroxítona.",
+        "O 'i' tónico do hiato é seguido de 'nh'.",
+        "É uma oxítona.",
+        "Não segue nenhuma regra."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A regra de acentuação de hiatos tem uma exceção importante quando o 'i' ou 'u' é seguido de 'nh'.",
+      "hintCorrect": "Correto! A regra de acentuação de hiatos não se aplica quando o 'i' ou 'u' tónicos são seguidos de 'nh'.",
+      "hintWrong": "Incorreto. A resposta certa é 'O 'i' tónico do hiato é seguido de 'nh''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-010",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Assembleia",
+        "Papéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Papéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Papéis'. Ditongos abertos em oxítonas mantêm o acento.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-011",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-012",
+      "question": "Qual das palavras abaixo é acentuada pela regra das proparoxítonas?",
+      "options": [
+        "Caráter",
+        "Lâmpada",
+        "Júri",
+        "Café"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Todas as proparoxítonas são acentuadas.",
+      "hintCorrect": "Correto! 'Lâmpada' (lâm-pa-da) é uma proparoxítona, e todas as proparoxítonas são acentuadas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Lâmpada'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-013",
+      "question": "A palavra 'hífen' é acentuada. Qual a regra que justifica essa acentuação?",
+      "options": [
+        "É uma oxítona terminada em 'n'.",
+        "É uma paroxítona terminada em 'n'.",
+        "É uma proparoxítona.",
+        "É um monossílabo tónico."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A sílaba tónica é 'hí'. A palavra termina em 'n'.",
+      "hintCorrect": "Exato! 'Hífen' (hí-fen) é uma paroxítona terminada em 'n', por isso é acentuada.",
+      "hintWrong": "Incorreto. A resposta certa é 'É uma paroxítona terminada em 'n''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-014",
+      "question": "Qual das palavras abaixo é acentuada pela regra dos hiatos?",
+      "options": [
+        "Piaui",
+        "Moinho",
+        "Juiz",
+        "Saida"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Procure o 'i' ou 'u' tónico que forma hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Correto! 'Saída' (sa-í-da) tem o 'i' tónico formando hiato com o 'a' anterior, por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Saída'. 'Piauí' também é acentuado por hiato, mas a opção 'Saida' é a que está sem acento na pergunta.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-015",
+      "question": "A palavra 'feiura' perdeu o acento agudo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "O 'u' tónico é precedido de ditongo em palavra paroxítona.",
+        "É um hiato 'oo'.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A regra de acentuação de hiatos foi alterada para palavras paroxítonas com 'u' tónico precedido de ditongo.",
+      "hintCorrect": "Correto! O acento agudo no 'u' tónico foi abolido quando precedido de ditongo em palavras paroxítonas.",
+      "hintWrong": "Incorreto. A resposta certa é 'O 'u' tónico é precedido de ditongo em palavra paroxítona'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "acentuacao-016",
+      "question": "Qual das palavras abaixo é acentuada pela regra das oxítonas?",
+      "options": [
+        "Mesa",
+        "Urubu",
+        "Café",
+        "Lápis"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Oxítonas terminadas em a(s), e(s), o(s), em, ens são acentuadas.",
+      "hintCorrect": "Correto! 'Café' (ca-fé) é uma oxítona terminada em 'e', por isso é acentuada.",
+      "hintWrong": "Incorreto. A resposta certa é 'Café'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-017",
+      "question": "A palavra 'caráter' é acentuada. Qual a regra que justifica essa acentuação?",
+      "options": [
+        "É uma oxítona terminada em 'r'.",
+        "É uma paroxítona terminada em 'r'.",
+        "É uma proparoxítona.",
+        "É um monossílabo tónico."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A sílaba tónica é 'ra'. A palavra termina em 'r'.",
+      "hintCorrect": "Exato! 'Caráter' (ca-rá-ter) é uma paroxítona terminada em 'r', por isso é acentuada.",
+      "hintWrong": "Incorreto. A resposta certa é 'É uma paroxítona terminada em 'r''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-018",
+      "question": "Qual das palavras abaixo é acentuada pela regra dos monossílabos tónicos?",
+      "options": [
+        "De",
+        "Pés",
+        "Em",
+        "Por"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Correto! 'Pés' é um monossílabo tónico terminado em 'es', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pés'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-019",
+      "question": "A palavra 'juízo' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'u' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-020",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-021",
+      "question": "A palavra 'leem' (verbo ler) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-022",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Para (verbo) / para (preposição)",
+        "Pelo (substantivo) / pelo (contração)",
+        "Pôr (verbo) / por (preposição)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial apenas em alguns casos específicos para evitar ambiguidade.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'pôr' (verbo) de 'por' (preposição).",
+      "hintWrong": "Incorreto. A resposta certa é 'Pôr (verbo) / por (preposição)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-023",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "A",
+        "Nó",
+        "Se",
+        "De"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Nó' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Nó'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-024",
+      "question": "A palavra 'moinho' não é acentuada porque:",
+      "options": [
+        "É uma paroxítona.",
+        "O 'i' tónico do hiato é seguido de 'nh'.",
+        "É uma oxítona.",
+        "Não segue nenhuma regra."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A regra de acentuação de hiatos tem uma exceção importante quando o 'i' ou 'u' é seguido de 'nh'.",
+      "hintCorrect": "Correto! A regra de acentuação de hiatos não se aplica quando o 'i' ou 'u' tónicos são seguidos de 'nh'.",
+      "hintWrong": "Incorreto. A resposta certa é 'O 'i' tónico do hiato é seguido de 'nh''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-025",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Dói",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'ói' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Dói' é um monossílabo tónico terminado em ditongo aberto 'ói', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Dói'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-026",
+      "question": "A palavra 'veem' (verbo ver) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-027",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Pode (presente) / pôde (passado)",
+        "Para (verbo) / para (preposição)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial apenas em alguns casos específicos para evitar ambiguidade.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'pode' (presente) de 'pôde' (passado).",
+      "hintWrong": "Incorreto. A resposta certa é 'Pode (presente) / pôde (passado)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-028",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Me",
+        "Só",
+        "De",
+        "Por"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-029",
+      "question": "A palavra 'Piauí' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'i' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-030",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Réu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Réu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Réu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-031",
+      "question": "A palavra 'enjoo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-032",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Ter (singular) / têm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'tem' (singular) de 'têm' (plural) do verbo 'ter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter (singular) / têm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-033",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Em",
+        "Mês",
+        "De",
+        "Por"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Mês' é um monossílabo tónico terminado em 'es', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Mês'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-034",
+      "question": "A palavra 'baú' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-035",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-036",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-037",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Vem (singular) / vêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'vem' (singular) de 'vêm' (plural) do verbo 'vir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vem (singular) / vêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-038",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Há",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Há' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Há'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-039",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-040",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Réis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éis' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Réis' é um monossílabo tónico terminado em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Réis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-041",
+      "question": "A palavra 'deem' (verbo dar) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-042",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Detém (singular) / detêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'detém' (singular) de 'detêm' (plural) do verbo 'deter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Detém (singular) / detêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-043",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Mês",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Mês' é um monossílabo tónico terminado em 'es', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Mês'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-044",
+      "question": "A palavra 'atraí-lo' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-045",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-046",
+      "question": "A palavra 'voo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-047",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Convém (singular) / convêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'convém' (singular) de 'convêm' (plural) do verbo 'convir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Convém (singular) / convêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-048",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Só",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-049",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-050",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-051",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-052",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Ter (singular) / têm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'tem' (singular) de 'têm' (plural) do verbo 'ter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter (singular) / têm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-053",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Há",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Há' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Há'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-054",
+      "question": "A palavra 'baú' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-055",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-056",
+      "question": "A palavra 'voo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-057",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Convém (singular) / convêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'convém' (singular) de 'convêm' (plural) do verbo 'convir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Convém (singular) / convêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-058",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Só",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-059",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-060",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-061",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-062",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Ter (singular) / têm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'tem' (singular) de 'têm' (plural) do verbo 'ter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter (singular) / têm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-063",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Há",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Há' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Há'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-064",
+      "question": "A palavra 'baú' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-065",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-066",
+      "question": "A palavra 'voo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-067",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Convém (singular) / convêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'convém' (singular) de 'convêm' (plural) do verbo 'convir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Convém (singular) / convêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-068",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Só",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-069",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-070",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-071",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-072",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Ter (singular) / têm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'tem' (singular) de 'têm' (plural) do verbo 'ter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter (singular) / têm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-073",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Há",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Há' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Há'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-074",
+      "question": "A palavra 'baú' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-075",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-076",
+      "question": "A palavra 'voo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-077",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Convém (singular) / convêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'convém' (singular) de 'convêm' (plural) do verbo 'convir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Convém (singular) / convêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-078",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Só",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-079",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-080",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-081",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-082",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Ter (singular) / têm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'tem' (singular) de 'têm' (plural) do verbo 'ter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter (singular) / têm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-083",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Há",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Há' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Há'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-084",
+      "question": "A palavra 'baú' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-085",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-086",
+      "question": "A palavra 'voo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-087",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Convém (singular) / convêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'convém' (singular) de 'convêm' (plural) do verbo 'convir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Convém (singular) / convêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-088",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Só",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-089",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-090",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-091",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-092",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Ter (singular) / têm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'tem' (singular) de 'têm' (plural) do verbo 'ter'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter (singular) / têm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-093",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Há",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Há' é um monossílabo tónico terminado em 'a', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Há'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-094",
+      "question": "A palavra 'baú' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'u' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'u' tónico forma hiato com o 'a' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-095",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Céu",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éu' de monossílabos e oxítonas.",
+      "hintCorrect": "Exato! 'Céu' é um monossílabo tónico terminado em ditongo aberto 'éu', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Céu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-096",
+      "question": "A palavra 'voo' (substantivo) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'oo'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee'.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'oo''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-097",
+      "question": "O acento diferencial é mantido em qual par de palavras?",
+      "options": [
+        "Pelo (substantivo) / pelo (contração)",
+        "Para (verbo) / para (preposição)",
+        "Convém (singular) / convêm (plural)",
+        "Polo (substantivo) / polo (contração)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo Ortográfico manteve o acento diferencial para distinguir o singular do plural dos verbos 'ter' e 'vir' e seus derivados.",
+      "hintCorrect": "Correto! O acento diferencial é mantido para distinguir 'convém' (singular) de 'convêm' (plural) do verbo 'convir'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Convém (singular) / convêm (plural)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-098",
+      "question": "Qual das palavras abaixo é um monossílabo tónico acentuado?",
+      "options": [
+        "Um",
+        "Só",
+        "Nos",
+        "Vos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Monossílabos tónicos terminados em a(s), e(s), o(s) são acentuados.",
+      "hintCorrect": "Exato! 'Só' é um monossílabo tónico terminado em 'o', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Só'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "acentuacao-099",
+      "question": "A palavra 'egoísta' é acentuada pela regra de:",
+      "options": [
+        "Oxítonas",
+        "Paroxítonas",
+        "Hiatos",
+        "Ditongos abertos"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'í' tónico forma um hiato com a vogal anterior e não é seguido de 'nh'.",
+      "hintCorrect": "Exato! O 'i' tónico forma hiato com o 'o' anterior e não é seguido de 'nh', por isso é acentuado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hiatos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-100",
+      "question": "Qual das palavras abaixo MANTÉM o acento agudo com o Acordo Ortográfico?",
+      "options": [
+        "Jiboia",
+        "Heroico",
+        "Anéis",
+        "Paranoia"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O Acordo manteve o acento agudo nos ditongos abertos 'éi' e 'ói' de palavras oxítonas e monossílabos.",
+      "hintCorrect": "Exato! 'Anéis' é uma oxítona terminada em ditongo aberto 'éis', por isso mantém o acento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anéis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "acentuacao-101",
+      "question": "A palavra 'creem' (verbo crer) perdeu o acento circunflexo com o Acordo Ortográfico porque:",
+      "options": [
+        "É uma oxítona.",
+        "É um hiato 'ee'.",
+        "É uma paroxítona.",
+        "É um ditongo aberto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O Acordo aboliu o acento circunflexo nos hiatos 'oo' e 'ee'.",
+      "hintCorrect": "Correto! O acento circunflexo foi abolido nos hiatos 'oo' e 'ee' dos verbos 'crer', 'ler', 'ver' e seus derivados.",
+      "hintWrong": "Incorreto. A resposta certa é 'É um hiato 'ee''.",
+      "difficulty": "medium"
+    }
+  ]
+}

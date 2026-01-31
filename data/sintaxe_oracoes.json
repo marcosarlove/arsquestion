@@ -1,0 +1,472 @@
+
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Sintaxe - Período Composto",
+  "questions": [
+    {
+      "id": "oracoes-001",
+      "question": "Na frase 'Eu estudo e trabalho', a segunda oração ('e trabalho') é classificada como:",
+      "options": [
+        "Oração Coordenada Sindética Aditiva",
+        "Oração Coordenada Sindética Adversativa",
+        "Oração Subordinada Adverbial Causal",
+        "Oração Coordenada Assindética"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A conjunção 'e' introduz uma ideia de soma, de adição à primeira oração.",
+      "hintCorrect": "Correto! 'e trabalho' é uma oração coordenada sindética aditiva, pois adiciona uma informação à oração anterior.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração Coordenada Sindética Aditiva'. A conjunção 'e' expressa adição.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-002",
+      "question": "Na frase 'Estudei muito, mas não passei', a oração 'mas não passei' é:",
+      "options": [
+        "Aditiva",
+        "Adversativa",
+        "Alternativa",
+        "Conclusiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A conjunção 'mas' introduz uma ideia de contraste ou oposição à ideia da primeira oração.",
+      "hintCorrect": "Exato! 'mas não passei' é uma oração coordenada sindética adversativa, pois expressa uma oposição.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adversativa'. A conjunção 'mas' indica contraste.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-003",
+      "question": "Na frase 'É necessário que você estude', a oração 'que você estude' funciona como:",
+      "options": [
+        "Objeto direto da primeira oração.",
+        "Sujeito da primeira oração.",
+        "Aposto da primeira oração.",
+        "Predicativo da primeira oração."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Pergunte: 'O que é necessário?'. A resposta é a segunda oração. Quando a oração subordinada responde a essa pergunta, ela exerce a função de sujeito.",
+      "hintCorrect": "Correto! A oração 'que você estude' é uma oração subordinada substantiva subjetiva, pois funciona como sujeito do verbo 'é'. (Isto é necessário -> Que você estude é necessário).",
+      "hintWrong": "Incorreto. A resposta certa é 'Sujeito da primeira oração'. A oração inteira funciona como sujeito do verbo 'ser'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-004",
+      "question": "A oração 'Os alunos que estudam passam no teste' contém uma oração subordinada adjetiva:",
+      "options": [
+        "Explicativa",
+        "Restritiva",
+        "Comparativa",
+        "Condicional"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A oração 'que estudam' não está entre vírgulas e delimita o universo de 'alunos' (apenas aqueles que estudam).",
+      "hintCorrect": "Exato! É uma oração subordinada adjetiva restritiva, pois restringe o sentido do substantivo 'alunos'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Restritiva'. A ausência de vírgulas indica que a informação é essencial para definir de quais alunos se está a falar.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-005",
+      "question": "Na frase 'Embora estivesse doente, foi trabalhar', a primeira oração é uma subordinada adverbial:",
+      "options": [
+        "Causal",
+        "Condicional",
+        "Concessiva",
+        "Consecutiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A conjunção 'embora' introduz uma ideia que se opõe à da oração principal, mas não a impede de acontecer.",
+      "hintCorrect": "Correto! 'Embora estivesse doente' é uma oração subordinada adverbial concessiva, pois indica uma concessão, uma quebra de expectativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Concessiva'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-006",
+      "question": "Na frase 'Cheguei, vi, venci', temos três orações coordenadas:",
+      "options": [
+        "Sindéticas Aditivas",
+        "Sindéticas Adversativas",
+        "Assindéticas",
+        "Subordinadas"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "As orações estão justapostas, separadas por vírgulas, sem a presença de uma conjunção (síndeto) a ligá-las.",
+      "hintCorrect": "Exato! São orações coordenadas assindéticas, pois não são introduzidas por conjunção.",
+      "hintWrong": "Incorreto. A resposta certa é 'Assindéticas'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-007",
+      "question": "Na frase 'Eu quero que você seja feliz', a oração 'que você seja feliz' é:",
+      "options": [
+        "Subordinada Substantiva Objetiva Direta",
+        "Subordinada Substantiva Subjetiva",
+        "Subordinada Substantiva Predicativa",
+        "Subordinada Adjetiva Restritiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A segunda oração completa o sentido do verbo transitivo direto 'quero'. Pergunte: 'Eu quero o quê?'.",
+      "hintCorrect": "Correto! A oração 'que você seja feliz' funciona como objeto direto do verbo 'querer'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Subordinada Substantiva Objetiva Direta'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-008",
+      "question": "Na frase 'Meu desejo é que você vença', a oração 'que você vença' é:",
+      "options": [
+        "Subjetiva",
+        "Objetiva Direta",
+        "Predicativa",
+        "Apositiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A oração subordinada vem depois de um verbo de ligação ('é') e funciona como predicativo do sujeito ('Meu desejo').",
+      "hintCorrect": "Exato! A oração 'que você vença' é uma oração subordinada substantiva predicativa, pois exerce a função de predicativo do sujeito.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativa'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "oracoes-009",
+      "question": "Qual a classificação da oração 'Se chover, não sairei'?",
+      "options": [
+        "Subordinada Adverbial Causal",
+        "Subordinada Adverbial Temporal",
+        "Subordinada Adverbial Condicional",
+        "Subordinada Adverbial Concessiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A conjunção 'Se' introduz uma condição para que a ação da oração principal ocorra (ou não).",
+      "hintCorrect": "Correto! 'Se chover' é uma oração subordinada adverbial condicional, pois estabelece a condição para a ação de 'não sairei'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Condicional'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-010",
+      "question": "Na frase 'O Brasil, que é um país tropical, possui muitas praias', a oração 'que é um país tropical' é:",
+      "options": [
+        "Subordinada Adjetiva Restritiva",
+        "Subordinada Adjetiva Explicativa",
+        "Subordinada Substantiva Apositiva",
+        "Oração Coordenada Explicativa"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A oração está entre vírgulas e adiciona uma informação extra, não essencial, sobre o termo 'Brasil'.",
+      "hintCorrect": "Correto! É uma oração subordinada adjetiva explicativa, pois apenas acrescenta uma qualidade ao antecedente, sem restringi-lo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Explicativa'. A presença das vírgulas é a chave.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-011",
+      "question": "Na frase 'Penso, logo existo', a oração 'logo existo' é:",
+      "options": [
+        "Coordenada Sindética Conclusiva",
+        "Coordenada Sindética Explicativa",
+        "Subordinada Adverbial Final",
+        "Subordinada Adverbial Consecutiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A conjunção 'logo' introduz uma conclusão lógica a partir da primeira oração.",
+      "hintCorrect": "Exato! 'logo existo' é uma oração coordenada sindética conclusiva.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conclusiva'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-012",
+      "question": "Na frase 'Tenho necessidade de que me ajudem', a oração 'de que me ajudem' é:",
+      "options": [
+        "Objetiva Indireta",
+        "Completiva Nominal",
+        "Subjetiva",
+        "Adjetiva Restritiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A oração completa o sentido de um nome ('necessidade'), e não de um verbo. Ela funciona como um complemento nominal.",
+      "hintCorrect": "Correto! A oração 'de que me ajudem' é uma oração subordinada substantiva completiva nominal, pois completa o sentido do substantivo 'necessidade'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Completiva Nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "oracoes-013",
+      "question": "Qual a classificação da oração 'para que aprendas' na frase 'Eu explico para que aprendas'?",
+      "options": [
+        "Subordinada Adverbial Causal",
+        "Subordinada Adverbial Final",
+        "Subordinada Adverbial Consecutiva",
+        "Subordinada Adverbial Concessiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A locução 'para que' introduz a finalidade, o objetivo da ação de explicar.",
+      "hintCorrect": "Exato! 'para que aprendas' é uma oração subordinada adverbial final, pois indica o propósito da ação da oração principal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Final'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-014",
+      "question": "Na frase 'Ele só te pedia isto: que fosses honesto', a oração 'que fosses honesto' é:",
+      "options": [
+        "Predicativa",
+        "Objetiva Direta",
+        "Apositiva",
+        "Subjetiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A oração vem depois de dois-pontos e serve para explicar um termo anterior ('isto'). Ela funciona como um aposto.",
+      "hintCorrect": "Correto! A oração 'que fosses honesto' é uma oração subordinada substantiva apositiva, pois tem a função de aposto do pronome 'isto'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Apositiva'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "oracoes-015",
+      "question": "Na frase 'Ao chegar, avise-me', a oração 'Ao chegar' é uma:",
+      "options": [
+        "Oração Reduzida de Infinitivo",
+        "Oração Reduzida de Gerúndio",
+        "Oração Reduzida de Particípio",
+        "Oração principal"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'chegar' está em uma de suas formas nominais, e a oração não é introduzida por conjunção.",
+      "hintCorrect": "Exato! É uma oração reduzida de infinitivo, que pode ser desenvolvida como 'Quando você chegar, avise-me' (oração adverbial temporal).",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração Reduzida de Infinitivo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-016",
+      "question": "Qual a classificação da oração 'porque estava atrasado' na frase 'Ele correu porque estava atrasado'?",
+      "options": [
+        "Coordenada Sindética Explicativa",
+        "Subordinada Adverbial Causal",
+        "Subordinada Adverbial Final",
+        "Subordinada Adverbial Consecutiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A oração indica a causa, o motivo pelo qual ele correu.",
+      "hintCorrect": "Correto! 'porque estava atrasado' é uma oração subordinada adverbial causal, pois expressa a causa da ação da oração principal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Causal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-017",
+      "question": "Na frase 'Ou você estuda, ou vai trabalhar', temos orações coordenadas:",
+      "options": [
+        "Aditivas",
+        "Adversativas",
+        "Alternativas",
+        "Conclusivas"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A estrutura 'ou... ou...' indica uma relação de alternância ou exclusão entre as ideias.",
+      "hintCorrect": "Exato! São orações coordenadas sindéticas alternativas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Alternativas'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-018",
+      "question": "Na frase 'Terminada a aula, os alunos saíram', a oração 'Terminada a aula' é uma:",
+      "options": [
+        "Oração Reduzida de Infinitivo",
+        "Oração Reduzida de Gerúndio",
+        "Oração Reduzida de Particípio",
+        "Oração absoluta"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo 'terminar' está no particípio ('terminada').",
+      "hintCorrect": "Correto! É uma oração reduzida de particípio, que pode ser desenvolvida como 'Assim que a aula terminou, os alunos saíram' (oração adverbial temporal).",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração Reduzida de Particípio'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-019",
+      "question": "Na frase 'Ele era tão alto que batia a cabeça na porta', a oração 'que batia a cabeça na porta' é:",
+      "options": [
+        "Subordinada Adverbial Causal",
+        "Subordinada Adverbial Comparativa",
+        "Subordinada Adverbial Consecutiva",
+        "Subordinada Adverbial Concessiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A estrutura 'tão... que' indica a consequência da intensidade expressa na oração principal.",
+      "hintCorrect": "Exato! 'que batia a cabeça na porta' é uma oração subordinada adverbial consecutiva, pois expressa a consequência de ele ser tão alto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Consecutiva'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-020",
+      "question": "Na frase 'Não sei se ele virá', a oração 'se ele virá' é:",
+      "options": [
+        "Subordinada Adverbial Condicional",
+        "Subordinada Substantiva Objetiva Direta",
+        "Subordinada Adjetiva Explicativa",
+        "Oração Coordenada Alternativa"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A conjunção 'se' aqui é integrante e introduz uma oração que funciona como objeto direto do verbo 'saber'. Pergunte: 'Não sei o quê?'.",
+      "hintCorrect": "Correto! A oração 'se ele virá' funciona como objeto direto do verbo 'saber'. A conjunção 'se' é integrante, equivalente a 'isto'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Subordinada Substantiva Objetiva Direta'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "oracoes-021",
+      "question": "Qual a classificação da oração 'conforme combinamos' na frase 'Fiz o trabalho conforme combinamos'?",
+      "options": [
+        "Subordinada Adverbial Conformativa",
+        "Subordinada Adverbial Comparativa",
+        "Subordinada Adverbial Condicional",
+        "Subordinada Adverbial Concessiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A conjunção 'conforme' indica que a ação foi feita de acordo com, em conformidade com algo.",
+      "hintCorrect": "Correto! 'conforme combinamos' é uma oração subordinada adverbial conformativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conformativa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-022",
+      "question": "Na frase 'Lembre-se de que a vida é curta', a oração 'de que a vida é curta' é:",
+      "options": [
+        "Objetiva Direta",
+        "Objetiva Indireta",
+        "Completiva Nominal",
+        "Subjetiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A oração completa o sentido do verbo transitivo indireto 'lembrar-se' (lembrar-se de algo).",
+      "hintCorrect": "Exato! A oração 'de que a vida é curta' é uma oração subordinada substantiva objetiva indireta, pois funciona como objeto indireto do verbo 'lembrar-se'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Objetiva Indireta'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-023",
+      "question": "Na frase 'À medida que estudava, mais aprendia', a primeira oração é uma subordinada adverbial:",
+      "options": [
+        "Temporal",
+        "Proporcional",
+        "Causal",
+        "Final"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A locução 'à medida que' estabelece uma relação de proporção entre as duas ações.",
+      "hintCorrect": "Correto! 'À medida que estudava' é uma oração subordinada adverbial proporcional.",
+      "hintWrong": "Incorreto. A resposta certa é 'Proporcional'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-024",
+      "question": "Na frase 'Vendo o perigo, ele recuou', a oração 'Vendo o perigo' é uma:",
+      "options": [
+        "Oração Reduzida de Infinitivo",
+        "Oração Reduzida de Gerúndio",
+        "Oração Reduzida de Particípio",
+        "Oração principal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'ver' está no gerúndio ('vendo').",
+      "hintCorrect": "Correto! É uma oração reduzida de gerúndio, que pode ser desenvolvida como 'Como viu o perigo, ele recuou' (oração adverbial causal).",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração Reduzida de Gerúndio'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-025",
+      "question": "Qual a diferença fundamental entre uma oração adjetiva restritiva e uma explicativa?",
+      "options": [
+        "O verbo utilizado.",
+        "A presença ou ausência de vírgulas.",
+        "A conjunção utilizada.",
+        "O tempo verbal."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Um tipo de oração é separado por vírgulas e adiciona uma informação acessória, enquanto o outro não tem vírgulas e é essencial para o sentido.",
+      "hintCorrect": "Exato! As orações explicativas vêm isoladas por vírgulas, enquanto as restritivas não.",
+      "hintWrong": "Incorreto. A resposta certa é 'A presença ou ausência de vírgulas'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-026",
+      "question": "Na frase 'Ele é mais inteligente do que eu pensava', a oração 'do que eu pensava' é:",
+      "options": [
+        "Subordinada Adverbial Comparativa",
+        "Subordinada Adverbial Consecutiva",
+        "Subordinada Adverbial Concessiva",
+        "Subordinada Adverbial Conformativa"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A estrutura 'mais... do que' estabelece uma comparação.",
+      "hintCorrect": "Correto! É uma oração subordinada adverbial comparativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Comparativa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-027",
+      "question": "Na frase 'Não saia, que está chovendo', a oração 'que está chovendo' é:",
+      "options": [
+        "Coordenada Sindética Explicativa",
+        "Subordinada Adverbial Causal",
+        "Subordinada Adjetiva Explicativa",
+        "Subordinada Substantiva Objetiva Direta"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A segunda oração dá uma explicação ou motivo para a ordem expressa na primeira. Quando a primeira oração é um imperativo, a segunda é geralmente explicativa.",
+      "hintCorrect": "Correto! A oração 'que está chovendo' é uma coordenada sindética explicativa, pois justifica a ordem anterior.",
+      "hintWrong": "Incorreto. A resposta certa é 'Coordenada Sindética Explicativa'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "oracoes-028",
+      "question": "Na frase 'Enquanto você dormia, eu arrumava a casa', a primeira oração é uma subordinada adverbial:",
+      "options": [
+        "Causal",
+        "Condicional",
+        "Temporal",
+        "Final"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A conjunção 'enquanto' indica o tempo, a simultaneidade em que as ações ocorreram.",
+      "hintCorrect": "Exato! 'Enquanto você dormia' é uma oração subordinada adverbial temporal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Temporal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "oracoes-029",
+      "question": "Qual é a classificação da oração 'para estudar' na frase 'Ele veio para estudar'?",
+      "options": [
+        "Oração Reduzida de Infinitivo (Adverbial Final)",
+        "Oração Reduzida de Gerúndio (Adverbial Causal)",
+        "Oração Reduzida de Particípio (Adverbial Temporal)",
+        "Oração Coordenada Assindética"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo está no infinitivo e a oração indica a finalidade, o propósito da ação de 'vir'.",
+      "hintCorrect": "Correto! É uma oração subordinada adverbial final reduzida de infinitivo. (Ele veio a fim de estudar).",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração Reduzida de Infinitivo (Adverbial Final)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-030",
+      "question": "Na frase 'O problema é que ninguém se entende', a oração 'que ninguém se entende' é:",
+      "options": [
+        "Subjetiva",
+        "Objetiva Direta",
+        "Predicativa",
+        "Apositiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A oração vem depois de um verbo de ligação ('é') e funciona como predicativo do sujeito ('O problema').",
+      "hintCorrect": "Correto! A oração 'que ninguém se entende' é uma oração subordinada substantiva predicativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "oracoes-101",
+      "question": "Qual é a classificação da oração 'e foi embora' na frase 'Ele chegou, jantou e foi embora'?",
+      "options": [
+        "Oração Coordenada Sindética Aditiva",
+        "Oração Coordenada Assindética",
+        "Oração Subordinada Adverbial Temporal",
+        "Oração Principal"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A conjunção 'e' liga a última oração a uma série de ações, adicionando-a à sequência.",
+      "hintCorrect": "Correto! É uma oração coordenada sindética aditiva, pois a conjunção 'e' adiciona a última ação à sequência.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração Coordenada Sindética Aditiva'.",
+      "difficulty": "easy"
+    }
+  ]
+}
