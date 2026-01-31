@@ -1,0 +1,36 @@
+{
+    "category": "Tecnologia",
+    "subcategory": "Programação",
+    "questions": [
+        {
+            "id": "tech-prog-001",
+            "question": "Qual linguagem de programação é conhecida por sua sintaxe 'write once, run anywhere'?",
+            "options": ["Python", "Java", "C++", "JavaScript"],
+            "correctAnswerIndex": 1,
+            "hint": "Esta linguagem foi criada pela Sun Microsystems e é a base para o Android.",
+            "hintCorrect": "Java é amplamente utilizada em desenvolvimento corporativo e mobile (Android).",
+            "hintWrong": "Pense em uma linguagem que roda em diferentes plataformas com a mesma base de código.",
+            "difficulty": "easy"
+        },
+        {
+            "id": "tech-prog-002",
+            "question": "Qual é o principal objetivo do Git?",
+            "options": ["Edição de imagens", "Controle de versão", "Criação de websites", "Análise de dados"],
+            "correctAnswerIndex": 1,
+            "hint": "É uma ferramenta criada por Linus Torvalds para gerenciar o desenvolvimento do kernel do Linux.",
+            "hintCorrect": "Git é essencial para equipes de desenvolvimento colaborarem em projetos de código.",
+            "hintWrong": "Pense em como os desenvolvedores gerenciam as mudanças no código-fonte.",
+            "difficulty": "medium"
+        },
+        {
+            "id": "tech-prog-003",
+            "question": "O que significa a sigla 'API'?",
+            "options": ["Advanced Programming Interface", "Application Process Integration", "Application Programming Interface", "Automated Program Interaction"],
+            "correctAnswerIndex": 2,
+            "hint": "Funciona como um 'contrato' que permite que um software converse com outro.",
+            "hintCorrect": "APIs permitem que diferentes softwares se comuniquem entre si.",
+            "hintWrong": "É um conjunto de definições e protocolos para construir e integrar software de aplicativos.",
+            "difficulty": "easy"
+        }
+    ]
+}

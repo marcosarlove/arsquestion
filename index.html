@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="h-full overflow-hidden">
+<head>
+    <meta charset="UTF-8">
+    <title>ARSQuestion - O Jogo de Quiz Definitivo</title>
+    <meta name="theme-color" content="#020617">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Jogue o ARSQuestion, um jogo de quiz moderno e viciante. Teste seus conhecimentos em diversas categorias, com um design de ponta e jogabilidade dinâmica.">
+    <meta name="keywords" content="quiz, jogo de perguntas, ARSQuestion, javascript, quiz game, Marcos Arlove">
+    <meta name="author" content="Marcos Arlove">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://arsquestion.example.com/"> <!-- Substitua pela URL real -->
+    <meta property="og:title" content="ARSQuestion - O Jogo de Quiz Definitivo">
+    <meta property="og:description" content="Teste seus conhecimentos em um jogo de quiz moderno e viciante com design de ponta.">
+    <meta property="og:image" content="https://arsquestion.example.com/preview-image.png"> <!-- Substitua pela URL de uma imagem de preview -->
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://arsquestion.example.com/"> <!-- Substitua pela URL real -->
+    <meta property="twitter:title" content="ARSQuestion - O Jogo de Quiz Definitivo">
+    <meta property="twitter:description" content="Teste seus conhecimentos em um jogo de quiz moderno e viciante com design de ponta.">
+    <meta property="twitter:image" content="https://arsquestion.example.com/preview-image.png"> <!-- Substitua pela URL de uma imagem de preview -->
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        @keyframes slide-up {
+          from { transform: translateY(100%); opacity: 0; }
+          to { transform: translateY(0); opacity: 1; }
+        }
+        .animate-slide-up {
+          animation: slide-up 0.5s ease-out forwards;
+        }
+        @keyframes grow-x {
+          from { width: 0; }
+          to { width: 100%; }
+        }
+        .animate-grow-x {
+          animation: grow-x 1.5s ease-in-out forwards;
+        }
+        @keyframes pulse-gold {
+          0%, 100% { box-shadow: 0 0 5px rgba(251, 191, 36, 0.2); border-color: rgba(251, 191, 36, 0.3); }
+          50% { box-shadow: 0 0 15px rgba(251, 191, 36, 0.4); border-color: rgba(251, 191, 36, 0.6); }
+        }
+        .animate-pulse-gold {
+          animation: pulse-gold 2s infinite;
+        }
+        @keyframes zoom-in-out-glow {
+          0% { transform: scale(0.9); opacity: 0; filter: blur(10px); }
+          20% { transform: scale(1.05); opacity: 1; filter: blur(0); }
+          80% { transform: scale(1); opacity: 1; filter: blur(0); }
+          100% { transform: scale(1.1); opacity: 0; filter: blur(5px); }
+        }
+        .animate-zoom-glow {
+          animation: zoom-in-out-glow 2.8s ease-in-out forwards;
+        }
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-5px); }
+        }
+        .animate-float {
+          animation: float 3s ease-in-out infinite;
+        }
+        @keyframes stamp {
+          0% { opacity: 0; transform: scale(3); }
+          80% { opacity: 1; transform: scale(0.95); }
+</html>

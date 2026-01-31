@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR" class="h-full overflow-hidden">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Gramática do Milhão - Marcos Arlove</title>
+    <meta name="theme-color" content="#020617">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/3406/3406828.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #020617;
+            color: white;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+            position: fixed;
+        }
+        #root {
+            height: 100%;
+            width: 100%;
+        }
+        h1, h2, h3 {
+            font-family: 'Montserrat', sans-serif;
+        }
+        @keyframes slide-up {
+          from { transform: translateY(100%); opacity: 0; }
+          to { transform: translateY(0); opacity: 1; }
+        }
+        .animate-slide-up {
+          animation: slide-up 0.5s ease-out forwards;
+        }
+        @keyframes grow-x {
+          from { width: 0; }
+          to { width: 100%; }
+        }
+        .animate-grow-x {
+          animation: grow-x 1.5s ease-in-out forwards;
+        }
+        @keyframes pulse-gold {
+          0%, 100% { box-shadow: 0 0 5px rgba(251, 191, 36, 0.2); border-color: rgba(251, 191, 36, 0.3); }
+          50% { box-shadow: 0 0 15px rgba(251, 191, 36, 0.4); border-color: rgba(251, 191, 36, 0.6); }
+        }
+        .animate-pulse-gold {
+          animation: pulse-gold 2s infinite;
+        }
+        @keyframes subtle-hint-glow {
+          0%, 100% { filter: drop-shadow(0 0 2px rgba(251, 191, 36, 0)); }
+          50% { filter: drop-shadow(0 0 8px rgba(251, 191, 36, 0.4)); }
+        }
+        .animate-subtle-hint {
+          animation: subtle-hint-glow 3s ease-in-out infinite;
+        }
+        @keyframes zoom-in-out-glow {
+          0% { transform: scale(0.9); opacity: 0; filter: blur(10px); }
+          20% { transform: scale(1.05); opacity: 1; filter: blur(0); }
+          80% { transform: scale(1); opacity: 1; filter: blur(0); }
+          100% { transform: scale(1.1); opacity: 0; filter: blur(5px); }
+        }
+        .animate-zoom-glow {
+          animation: zoom-in-out-glow 2.8s ease-in-out forwards;
+        }
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-5px); }
+        }
+        .animate-float {
+          animation: float 3s ease-in-out infinite;
+        }
+        @keyframes stamp {
+          0% { opacity: 0; transform: scale(3); }
+          80% { opacity: 1; transform: scale(0.95); }
+          100% { opacity: 1; transform: scale(1); }
+        }
+        .animate-stamp {
+          animation: stamp 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+        }
+        .no-scrollbar::-webkit-scrollbar {
+          display: none;
+        }
+        .no-scrollbar {
+          -ms-overflow-style: none;
+          scrollbar-width: none;
+        }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "@google/genai": "https://esm.sh/@google/genai@^1.37.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/"
+  }
+}
+</script>
+</head>
+<body class="h-full w-full">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+</body>
+</html>
