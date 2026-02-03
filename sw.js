@@ -24,9 +24,7 @@ const urlsToCache = [
   '/data/sintaxe_termos_da_oracao.json',
   '/data/uso_do_imperativo.json',
   '/data/verbos_conjugacao.json',
-  '/data/verbos.json',
-  'https://cdn.tailwindcss.com',
-  'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700;800;900&display=swap'
+  '/data/verbos.json'
 ];
 
 self.addEventListener('install', event => {
@@ -41,14 +39,15 @@ self.addEventListener('install', event => {
 
 self.addEventListener('fetch', event => {
   event.respondWith(
-    caches.match(event.request)
-      .then(response => {
-        if (response) {
-          return response;
-        }
-        return fetch(event.request);
-      }
-    )
+    caches.open(CACHE_NAME).then(cache => {
+      return cache.match(event.request).then(response => {
+        const fetchPromise = fetch(event.request).then(networkResponse => {
+          cache.put(event.request, networkResponse.clone());
+          return networkResponse;
+        });
+        return response || fetchPromise;
+      });
+    })
   );
 });
 
