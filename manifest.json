@@ -2,7 +2,7 @@
   "name": "ARSQuestion",
   "short_name": "ARSQuestion",
   "description": "Um quiz divertido para testar seus conhecimentos em língua portuguesa e se preparar para concursos.",
-  "start_url": ".",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
