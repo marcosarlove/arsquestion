@@ -1,4 +1,3 @@
-
 {
   "category": "Língua Portuguesa",
   "subcategory": "Crase",
@@ -734,7 +733,7 @@
       ],
       "correctAnswerIndex": 2,
       "hint": "Quando há a preposição 'de' (em 'das'), a preposição 'a' que a acompanha não se funde com o artigo. É uma correlação: de...a.",
-      "hintCorrect": "Correto! Na correlação 'de...a', não se usa crase. 'Das 18h às 20h' estaria errado. O correto é 'Das 18h a as 20h' ou, mais comumente, 'Das 18h às 20h' (mas a forma 'a' é a mais purista). No entanto, a forma mais comum e aceita é 'das... às...'. A questão é capciosa. A forma mais correta gramaticalmente é 'a'. Mas 'às' é amplamente usado. Vamos considerar a regra 'de...a'.",
+      "hintCorrect": "Correto! Na correlação 'de...a', não se usa crase. 'Das 18h às 20h' estaria errado. O correto é 'das 18h a as 20h' ou, mais comumente, 'das 18h às 20h' (mas a forma 'a' é a mais purista). No entanto, a forma mais comum e aceita é 'das... às...'. A questão é capciosa. A forma mais correta gramaticalmente é 'a'. Mas 'às' é amplamente usado. Vamos considerar a regra 'de...a'.",
       "hintWrong": "Incorreto. A resposta certa é 'a'. Na estrutura 'de X a Y', não se usa crase no 'a'. Ex: 'Daqui a pouco', 'De segunda a sexta'.",
       "difficulty": "hard"
     },

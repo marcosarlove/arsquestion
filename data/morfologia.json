@@ -1,4 +1,3 @@
-
 {
   "category": "Língua Portuguesa",
   "subcategory": "Morfologia",
@@ -43,7 +42,7 @@
         "Cidadãos"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Palavras terminadas em '-ão' podem ter plurais diferentes. Pense em 'mão' -> 'mãos'.",
+      "hint": "Palavras terminadas em '-ão' podem ter plurais diferentes. Uma regra comum é trocar '-ão' por '-ães', '-ãos' ou '-ões'.",
       "hintCorrect": "Correto! O plural de 'cidadão' é 'cidadãos'.",
       "hintWrong": "Incorreto. A resposta certa é 'cidadãos'.",
       "difficulty": "medium"
@@ -133,7 +132,7 @@
         "Derivado"
       ],
       "correctAnswerIndex": 1,
-      "hint": "É formado por mais de um radical (palavra).",
+      "hint": "É formado por mais de uma palavra, juntas por hífen.",
       "hintCorrect": "Correto! 'Guarda-chuva' é um substantivo composto, formado pela junção de 'guarda' e 'chuva'.",
       "hintWrong": "Incorreto. A resposta certa é 'Composto'.",
       "difficulty": "easy"
@@ -163,7 +162,7 @@
         "Couves-flors"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Em substantivos compostos formados por substantivo + substantivo, ambos os elementos geralmente vão para o plural.",
+      "hint": "Em substantivos compostos formados por substantivo ligados por hífen, geralmente os dois vão para o plural.",
       "hintCorrect": "Correto! O plural correto é 'couves-flores', pois ambos os elementos são substantivos e variam.",
       "hintWrong": "Incorreto. A resposta certa é 'couves-flores'.",
       "difficulty": "medium"
@@ -180,7 +179,7 @@
       "correctAnswerIndex": 2,
       "hint": "Muitos advérbios terminados em '-mente' indicam a maneira como a ação ocorre.",
       "hintCorrect": "Correto! 'Infelizmente' é um advérbio de modo, indicando a maneira como algo aconteceu.",
-      "hintWrong": "Incorreto. A resposta certa é 'Advérbio de modo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Modo'.",
       "difficulty": "easy"
     },
     {
@@ -223,7 +222,7 @@
         "Coletivo"
       ],
       "correctAnswerIndex": 1,
-      "hint": "A palavra 'livreiro' foi formada a partir de outra palavra ('livro').",
+      "hint": "A palavra 'livreiro' foi formada a partir de outra palavra ('livro'), com adição de sufixo.",
       "hintCorrect": "Correto! 'Livreiro' é um substantivo derivado, pois vem da palavra primitiva 'livro'.",
       "hintWrong": "Incorreto. A resposta certa é 'Derivado'.",
       "difficulty": "easy"
@@ -345,7 +344,7 @@
       "correctAnswerIndex": 3,
       "hint": "A palavra 'cedo' responde à pergunta 'Quando?'.",
       "hintCorrect": "Correto! 'Cedo' é um advérbio de tempo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Advérbio de tempo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tempo'.",
       "difficulty": "easy"
     },
     {
@@ -358,7 +357,7 @@
         "Locução adverbial"
       ],
       "correctAnswerIndex": 1,
-      "hint": "É uma expressão formada por preposição + substantivo que tem o valor de um adjetivo ('papelão' caracteriza 'caixa').",
+      "hint": "É uma expressão formada por preposição + substantivo que tem o valor de um adjetivo (caracteriza 'caixa').",
       "hintCorrect": "Exato! 'De papelão' é uma locução adjetiva, pois equivale ao adjetivo 'papelonea' (embora este seja pouco usado).",
       "hintWrong": "Incorreto. A resposta certa é 'Locução adjetiva'.",
       "difficulty": "medium"
@@ -373,7 +372,7 @@
         "Os ternos azul-escuro"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Em adjetivos compostos onde o segundo elemento é um substantivo (como 'cor de...'), apenas o primeiro elemento varia. Mas em cor + cor, a regra é diferente. Em adjetivo + adjetivo, geralmente só o último varia.",
+      "hint": "Em adjetivos compostos que indicam cor, formados por dois adjetivos, apenas o segundo vai para o plural.",
       "hintCorrect": "Correto! Em adjetivos compostos formados por adjetivo + adjetivo indicando cor, apenas o segundo elemento vai para o plural. Portanto, 'os ternos azul-escuros'.",
       "hintWrong": "Incorreto. A resposta certa é 'Os ternos azul-escuros'.",
       "difficulty": "hard"
@@ -454,7 +453,7 @@
       "difficulty": "medium"
     },
     {
-      "id": "morfologia-101",
+      "id": "morfologia-031",
       "question": "Qual é o substantivo coletivo para um conjunto de lobos?",
       "options": [
         "Manada",
@@ -466,6 +465,696 @@
       "hint": "Este termo é específico para lobos.",
       "hintCorrect": "Correto! O coletivo de lobos é 'alcateia'.",
       "hintWrong": "Incorreto. A resposta certa é 'Alcateia'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-032",
+      "question": "O plural de 'abaixo-assinado' é:",
+      "options": ["abaixos-assinados", "abaixo-assinados", "abaixos-assinado", "abaixo-assinado"],
+      "correctAnswerIndex": 1,
+      "hint": "Em compostos de advérbio + adjetivo ou particípio, geralmente só o segundo elemento varia.",
+      "hintCorrect": "Correto! O plural de 'abaixo-assinado' é 'abaixo-assinados', com apenas o segundo termo variando.",
+      "hintWrong": "Incorreto. A resposta certa é 'abaixo-assinados'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-033",
+      "question": "Na frase 'O saber não ocupa lugar', a palavra 'saber' é um:",
+      "options": ["Verbo no infinitivo", "Substantivo abstrato", "Adjetivo", "Advérbio"],
+      "correctAnswerIndex": 1,
+      "hint": "Note que a palavra 'saber' está precedida por um artigo ('o'), o que a substantiva.",
+      "hintCorrect": "Exato! 'O saber' é um substantivo abstrato, resultado da substantivação do verbo 'saber'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Substantivo abstrato'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-034",
+      "question": "Qual o superlativo absoluto sintético de 'pobre'?",
+      "options": ["Pobríssimo", "Paupérrimo", "Muito pobre", "Mais pobre"],
+      "correctAnswerIndex": 1,
+      "hint": "Este adjetivo possui uma forma irregular (erudita) para o superlativo.",
+      "hintCorrect": "Correto! O superlativo absoluto sintético de 'pobre' é 'paupérrimo'. 'Pobríssimo' também pode ser aceito informalmente, mas a forma erudita tradicional é 'paupérrimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'paupérrimo' (a forma erudita).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-035",
+      "question": "A palavra 'onça' é um substantivo epiceno. Como se distingue o sexo do animal?",
+      "options": ["O onço / A onça", "Onça macho / Onça fêmea", "Este onça / Esta onça", "Não se distingue"],
+      "correctAnswerIndex": 1,
+      "hint": "Substantivos epicenos usam palavras adicionais ('macho', 'fêmea') para indicar o sexo.",
+      "hintCorrect": "Correto! Em substantivos epicenos como 'onça', o sexo é indicado por palavras como 'macho' e 'fêmea'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Onça macho / Onça fêmea'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-036",
+      "question": "Na frase 'Se chover, não sairei', a palavra 'se' é uma conjunção subordinativa:",
+      "options": ["Temporal", "Causal", "Condicional", "Final"],
+      "correctAnswerIndex": 2,
+      "hint": "A conjunção 'se' estabelece uma condição para que a outra ação ocorra (ou não).",
+      "hintCorrect": "Correto! 'Se' é uma conjunção subordinativa condicional.",
+      "hintWrong": "Incorreto. A resposta certa é 'Condicional'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-037",
+      "question": "O verbo 'reaver' é classificado como:",
+      "options": ["Regular", "Irregular", "Defectivo", "Anômalo"],
+      "correctAnswerIndex": 2,
+      "hint": "Este verbo não é conjugado em todas as pessoas e tempos. Por exemplo, não tem a primeira pessoa do presente do indicativo ('eu reavo' não existe).",
+      "hintCorrect": "Exato! 'Reaver' é um verbo defectivo, pois não é conjugado em algumas pessoas e tempos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Defectivo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-038",
+      "question": "A expressão 'sala de jantar' é uma:",
+      "options": ["Locução adjetiva", "Locução adverbial", "Locução prepositiva", "Locução verbal"],
+      "correctAnswerIndex": 0,
+      "hint": "A expressão 'de jantar' caracteriza o substantivo 'sala', funcionando como um adjetivo.",
+      "hintCorrect": "Correto! 'De jantar' é uma locução adjetiva que qualifica 'sala'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Locução adjetiva'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-039",
+      "question": "Qual o plural de 'o cônsul'?",
+      "options": ["os cônsul", "os cônsuls", "os cônsules", "os cônsuleis"],
+      "correctAnswerIndex": 2,
+      "hint": "Palavras paroxítonas terminadas em '-ul' seguem a regra de acréscimo de '-es'.",
+      "hintCorrect": "Correto! O plural de 'cônsul' é 'cônsules'.",
+      "hintWrong": "Incorreto. A resposta certa é 'cônsules'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-040",
+      "question": "Na frase 'Ele age conforme a lei', 'conforme' é uma conjunção:",
+      "options": ["Comparativa", "Conformativa", "Consecutiva", "Concessiva"],
+      "correctAnswerIndex": 1,
+      "hint": "Indica que uma ação está 'em conformidade com' ou 'de acordo com' outra.",
+      "hintCorrect": "Correto! 'Conforme' é uma conjunção subordinativa conformativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conformativa'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-041",
+      "question": "O diminutivo 'riacho' é um exemplo de:",
+      "options": ["Diminutivo analítico", "Diminutivo sintético erudito", "Diminutivo sintético popular", "Não é um diminutivo"],
+      "correctAnswerIndex": 1,
+      "hint": "É um diminutivo formado por um sufixo não tão comum como '-inho' (-acho vem do latim).",
+      "hintCorrect": "Correto! 'Riacho' (de rio) é um exemplo de diminutivo sintético erudito, usando o sufixo '-acho'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Diminutivo sintético erudito'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-042",
+      "question": "A palavra 'cujo' é um pronome:",
+      "options": ["Relativo", "Interrogativo", "Indefinido", "Demonstrativo"],
+      "correctAnswerIndex": 0,
+      "hint": "Este pronome estabelece uma relação de posse entre o termo que o antecede e o que o sucede.",
+      "hintCorrect": "Correto! 'Cujo' é um pronome relativo possessivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Relativo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-043",
+      "question": "O particípio do verbo 'pagar' pode ser 'pagado' ou 'pago'. Isso o classifica como um verbo:",
+      "options": ["Anômalo", "Defectivo", "Abundante", "Irregular"],
+      "correctAnswerIndex": 2,
+      "hint": "Verbos com mais de uma forma correta para o mesmo tempo/modo (especialmente no particípio) têm uma classificação específica.",
+      "hintCorrect": "Correto! 'Pagar' é um verbo abundante, pois possui dois particípios: um regular ('pagado') e um irregular ('pago').",
+      "hintWrong": "Incorreto. A resposta certa é 'Abundante'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-044",
+      "question": "Qual o superlativo absoluto sintético de 'célebre'?",
+      "options": ["Celebríssimo", "Celebérrimo", "Muito célebre", "O mais célebre"],
+      "correctAnswerIndex": 1,
+      "hint": "Adjetivos terminados em -re costumam usar o sufixo '-érrimo'.",
+      "hintCorrect": "Correto! O superlativo de 'célebre' é 'celebérrimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'celebérrimo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-045",
+      "question": "Na frase 'Onde você mora?', a palavra 'onde' é um:",
+      "options": ["Pronome relativo", "Advérbio interrogativo de lugar", "Conjunção subordinativa", "Preposição"],
+      "correctAnswerIndex": 1,
+      "hint": "É usada no início de uma pergunta para questionar sobre um lugar.",
+      "hintCorrect": "Correto! Em uma pergunta, 'onde' funciona como advérbio interrogativo de lugar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Advérbio interrogativo de lugar'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-046",
+      "question": "O plural de 'o alto-falante' é:",
+      "options": ["os alto-falantes", "os altos-falantes", "os altos-falante", "os alto-falante"],
+      "correctAnswerIndex": 1,
+      "hint": "Quando o composto é formado por adjetivo + substantivo, ambos os elementos vão para o plural.",
+      "hintCorrect": "Correto! O plural de 'alto-falante' é 'altos-falantes' (ambos variam).",
+      "hintWrong": "Incorreto. A resposta certa é 'altos-falantes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-047",
+      "question": "A palavra 'o/a colega' é um substantivo:",
+      "options": ["Epiceno", "Sobrecomum", "Comum de dois gêneros", "Biforme"],
+      "correctAnswerIndex": 2,
+      "hint": "A distinção de gênero é feita pelo artigo que acompanha a palavra, sem alterar a forma do substantivo.",
+      "hintCorrect": "Correto! 'Colega' é um substantivo comum de dois gêneros: o colega, a colega.",
+      "hintWrong": "Incorreto. A resposta certa é 'Comum de dois gêneros'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-048",
+      "question": "Na frase 'Estou em casa', a contração 'em' + 'a' resulta em 'na'. Qual o nome desse processo?",
+      "options": ["Combinação", "Contração", "Aglutinação", "Justaposição"],
+      "correctAnswerIndex": 1,
+      "hint": "Ocorre quando a preposição sofre alteração ao se unir a outra palavra, formando uma palavra só.",
+      "hintCorrect": "Correto! É o processo de contração: preposição + artigo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Contração'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-049",
+      "question": "O verbo 'pôr' pertence a qual conjugação?",
+      "options": ["1ª (-ar)", "2ª (-er)", "3ª (-ir)", "Nenhuma"],
+      "correctAnswerIndex": 1,
+      "hint": "Considere a forma no infinitivo: 'pôr' tem origem no latim 'ponere', que evoluiu para uma forma terminada em '-er' no português.",
+      "hintCorrect": "Correto! Apesar de sua forma singular, o verbo 'pôr' pertence à 2ª conjugação (-er).",
+      "hintWrong": "Incorreto. A resposta certa é '2ª (-er)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-050",
+      "question": "Qual o grau do adjetivo em 'Ele é o menos inteligente da turma'?",
+      "options": ["Comparativo de inferioridade", "Superlativo relativo de inferioridade", "Superlativo absoluto", "Normal"],
+      "correctAnswerIndex": 1,
+      "hint": "Compara um ser com todos os outros de um conjunto, para rebaixá-lo.",
+      "hintCorrect": "Correto! É o superlativo relativo de inferioridade, comparando-o com o todo ('da turma').",
+      "hintWrong": "Incorreto. A resposta certa é 'Superlativo relativo de inferioridade'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-051",
+      "question": "A locução interjetiva 'Quem me dera!' expressa:",
+      "options": ["Alegria", "Desejo", "Medo", "Surpresa"],
+      "correctAnswerIndex": 1,
+      "hint": "É usada para expressar algo que se gostaria muito que acontecesse.",
+      "hintCorrect": "Correto! 'Quem me dera!' expressa desejo ou vontade.",
+      "hintWrong": "Incorreto. A resposta certa é 'Desejo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-052",
+      "question": "O plural de 'o revólver' é:",
+      "options": ["os revólver", "os revólvers", "os revólveres", "os revólveis"],
+      "correctAnswerIndex": 2,
+      "hint": "Palavras paroxítonas terminadas em -r têm o plural formado pelo acréscimo de -es.",
+      "hintCorrect": "Correto! O plural de 'revólver' é 'revólveres'.",
+      "hintWrong": "Incorreto. A resposta certa é 'revólveres'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-053",
+      "question": "Na frase 'À medida que estudava, aprendia mais', a locução 'à medida que' é uma conjunção:",
+      "options": ["Temporal", "Proporcional", "Comparativa", "Causal"],
+      "correctAnswerIndex": 1,
+      "hint": "Indica que duas ações ocorrem de forma simultânea e progressiva, uma variando conforme a outra.",
+      "hintCorrect": "Correto! 'À medida que' é uma conjunção subordinativa proporcional.",
+      "hintWrong": "Incorreto. A resposta certa é 'Proporcional'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-054",
+      "question": "O substantivo 'a vítima' é classificado como:",
+      "options": ["Epiceno", "Sobrecomum", "Comum de dois gêneros", "Biforme"],
+      "correctAnswerIndex": 1,
+      "hint": "Possui uma só forma e um só gênero (feminino), mas pode referir-se a seres de ambos os sexos.",
+      "hintCorrect": "Correto! 'Vítima' é um substantivo sobrecomum: a vítima (masculino ou feminino).",
+      "hintWrong": "Incorreto. A resposta certa é 'Sobrecomum'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-055",
+      "question": "Qual o superlativo de 'pequeno'?",
+      "options": ["Menor", "Mínimo", "Pequeníssimo", "Muito pequeno"],
+      "correctAnswerIndex": 1,
+      "hint": "O superlativo absoluto sintético de 'pequeno' é irregular e vem do latim.",
+      "hintCorrect": "Correto! O superlativo absoluto sintético de 'pequeno' é 'mínimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'mínimo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-056",
+      "question": "A palavra 'outrem' é um pronome:",
+      "options": ["Pessoal", "Demonstrativo", "Relativo", "Indefinido"],
+      "correctAnswerIndex": 3,
+      "hint": "Significa 'outra pessoa' ou 'o próximo'.",
+      "hintCorrect": "Correto! 'Outrem' é um pronome indefinido equivalente a 'outra pessoa'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Indefinido'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-057",
+      "question": "O plural de 'o pão-de-ló' é:",
+      "options": ["os pães-de-ló", "os pão-de-lós", "os pães-de-lós", "os pão-de-ló"],
+      "correctAnswerIndex": 0,
+      "hint": "Em substantivos compostos ligados por preposição, geralmente só o primeiro elemento vai para o plural.",
+      "hintCorrect": "Correto! O plural de 'pão-de-ló' é 'pães-de-ló' (apenas o primeiro elemento varia).",
+      "hintWrong": "Incorreto. A resposta certa é 'pães-de-ló'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-058",
+      "question": "Na frase 'Trabalhou para passar no concurso', a locução 'para que' (implícita) é uma conjunção final. A palavra 'para' sozinha aqui tem o mesmo valor. Qual é a classe dela?",
+      "options": ["Conjunção final", "Preposição com valor de finalidade", "Advérbio", "Pronome"],
+      "correctAnswerIndex": 1,
+      "hint": "A preposição pode adquirir valor semântico de finalidade, indicando o objetivo da ação.",
+      "hintCorrect": "Correto! A preposição 'para' aqui está sendo usada com valor de finalidade (equivalente a 'para que').",
+      "hintWrong": "Incorreto. A resposta certa é 'Preposição com valor de finalidade'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-059",
+      "question": "O aumentativo sintético de 'boca' é:",
+      "options": ["Bocão", "Bocarra", "Boca grande", "Bocona"],
+      "correctAnswerIndex": 1,
+      "hint": "Além do sufixo comum '-ão', existem outros sufixos para o aumentativo, alguns com valor pejorativo.",
+      "hintCorrect": "Correto! 'Bocarra' é um aumentativo (e muitas vezes pejorativo) de 'boca'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Bocarra'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-060",
+      "question": "O verbo 'ir' é classificado como:",
+      "options": ["Regular", "Irregular", "Defectivo", "Anômalo"],
+      "correctAnswerIndex": 3,
+      "hint": "Este verbo apresenta radicais completamente diferentes em sua conjugação (ex: vou, fui, irei).",
+      "hintCorrect": "Correto! 'Ir' é um verbo anômalo, pois sofre mudança total do radical em algumas formas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Anômalo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-061",
+      "question": "Qual o coletivo de 'atores' ou 'artistas'?",
+      "options": ["Companhia", "Elenco", "Bando", "Trupe"],
+      "correctAnswerIndex": 1,
+      "hint": "É o termo usado para o conjunto de atores de uma peça, filme ou novela.",
+      "hintCorrect": "Correto! O coletivo de atores é 'elenco'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Elenco'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-062",
+      "question": "Na frase 'O casaco verde-oliva', o adjetivo composto 'verde-oliva' é invariável no plural porque:",
+      "options": ["É formado por dois adjetivos", "O segundo elemento é um substantivo", "Sempre é invariável", "Termina com 'a'"],
+      "correctAnswerIndex": 1,
+      "hint": "Quando um adjetivo composto é formado por 'cor + de + substantivo' ou 'cor + substantivo', ele fica invariável.",
+      "hintCorrect": "Correto! Em 'verde-oliva', 'oliva' é um substantivo. Nesse tipo de composto indicando cor, o adjetivo fica invariável.",
+      "hintWrong": "Incorreto. A resposta certa é 'O segundo elemento é um substantivo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-063",
+      "question": "A palavra 'consigo' é um pronome:",
+      "options": ["Pessoal do caso reto", "Oblíquo tônico", "Oblíquo átono", "De tratamento"],
+      "correctAnswerIndex": 1,
+      "hint": "É a forma reflexiva da 3ª pessoa, contraída com a preposição 'com'.",
+      "hintCorrect": "Correto! 'Consigo' é um pronome oblíquo tônico reflexivo (com + si).",
+      "hintWrong": "Incorreto. A resposta certa é 'Oblíquo tônico'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-064",
+      "question": "O numeral 'duplo' é classificado como:",
+      "options": ["Cardinal", "Ordinal", "Fracionário", "Multiplicativo"],
+      "correctAnswerIndex": 3,
+      "hint": "Indica o número de vezes que uma quantidade foi aumentada (o dobro).",
+      "hintCorrect": "Correto! 'Duplo' é um numeral multiplicativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Multiplicativo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-065",
+      "question": "Na frase 'Ele não virá, pois está doente', a conjunção 'pois' é:",
+      "options": ["Adversativa", "Conclusiva", "Explicativa", "Alternativa"],
+      "correctAnswerIndex": 2,
+      "hint": "Introduz uma justificativa ou explicação para a oração anterior.",
+      "hintCorrect": "Correto! Neste caso, 'pois' é uma conjunção coordenativa explicativa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Explicativa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-066",
+      "question": "Qual o feminino de 'imperador'?",
+      "options": ["Imperadora", "Imperatriz", "Imperatora", "Imperatria"],
+      "correctAnswerIndex": 1,
+      "hint": "O feminino é formado com o sufixo '-triz'.",
+      "hintCorrect": "Correto! O feminino de 'imperador' é 'imperatriz'.",
+      "hintWrong": "Incorreto. A resposta certa é 'imperatriz'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-067",
+      "question": "A forma verbal 'cantando' está no:",
+      "options": ["Infinitivo", "Particípio", "Gerúndio", "Imperativo"],
+      "correctAnswerIndex": 2,
+      "hint": "Esta forma nominal indica uma ação em andamento e termina em '-ndo'.",
+      "hintCorrect": "Correto! 'Cantando' está no gerúndio.",
+      "hintWrong": "Incorreto. A resposta certa é 'Gerúndio'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-068",
+      "question": "O plural de 'o mel' é:",
+      "options": ["os méis", "os meles", "os mels", "os mel"],
+      "correctAnswerIndex": 0,
+      "hint": "Monossílabos e oxítonos terminados em -el trocam o -l por -is.",
+      "hintCorrect": "Correto! O plural de 'mel' é 'méis'.",
+      "hintWrong": "Incorreto. A resposta certa é 'méis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-069",
+      "question": "Na frase 'Ele é um ás no volante', a palavra 'ás' é um:",
+      "options": ["Substantivo sobrecomum", "Substantivo comum de dois gêneros", "Adjetivo", "Substantivo biforme"],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra não muda, mas o gênero é indicado pelo artigo: o ás, a ás.",
+      "hintCorrect": "Correto! 'Ás' é um substantivo comum de dois gêneros: o ás, a ás.",
+      "hintWrong": "Incorreto. A resposta certa é 'Substantivo comum de dois gêneros'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-070",
+      "question": "O superlativo de 'grande' é:",
+      "options": ["Maior", "Grandessíssimo", "Máximo", "Grandão"],
+      "correctAnswerIndex": 2,
+      "hint": "Assim como 'pequeno' -> 'mínimo', 'grande' tem um superlativo irregular.",
+      "hintCorrect": "Correto! O superlativo absoluto sintético de 'grande' é 'máximo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'máximo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-071",
+      "question": "A palavra 'Vossa Excelência' é um pronome de:",
+      "options": ["Tratamento", "Pessoal", "Possessivo", "Demonstrativo"],
+      "correctAnswerIndex": 0,
+      "hint": "É usado para se dirigir a altas autoridades.",
+      "hintCorrect": "Correto! 'Vossa Excelência' é um pronome de tratamento.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tratamento'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-072",
+      "question": "Na frase 'Fez o trabalho a fim de passar', a locução 'a fim de' é:",
+      "options": ["Prepositiva", "Conjuntiva de finalidade", "Adverbial", "Adjetiva"],
+      "correctAnswerIndex": 1,
+      "hint": "Indica a finalidade ou o objetivo da ação principal.",
+      "hintCorrect": "Correto! 'A fim de' é uma locução conjuntiva subordinativa final.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conjuntiva de finalidade'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-073",
+      "question": "O plural de 'o tórax' é:",
+      "options": ["os tóraxes", "os tóracs", "os tórax", "os tóraxs"],
+      "correctAnswerIndex": 2,
+      "hint": "Palavras paroxítonas ou proparoxítonas terminadas em -x são invariáveis no plural.",
+      "hintCorrect": "Correto! 'Tórax' é invariável no plural: os tórax.",
+      "hintWrong": "Incorreto. A resposta certa é 'os tórax' (invariável).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-074",
+      "question": "A palavra 'adeus' é classificada como:",
+      "options": ["Substantivo", "Advérbio", "Interjeição", "Conjunção"],
+      "correctAnswerIndex": 2,
+      "hint": "É usada para se despedir de alguém, expressando um sentimento.",
+      "hintCorrect": "Correto! 'Adeus' é uma interjeição de despedida.",
+      "hintWrong": "Incorreto. A resposta certa é 'Interjeição'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-075",
+      "question": "O verbo 'abolir' é defectivo. Em qual tempo/pessoa ele NÃO é conjugado?",
+      "options": ["Eu (presente do indicativo)", "Tu (presente do indicativo)", "Ele (presente do indicativo)", "Nós (presente do indicativo)"],
+      "correctAnswerIndex": 0,
+      "hint": "Verbos terminados em -ir com 'o' na penúltima sílaba do infinitivo geralmente não têm a 1ª pessoa do presente do indicativo.",
+      "hintCorrect": "Correto! 'Abolir' é defectivo e não possui a forma 'eu abolo'. Usa-se 'eu abulo' ou perífrases.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eu (presente do indicativo)'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-076",
+      "question": "Qual o coletivo de 'porcos'?",
+      "options": ["Manada", "Rebanho", "Vara", "Bando"],
+      "correctAnswerIndex": 2,
+      "hint": "Embora 'manada' e 'rebanho' sejam usados para outros animais, 'porcos' têm um coletivo específico: 'vara'.",
+      "hintCorrect": "Correto! O coletivo de porcos é 'vara'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vara'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-077",
+      "question": "O superlativo absoluto sintético de 'amigo' é:",
+      "options": ["Amiguíssimo", "Amicíssimo", "Muito amigo", "Amigão"],
+      "correctAnswerIndex": 1,
+      "hint": "A forma erudita vem do latim 'amicus'.",
+      "hintCorrect": "Correto! O superlativo erudito de 'amigo' é 'amicíssimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'amicíssimo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-078",
+      "question": "Na frase 'Ele chegou depois', a palavra 'depois' é um advérbio de:",
+      "options": ["Lugar", "Modo", "Tempo", "Intensidade"],
+      "correctAnswerIndex": 2,
+      "hint": "Responde à pergunta 'Quando?'.",
+      "hintCorrect": "Correto! 'Depois' é um advérbio de tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tempo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-079",
+      "question": "O plural de 'o guarda-florestal' é:",
+      "options": ["os guardas-florestal", "os guarda-florestais", "os guardas-florestais", "os guarda-florestal"],
+      "correctAnswerIndex": 2,
+      "hint": "Quando o composto é formado por substantivo + adjetivo, ambos variam.",
+      "hintCorrect": "Correto! O plural é 'guarda**s**-florestai**s**' (ambos variam).",
+      "hintWrong": "Incorreto. A resposta certa é 'guarda**s**-florestai**s**'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-080",
+      "question": "A palavra 'ambos' é classificada como:",
+      "options": ["Numeral coletivo", "Numeral cardinal", "Pronome indefinido", "Numeral dual"],
+      "correctAnswerIndex": 3,
+      "hint": "É um tipo especial de numeral que se refere a 'um e outro', 'os dois'.",
+      "hintCorrect": "Correto! 'Ambos' é um numeral dual (ou par).",
+      "hintWrong": "Incorreto. A resposta certa é 'Numeral dual'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-081",
+      "question": "Na frase 'Não o vi', o 'o' é um:",
+      "options": ["Artigo definido", "Pronome demonstrativo", "Pronome pessoal oblíquo átono", "Pronome possessivo"],
+      "correctAnswerIndex": 2,
+      "hint": "Funciona como complemento do verbo 'ver' (vi ele -> vi-o).",
+      "hintCorrect": "Correto! O 'o' é um pronome pessoal oblíquo átono (o, a, os, as).",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronome pessoal oblíquo átono'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-082",
+      "question": "O diminutivo sintético de 'fogo' é:",
+      "options": ["Foguinho", "Fogaréu", "Foguete", "Fogo pequeno"],
+      "correctAnswerIndex": 1,
+      "hint": "O sufixo '-aréu' pode indicar diminutivo com valor afetivo ou pejorativo.",
+      "hintCorrect": "Correto! 'Fogaréu' pode ser considerado um diminutivo afetivo de 'fogo', embora também tenha outros significados.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fogaréu' (diminutivo afetivo).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-083",
+      "question": "A conjunção 'portanto' é:",
+      "options": ["Adversativa", "Explicativa", "Alternativa", "Conclusiva"],
+      "correctAnswerIndex": 3,
+      "hint": "É usada para introduzir uma conclusão a partir do que foi dito antes.",
+      "hintCorrect": "Correto! 'Portanto' é uma conjunção coordenativa conclusiva.",
+      "hintWrong": "Incorreto. A resposta certa é 'Conclusiva'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-084",
+      "question": "Qual o feminino de 'réu'?",
+      "options": ["Ré", "Reia", "Reúna", "A réu"],
+      "correctAnswerIndex": 0,
+      "hint": "É uma forma curta e simples: 'ré'.",
+      "hintCorrect": "Correto! O feminino de 'réu' é 'ré' (a ré).",
+      "hintWrong": "Incorreto. A resposta certa é 'ré'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-085",
+      "question": "O verbo 'haver' no sentido de 'existir' é:",
+      "options": ["Pessoal e variável", "Impessoal e invariável", "Pessoal e invariável", "Impessoal e variável"],
+      "correctAnswerIndex": 1,
+      "hint": "Ele não tem sujeito e fica sempre na 3ª pessoa do singular.",
+      "hintCorrect": "Correto! 'Haver' no sentido de existir é impessoal (não tem sujeito) e, portanto, fica invariável (há, havia, houve).",
+      "hintWrong": "Incorreto. A resposta certa é 'Impessoal e invariável'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-086",
+      "question": "A locução prepositiva 'acerca de' significa:",
+      "options": ["Aproximadamente", "Sobre", "Perto de", "Longe de"],
+      "correctAnswerIndex": 1,
+      "hint": "É sinônimo de 'a respeito de'.",
+      "hintCorrect": "Correto! 'Acerca de' significa 'sobre', 'a respeito de'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sobre'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-087",
+      "question": "O plural de 'o giz' é:",
+      "options": ["os giz", "os gizes", "os gizs", "os gises"],
+      "correctAnswerIndex": 1,
+      "hint": "Palavras oxítonas terminadas em -z formam o plural com -es.",
+      "hintCorrect": "Correto! O plural de 'giz' é 'gizes'.",
+      "hintWrong": "Incorreto. A resposta certa é 'gizes'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-088",
+      "question": "O superlativo de 'mau' é:",
+      "options": ["Pior", "Malíssimo", "Péssimo", "Muito mau"],
+      "correctAnswerIndex": 2,
+      "hint": "Assim como 'bom' -> 'ótimo', 'mau' tem um superlativo irregular: 'péssimo'.",
+      "hintCorrect": "Correto! O superlativo absoluto sintético de 'mau' é 'péssimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'péssimo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-089",
+      "question": "Na frase 'Ele mesmo consertou o carro', 'mesmo' é um:",
+      "options": ["Advérbio", "Pronome demonstrativo com valor de reforço", "Adjetivo", "Substantivo"],
+      "correctAnswerIndex": 1,
+      "hint": "É usado para dar ênfase ao substantivo ou pronome a que se refere.",
+      "hintCorrect": "Correto! Neste caso, 'mesmo' é um pronome demonstrativo de realce.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pronome demonstrativo com valor de reforço'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-090",
+      "question": "O coletivo de 'chaves' é:",
+      "options": ["Chaveiro", "Chaveamento", "Molho", "Conjunto"],
+      "correctAnswerIndex": 2,
+      "hint": "É uma palavra curta e comum: 'molho'.",
+      "hintCorrect": "Correto! O coletivo de chaves é 'molho'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Molho'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-091",
+      "question": "O plural de 'o amor-perfeito' (flor) é:",
+      "options": ["os amores-perfeitos", "os amor-perfeitos", "os amores-perfeito", "os amor-perfeito"],
+      "correctAnswerIndex": 0,
+      "hint": "Em substantivo + adjetivo, ambos variam.",
+      "hintCorrect": "Correto! O plural de 'amor-perfeito' é 'amores-perfeitos'.",
+      "hintWrong": "Incorreto. A resposta certa é 'amores-perfeitos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-092",
+      "question": "A palavra 'alerta' em 'Os soldados estão alerta' é:",
+      "options": ["Adjetivo", "Substantivo", "Advérbio de modo", "Interjeição"],
+      "correctAnswerIndex": 2,
+      "hint": "A palavra 'alerta' é invariável e modifica o verbo 'estar', indicando o modo ou estado dos soldados.",
+      "hintCorrect": "Correto! Nesta frase, 'alerta' é um advérbio de modo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Advérbio de modo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-093",
+      "question": "O verbo 'precaver-se' é um verbo:",
+      "options": ["Regular", "Defectivo e pronominal", "Anômalo", "Abundante"],
+      "correctAnswerIndex": 1,
+      "hint": "Ele não é conjugado em todas as formas (defectivo) e exige um pronome oblíquo (pronominal).",
+      "hintCorrect": "Correto! 'Precaver-se' é um verbo defectivo e pronominal.",
+      "hintWrong": "Incorrecto. A resposta certa é 'Defectivo e pronominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-094",
+      "question": "Qual o feminino de 'elefante'?",
+      "options": ["Elefanta", "Elefoa", "Aliá", "A elefante"],
+      "correctAnswerIndex": 2,
+      "hint": "É uma palavra bem diferente do masculino: 'elefanta' é comum, mas 'aliá' é a fêmea do elefante.",
+      "hintCorrect": "Correto! A fêmea do elefante é a 'elefanta', mas também pode ser chamada de 'aliá' (termo específico).",
+      "hintWrong": "Incorreto. A resposta mais precisa é 'elefanta', mas 'aliá' é um termo válido. A resposta correta aqui é 'elefanta' (mas a opção 'aliá' também pode ser considerada em contextos específicos). Dado o contexto da pergunta, a resposta esperada é 'elefanta'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-095",
+      "question": "Na frase 'Ele trabalha que trabalha', a repetição do verbo com 'que' no meio tem valor:",
+      "options": ["Condicional", "Causal", "Intensidade (superlativo)", "Comparativo"],
+      "correctAnswerIndex": 2,
+      "hint": "Essa estrutura é uma forma de enfatizar a ação, equivalendo a 'trabalha muito'.",
+      "hintCorrect": "Correto! A construção 'verbo + que + verbo' expressa ideia de superlativo ou intensidade.",
+      "hintWrong": "Incorreto. A resposta certa é 'Intensidade (superlativo)'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-096",
+      "question": "O plural de 'o troféu' é:",
+      "options": ["os troféus", "os troféis", "os troféu", "os troféises"],
+      "correctAnswerIndex": 0,
+      "hint": "Palavras terminadas em ditongo aberto tónico -éu recebem apenas 's' no plural.",
+      "hintCorrect": "Correto! O plural de 'troféu' é 'troféus'.",
+      "hintWrong": "Incorreto. A resposta certa é 'troféus'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "morfologia-097",
+      "question": "A palavra 'idem' é um pronome:",
+      "options": ["Pessoal", "Indefinido", "Relativo", "Demonstrativo"],
+      "correctAnswerIndex": 3,
+      "hint": "Significa 'o mesmo', 'a mesma coisa'.",
+      "hintCorrect": "Correto! 'Idem' é um pronome demonstrativo equivalente a 'o mesmo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Demonstrativo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-098",
+      "question": "O superlativo absoluto sintético de 'livre' é:",
+      "options": ["Livríssimo", "Libérrimo", "Muito livre", "Livre ao extremo"],
+      "correctAnswerIndex": 1,
+      "hint": "Forma erudita derivada do latim.",
+      "hintCorrect": "Correto! O superlativo de 'livre' é 'libérrimo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'libérrimo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "morfologia-099",
+      "question": "A locução 'de propósito' é uma locução adverbial de:",
+      "options": ["Modo", "Causa", "Finalidade", "Afirmação"],
+      "correctAnswerIndex": 0,
+      "hint": "Indica a maneira como algo foi feito (intencionalmente).",
+      "hintCorrect": "Correto! 'De propósito' é uma locução adverbial de modo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Modo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "morfologia-100",
+      "question": "O plural de 'o mal' (substantivo) é:",
+      "options": ["os mal", "os males", "os mais", "os mauses"],
+      "correctAnswerIndex": 1,
+      "hint": "Palavras terminadas em -al trocam o 'l' por 'is'.",
+      "hintCorrect": "Correto! O plural de 'mal' (substantivo) é 'males'.",
+      "hintWrong": "Incorreto. A resposta certa é 'males'.",
       "difficulty": "easy"
     }
   ]

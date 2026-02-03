@@ -1,4 +1,3 @@
-
 {
   "category": "Língua Portuguesa",
   "subcategory": "Sintaxe - Termos da Oração",
@@ -13,9 +12,9 @@
         "alunos"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O sujeito é o termo sobre o qual o verbo declara algo. Pergunte ao verbo: 'Quem estuda?'.",
+      "hint": "O sujeito é quem pratica ou sofre a ação do verbo. Pergunte ao verbo: 'Quem estuda?'.",
       "hintCorrect": "Correto! 'Os alunos' é o sujeito simples da oração, pois é o termo que pratica a ação de estudar.",
-      "hintWrong": "Incorreto. A resposta certa é 'Os alunos'. Este é o termo que concorda com o verbo 'estudam'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Os alunos'. Este é o termo que concorda em número e pessoa com o verbo 'estudam'.",
       "difficulty": "easy"
     },
     {
@@ -28,8 +27,8 @@
         "Oração sem sujeito"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Verbos que indicam fenómenos da natureza não admitem um sujeito.",
-      "hintCorrect": "Exato! Verbos que expressam fenómenos da natureza, como 'chover', formam uma oração sem sujeito.",
+      "hint": "Verbos impessoais, como os que indicam fenômenos da natureza, não admitem sujeito.",
+      "hintCorrect": "Exato! Verbos impessoais que expressam fenômenos da natureza, como 'chover', formam uma oração sem sujeito.",
       "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'.",
       "difficulty": "easy"
     },
@@ -43,7 +42,7 @@
         "Predicativo do sujeito"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O termo completa o sentido de um verbo transitivo ('comprar') sem a necessidade de uma preposição. Pergunte: 'Eu comprei o quê?'.",
+      "hint": "O termo completa o sentido de um verbo transitivo direto ('comprar') sem necessidade de preposição. Pergunte: 'Eu comprei o quê?'.",
       "hintCorrect": "Correto! 'Um livro' é o objeto direto, pois completa o sentido do verbo transitivo direto 'comprei'.",
       "hintWrong": "Incorreto. A resposta certa é 'Objeto direto'.",
       "difficulty": "easy"
@@ -58,9 +57,9 @@
         "Conjunção"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'precisar' é transitivo indireto ('precisar de'). Quando o 'se' acompanha um verbo que não é transitivo direto, ele tem uma função específica.",
-      "hintCorrect": "Exato! Como o verbo é transitivo indireto, o 'se' funciona como índice de indeterminação do sujeito, tornando-o indeterminado.",
-      "hintWrong": "Incorreto. A resposta certa é 'Índice de indeterminação do sujeito'.",
+      "hint": "O verbo 'precisar' é transitivo indireto ('precisar de'). Com verbos transitivos indiretos, o 'se' não forma voz passiva, mas tem outra função.",
+      "hintCorrect": "Exato! Como o verbo é transitivo indireto, o 'se' funciona como índice de indeterminação do sujeito. Não sabemos quem precisa.",
+      "hintWrong": "Incorreto. A resposta certa é 'Índice de indeterminação do sujeito'. Com verbos transitivos indiretos, o 'se' não forma voz passiva.",
       "difficulty": "hard"
     },
     {
@@ -73,8 +72,8 @@
         "Não há predicado"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O predicado é formado por um verbo de ligação ('está') e um predicativo do sujeito ('feliz').",
-      "hintCorrect": "Correto! O predicado nominal tem como núcleo um nome (o predicativo do sujeito), e o verbo serve apenas para ligar o sujeito a essa característica.",
+      "hint": "O predicado é formado por um verbo de ligação ('está') e um predicativo do sujeito ('feliz'). O núcleo do sentido está no nome.",
+      "hintCorrect": "Correto! O predicado nominal tem como núcleo um nome (o predicativo do sujeito 'feliz'), e o verbo de ligação serve apenas para conectá-lo ao sujeito.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicado nominal'.",
       "difficulty": "easy"
     },
@@ -88,9 +87,9 @@
         "Adjunto adverbial"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O termo 'de ajuda' completa o sentido de um nome ('necessidade'), e não de um verbo. Além disso, 'ajuda' é o alvo da necessidade (sentido passivo).",
-      "hintCorrect": "Correto! 'De ajuda' é um complemento nominal, pois completa o sentido do substantivo abstrato 'necessidade' e tem valor passivo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'. Ele completa o sentido de um nome, e não de um verbo.",
+      "hint": "O termo completa o sentido de um nome ('necessidade'), e não de um verbo. Pense: a ajuda é o alvo da necessidade (ela é necessitada).",
+      "hintCorrect": "Correto! 'De ajuda' é um complemento nominal, pois completa o sentido do substantivo abstrato 'necessidade' e tem valor passivo (ajuda é necessitada).",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'. Ele completa o sentido de um nome (necessidade), e não de um verbo.",
       "difficulty": "hard"
     },
     {
@@ -103,8 +102,8 @@
         "Predicativo do objeto"
       ],
       "correctAnswerIndex": 3,
-      "hint": "O termo 'fácil' é uma característica atribuída ao objeto direto ('a prova') através do verbo 'considerou'.",
-      "hintCorrect": "Exato! 'Fácil' é o predicativo do objeto, pois é uma qualidade do objeto direto 'a prova'.",
+      "hint": "O termo 'fácil' é uma característica atribuída ao objeto direto ('a prova') através da ação verbal 'considerou'.",
+      "hintCorrect": "Exato! 'Fácil' é o predicativo do objeto, pois é uma qualidade atribuída ao objeto direto 'a prova' pelo sujeito da oração.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
       "difficulty": "hard"
     },
@@ -118,8 +117,8 @@
         "Indeterminado"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O sujeito não está explícito na frase, mas pode ser identificado pela desinência do verbo 'fomos'.",
-      "hintCorrect": "Correto! O sujeito é oculto (também chamado de desinencial ou elíptico) e é identificado como 'Nós' pela terminação do verbo.",
+      "hint": "O sujeito não está explícito na frase, mas pode ser identificado pela terminação do verbo 'fomos'.",
+      "hintCorrect": "Correto! O sujeito é oculto (ou elíptico) e é identificado como 'Nós' pela desinência verbal de 1ª pessoa do plural.",
       "hintWrong": "Incorreto. A resposta certa é 'Oculto (Nós)'.",
       "difficulty": "easy"
     },
@@ -133,8 +132,8 @@
         "Complemento nominal"
       ],
       "correctAnswerIndex": 2,
-      "hint": "A frase está na voz passiva. Quem pratica a ação de ler na voz passiva?",
-      "hintCorrect": "Correto! 'Pelo aluno' é o agente da passiva, pois é o termo que pratica a ação na voz passiva analítica.",
+      "hint": "A frase está na voz passiva analítica (verbo ser + particípio). Quem pratica a ação de ler na voz passiva?",
+      "hintCorrect": "Correto! 'Pelo aluno' é o agente da passiva, pois é o termo que pratica a ação expressa pelo verbo na voz passiva.",
       "hintWrong": "Incorreto. A resposta certa é 'Agente da passiva'.",
       "difficulty": "easy"
     },
@@ -148,9 +147,9 @@
         "Predicativo do sujeito"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O termo 'de madeira' caracteriza o substantivo concreto 'casa' e tem um valor ativo (a madeira 'faz' a casa).",
-      "hintCorrect": "Exato! 'De madeira' é um adjunto adnominal, pois acompanha e caracteriza o substantivo 'casa'. Diferente do complemento nominal, ele tem valor ativo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'.",
+      "hint": "O termo 'de madeira' caracteriza o substantivo concreto 'casa'. Pense: a madeira constitui a casa (valor ativo).",
+      "hintCorrect": "Exato! 'De madeira' é um adjunto adnominal, pois acompanha e caracteriza o substantivo 'casa', tendo valor ativo (a madeira 'faz' a casa).",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'. Complemento nominal completa substantivos abstratos com valor passivo.",
       "difficulty": "hard"
     },
     {
@@ -163,7 +162,7 @@
         "Oração sem predicado"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O predicado tem dois núcleos: um verbo de ação ('chegaram') e um predicativo do sujeito ('cansados').",
+      "hint": "O predicado tem dois núcleos de informação: um verbo de ação ('chegaram') e uma característica do sujeito ('cansados').",
       "hintCorrect": "Correto! É um predicado verbo-nominal, pois informa uma ação ('chegaram') e, ao mesmo tempo, um estado ou qualidade do sujeito ('cansados').",
       "hintWrong": "Incorreto. A resposta certa é 'Predicado verbo-nominal'.",
       "difficulty": "medium"
@@ -178,8 +177,8 @@
         "Objeto direto"
       ],
       "correctAnswerIndex": 2,
-      "hint": "É um termo usado para chamar ou invocar o interlocutor, e não possui relação sintática com o resto da oração.",
-      "hintCorrect": "Exato! 'Amigo' é um vocativo, um termo de chamamento.",
+      "hint": "É um termo usado para chamar ou invocar diretamente o interlocutor. É independente sintaticamente.",
+      "hintCorrect": "Exato! 'Amigo' é um vocativo, um termo de chamamento que se isola por vírgula.",
       "hintWrong": "Incorreto. A resposta certa é 'Vocativo'.",
       "difficulty": "easy"
     },
@@ -193,8 +192,8 @@
         "Indeterminado"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O verbo 'haver' no sentido de tempo decorrido é impessoal.",
-      "hintCorrect": "Correto! Verbos como 'haver' indicando tempo formam uma oração sem sujeito.",
+      "hint": "O verbo 'haver', quando indica tempo decorrido, é impessoal (não tem sujeito).",
+      "hintCorrect": "Correto! Verbos impessoais, como 'haver' no sentido de tempo decorrido, formam uma oração sem sujeito.",
       "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'.",
       "difficulty": "medium"
     },
@@ -208,7 +207,7 @@
         "Adjunto adverbial"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O termo completa o sentido de um verbo transitivo ('gostar') com o auxílio de uma preposição ('de').",
+      "hint": "O termo completa o sentido de um verbo transitivo ('gostar') com o auxílio obrigatório de uma preposição ('de').",
       "hintCorrect": "Correto! 'De música clássica' é o objeto indireto, pois completa o sentido do verbo transitivo indireto 'gosta'.",
       "hintWrong": "Incorreto. A resposta certa é 'Objeto indireto'.",
       "difficulty": "easy"
@@ -223,9 +222,9 @@
         "Fui ao cinema."
       ],
       "correctAnswerIndex": 1,
-      "hint": "O objeto direto preposicionado ocorre quando um objeto direto vem regido por uma preposição, geralmente para evitar ambiguidade ou por ênfase. O verbo 'amar' é transitivo direto.",
-      "hintCorrect": "Exato! O verbo 'amar' é transitivo direto (amar alguém/algo). A preposição 'a' é usada por ênfase ou reverência, tornando 'a Deus' um objeto direto preposicionado.",
-      "hintWrong": "Incorreto. A resposta certa é 'Amo a Deus'.",
+      "hint": "O objeto direto preposicionado ocorre quando um verbo transitivo direto tem seu objeto direto precedido por uma preposição (geralmente 'a'), por questões de clareza, ênfase ou estilo.",
+      "hintCorrect": "Exato! O verbo 'amar' é transitivo direto. A preposição 'a' em 'a Deus' é facultativa e usada por ênfase/reverência, tornando-o um objeto direto preposicionado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Amo a Deus'. Em 'Gosto de você' e 'Preciso de ajuda', as preposições são obrigatórias (objeto indireto).",
       "difficulty": "hard"
     },
     {
@@ -238,7 +237,7 @@
         "Adjunto adverbial de modo"
       ],
       "correctAnswerIndex": 2,
-      "hint": "É uma característica do sujeito ('O menino') que aparece no predicado, indicando o estado em que ele praticou a ação.",
+      "hint": "É uma característica do sujeito ('O menino') que aparece no predicado, indicando o estado em que ele praticou a ação de correr.",
       "hintCorrect": "Correto! 'Assustado' é um predicativo do sujeito que, junto com o verbo de ação 'correu', forma um predicado verbo-nominal.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
       "difficulty": "medium"
@@ -253,9 +252,9 @@
         "Inexistente"
       ],
       "correctAnswerIndex": 2,
-      "hint": "A ação foi praticada por alguém, mas não se sabe ou não se quer dizer quem. O verbo está na 3ª pessoa do plural sem um referente claro.",
+      "hint": "A ação foi praticada por alguém, mas não se sabe ou não se quer dizer quem. O verbo está na 3ª pessoa do plural sem um sujeito expresso anteriormente.",
       "hintCorrect": "Correto! O uso do verbo na 3ª pessoa do plural, sem um sujeito expresso anteriormente, é uma das formas de indeterminar o sujeito.",
-      "hintWrong": "Incorreto. A resposta certa é 'Indeterminado'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Indeterminado'. 'Minha carteira' é o objeto direto.",
       "difficulty": "medium"
     },
     {
@@ -268,9 +267,9 @@
         "Agente da passiva"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O termo 'da ponte' completa o sentido do substantivo abstrato 'construção'. A ponte foi construída (valor passivo).",
-      "hintCorrect": "Exato! 'Da ponte' é um complemento nominal, pois completa o sentido de 'construção' e tem valor passivo (a ponte sofre a ação de ser construída).",
-      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "hint": "O termo 'da ponte' completa o sentido do substantivo abstrato 'construção'. Pense: a ponte sofre a ação de ser construída (valor passivo).",
+      "hintCorrect": "Exato! 'Da ponte' é um complemento nominal, pois completa o sentido do substantivo abstrato 'construção' e tem valor passivo (a ponte foi construída).",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'. Adjunto adnominal caracteriza com valor ativo.",
       "difficulty": "hard"
     },
     {
@@ -283,8 +282,8 @@
         "Aposto explicativo"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Este termo serve para explicar ou identificar melhor o termo anterior ('Pelé').",
-      "hintCorrect": "Correto! 'O Rei do Futebol' é um aposto explicativo, pois adiciona uma informação para explicar quem é Pelé.",
+      "hint": "Este termo, isolado por vírgulas, serve para explicar, esclarecer ou identificar melhor o termo anterior ('Pelé').",
+      "hintCorrect": "Correto! 'O Rei do Futebol' é um aposto explicativo, pois adiciona uma informação explicativa sobre 'Pelé'.",
       "hintWrong": "Incorreto. A resposta certa é 'Aposto explicativo'.",
       "difficulty": "easy"
     },
@@ -298,8 +297,8 @@
         "Predicado impessoal"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'ser' é um verbo de ligação, e 'redonda' é uma característica do sujeito.",
-      "hintCorrect": "Correto! O predicado é nominal, pois seu núcleo é o predicativo do sujeito 'redonda'.",
+      "hint": "O verbo 'ser' é um verbo de ligação, e 'redonda' é uma característica atribuída ao sujeito 'Terra'.",
+      "hintCorrect": "Correto! O predicado é nominal, pois seu núcleo de sentido é o predicativo do sujeito 'redonda'.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicado nominal'.",
       "difficulty": "easy"
     },
@@ -313,8 +312,8 @@
         "Adjunto adnominal"
       ],
       "correctAnswerIndex": 1,
-      "hint": "É uma característica atribuída ao objeto direto ('o candidato') pela ação do verbo 'elegeu'.",
-      "hintCorrect": "Exato! 'Seu representante' é o predicativo do objeto, pois qualifica o objeto direto 'o candidato'.",
+      "hint": "É uma característica/função atribuída ao objeto direto ('o candidato') pela ação do verbo 'elegeu'.",
+      "hintCorrect": "Exato! 'Seu representante' é o predicativo do objeto, pois qualifica o objeto direto 'o candidato' em relação à ação verbal.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
       "difficulty": "hard"
     },
@@ -328,9 +327,9 @@
         "Oculto (Ele)"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O verbo 'viver' é intransitivo. Quando o 'se' acompanha um verbo intransitivo, ele indetermina o sujeito.",
-      "hintCorrect": "Correto! O 'se' funciona como índice de indeterminação do sujeito, e o verbo fica na 3ª pessoa do singular.",
-      "hintWrong": "Incorreto. A resposta certa é 'Indeterminado'.",
+      "hint": "O verbo 'viver' é intransitivo. Quando o 'se' acompanha um verbo intransitivo, ele indetermina o sujeito, que não é especificado.",
+      "hintCorrect": "Correto! O 'se' funciona como índice de indeterminação do sujeito. O sujeito existe (alguém vive), mas não é identificado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Indeterminado'. 'Nesta cidade' é adjunto adverbial de lugar.",
       "difficulty": "medium"
     },
     {
@@ -343,7 +342,7 @@
         "Sujeito"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O termo 'de mãe' caracteriza o substantivo abstrato 'amor'. A mãe pratica a ação de amar (valor ativo).",
+      "hint": "O termo 'de mãe' caracteriza o substantivo 'amor'. Pense: a mãe pratica o amor (valor ativo). Se fosse 'amor à mãe', a mãe receberia o amor.",
       "hintCorrect": "Correto! 'De mãe' é um adjunto adnominal, pois tem valor ativo (a mãe ama). Se fosse 'amor à mãe', seria complemento nominal (a mãe é amada).",
       "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'.",
       "difficulty": "hard"
@@ -358,9 +357,9 @@
         "Indeterminado"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O verbo 'haver' no sentido de 'existir' é impessoal.",
-      "hintCorrect": "Correto! O verbo 'haver' com sentido de 'existir' não tem sujeito, e 'muitas pessoas' é o seu objeto direto.",
-      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'.",
+      "hint": "O verbo 'haver' no sentido de 'existir' é impessoal. Não possui sujeito. O que vem após ele tem outra função.",
+      "hintCorrect": "Correto! O verbo 'haver' com sentido de 'existir' é impessoal, formando oração sem sujeito. 'Muitas pessoas' é o objeto direto desse verbo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'. 'Muitas pessoas' é o objeto direto do verbo impessoal 'haver'.",
       "difficulty": "medium"
     },
     {
@@ -373,8 +372,8 @@
         "Indeterminado"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O sujeito possui mais de um núcleo ('alunos', 'professores').",
-      "hintCorrect": "Exato! Um sujeito com dois ou mais núcleos é classificado como sujeito composto.",
+      "hint": "Observe os núcleos do sujeito. São mais de um?",
+      "hintCorrect": "Exato! Um sujeito com dois ou mais núcleos ('alunos' e 'professores') é classificado como sujeito composto.",
       "hintWrong": "Incorreto. A resposta certa é 'Composto'.",
       "difficulty": "easy"
     },
@@ -388,8 +387,8 @@
         "Aposto"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O verbo 'permanecer' é de ligação, e 'calado' é uma característica do sujeito 'Ele'.",
-      "hintCorrect": "Correto! 'Calado' é o predicativo do sujeito, pois atribui um estado ao sujeito através de um verbo de ligação.",
+      "hint": "O verbo 'permanecer' está funcionando como verbo de ligação, conectando o sujeito a um estado.",
+      "hintCorrect": "Correto! 'Calado' é o predicativo do sujeito, pois atribui um estado ao sujeito 'Ele' através de um verbo de ligação.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
       "difficulty": "easy"
     },
@@ -403,7 +402,7 @@
         "Adjunto adverbial de tempo"
       ],
       "correctAnswerIndex": 3,
-      "hint": "A expressão indica a circunstância de tempo em que a ação de estudar ocorreu.",
+      "hint": "A expressão indica a circunstância (quando) em que a ação de estudar ocorreu.",
       "hintCorrect": "Correto! 'À noite' é uma locução adverbial que funciona como adjunto adverbial de tempo.",
       "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de tempo'.",
       "difficulty": "easy"
@@ -417,10 +416,10 @@
         "Complemento nominal",
         "Vocativo"
       ],
-      "correctAnswerIndex": 0,
-      "hint": "Este termo especifica e individualiza o substantivo comum 'cidade', sem usar vírgulas.",
-      "hintCorrect": "Exato! 'Do Rio de Janeiro' é um aposto especificativo, pois delimita o sentido do termo 'cidade'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Aposto especificativo'.",
+      "correctAnswerIndex": 1,
+      "hint": "Este termo especifica qual cidade, mas não está isolado por vírgulas. Ele se junta diretamente ao substantivo que caracteriza.",
+      "hintCorrect": "Exato! 'Do Rio de Janeiro' é um adjunto adnominal. Apostos especificativos são, na prática, adjuntos adnominais que individualizam o substantivo, mas a classificação mais direta aqui é adjunto adnominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'. É o termo que especifica e caracteriza o núcleo do sujeito 'cidade'.",
       "difficulty": "medium"
     },
     {
@@ -433,8 +432,8 @@
         "Oração sem predicado"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O núcleo do predicado é um verbo que indica ação ('caminhavam').",
-      "hintCorrect": "Correto! O predicado verbal tem como núcleo um verbo significativo (de ação).",
+      "hint": "O núcleo do predicado é um verbo que indica ação ('caminhavam'). Não há um predicativo atribuindo estado ao sujeito.",
+      "hintCorrect": "Correto! O predicado verbal tem como núcleo um verbo significativo, que expressa ação, fenômeno ou fato.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicado verbal'.",
       "difficulty": "easy"
     },
@@ -448,13 +447,13 @@
         "Aposto"
       ],
       "correctAnswerIndex": 2,
-      "hint": "É uma característica atribuída ao objeto direto ('o filme') pela ação do verbo 'achei'.",
-      "hintCorrect": "Correto! 'Interessante' é o predicativo do objeto, pois qualifica o objeto direto 'o filme'.",
+      "hint": "É uma característica atribuída ao objeto direto ('o filme') pela ação do verbo 'achei' (na acepção de 'considerar').",
+      "hintCorrect": "Correto! 'Interessante' é o predicativo do objeto, pois qualifica o objeto direto 'o filme' em função da ação expressa pelo verbo.",
       "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
       "difficulty": "hard"
     },
     {
-      "id": "sintaxe-101",
+      "id": "sintaxe-031",
       "question": "Na frase 'O carro novo é veloz', qual é o núcleo do sujeito?",
       "options": [
         "O",
@@ -463,9 +462,1044 @@
         "O carro novo"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O núcleo do sujeito é a palavra principal, sem os artigos e adjetivos que o acompanham.",
-      "hintCorrect": "Correto! 'Carro' é o núcleo do sujeito, a palavra mais importante. 'O' e 'novo' são adjuntos adnominais.",
+      "hint": "O núcleo do sujeito é a palavra principal, o substantivo (ou pronome) que carrega o significado essencial, sem os termos acessórios.",
+      "hintCorrect": "Correto! 'Carro' é o núcleo do sujeito. 'O' e 'novo' são seus adjuntos adnominais.",
       "hintWrong": "Incorreto. A resposta certa é 'carro'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-032",
+      "question": "Na voz passiva sintética 'Vendem-se carros usados.', a partícula 'se' exerce a função de:",
+      "options": [
+        "Índice de indeterminação do sujeito",
+        "Partícula apassivadora",
+        "Pronome reflexivo",
+        "Partícula expletiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na voz passiva sintética, o 'se' acompanha um verbo transitivo direto na 3ª pessoa e indica que o sujeito sofre a ação.",
+      "hintCorrect": "Exato! Nesse caso, 'se' é partícula apassivadora. 'Carros usados' é o sujeito paciente da oração na voz passiva sintética.",
+      "hintWrong": "Incorreto. A resposta certa é 'Partícula apassivadora'. O sujeito é 'carros usados' (paciente).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-033",
+      "question": "Na frase 'É necessário cuidado.', a classificação do sujeito é:",
+      "options": [
+        "Sujeito simples: 'cuidado'",
+        "Sujeito composto",
+        "Sujeito indeterminado",
+        "Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O verbo 'ser' quando usado para indicar existência, tempo ou com predicativo do sujeito precedendo-o, pode ser impessoal.",
+      "hintCorrect": "Correto! Em construções como 'É + adjetivo + substantivo' (com o adjetivo invariável), o verbo 'ser' é impessoal, formando oração sem sujeito. 'Cuidado' é o predicativo do sujeito de um sujeito inexistente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'. Trata-se de uma construção impessoal.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-034",
+      "question": "Em 'Todos esperavam ansiosos pelo resultado.', o termo 'ansiosos' classifica-se como:",
+      "options": [
+        "Adjunto adnominal de 'Todos'",
+        "Adjunto adverbial de modo",
+        "Predicativo do sujeito",
+        "Predicativo do objeto"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O termo indica um estado ou qualidade do sujeito 'Todos' durante a ação de esperar.",
+      "hintCorrect": "Correto! 'Ansiosos' é predicativo do sujeito. A oração tem predicado verbo-nominal: ação ('esperavam') + estado do sujeito ('ansiosos').",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-035",
+      "question": "A função do termo sublinhado em 'O diretor nomeou Maria coordenadora.' é:",
+      "options": [
+        "Objeto direto",
+        "Objeto indireto",
+        "Predicativo do sujeito",
+        "Predicativo do objeto"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O termo atribui uma função/qualidade ao objeto direto da oração.",
+      "hintCorrect": "Exato! 'Coordenadora' é o predicativo do objeto, atribuído ao objeto direto 'Maria' pela ação de nomear.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'. O objeto direto é 'Maria'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-036",
+      "question": "Em 'A notícia do acidente comoveu a todos.', 'do acidente' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O termo especifica qual notícia, caracterizando o substantivo concreto 'notícia'. Tem valor ativo (o acidente gerou a notícia).",
+      "hintCorrect": "Correto! 'Do acidente' é adjunto adnominal. Caracteriza 'notícia' com valor ativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'. Complemento nominal completaria um substantivo abstrato com valor passivo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-037",
+      "question": "Na frase 'Aqui se fala português.', o sujeito de 'fala' é:",
+      "options": [
+        "oculto (ele)",
+        "indeterminado",
+        "português",
+        "inexistente (oração sem sujeito)"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O 'se' indetermina quem pratica a ação de falar. Alguém fala, mas não se especifica quem.",
+      "hintCorrect": "Correto! O 'se' é índice de indeterminação do sujeito. 'Português' é o objeto direto.",
+      "hintWrong": "Incorreto. A resposta certa é 'indeterminado'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-038",
+      "question": "Em 'Considero essencial seu apoio.', o termo 'essencial' exerce a função de:",
+      "options": [
+        "Objeto direto",
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo 'considerar' (no sentido de julgar) pode ligar o objeto direto a uma característica.",
+      "hintCorrect": "Correto! 'Essencial' é predicativo do objeto, atribuído ao objeto direto 'seu apoio'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'. O objeto direto é 'seu apoio'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-039",
+      "question": "Na construção 'Faz dois anos que não o vejo.', o verbo 'faz' forma uma oração:",
+      "options": [
+        "com sujeito simples ('dois anos')",
+        "com sujeito oculto",
+        "sem sujeito (impessoal)",
+        "com sujeito indeterminado"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo 'fazer', quando indica tempo decorrido, é impessoal.",
+      "hintCorrect": "Correto! 'Fazer' no sentido de tempo decorrido é impessoal. 'Dois anos' é o objeto direto.",
+      "hintWrong": "Incorreto. A resposta certa é 'sem sujeito (impessoal)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-040",
+      "question": "Em 'A casa, ampla e arejada, foi construída no século passado.', o termo entre vírgulas é:",
+      "options": [
+        "Aposto",
+        "Vocativo",
+        "Predicativo do sujeito",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um termo explicativo que se refere a 'casa', acrescentando informações sobre ela, e está isolado por vírgulas.",
+      "hintCorrect": "Exato! 'Ampla e arejada' é um aposto explicativo da palavra 'casa'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Aposto'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-041",
+      "question": "A classificação do predicado em 'O projeto parece viável.' é:",
+      "options": [
+        "Predicado verbal",
+        "Predicado nominal",
+        "Predicado verbo-nominal",
+        "Predicado impessoal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'parecer' está funcionando como verbo de ligação, conectando o sujeito a uma qualidade.",
+      "hintCorrect": "Correto! Predicado nominal. O núcleo do sentido está no predicativo do sujeito 'viável'. 'Parece' é verbo de ligação.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicado nominal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-042",
+      "question": "Na frase 'Os convidados chegaram à festa.', o termo 'à festa' é:",
+      "options": [
+        "Objeto direto preposicionado",
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adverbial de lugar"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O verbo 'chegar' é intransitivo. O termo indica o lugar para onde se dirigiu o sujeito.",
+      "hintCorrect": "Correto! 'À festa' indica o lugar do evento, funcionando como adjunto adverbial de lugar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de lugar'. O verbo 'chegar' é intransitivo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-043",
+      "question": "Em 'Ela tornou-se uma excelente profissional.', a função de 'uma excelente profissional' é:",
+      "options": [
+        "Objeto direto",
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Aposto"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'tornar-se' (verbo de ligação) atribui um estado/qualidade nova ao sujeito.",
+      "hintCorrect": "Correto! 'Uma excelente profissional' é o predicativo do sujeito, atribuído ao sujeito 'Ela' pelo verbo de ligação 'tornou-se'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-044",
+      "question": "Na oração 'Chamaram o médico às pressas.', o sujeito é:",
+      "options": [
+        "o médico",
+        "oculto (eles)",
+        "indeterminado",
+        "inexistente"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo está na 3ª pessoa do plural sem um referente anterior explícito, indicando que não se quer ou não se sabe quem chamou.",
+      "hintCorrect": "Correto! Sujeito indeterminado. A ação foi praticada por agentes não identificados.",
+      "hintWrong": "Incorreto. A resposta certa é 'indeterminado'. 'O médico' é o objeto direto.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-045",
+      "question": "Em 'A decisão do juiz foi rápida.', o termo 'do juiz' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Agente da passiva",
+        "Sujeito"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O termo especifica de quem é a decisão, caracterizando o substantivo. O juiz toma a decisão (valor ativo).",
+      "hintCorrect": "Correto! 'Do juiz' é adjunto adnominal. Tem valor ativo (o juiz decide).",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-046",
+      "question": "Na frase 'O silêncio na floresta era absoluto.', 'na floresta' é:",
+      "options": [
+        "Sujeito",
+        "Predicativo do sujeito",
+        "Adjunto adverbial de lugar",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O termo especifica onde ocorre o silêncio, caracterizando e restringindo o substantivo 'silêncio'.",
+      "hintCorrect": "Correto! 'Na floresta' é um adjunto adnominal, pois determina e localiza o 'silêncio'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'. É diferente de um adjunto adverbial, que se liga ao verbo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-047",
+      "question": "A função do termo sublinhado em 'Ele saiu da sala irritado.' é:",
+      "options": [
+        "Adjunto adverbial de modo",
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Aposto"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O termo descreve o estado do sujeito no momento em que praticou a ação de sair.",
+      "hintCorrect": "Correto! 'Irritado' é predicativo do sujeito. Predicado verbo-nominal: ação ('saiu') + estado do sujeito.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-048",
+      "question": "Em 'Os livros foram todos devolvidos à biblioteca.', a palavra 'todos' é:",
+      "options": [
+        "Adjunto adnominal de 'livros'",
+        "Aposto de 'livros'",
+        "Predicativo do sujeito",
+        "Adjunto adverbial de intensidade"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra 'todos' está em apposição a 'Os livros', especificando que a totalidade dos livros foi devolvida. Não é essencial à estrutura.",
+      "hintCorrect": "Exato! 'Todos' é um aposto (especificativo) do sujeito 'Os livros'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Aposto de 'livros''.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-049",
+      "question": "Na oração 'Trata-se de um assunto delicado.', a classificação do sujeito é:",
+      "options": [
+        "Sujeito simples: 'um assunto delicado'",
+        "Sujeito oculto",
+        "Sujeito indeterminado",
+        "Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A expressão 'tratar-se de' é impessoal, não admitindo sujeito.",
+      "hintCorrect": "Correto! 'Tratar-se de' é uma locução verbal impessoal. A oração não tem sujeito. 'De um assunto delicado' é o predicativo do sujeito de um sujeito inexistente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-050",
+      "question": "Em 'O medo do escuro é comum nas crianças.', 'do escuro' funciona como:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O termo completa o sentido do substantivo abstrato 'medo'. Pense: o escuro é o que causa medo (valor passivo, o escuro é temido).",
+      "hintCorrect": "Correto! 'Do escuro' é complemento nominal. Completa o substantivo abstrato 'medo' com valor passivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'. Adjunto adnominal teria valor ativo (ex: 'ruído do motor' - o motor faz ruído).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-051",
+      "question": "Na frase 'Os pássaros voam alto.', a palavra 'alto' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Adjunto adverbial de modo",
+        "Adjunto adnominal",
+        "Objeto direto"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A palavra modifica o verbo 'voam', indicando a maneira (como) da ação.",
+      "hintCorrect": "Correto! 'Alto' é um adjunto adverbial de modo. Modifica o sentido do verbo, indicando a circunstância do voo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de modo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-052",
+      "question": "Em 'As crianças, felizes, brincavam no parque.', o termo 'felizes' é:",
+      "options": [
+        "Aposto",
+        "Vocativo",
+        "Predicativo do sujeito",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O termo, mesmo entre vírgulas, indica o estado do sujeito durante a ação.",
+      "hintCorrect": "Correto! 'Felizes' é predicativo do sujeito. É uma característica atribuída ao sujeito 'As crianças' no momento da ação de brincar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-053",
+      "question": "Na voz passiva 'As paredes foram pintadas pelos operários.', o sujeito é:",
+      "options": [
+        "Os operários",
+        "As paredes",
+        "Indeterminado",
+        "Oculto"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na voz passiva, o sujeito sofre a ação expressa pelo verbo.",
+      "hintCorrect": "Correto! 'As paredes' é o sujeito paciente (sofre a ação de serem pintadas). 'Pelos operários' é o agente da passiva.",
+      "hintWrong": "Incorreto. A resposta certa é 'As paredes'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-054",
+      "question": "A função sintática de 'com paciência' em 'Ela respondeu com paciência.' é:",
+      "options": [
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Adjunto adverbial de modo"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A locução indica a maneira (como) a ação de responder foi realizada.",
+      "hintCorrect": "Correto! 'Com paciência' é um adjunto adverbial de modo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de modo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-055",
+      "question": "Em 'O presidente declarou o estado de calamidade pública.', 'o estado de calamidade pública' é:",
+      "options": [
+        "Objeto direto",
+        "Objeto indireto",
+        "Predicativo do sujeito",
+        "Complemento nominal"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Pergunte ao verbo: 'O presidente declarou o quê?'",
+      "hintCorrect": "Correto! 'O estado de calamidade pública' é o objeto direto do verbo transitivo direto 'declarou'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Objeto direto'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-056",
+      "question": "Na frase 'Está nevando na serra.', o sujeito é:",
+      "options": [
+        "na serra",
+        "oculto (ele)",
+        "indeterminado",
+        "inexistente (oração sem sujeito)"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Verbos que indicam fenômenos da natureza são impessoais.",
+      "hintCorrect": "Correto! 'Nevando' (do verbo nevar) indica fenômeno da natureza. Oração sem sujeito. 'Na serra' é adjunto adverbial de lugar.",
+      "hintWrong": "Incorreto. A resposta certa é 'inexistente (oração sem sujeito)'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-057",
+      "question": "Em 'A transformação da lagarta em borboleta é fascinante.', 'da lagarta' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Agente da passiva",
+        "Objeto direto"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o sentido do substantivo abstrato 'transformação'. A lagarta sofre a transformação (valor passivo).",
+      "hintCorrect": "Exato! 'Da lagarta' é complemento nominal. 'Transformação' é um substantivo abstrato que requer complemento: transformação de quê? (a lagarta).",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-058",
+      "question": "Na oração 'Partiu-se o vidro.', a partícula 'se' e o sujeito são, respectivamente:",
+      "options": [
+        "Partícula apassivadora / 'o vidro'",
+        "Índice de indeterminação / 'o vidro'",
+        "Pronome reflexivo / oculto",
+        "Partícula expletiva / indeterminado"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'partir' (no sentido de quebrar) é transitivo direto. A construção está na voz passiva sintética.",
+      "hintCorrect": "Correto! 'Se' é partícula apassivadora. 'O vidro' é o sujeito paciente da voz passiva sintética (Alguém partiu o vidro -> O vidro foi partido).",
+      "hintWrong": "Incorreto. A resposta certa é 'Partícula apassivadora / 'o vidro''.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-059",
+      "question": "Em 'Todos o consideram inteligente.', 'inteligente' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Aposto",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'considerar' atribui uma característica ao objeto direto da oração.",
+      "hintCorrect": "Correto! 'Inteligente' é o predicativo do objeto, atribuído ao objeto direto 'o' (pronome que substitui, por ex., 'ele').",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-060",
+      "question": "Na frase 'Amanheceu chovendo.', as orações 'Amanheceu' e 'chovendo' possuem, respectivamente:",
+      "options": [
+        "Sujeito simples / Sujeito indeterminado",
+        "Oração sem sujeito / Oração sem sujeito",
+        "Sujeito oculto / Oração sem sujeito",
+        "Sujeito simples / Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Amanhecer' (fenômeno natural) e 'chover' são verbos impessoais.",
+      "hintCorrect": "Correto! Ambos os verbos expressam fenômenos da natureza/nocionais de tempo, sendo impessoais. Ambas as orações são sem sujeito.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito / Oração sem sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-061",
+      "question": "Em 'A leitura dos clássicos enriquece o espírito.', 'dos clássicos' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o sentido do substantivo abstrato 'leitura'. Os clássicos são lidos (valor passivo).",
+      "hintCorrect": "Exato! 'Dos clássicos' é complemento nominal. Responde a: leitura de quê? (dos clássicos, que são lidos).",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-062",
+      "question": "Na frase 'O filme, uma comédia romântica, fez sucesso.', 'uma comédia romântica' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Aposto",
+        "Vocativo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É um termo explicativo, isolado por vírgulas, que se refere a 'O filme'.",
+      "hintCorrect": "Correto! É um aposto explicativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Aposto'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-063",
+      "question": "A função de 'de sair' em 'Estou com vontade de sair.' é:",
+      "options": [
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adverbial",
+        "Predicativo do sujeito"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Completa o sentido do substantivo abstrato 'vontade'.",
+      "hintCorrect": "Correto! 'De sair' é complemento nominal de 'vontade'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-064",
+      "question": "Em 'Ela nos presenteou com um livro.', 'nos' é:",
+      "options": [
+        "Objeto direto",
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'presentear' é transitivo direto e indireto: presentear ALGUÉM (objeto indireto) COM ALGUMA COISA (objeto direto).",
+      "hintCorrect": "Correto! 'Nos' é o objeto indireto (presentear a nós). 'Um livro' é o objeto direto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Objeto indireto'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-065",
+      "question": "Na frase 'As flores no jardim estão lindas.', 'no jardim' é:",
+      "options": [
+        "Sujeito",
+        "Predicativo do sujeito",
+        "Adjunto adnominal",
+        "Adjunto adverbial de lugar"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O termo especifica quais flores, caracterizando o substantivo 'flores'.",
+      "hintCorrect": "Correto! 'No jardim' é um adjunto adnominal. Restringe o significado de 'As flores'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-066",
+      "question": "A classificação do sujeito em 'Seriam necessárias mais informações.' é:",
+      "options": [
+        "Simples: 'mais informações'",
+        "Composto",
+        "Indeterminado",
+        "Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "É uma construção impessoal com o verbo 'ser' seguido de predicativo. O verbo concorda com o predicativo.",
+      "hintCorrect": "Correto! É uma oração sem sujeito (impessoal). A estrutura 'ser + adjetivo + substantivo' com o verbo concordando com o predicativo ('necessárias') é impessoal. 'Mais informações' é o predicativo do sujeito de um sujeito inexistente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-067",
+      "question": "Na frase 'Os jogadores voltaram exaustos do treino.', 'exaustos' é:",
+      "options": [
+        "Aposto",
+        "Adjunto adnominal",
+        "Predicativo do sujeito",
+        "Adjunto adverbial de modo"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Indica o estado dos jogadores (sujeito) ao voltarem.",
+      "hintCorrect": "Correto! 'Exaustos' é predicativo do sujeito. Predicado verbo-nominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-068",
+      "question": "Em 'O vento forte derrubou as árvores.', qual é o núcleo do sujeito?",
+      "options": [
+        "O",
+        "vento",
+        "forte",
+        "O vento forte"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O núcleo é a palavra principal, o substantivo que carrega o significado central.",
+      "hintCorrect": "Correto! 'Vento' é o núcleo. 'O' e 'forte' são seus adjuntos adnominais.",
+      "hintWrong": "Incorreto. A resposta certa é 'vento'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-069",
+      "question": "A função de 'para você' em 'Comprei este presente para você.' é:",
+      "options": [
+        "Objeto direto",
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adverbial de finalidade"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A expressão indica a finalidade, o destinatário da ação de comprar.",
+      "hintCorrect": "Correto! 'Para você' é um adjunto adverbial de finalidade (indica para quem/com que fim foi comprado).",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de finalidade'. O objeto direto é 'este presente'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-070",
+      "question": "Na frase 'Falaram mal do candidato.', o sujeito é:",
+      "options": [
+        "mal",
+        "do candidato",
+        "indeterminado",
+        "oculto (eles)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Verbo na 3ª pessoa do plural sem referente anterior explícito.",
+      "hintCorrect": "Correto! Sujeito indeterminado. 'Mal' é adjunto adverbial de modo. 'Do candidato' é objeto indireto (falar mal de alguém).",
+      "hintWrong": "Incorreto. A resposta certa é 'indeterminado'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-071",
+      "question": "Em 'A construção do prédio terminou em maio.', 'do prédio' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Agente da passiva",
+        "Sujeito"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o sentido do substantivo abstrato 'construção'. O prédio é construído (valor passivo).",
+      "hintCorrect": "Correto! 'Do prédio' é complemento nominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-072",
+      "question": "Na frase 'O aluno, aplicado, tirava boas notas.', o termo entre vírgulas é:",
+      "options": [
+        "Aposto",
+        "Predicativo do sujeito",
+        "Adjunto adnominal",
+        "Vocativo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma característica do sujeito durante a ação.",
+      "hintCorrect": "Correto! 'Aplicado' é predicativo do sujeito.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-073",
+      "question": "A classificação do predicado em 'As crianças riam alto.' é:",
+      "options": [
+        "Predicado verbal",
+        "Predicado nominal",
+        "Predicado verbo-nominal",
+        "Predicado impessoal"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O núcleo é um verbo de ação ('riam'). 'Alto' é um adjunto que modifica o verbo.",
+      "hintCorrect": "Correto! Predicado verbal. O verbo 'riam' é o núcleo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicado verbal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-074",
+      "question": "Em 'A paixão pela música uniu o grupo.', 'pela música' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o substantivo abstrato 'paixão'. A música é o objeto da paixão (é amada, valor passivo).",
+      "hintCorrect": "Correto! 'Pela música' é complemento nominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-075",
+      "question": "Na frase 'É proibida a entrada de menores.', a palavra 'entrada' é:",
+      "options": [
+        "Sujeito",
+        "Objeto direto",
+        "Predicativo do sujeito",
+        "Aposto"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Em orações impessoais com 'ser', o termo que concorda com o verbo é o predicativo do sujeito de um sujeito inexistente.",
+      "hintCorrect": "Correto! É uma oração sem sujeito. 'É' (verbo impessoal). 'Proibida' e 'a entrada' formam o predicativo do sujeito (núcleo: entrada). 'De menores' é complemento nominal de 'entrada'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'. A oração não tem sujeito.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-076",
+      "question": "Em 'O barulho do trânsito era ensurdecedor.', 'do trânsito' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Agente da passiva",
+        "Sujeito"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Caracteriza o substantivo 'barulho'. O trânsito faz barulho (valor ativo).",
+      "hintCorrect": "Correto! 'Do trânsito' é adjunto adnominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-077",
+      "question": "Na frase 'Chamaram o menino de João.', 'de João' é:",
+      "options": [
+        "Objeto indireto",
+        "Complemento nominal",
+        "Predicativo do objeto",
+        "Aposto"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Atribui um nome/apelido ao objeto direto 'o menino'.",
+      "hintCorrect": "Correto! 'De João' é predicativo do objeto. Indica o nome atribuído ao objeto direto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-078",
+      "question": "A função de 'amanhã' em 'A reunião será amanhã.' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Adjunto adverbial de tempo",
+        "Objeto direto",
+        "Aposto"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Indica quando ocorrerá a reunião.",
+      "hintCorrect": "Correto! 'Amanhã' é um adjunto adverbial de tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de tempo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-079",
+      "question": "Em 'A notícia deixou todos preocupados.', 'preocupados' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Aposto",
+        "Adjunto adverbial"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Indica o estado em que o objeto direto 'todos' ficou após a ação de 'deixar'.",
+      "hintCorrect": "Correto! 'Preocupados' é predicativo do objeto. A notícia deixou todos (em estado de) preocupados.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-080",
+      "question": "Na oração 'Faz frio hoje.', o sujeito é:",
+      "options": [
+        "frio",
+        "hoje",
+        "oculto (ele)",
+        "inexistente (oração sem sujeito)"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "'Fazer' indicando sensação térmica é impessoal.",
+      "hintCorrect": "Correto! 'Fazer' nesse sentido é impessoal. 'Frio' é o predicativo do sujeito de um sujeito inexistente. 'Hoje' é adjunto adverbial de tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'inexistente (oração sem sujeito)'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-081",
+      "question": "Em 'O respeito aos idosos é fundamental.', 'aos idosos' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o substantivo abstrato 'respeito'. Os idosos são respeitados (valor passivo).",
+      "hintCorrect": "Correto! 'Aos idosos' é complemento nominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-082",
+      "question": "Na frase 'Os relatórios, concluídos, foram enviados.', 'concluídos' é:",
+      "options": [
+        "Aposto",
+        "Predicativo do sujeito",
+        "Adjunto adnominal",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Indica o estado dos relatórios (sujeito) no momento da ação principal (foram enviados).",
+      "hintCorrect": "Correto! 'Concluídos' é predicativo do sujeito. Predicado verbo-nominal da primeira oração ('Os relatórios [estavam] concluídos').",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-083",
+      "question": "A classificação do sujeito em 'Aluga-se este apartamento.' é:",
+      "options": [
+        "Sujeito simples: 'este apartamento'",
+        "Sujeito indeterminado",
+        "Sujeito oculto",
+        "Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É voz passiva sintética. O sujeito sofre a ação de alugar.",
+      "hintCorrect": "Exato! Voz passiva sintética. 'Se' é partícula apassivadora. 'Este apartamento' é o sujeito paciente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sujeito simples: 'este apartamento''.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-084",
+      "question": "Em 'O dia amanheceu lindo.', o termo 'lindo' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Adjunto adverbial de modo",
+        "Objeto direto",
+        "Aposto"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Amanhecer' pode funcionar como verbo de ligação, atribuindo uma qualidade ao sujeito.",
+      "hintCorrect": "Correto! 'Lindo' é predicativo do sujeito. O verbo 'amanhecer' liga o sujeito 'O dia' a essa característica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-085",
+      "question": "Na frase 'A ponte caiu durante a tempestade.', 'durante a tempestade' é:",
+      "options": [
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Adjunto adverbial de tempo"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Indica quando ocorreu a ação de cair.",
+      "hintCorrect": "Correto! 'Durante a tempestade' é um adjunto adverbial de tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de tempo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-086",
+      "question": "Em 'O medo imobilizou os soldados.', qual é o objeto direto?",
+      "options": [
+        "O medo",
+        "imobilizou",
+        "os soldados",
+        "Não há objeto direto"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pergunte ao verbo: 'O medo imobilizou o quê?'",
+      "hintCorrect": "Correto! 'Os soldados' é o objeto direto. 'O medo' é o sujeito.",
+      "hintWrong": "Incorreto. A resposta certa é 'os soldados'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-087",
+      "question": "A função de 'sem demora' em 'Responda sem demora.' é:",
+      "options": [
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adverbial de modo",
+        "Predicativo do sujeito"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Indica a maneira como a ação deve ser realizada.",
+      "hintCorrect": "Correto! 'Sem demora' é um adjunto adverbial de modo (ou de tempo).",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de modo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-088",
+      "question": "Na frase 'Os bombeiros salvaram a criança do incêndio.', 'do incêndio' é:",
+      "options": [
+        "Complemento nominal de 'criança'",
+        "Adjunto adnominal de 'criança'",
+        "Adjunto adverbial de lugar",
+        "Objeto indireto de 'salvaram'"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Indica de onde a criança foi salva, circunstância da ação.",
+      "hintCorrect": "Correto! 'Do incêndio' é um adjunto adverbial de lugar (de onde).",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de lugar'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-089",
+      "question": "Em 'A demanda por produtos ecológicos cresce.', 'por produtos ecológicos' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o substantivo abstrato 'demanda'. Os produtos ecológicos são demandados (valor passivo).",
+      "hintCorrect": "Correto! 'Por produtos ecológicos' é complemento nominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-090",
+      "question": "Na frase 'O mapa estava na gaveta.', 'na gaveta' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Adjunto adverbial de lugar"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Indica o lugar onde o sujeito se encontrava.",
+      "hintCorrect": "Correto! 'Na gaveta' é um adjunto adverbial de lugar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de lugar'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-091",
+      "question": "A classificação do sujeito em 'Bateu à porta.' é:",
+      "options": [
+        "Oculto (Ele)",
+        "Indeterminado",
+        "Simples: 'porta'",
+        "Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O sujeito está oculto, mas pode ser recuperado pelo contexto (ex: 'Alguém bateu à porta').",
+      "hintCorrect": "Correto! O sujeito é oculto (ou elíptico), subentendido. Não é indeterminado, pois sabemos que foi 'alguém' específico (ele, ela, etc.) no contexto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oculto (Ele)'. Indeterminado seria se usasse 'Bateram à porta' ou 'Bateu-se à porta'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-092",
+      "question": "Em 'A explicação do professor foi clara.', 'do professor' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Agente da passiva",
+        "Sujeito"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Caracteriza a 'explicação'. O professor explica (valor ativo).",
+      "hintCorrect": "Correto! 'Do professor' é adjunto adnominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adnominal'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sintaxe-093",
+      "question": "Na frase 'O juiz julgou o réu inocente.', 'inocente' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Predicativo do objeto",
+        "Aposto",
+        "Adjunto adnominal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Atribui uma qualidade ao objeto direto 'o réu' como resultado da ação de julgar.",
+      "hintCorrect": "Correto! 'Inocente' é predicativo do objeto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Predicativo do objeto'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-094",
+      "question": "A função de 'com entusiasmo' em 'Ela aceitou o desafio com entusiasmo.' é:",
+      "options": [
+        "Objeto indireto",
+        "Complemento nominal",
+        "Adjunto adverbial de modo",
+        "Predicativo do sujeito"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Indica a maneira como a ação foi realizada.",
+      "hintCorrect": "Correto! 'Com entusiasmo' é um adjunto adverbial de modo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de modo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-095",
+      "question": "Em 'Os problemas se resolvem com diálogo.', a partícula 'se' tem função de:",
+      "options": [
+        "Partícula apassivadora",
+        "Índice de indeterminação do sujeito",
+        "Pronome reflexivo",
+        "Partícula expletiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'resolver' é transitivo direto ('resolver algo'). A construção está na voz passiva sintética.",
+      "hintCorrect": "Exato! É voz passiva sintética. 'Se' é partícula apassivadora. 'Os problemas' é o sujeito paciente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Partícula apassivadora'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-096",
+      "question": "Na frase 'As informações pareciam confusas.', o predicado é:",
+      "options": [
+        "Verbal",
+        "Nominal",
+        "Verbo-nominal",
+        "Impersonal"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'parecer' funciona como verbo de ligação, conectando o sujeito a uma qualidade.",
+      "hintCorrect": "Correto! Predicado nominal. O núcleo de sentido está no predicativo do sujeito 'confusas'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Nominal'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-097",
+      "question": "Em 'A esperança de um mundo melhor nos motiva.', 'de um mundo melhor' é:",
+      "options": [
+        "Complemento nominal",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Agente da passiva"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Completa o substantivo abstrato 'esperança'. O mundo melhor é esperado (valor passivo).",
+      "hintCorrect": "Correto! 'De um mundo melhor' é complemento nominal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complemento nominal'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-098",
+      "question": "Na frase 'O sol nascia por trás das montanhas.', 'por trás das montanhas' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Adjunto adnominal",
+        "Objeto indireto",
+        "Adjunto adverbial de lugar"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Indica o lugar de onde o sol nascia.",
+      "hintCorrect": "Correto! 'Por trás das montanhas' é um adjunto adverbial de lugar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de lugar'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "sintaxe-099",
+      "question": "A classificação do sujeito em 'Houveram muitos problemas.' (considerando a norma culta) é:",
+      "options": [
+        "Simples: 'muitos problemas'",
+        "Composto",
+        "Indeterminado",
+        "Oração sem sujeito"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Na norma culta, o verbo 'haver' no sentido de existir é impessoal e deve ficar no singular.",
+      "hintCorrect": "Correto! Segundo a norma culta, 'haver' (existir) é impessoal. O correto seria 'Houve muitos problemas.', uma oração sem sujeito. 'Muitos problemas' é o objeto direto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Oração sem sujeito'. Na norma culta, 'haver' existencial é impessoal (verbo no singular).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sintaxe-100",
+      "question": "Em 'A festa terminou tarde da noite.', 'tarde da noite' é:",
+      "options": [
+        "Predicativo do sujeito",
+        "Adjunto adnominal",
+        "Objeto direto",
+        "Adjunto adverbial de tempo"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Indica quando a ação de terminar ocorreu.",
+      "hintCorrect": "Correto! 'Tarde da noite' é um adjunto adverbial de tempo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Adjunto adverbial de tempo'.",
       "difficulty": "easy"
     }
   ]

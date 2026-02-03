@@ -1,4 +1,3 @@
-
 {
   "category": "Língua Portuguesa",
   "subcategory": "Ortografia",
@@ -13,9 +12,9 @@
         "alto-escola"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com uma vogal diferente, junta-se tudo.",
-      "hintCorrect": "Correto! 'Autoescola' é escrito junto, pois o prefixo 'auto-' termina em 'o' e a palavra 'escola' começa com 'e' (vogais diferentes).",
-      "hintWrong": "Incorreto. A resposta certa é 'autoescola'. O prefixo 'auto' e a palavra 'escola' se juntam, pois terminam e começam com vogais diferentes.",
+      "hint": "Segundo o Acordo Ortográfico, prefixos terminados em vogal seguidos de palavra começada por vogal diferente aglutinam-se sem hífen.",
+      "hintCorrect": "Correto! 'Autoescola' é escrito junto, pois o prefixo 'auto-' termina em vogal e 'escola' começa com vogal diferente.",
+      "hintWrong": "Incorreto. A grafia correta é 'autoescola'. Prefixos terminados em vogal seguidos de palavra começada por vogal diferente não levam hífen.",
       "difficulty": "easy"
     },
     {
@@ -28,9 +27,9 @@
         "porquê"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Quando 'por que' aparece no final da frase, antes de um ponto, ele é acentuado e separado.",
-      "hintCorrect": "Correto! 'Por quê' é usado no final de frases interrogativas, antes de um ponto (final, de interrogação ou exclamação).",
-      "hintWrong": "Incorreto. A resposta certa é 'por quê'. No final da frase, antes de pontuação, usa-se 'por quê'.",
+      "hint": "Em final de frase interrogativa (antes do ponto de interrogação), usa-se a forma acentuada e separada.",
+      "hintCorrect": "Correto! 'Por quê' (separado e acentuado) é usado no final de frases interrogativas.",
+      "hintWrong": "Incorreto. A forma correta é 'por quê'. No final de frases interrogativas, usa-se a forma acentuada e separada.",
       "difficulty": "easy"
     },
     {
@@ -43,9 +42,9 @@
         "microndas"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com a mesma vogal, usa-se o hífen.",
-      "hintCorrect": "Correto! 'Micro-ondas' é escrito com hífen, pois o prefixo 'micro-' termina em 'o' e a palavra 'ondas' começa com 'o' (mesma vogal).",
-      "hintWrong": "Incorreto. A resposta certa é 'micro-ondas'. Usa-se hífen quando o prefixo termina na mesma vogal que a palavra seguinte começa.",
+      "hint": "Quando o prefixo termina com a mesma vogal que inicia a palavra seguinte, usa-se hífen.",
+      "hintCorrect": "Correto! 'Micro-ondas' leva hífen porque o prefixo 'micro-' termina em 'o' e 'ondas' começa com 'o'.",
+      "hintWrong": "Incorreto. A forma correta é 'micro-ondas'. Usa-se hífen quando prefixo e palavra começam com a mesma vogal.",
       "difficulty": "easy"
     },
     {
@@ -56,9 +55,9 @@
         "mau"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O oposto de 'bom' é 'mau'. O oposto de 'bem' é 'mal'. 'Homem' é um substantivo, que pede um adjetivo.",
-      "hintCorrect": "Correto! 'Mau' é um adjetivo e concorda com o substantivo 'homem'.",
-      "hintWrong": "Incorreto. A resposta certa é 'mau'. 'Mau' é o oposto de 'bom' (adjetivo).",
+      "hint": "'Mau' é adjetivo (oposto de bom) e concorda em gênero e número. 'Mal' geralmente é advérbio (oposto de bem).",
+      "hintCorrect": "Correto! 'Mau' é adjetivo e qualifica o substantivo 'homem'.",
+      "hintWrong": "Incorreto. O correto é 'mau'. 'Mau' é adjetivo (antônimo de bom) e concorda com 'homem'.",
       "difficulty": "easy"
     },
     {
@@ -66,14 +65,14 @@
       "question": "Qual a forma correta de escrever a palavra 'antissocial'?",
       "options": [
         "anti-social",
-        "anti-social",
         "antissocial",
+        "antisocial",
         "anti social"
       ],
-      "correctAnswerIndex": 2,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com 's', duplica-se o 's' e junta-se tudo.",
-      "hintCorrect": "Correto! 'Antissocial' é escrito junto e com 'ss', pois o prefixo 'anti-' termina em vogal e a palavra 'social' começa com 's'.",
-      "hintWrong": "Incorreto. A resposta certa é 'antissocial'. Quando o prefixo termina em vogal e a palavra seguinte começa com 's', duplica-se o 's' e junta-se tudo.",
+      "correctAnswerIndex": 1,
+      "hint": "Com prefixos terminados em vogal seguidos de palavra começada por 's', duplica-se o 's' e escreve-se tudo junto.",
+      "hintCorrect": "Correto! 'Antissocial' é escrito junto com 'ss' porque o prefixo 'anti-' termina em vogal e 'social' começa com 's'.",
+      "hintWrong": "Incorreto. A forma correta é 'antissocial'. Prefixos terminados em vogal + palavra começada em 's' = duplo 's' e aglutinação.",
       "difficulty": "medium"
     },
     {
@@ -86,9 +85,9 @@
         "porquê"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Para dar uma resposta ou explicação, usa-se 'porque' junto e sem acento.",
-      "hintCorrect": "Correto! 'Porque' (junto e sem acento) é usado em respostas e explicações, podendo ser substituído por 'pois'.",
-      "hintWrong": "Incorreto. A resposta certa é 'porque'. 'Porque' junto e sem acento é usado para respostas e explicações.",
+      "hint": "Para introduzir uma explicação ou causa, usa-se a forma conjuntiva (junta e sem acento).",
+      "hintCorrect": "Correto! 'Porque' (conjunção causal) introduz a razão de não ter ido à festa.",
+      "hintWrong": "Incorreto. O correto é 'porque'. É a conjunção causal que explica o motivo.",
       "difficulty": "easy"
     },
     {
@@ -101,9 +100,9 @@
         "super-homen"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando a palavra seguinte começa com 'h', usa-se sempre o hífen.",
-      "hintCorrect": "Correto! 'Super-homem' é escrito com hífen, pois a palavra 'homem' começa com 'h'.",
-      "hintWrong": "Incorreto. A resposta certa é 'super-homem'. Usa-se hífen quando a palavra seguinte começa com 'h'.",
+      "hint": "Prefixos terminados em 'r' seguidos de palavra começada por 'h' usam hífen.",
+      "hintCorrect": "Correto! 'Super-homem' leva hífen porque 'homem' começa com 'h'.",
+      "hintWrong": "Incorreto. A forma correta é 'super-homem'. Usa-se hífen antes de palavras começadas por 'h'.",
       "difficulty": "easy"
     },
     {
@@ -114,9 +113,9 @@
         "mais"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O oposto de 'menos' é 'mais'. 'Mas' é uma conjunção adversativa (porém).",
-      "hintCorrect": "Correto! 'Mais' é um advérbio de intensidade e indica quantidade.",
-      "hintWrong": "Incorreto. A resposta certa é 'mais'. 'Mais' é o oposto de 'menos'.",
+      "hint": "'Mais' indica quantidade (oposto de menos). 'Mas' é conjunção adversativa (sinônimo de porém).",
+      "hintCorrect": "Correto! 'Mais' é advérbio de intensidade que indica quantidade adicional.",
+      "hintWrong": "Incorreto. O correto é 'mais'. Indica quantidade adicional (mais bolo).",
       "difficulty": "easy"
     },
     {
@@ -129,9 +128,9 @@
         "Usa-se 's' sempre."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Verbos terminados em -isar ou -izar seguem a regra da palavra de origem.",
-      "hintCorrect": "Correto! Verbos terminados em -isar são escritos com 's' quando a palavra de origem já possui 's' no radical.",
-      "hintWrong": "Incorreto. A resposta certa é 'Usa-se 's' quando a palavra de origem já tem 's''.",
+      "hint": "Verbos derivados de palavras que já contêm 's' no radical mantêm o 's' na terminação -isar.",
+      "hintCorrect": "Correto! 'Pesquisar' mantém o 's' porque deriva de 'pesquisa', que já tem 's' no radical.",
+      "hintWrong": "Incorreto. A regra é: verbos terminados em -isar mantêm o 's' quando a palavra de origem já contém 's'.",
       "difficulty": "medium"
     },
     {
@@ -144,9 +143,9 @@
         "contra regra"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com 'r', duplica-se o 'r' e junta-se tudo.",
-      "hintCorrect": "Correto! 'Contrarregra' é escrito junto e com 'rr', pois o prefixo 'contra-' termina em vogal e a palavra 'regra' começa com 'r'.",
-      "hintWrong": "Incorreto. A resposta certa é 'contrarregra'. Quando o prefixo termina em vogal e a palavra seguinte começa com 'r', duplica-se o 'r' e junta-se tudo.",
+      "hint": "Com prefixos terminados em vogal seguidos de palavra começada por 'r', duplica-se o 'r' e escreve-se junto.",
+      "hintCorrect": "Correto! 'Contrarregra' é escrito junto com 'rr' porque 'contra-' termina em vogal e 'regra' começa com 'r'.",
+      "hintWrong": "Incorreto. A forma correta é 'contrarregra'. Prefixo terminado em vogal + palavra começada com 'r' = duplo 'r' e aglutinação.",
       "difficulty": "medium"
     },
     {
@@ -159,9 +158,9 @@
         "porquê"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Quando 'porquê' é um substantivo, significando 'motivo' ou 'razão', ele é escrito junto e com acento.",
-      "hintCorrect": "Correto! 'Porquê' (junto e com acento) é um substantivo e pode ser substituído por 'motivo' ou 'razão'. Admite plural ('os porquês').",
-      "hintWrong": "Incorreto. A resposta certa é 'porquê'. Quando é um substantivo (significando 'motivo'), usa-se 'porquê'.",
+      "hint": "Quando funciona como substantivo (significando 'motivo', 'razão'), usa-se a forma substantivada.",
+      "hintCorrect": "Correto! 'Porquê' é substantivo masculino que significa 'motivo' ou 'razão'.",
+      "hintWrong": "Incorreto. O correto é 'porquê'. Neste contexto, é substantivo significando 'motivo'.",
       "difficulty": "medium"
     },
     {
@@ -171,12 +170,12 @@
         "super-interessante",
         "superinteressante",
         "super interessante",
-        "super-interessante"
+        "superintessante"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em consoante e a palavra seguinte começa com vogal, junta-se tudo.",
-      "hintCorrect": "Correto! 'Superinteressante' é escrito junto, pois o prefixo 'super-' termina em 'r' (consoante) e a palavra 'interessante' começa com 'i' (vogal).",
-      "hintWrong": "Incorreto. A resposta certa é 'superinteressante'. Quando o prefixo termina em consoante e a palavra seguinte começa com vogal, junta-se tudo.",
+      "hint": "Prefixos terminados em consoante seguidos de palavra começada por vogal aglutinam-se sem hífen.",
+      "hintCorrect": "Correto! 'Superinteressante' é escrito junto porque 'super-' termina em consoante e 'interessante' começa com vogal.",
+      "hintWrong": "Incorreto. A forma correta é 'superinteressante'. Prefixos terminados em consoante + vogal inicial = aglutinação.",
       "difficulty": "easy"
     },
     {
@@ -187,9 +186,9 @@
         "mais"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O oposto de 'porém' é 'mas'. O oposto de 'menos' é 'mais'.",
-      "hintCorrect": "Correto! 'Mas' é uma conjunção adversativa, indicando oposição.",
-      "hintWrong": "Incorreto. A resposta certa é 'mas'. 'Mas' é uma conjunção adversativa (porém).",
+      "hint": "'Mas' expressa oposição ou contraste (equivalente a 'porém', 'contudo').",
+      "hintCorrect": "Correto! 'Mas' é conjunção adversativa que indica contraste entre as ideias.",
+      "hintWrong": "Incorreto. O correto é 'mas'. Expressa oposição entre tentar chegar cedo e não conseguir.",
       "difficulty": "easy"
     },
     {
@@ -202,9 +201,9 @@
         "que eu viagen"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Verbos terminados em -jar (como 'viajar') mantêm o 'j' nas suas formas conjugadas.",
-      "hintCorrect": "Correto! O substantivo é 'viagem' (com G), mas o verbo 'viajar' e suas formas conjugadas são com J. Ex: 'que eu viaje', 'eles viajem'.",
-      "hintWrong": "Incorreto. A resposta certa é 'que eu viaje'. O substantivo é com 'g', mas o verbo 'viajar' e suas conjugações são com 'j'.",
+      "hint": "O verbo 'viajar' e todas suas formas conjugadas são escritos com 'j'.",
+      "hintCorrect": "Correto! O verbo 'viajar' mantém o 'j' em todas as conjugações: 'que eu viaje'.",
+      "hintWrong": "Incorreto. A forma correta é 'que eu viaje'. O verbo 'viajar' sempre usa 'j'.",
       "difficulty": "medium"
     },
     {
@@ -214,12 +213,12 @@
         "exaluno",
         "ex-aluno",
         "ex aluno",
-        "ex-alunno"
+        "exalunno"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O prefixo 'ex-' (no sentido de anterior) sempre exige hífen.",
-      "hintCorrect": "Correto! Prefixos como 'ex-', 'vice-', 'pós-', 'pré-', 'pró-' (quando tônicos) sempre usam hífen.",
-      "hintWrong": "Incorreto. A resposta certa é 'ex-aluno'. O prefixo 'ex-' sempre exige hífen.",
+      "hint": "Os prefixos 'ex-', 'vice-', 'soto-' sempre exigem hífen.",
+      "hintCorrect": "Correto! 'Ex-aluno' leva hífen porque o prefixo 'ex-' sempre exige hífen.",
+      "hintWrong": "Incorreto. A forma correta é 'ex-aluno'. O prefixo 'ex-' sempre leva hífen.",
       "difficulty": "easy"
     },
     {
@@ -230,9 +229,9 @@
         "mau"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O oposto de 'bem' é 'mal'. 'Passar' é um verbo, que pede um advérbio.",
-      "hintCorrect": "Correto! 'Mal' é um advérbio e modifica o verbo 'passou'.",
-      "hintWrong": "Incorreto. A resposta certa é 'mal'. 'Mal' é o oposto de 'bem' (advérbio).",
+      "hint": "'Mal' geralmente é advérbio de modo (modifica o verbo) e significa 'de maneira inadequada'.",
+      "hintCorrect": "Correto! 'Mal' é advérbio que modifica o verbo 'passou', indicando mau desempenho.",
+      "hintWrong": "Incorreto. O correto é 'mal'. É advérbio que modifica o verbo 'passou'.",
       "difficulty": "easy"
     },
     {
@@ -242,12 +241,12 @@
         "infra-estrutura",
         "infraestrutura",
         "infra estrutura",
-        "infra-estrutura"
+        "infraestrutura"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com uma vogal diferente, junta-se tudo.",
-      "hintCorrect": "Correto! 'Infraestrutura' é escrito junto, pois o prefixo 'infra-' termina em 'a' e a palavra 'estrutura' começa com 'e' (vogais diferentes).",
-      "hintWrong": "Incorreto. A resposta certa é 'infraestrutura'.",
+      "hint": "Prefixos terminados em vogal seguidos de palavra começada por vogal diferente aglutinam-se sem hífen.",
+      "hintCorrect": "Correto! 'Infraestrutura' é escrito junto porque 'infra-' termina em vogal e 'estrutura' começa com vogal diferente.",
+      "hintWrong": "Incorreto. A forma correta é 'infraestrutura'. Vogais diferentes = aglutinação sem hífen.",
       "difficulty": "easy"
     },
     {
@@ -260,9 +259,9 @@
         "porquê"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'por que' pode ser substituído por 'pelo qual' (ou 'pela qual', 'pelos quais', 'pelas quais'), ele é separado e sem acento.",
-      "hintCorrect": "Correto! 'Por que' (separado e sem acento) é usado quando pode ser substituído por 'pelo qual' e suas variações ('A razão pela qual faltei...').",
-      "hintWrong": "Incorreto. A resposta certa é 'por que'. Pode ser substituído por 'pela qual'.",
+      "hint": "Quando pode ser substituído por 'pela qual' e variações, usa-se a forma separada sem acento.",
+      "hintCorrect": "Correto! 'Por que' é usado como equivalente a 'pela qual' ('A razão pela qual faltei').",
+      "hintWrong": "Incorreto. O correto é 'por que'. Pode ser substituído por 'pela qual'.",
       "difficulty": "medium"
     },
     {
@@ -272,12 +271,12 @@
         "mini-saia",
         "minissaia",
         "mini saia",
-        "mini-saia"
+        "minisaia"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com 's', duplica-se o 's' e junta-se tudo.",
-      "hintCorrect": "Correto! 'Minissaia' é escrito junto e com 'ss', seguindo a regra de duplicação do 's' após prefixo terminado em vogal.",
-      "hintWrong": "Incorreto. A resposta certa é 'minissaia'.",
+      "hint": "Com prefixos terminados em vogal seguidos de palavra começada por 's', duplica-se o 's' e escreve-se tudo junto.",
+      "hintCorrect": "Correto! 'Minissaia' é escrito junto com 'ss' porque 'mini-' termina em vogal e 'saia' começa com 's'.",
+      "hintWrong": "Incorreto. A forma correta é 'minissaia'. Prefixo terminado em vogal + palavra começada com 's' = duplo 's' e aglutinação.",
       "difficulty": "medium"
     },
     {
@@ -288,9 +287,9 @@
         "se não"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Senão' significa 'caso contrário' ou 'a não ser'. 'Se não' indica uma condição.",
-      "hintCorrect": "Correto! 'Senão' (junto) significa 'caso contrário' ou 'do contrário'.",
-      "hintWrong": "Incorreto. A resposta certa é 'senão'. 'Senão' significa 'caso contrário'.",
+      "hint": "'Senão' pode significar 'caso contrário', 'do contrário'.",
+      "hintCorrect": "Correto! 'Senão' significa 'caso contrário' ou 'do contrário' nesta construção.",
+      "hintWrong": "Incorreto. O correto é 'senão'. Significa 'caso contrário' nesta frase.",
       "difficulty": "medium"
     },
     {
@@ -303,9 +302,9 @@
         "anti-higienico"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando a palavra seguinte começa com 'h', usa-se sempre o hífen.",
-      "hintCorrect": "Correto! O hífen é obrigatório antes de palavras iniciadas por 'h'.",
-      "hintWrong": "Incorreto. A resposta certa é 'anti-higiênico'.",
+      "hint": "Usa-se hífen quando a palavra seguinte começa com 'h'.",
+      "hintCorrect": "Correto! 'Anti-higiênico' leva hífen porque 'higiênico' começa com 'h'.",
+      "hintWrong": "Incorreto. A forma correta é 'anti-higiênico'. Sempre hífen antes de palavras começadas por 'h'.",
       "difficulty": "easy"
     },
     {
@@ -316,9 +315,9 @@
         "A"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O verbo 'haver' no sentido de tempo passado pode ser substituído por 'faz'.",
-      "hintCorrect": "Correto! 'Há' (do verbo haver) indica tempo passado e pode ser substituído por 'faz'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Há'. 'Há' (do verbo haver) indica tempo passado.",
+      "hint": "Para indicar tempo decorrido (passado), usa-se o verbo 'haver' na 3ª pessoa.",
+      "hintCorrect": "Correto! 'Há' indica tempo passado e pode ser substituído por 'faz'.",
+      "hintWrong": "Incorreto. O correto é 'Há'. Indica tempo decorrido no passado.",
       "difficulty": "easy"
     },
     {
@@ -328,12 +327,12 @@
         "co-ordenar",
         "coordenar",
         "co ordenar",
-        "co-ordenar"
+        "coordenar"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O prefixo 'co-' é uma exceção à regra das vogais iguais e aglutina-se sempre.",
-      "hintCorrect": "Correto! O prefixo 'co-' aglutina-se à palavra seguinte, mesmo que esta comece com 'o'.",
-      "hintWrong": "Incorreto. A resposta certa é 'coordenar'. O prefixo 'co-' sempre se junta à palavra.",
+      "hint": "O prefixo 'co-' é exceção e sempre se aglutina, mesmo quando seguido de vogal igual.",
+      "hintCorrect": "Correto! 'Coordenar' é escrito junto porque o prefixo 'co-' sempre se aglutina.",
+      "hintWrong": "Incorreto. A forma correta é 'coordenar'. O prefixo 'co-' é exceção à regra do hífen.",
       "difficulty": "medium"
     },
     {
@@ -344,9 +343,9 @@
         "a"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Para indicar tempo futuro ou distância, usa-se a preposição 'a'.",
-      "hintCorrect": "Correto! 'A' (preposição) indica tempo futuro ou distância.",
-      "hintWrong": "Incorreto. A resposta certa é 'a'. 'A' (preposição) indica tempo futuro.",
+      "hint": "Para indicar tempo futuro (a contar do momento presente), usa-se a preposição 'a'.",
+      "hintCorrect": "Correto! 'A' é preposição que indica tempo futuro ou distância futura.",
+      "hintWrong": "Incorreto. O correto é 'a'. Indica tempo futuro ('daqui a dois dias').",
       "difficulty": "easy"
     },
     {
@@ -359,9 +358,9 @@
         "Usa-se 'z' sempre."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Substantivos abstratos formados a partir de adjetivos (como 'belo' -> 'beleza') usam 'z'.",
-      "hintCorrect": "Correto! Substantivos abstratos terminados em -eza, derivados de adjetivos, são escritos com 'z'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Usa-se 'z' para substantivos abstratos derivados de adjetivos'.",
+      "hint": "Substantivos abstratos terminados em -eza, formados a partir de adjetivos, são escritos com 'z'.",
+      "hintCorrect": "Correto! Substantivos abstratos como 'beleza', 'riqueza', 'pobreza' derivam de adjetivos e usam 'z'.",
+      "hintWrong": "Incorreto. A regra é: substantivos abstratos em -eza derivados de adjetivos usam 'z'.",
       "difficulty": "medium"
     },
     {
@@ -372,9 +371,9 @@
         "Se não"
       ],
       "correctAnswerIndex": 1,
-      "hint": "'Se não' indica uma condição ('caso não chova').",
-      "hintCorrect": "Correto! 'Se não' (separado) introduz uma oração condicional.",
-      "hintWrong": "Incorreto. A resposta certa é 'Se não'. 'Se não' indica uma condição.",
+      "hint": "'Se não' introduz uma condição negativa (equivalente a 'caso não').",
+      "hintCorrect": "Correto! 'Se não' expressa uma condição: 'caso não chova'.",
+      "hintWrong": "Incorreto. O correto é 'Se não'. Introduz uma condição negativa.",
       "difficulty": "medium"
     },
     {
@@ -387,9 +386,9 @@
         "en-chame"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois da sílaba inicial 'en'.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois da sílaba inicial 'en'.",
-      "hintWrong": "Incorreto. A resposta certa é 'enxame'. Usa-se 'x' depois da sílaba inicial 'en'.",
+      "hint": "Depois da sílaba 'en', geralmente se usa 'x' (com exceções como 'encher').",
+      "hintCorrect": "Correto! 'Enxame' segue a regra geral: após 'en', usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'enxame'. Regra geral: após 'en' usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -400,9 +399,9 @@
         "afim"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'A fim de' significa 'com o propósito de'. 'Afim' é um adjetivo (semelhante).",
-      "hintCorrect": "Correto! 'A fim de' (separado) é uma locução prepositiva que indica finalidade.",
-      "hintWrong": "Incorreto. A resposta certa é 'a fim de'. 'A fim de' significa 'com o propósito de'.",
+      "hint": "'A fim de' é locução prepositiva que indica finalidade.",
+      "hintCorrect": "Correto! 'A fim de' indica finalidade: 'com o objetivo de passar'.",
+      "hintWrong": "Incorreto. O correto é 'a fim de'. Expressa finalidade ou objetivo.",
       "difficulty": "medium"
     },
     {
@@ -415,9 +414,9 @@
         "me-cher"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois da sílaba inicial 'me'.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois da sílaba inicial 'me'.",
-      "hintWrong": "Incorreto. A resposta certa é 'mexer'. Usa-se 'x' depois da sílaba inicial 'me'.",
+      "hint": "Depois da sílaba 'me', geralmente se usa 'x' (com exceções como 'mecha').",
+      "hintCorrect": "Correto! 'Mexer' segue a regra geral: após 'me', usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'mexer'. Regra geral: após 'me' usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -430,9 +429,9 @@
         "Usa-se 's' sempre."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Adjetivos que indicam nacionalidade ou títulos de nobreza usam 's'.",
-      "hintCorrect": "Correto! Terminações em -esa são usadas para adjetivos pátrios e títulos de nobreza.",
-      "hintWrong": "Incorreto. A resposta certa é 'Usa-se 's' para adjetivos pátrios e títulos de nobreza'.",
+      "hint": "Palavras terminadas em -esa (adjetivos pátrios e títulos de nobreza) são escritas com 's'.",
+      "hintCorrect": "Correto! Adjetivos pátrios (portuguesa, francesa) e títulos de nobreza (duquesa, princesa) usam 's'.",
+      "hintWrong": "Incorreto. A regra é: terminações em -esa (adjetivos pátrios e títulos nobiliárquicos) usam 's'.",
       "difficulty": "medium"
     },
     {
@@ -445,9 +444,9 @@
         "ji-boia"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras de origem tupi, africana ou árabe geralmente usam 'j'.",
-      "hintCorrect": "Correto! 'Jiboia' é uma palavra de origem tupi e, por isso, é escrita com 'j'.",
-      "hintWrong": "Incorreto. A resposta certa é 'jiboia'. Palavras de origem tupi usam 'j'.",
+      "hint": "Palavras de origem tupi-guarani geralmente são escritas com 'j'.",
+      "hintCorrect": "Correto! 'Jiboia' é escrita com 'j' por ter origem tupi.",
+      "hintWrong": "Incorreto. A forma correta é 'jiboia'. Palavras de origem tupi geralmente usam 'j'.",
       "difficulty": "easy"
     },
     {
@@ -458,9 +457,9 @@
         "afins"
       ],
       "correctAnswerIndex": 1,
-      "hint": "'Afim' é um adjetivo que significa 'semelhante' ou 'parente'.",
-      "hintCorrect": "Correto! 'Afins' (junto) é um adjetivo que significa 'semelhantes' ou 'com afinidade'.",
-      "hintWrong": "Incorreto. A resposta certa é 'afins'. 'Afins' significa 'semelhantes'.",
+      "hint": "'Afim' (sem preposição) significa 'semelhante', 'que tem afinidade'.",
+      "hintCorrect": "Correto! 'Afins' significa 'semelhantes', 'que têm afinidade'.",
+      "hintWrong": "Incorreto. O correto é 'afins'. Significa 'ideias semelhantes'.",
       "difficulty": "medium"
     },
     {
@@ -473,9 +472,9 @@
         "colégio"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Palavras terminadas em -égio usam 'g'.",
-      "hintCorrect": "Correto! Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'colégio'.",
+      "hint": "Palavras terminadas em -égio, -ágio, -ígio, -ógio, -úgio são escritas com 'g'.",
+      "hintCorrect": "Correto! 'Colégio' segue a regra: terminações -égio, -ágio, etc., usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'colégio'. Terminações -égio são escritas com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -488,9 +487,9 @@
         "porquê"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Em perguntas diretas, no início ou meio da frase, usa-se 'por que' separado e sem acento.",
-      "hintCorrect": "Correto! 'Por que' (separado e sem acento) é usado em perguntas diretas ou indiretas, quando não está no final da frase.",
-      "hintWrong": "Incorreto. A resposta certa é 'por que'. Em perguntas diretas, usa-se 'por que' separado e sem acento.",
+      "hint": "Em perguntas diretas (exceto no final), usa-se a forma separada sem acento.",
+      "hintCorrect": "Correto! 'Por que' é usado em perguntas diretas ou indiretas.",
+      "hintWrong": "Incorreto. O correto é 'por que'. Usa-se em perguntas diretas.",
       "difficulty": "easy"
     },
     {
@@ -503,9 +502,9 @@
         "me-chicano"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois da sílaba inicial 'me'.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois da sílaba inicial 'me'.",
-      "hintWrong": "Incorreto. A resposta certa é 'mexicano'.",
+      "hint": "Depois da sílaba 'me', geralmente se usa 'x'.",
+      "hintCorrect": "Correto! 'Mexicano' segue a regra geral: após 'me', usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'mexicano'. Regra geral: após 'me' usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -518,9 +517,9 @@
         "Usa-se 's' sempre."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Verbos terminados em -isar são escritos com 's' quando a palavra de origem já possui 's' no radical.",
-      "hintCorrect": "Correto! 'Analisar' é escrito com 's' porque 'análise' já tem 's'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Usa-se 's' porque a palavra de origem já tem 's''.",
+      "hint": "Verbos derivados de palavras que já contêm 's' no radical mantêm o 's' na terminação -isar.",
+      "hintCorrect": "Correto! 'Analisar' mantém o 's' porque deriva de 'análise', que já tem 's'.",
+      "hintWrong": "Incorreto. A regra é: verbos em -isar mantêm o 's' quando a palavra de origem já contém 's'.",
       "difficulty": "medium"
     },
     {
@@ -530,12 +529,12 @@
         "vicepresidente",
         "vice-presidente",
         "vice presidente",
-        "vice-presidente"
+        "vicepresidente"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O prefixo 'vice-' sempre exige hífen.",
-      "hintCorrect": "Correto! Prefixos como 'vice-' sempre usam hífen.",
-      "hintWrong": "Incorreto. A resposta certa é 'vice-presidente'.",
+      "hint": "Os prefixos 'vice-', 'ex-', 'soto-' sempre exigem hífen.",
+      "hintCorrect": "Correto! 'Vice-presidente' leva hífen porque o prefixo 'vice-' sempre exige hífen.",
+      "hintWrong": "Incorreto. A forma correta é 'vice-presidente'. O prefixo 'vice-' sempre leva hífen.",
       "difficulty": "easy"
     },
     {
@@ -546,9 +545,9 @@
         "A"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Para indicar distância, usa-se a preposição 'a'.",
-      "hintCorrect": "Correto! 'A' (preposição) indica distância.",
-      "hintWrong": "Incorreto. A resposta certa é 'a'. 'A' (preposição) indica distância.",
+      "hint": "Para indicar distância espacial, usa-se a preposição 'a'.",
+      "hintCorrect": "Correto! 'A' é preposição que indica distância.",
+      "hintWrong": "Incorreto. O correto é 'a'. Indica distância ('fica a 10 km daqui').",
       "difficulty": "easy"
     },
     {
@@ -558,12 +557,12 @@
         "super-mercado",
         "supermercado",
         "super mercado",
-        "super-mercado"
+        "supermercardo"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em consoante e a palavra seguinte começa com uma consoante diferente, junta-se tudo.",
-      "hintCorrect": "Correto! 'Supermercado' é escrito junto, pois o prefixo 'super-' termina em 'r' e a palavra 'mercado' começa com 'm' (consoantes diferentes).",
-      "hintWrong": "Incorreto. A resposta certa é 'supermercado'.",
+      "hint": "Prefixos terminados em consoante seguidos de palavra começada por consoante diferente aglutinam-se sem hífen.",
+      "hintCorrect": "Correto! 'Supermercado' é escrito junto porque 'super-' termina em consoante e 'mercado' começa com consoante diferente.",
+      "hintWrong": "Incorreto. A forma correta é 'supermercado'. Consoantes diferentes = aglutinação sem hífen.",
       "difficulty": "easy"
     },
     {
@@ -574,9 +573,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'dedicado' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "medium"
     },
     {
@@ -589,9 +588,9 @@
         "pósgraduação"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O prefixo 'pós-' (quando tônico e autônomo) sempre exige hífen.",
-      "hintCorrect": "Correto! Prefixos como 'pós-', 'pré-', 'pró-' (quando tônicos e autônomos) sempre usam hífen.",
-      "hintWrong": "Incorreto. A resposta certa é 'pós-graduação'.",
+      "hint": "Os prefixos 'pós-', 'pré-', 'pró-' (quando tônicos e autônomos) sempre exigem hífen.",
+      "hintCorrect": "Correto! 'Pós-graduação' leva hífen porque o prefixo 'pós-' é tônico e autônomo.",
+      "hintWrong": "Incorreto. A forma correta é 'pós-graduação'. Prefixos tônicos como 'pós-' sempre levam hífen.",
       "difficulty": "easy"
     },
     {
@@ -602,9 +601,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'cansada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -614,12 +613,12 @@
         "superracista",
         "super-racista",
         "super racista",
-        "super-racista"
+        "superracísta"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em consoante e a palavra seguinte começa com a mesma consoante, usa-se o hífen.",
-      "hintCorrect": "Correto! 'Super-racista' é escrito com hífen, pois o prefixo 'super-' termina em 'r' e a palavra 'racista' começa com 'r' (mesma consoante).",
-      "hintWrong": "Incorreto. A resposta certa é 'super-racista'.",
+      "hint": "Prefixos terminados em consoante seguidos de palavra começada pela mesma consoante usam hífen.",
+      "hintCorrect": "Correto! 'Super-racista' leva hífen porque 'super-' termina em 'r' e 'racista' começa com 'r'.",
+      "hintWrong": "Incorreto. A forma correta é 'super-racista'. Mesma consoante no final do prefixo e início da palavra = hífen.",
       "difficulty": "medium"
     },
     {
@@ -630,9 +629,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'tímida' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -642,12 +641,12 @@
         "interregional",
         "inter-regional",
         "inter regional",
-        "inter-regional"
+        "interregional"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em consoante e a palavra seguinte começa com a mesma consoante, usa-se o hífen.",
-      "hintCorrect": "Correto! 'Inter-regional' é escrito com hífen, pois o prefixo 'inter-' termina em 'r' e a palavra 'regional' começa com 'r' (mesma consoante).",
-      "hintWrong": "Incorreto. A resposta certa é 'inter-regional'.",
+      "hint": "Prefixos terminados em consoante seguidos de palavra começada pela mesma consoante usam hífen.",
+      "hintCorrect": "Correto! 'Inter-regional' leva hífen porque 'inter-' termina em 'r' e 'regional' começa com 'r'.",
+      "hintWrong": "Incorreto. A forma correta é 'inter-regional'. Mesma consoante no final do prefixo e início da palavra = hífen.",
       "difficulty": "medium"
     },
     {
@@ -658,9 +657,9 @@
         "meia"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando 'meia' funciona como numeral ou adjetivo (metade), ele varia em género e número.",
-      "hintCorrect": "Correto! 'Meia' é um numeral fracionário e concorda em género com o substantivo 'maçã'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meia'. 'Meia' é numeral e varia.",
+      "hint": "Quando indica metade (fracionário), 'meia' varia em gênero e número com o substantivo.",
+      "hintCorrect": "Correto! 'Meia' é numeral fracionário e concorda com 'maçã' (feminino).",
+      "hintWrong": "Incorreto. O correto é 'meia'. Como numeral, concorda em gênero com 'maçã'.",
       "difficulty": "easy"
     },
     {
@@ -670,12 +669,12 @@
         "ultra-som",
         "ultrassom",
         "ultra som",
-        "ultra-som"
+        "ultrasson"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com 's', duplica-se o 's' e junta-se tudo.",
-      "hintCorrect": "Correto! 'Ultrassom' é escrito junto e com 'ss', seguindo a regra de duplicação do 's' após prefixo terminado em vogal.",
-      "hintWrong": "Incorreto. A resposta certa é 'ultrassom'.",
+      "hint": "Com prefixos terminados em vogal seguidos de palavra começada por 's', duplica-se o 's' e escreve-se tudo junto.",
+      "hintCorrect": "Correto! 'Ultrassom' é escrito junto com 'ss' porque 'ultra-' termina em vogal e 'som' começa com 's'.",
+      "hintWrong": "Incorreto. A forma correta é 'ultrassom'. Prefixo terminado em vogal + palavra começada com 's' = duplo 's' e aglutinação.",
       "difficulty": "medium"
     },
     {
@@ -686,9 +685,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'louca' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -698,12 +697,12 @@
         "inter-essante",
         "interessante",
         "inter essante",
-        "inter-essante"
+        "interesssante"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em consoante e a palavra seguinte começa com vogal, junta-se tudo.",
-      "hintCorrect": "Correto! 'Interessante' é escrito junto, pois o prefixo 'inter-' termina em 'r' e a palavra 'interessante' começa com 'i' (vogais diferentes).",
-      "hintWrong": "Incorreto. A resposta certa é 'interessante'.",
+      "hint": "Não é uma palavra com prefixo; é uma palavra primitiva.",
+      "hintCorrect": "Correto! 'Interessante' é uma palavra primitiva, não formada por prefixo.",
+      "hintWrong": "Incorreto. A forma correta é 'interessante'. É uma palavra primitiva, não derivada de prefixo.",
       "difficulty": "easy"
     },
     {
@@ -714,9 +713,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'nervosa' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -726,12 +725,12 @@
         "antiinflamatório",
         "anti-inflamatório",
         "anti inflamatório",
-        "anti-inflamatório"
+        "antiinflamatorio"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando o prefixo termina em vogal e a palavra seguinte começa com a mesma vogal, usa-se o hífen.",
-      "hintCorrect": "Correto! 'Anti-inflamatório' é escrito com hífen, pois o prefixo 'anti-' termina em 'i' e a palavra 'inflamatório' começa com 'i' (mesma vogal).",
-      "hintWrong": "Incorreto. A resposta certa é 'anti-inflamatório'.",
+      "hint": "Quando o prefixo termina com a mesma vogal que inicia a palavra seguinte, usa-se hífen.",
+      "hintCorrect": "Correto! 'Anti-inflamatório' leva hífen porque 'anti-' termina em 'i' e 'inflamatório' começa com 'i'.",
+      "hintWrong": "Incorreto. A forma correta é 'anti-inflamatório'. Mesma vogal no final do prefixo e início da palavra = hífen.",
       "difficulty": "easy"
     },
     {
@@ -742,9 +741,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'morta' e significa 'um pouco' (no sentido figurado).",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -757,9 +756,9 @@
         "pre-história"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O prefixo 'pré-' (quando tônico e autônomo) sempre exige hífen, e a palavra seguinte começa com 'h'.",
-      "hintCorrect": "Correto! 'Pré-história' é escrito com hífen, pois o prefixo 'pré-' é tônico e a palavra 'história' começa com 'h'.",
-      "hintWrong": "Incorreto. A resposta certa é 'pré-história'.",
+      "hint": "Os prefixos 'pré-', 'pós-', 'pró-' (quando tônicos) sempre exigem hífen, e também antes de 'h'.",
+      "hintCorrect": "Correto! 'Pré-história' leva hífen porque 'pré-' é prefixo tônico e 'história' começa com 'h'.",
+      "hintWrong": "Incorreto. A forma correta é 'pré-história'. Prefixos tônicos levam hífen, e também antes de 'h'.",
       "difficulty": "easy"
     },
     {
@@ -770,9 +769,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'chateada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -782,12 +781,12 @@
         "co-operar",
         "cooperar",
         "co operar",
-        "co-operar"
+        "cooperar"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O prefixo 'co-' é uma exceção à regra das vogais iguais e aglutina-se sempre.",
-      "hintCorrect": "Correto! O prefixo 'co-' aglutina-se à palavra seguinte, mesmo que esta comece com 'o'.",
-      "hintWrong": "Incorreto. A resposta certa é 'cooperar'.",
+      "hint": "O prefixo 'co-' é exceção e sempre se aglutina, mesmo quando seguido de vogal igual.",
+      "hintCorrect": "Correto! 'Cooperar' é escrito junto porque o prefixo 'co-' sempre se aglutina.",
+      "hintWrong": "Incorreto. A forma correta é 'cooperar'. O prefixo 'co-' é exceção à regra do hífen.",
       "difficulty": "medium"
     },
     {
@@ -798,9 +797,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'triste' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -813,9 +812,9 @@
         "en-choval"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois da sílaba inicial 'en'.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois da sílaba inicial 'en'.",
-      "hintWrong": "Incorreto. A resposta certa é 'enxoval'.",
+      "hint": "Depois da sílaba 'en', geralmente se usa 'x'.",
+      "hintCorrect": "Correto! 'Enxoval' segue a regra geral: após 'en', usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'enxoval'. Regra geral: após 'en' usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -826,9 +825,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'zangada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -841,9 +840,9 @@
         "cai-cha"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois de ditongos.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois de ditongos.",
-      "hintWrong": "Incorreto. A resposta certa é 'caixa'.",
+      "hint": "Depois de ditongos, geralmente se usa 'x'.",
+      "hintCorrect": "Correto! 'Caixa' segue a regra: após ditongo, usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'caixa'. Regra: após ditongo usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -854,9 +853,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'feliz' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -869,9 +868,9 @@
         "frou-cho"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois de ditongos.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois de ditongos.",
-      "hintWrong": "Incorreto. A resposta certa é 'frouxo'.",
+      "hint": "Depois de ditongos, geralmente se usa 'x'.",
+      "hintCorrect": "Correto! 'Frouxo' segue a regra: após ditongo, usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'frouxo'. Regra: após ditongo usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -882,9 +881,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'aborrecida' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -897,9 +896,9 @@
         "pei-che"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'x' depois de ditongos.",
-      "hintCorrect": "Correto! A regra geral é usar 'x' depois de ditongos.",
-      "hintWrong": "Incorreto. A resposta certa é 'peixe'.",
+      "hint": "Depois de ditongos, geralmente se usa 'x'.",
+      "hintCorrect": "Correto! 'Peixe' segue a regra: após ditongo, usa-se 'x'.",
+      "hintWrong": "Incorreto. A forma correta é 'peixe'. Regra: após ditongo usa-se 'x'.",
       "difficulty": "easy"
     },
     {
@@ -910,9 +909,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'surpresa' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -925,9 +924,9 @@
         "moderni-zar"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'z' quando a palavra de origem não tem 's'.",
-      "hintCorrect": "Correto! Verbos terminados em -izar são escritos com 'z' quando a palavra de origem não possui 's' no radical.",
-      "hintWrong": "Incorreto. A resposta certa é 'modernizar'.",
+      "hint": "Verbos terminados em -izar são escritos com 'z' quando a palavra de origem não contém 's'.",
+      "hintCorrect": "Correto! 'Modernizar' é escrito com 'z' porque deriva de 'moderno', que não tem 's'.",
+      "hintWrong": "Incorreto. A forma correta é 'modernizar'. Verbos em -izar usam 'z' quando a base não tem 's'.",
       "difficulty": "medium"
     },
     {
@@ -938,9 +937,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'confusa' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -953,9 +952,9 @@
         "utili-zar"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 'z' quando a palavra de origem não tem 's'.",
-      "hintCorrect": "Correto! 'Utilizar' é escrito com 'z' porque 'útil' não tem 's'.",
-      "hintWrong": "Incorreto. A resposta certa é 'utilizar'.",
+      "hint": "Verbos terminados em -izar são escritos com 'z' quando a palavra de origem não contém 's'.",
+      "hintCorrect": "Correto! 'Utilizar' é escrito com 'z' porque deriva de 'útil', que não tem 's'.",
+      "hintWrong": "Incorreto. A forma correta é 'utilizar'. Verbos em -izar usam 'z' quando a base não tem 's'.",
       "difficulty": "medium"
     },
     {
@@ -966,9 +965,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'preocupada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -981,9 +980,9 @@
         "ri-queza"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Substantivos abstratos derivados de adjetivos (como 'rico' -> 'riqueza') usam 'z'.",
+      "hint": "Substantivos abstratos terminados em -eza, formados a partir de adjetivos, são escritos com 'z'.",
       "hintCorrect": "Correto! 'Riqueza' é escrito com 'z' porque deriva do adjetivo 'rico'.",
-      "hintWrong": "Incorreto. A resposta certa é 'riqueza'.",
+      "hintWrong": "Incorreto. A forma correta é 'riqueza'. Substantivos abstratos em -eza derivados de adjetivos usam 'z'.",
       "difficulty": "medium"
     },
     {
@@ -994,9 +993,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'irritada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1009,9 +1008,9 @@
         "baro-nesa"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Títulos de nobreza terminados em -esa usam 's'.",
+      "hint": "Títulos de nobreza terminados em -esa são escritos com 's'.",
       "hintCorrect": "Correto! 'Baronesa' é escrito com 's' por ser um título de nobreza.",
-      "hintWrong": "Incorreto. A resposta certa é 'baronesa'.",
+      "hintWrong": "Incorreto. A forma correta é 'baronesa'. Títulos de nobreza em -esa usam 's'.",
       "difficulty": "medium"
     },
     {
@@ -1022,9 +1021,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desanimada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1037,9 +1036,9 @@
         "portu-guesa"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Adjetivos pátrios terminados em -esa usam 's'.",
-      "hintCorrect": "Correto! 'Portuguesa' é escrito com 's' por ser um adjetivo pátrio.",
-      "hintWrong": "Incorreto. A resposta certa é 'portuguesa'.",
+      "hint": "Adjetivos pátrios terminados em -esa são escritos com 's'.",
+      "hintCorrect": "Correto! 'Portuguesa' é escrito com 's' por ser adjetivo pátrio.",
+      "hintWrong": "Incorreto. A forma correta é 'portuguesa'. Adjetivos pátrios em -esa usam 's'.",
       "difficulty": "medium"
     },
     {
@@ -1050,9 +1049,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'abalada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1065,9 +1064,9 @@
         "ca-sa"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 's' com som de 'z' entre vogais.",
-      "hintCorrect": "Correto! A regra é usar 's' com som de 'z' entre vogais.",
-      "hintWrong": "Incorreto. A resposta certa é 'casa'.",
+      "hint": "A letra 's' entre vogais tem som de 'z' em português.",
+      "hintCorrect": "Correto! 'Casa' é escrita com 's', que entre vogais tem som de 'z'.",
+      "hintWrong": "Incorreto. A forma correta é 'casa'. A letra 's' entre vogais tem som de 'z'.",
       "difficulty": "easy"
     },
     {
@@ -1078,9 +1077,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desconfiada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1093,9 +1092,9 @@
         "cri-se"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 's' com som de 'z' entre vogais.",
-      "hintCorrect": "Correto! A regra é usar 's' com som de 'z' entre vogais.",
-      "hintWrong": "Incorreto. A resposta certa é 'crise'.",
+      "hint": "A letra 's' entre vogais tem som de 'z' em português.",
+      "hintCorrect": "Correto! 'Crise' é escrita com 's', que entre vogais tem som de 'z'.",
+      "hintWrong": "Incorreto. A forma correta é 'crise'. A letra 's' entre vogais tem som de 'z'.",
       "difficulty": "easy"
     },
     {
@@ -1106,9 +1105,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'envergonhada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1121,9 +1120,9 @@
         "em-presa"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Usa-se 's' com som de 'z' entre vogais.",
-      "hintCorrect": "Correto! A regra é usar 's' com som de 'z' entre vogais.",
-      "hintWrong": "Incorreto. A resposta certa é 'empresa'.",
+      "hint": "A letra 's' entre vogais tem som de 'z' em português.",
+      "hintCorrect": "Correto! 'Empresa' é escrita com 's', que entre vogais tem som de 'z'.",
+      "hintWrong": "Incorreto. A forma correta é 'empresa'. A letra 's' entre vogais tem som de 'z'.",
       "difficulty": "easy"
     },
     {
@@ -1134,9 +1133,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desorientada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1149,9 +1148,9 @@
         "es-tágio"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras terminadas em -ágio usam 'g'.",
-      "hintCorrect": "Correto! Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'estágio'.",
+      "hint": "Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
+      "hintCorrect": "Correto! 'Estágio' segue a regra: terminações -ágio, -égio, etc., usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'estágio'. Terminações -ágio são escritas com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1162,9 +1161,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desconfiada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1177,9 +1176,9 @@
         "pres-tígio"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras terminadas em -ígio usam 'g'.",
-      "hintCorrect": "Correto! Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'prestígio'.",
+      "hint": "Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
+      "hintCorrect": "Correto! 'Prestígio' segue a regra: terminações -ágio, -égio, etc., usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'prestígio'. Terminações -ígio são escritas com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1190,9 +1189,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desinteressada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1205,9 +1204,9 @@
         "re-lógio"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras terminadas em -ógio usam 'g'.",
-      "hintCorrect": "Correto! Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'relógio'.",
+      "hint": "Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
+      "hintCorrect": "Correto! 'Relógio' segue a regra: terminações -ágio, -égio, etc., usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'relógio'. Terminações -ógio são escritas com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1218,9 +1217,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desiludida' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1233,9 +1232,9 @@
         "re-fúgio"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras terminadas em -úgio usam 'g'.",
-      "hintCorrect": "Correto! Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'refúgio'.",
+      "hint": "Palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio são escritas com 'g'.",
+      "hintCorrect": "Correto! 'Refúgio' segue a regra: terminações -ágio, -égio, etc., usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'refúgio'. Terminações -úgio são escritas com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1246,9 +1245,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desapontada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1261,9 +1260,9 @@
         "via-gem"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Substantivos terminados em -agem, -igem, -ugem usam 'g'.",
-      "hintCorrect": "Correto! Substantivos terminados em -agem, -igem, -ugem são escritos com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'viagem'.",
+      "hint": "Substantivos terminados em -agem, -igem, -ugem são escritos com 'g'.",
+      "hintCorrect": "Correto! 'Viagem' segue a regra: substantivos em -agem, -igem, -ugem usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'viagem'. Substantivos em -agem são escritos com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1274,9 +1273,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desanimada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1289,9 +1288,9 @@
         "gara-gem"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Substantivos terminados em -agem, -igem, -ugem usam 'g'.",
-      "hintCorrect": "Correto! Substantivos terminados em -agem, -igem, -ugem são escritos com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'garagem'.",
+      "hint": "Substantivos terminados em -agem, -igem, -ugem são escritos com 'g'.",
+      "hintCorrect": "Correto! 'Garagem' segue a regra: substantivos em -agem, -igem, -ugem usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'garagem'. Substantivos em -agem são escritos com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1302,9 +1301,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desconfiada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1317,9 +1316,9 @@
         "ferru-gem"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Substantivos terminados em -agem, -igem, -ugem usam 'g'.",
-      "hintCorrect": "Correto! Substantivos terminados em -agem, -igem, -ugem são escritos com 'g'.",
-      "hintWrong": "Incorreto. A resposta certa é 'ferrugem'.",
+      "hint": "Substantivos terminados em -agem, -igem, -ugem são escritos com 'g'.",
+      "hintCorrect": "Correto! 'Ferrugem' segue a regra: substantivos em -agem, -igem, -ugem usam 'g'.",
+      "hintWrong": "Incorreto. A forma correta é 'ferrugem'. Substantivos em -ugem são escritos com 'g'.",
       "difficulty": "easy"
     },
     {
@@ -1330,9 +1329,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desinteressada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1345,9 +1344,9 @@
         "ji-ló"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras de origem tupi, africana ou árabe geralmente usam 'j'.",
-      "hintCorrect": "Correto! 'Jiló' é uma palavra de origem tupi e, por isso, é escrita com 'j'.",
-      "hintWrong": "Incorreto. A resposta certa é 'jiló'.",
+      "hint": "Palavras de origem tupi-guarani geralmente são escritas com 'j'.",
+      "hintCorrect": "Correto! 'Jiló' é escrita com 'j' por ter origem tupi.",
+      "hintWrong": "Incorreto. A forma correta é 'jiló'. Palavras de origem tupi geralmente usam 'j'.",
       "difficulty": "easy"
     },
     {
@@ -1358,9 +1357,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desiludida' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1373,9 +1372,9 @@
         "pa-jé"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Palavras de origem tupi, africana ou árabe geralmente usam 'j'.",
-      "hintCorrect": "Correto! 'Pajé' é uma palavra de origem tupi e, por isso, é escrita com 'j'.",
-      "hintWrong": "Incorreto. A resposta certa é 'pajé'.",
+      "hint": "Palavras de origem tupi-guarani geralmente são escritas com 'j'.",
+      "hintCorrect": "Correto! 'Pajé' é escrita com 'j' por ter origem tupi.",
+      "hintWrong": "Incorreto. A forma correta é 'pajé'. Palavras de origem tupi geralmente usam 'j'.",
       "difficulty": "easy"
     },
     {
@@ -1386,9 +1385,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desapontada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1401,9 +1400,9 @@
         "en-cher"
       ],
       "correctAnswerIndex": 1,
-      "hint": "A palavra 'encher' e seus derivados são exceções à regra do 'x' depois de 'en'.",
-      "hintCorrect": "Correto! 'Encher' e seus derivados (enchente, enchimento) são escritos com 'ch'.",
-      "hintWrong": "Incorreto. A resposta certa é 'encher'.",
+      "hint": "'Encher' e seus derivados são exceções à regra geral do 'x' após 'en'.",
+      "hintCorrect": "Correto! 'Encher' é escrito com 'ch', sendo uma exceção à regra do 'x' após 'en'.",
+      "hintWrong": "Incorreto. A forma correta é 'encher'. É uma exceção à regra geral do 'x' após 'en'.",
       "difficulty": "medium"
     },
     {
@@ -1414,9 +1413,9 @@
         "meia"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando 'meio' funciona como advérbio (modificando um adjetivo), ele é invariável.",
-      "hintCorrect": "Correto! 'Meio' é um advérbio de intensidade e, como tal, é invariável. Significa 'um pouco'.",
-      "hintWrong": "Incorreto. A resposta certa é 'meio'. 'Meio' é advérbio e não varia.",
+      "hint": "Quando 'meio' modifica um adjetivo, funciona como advérbio de intensidade e é invariável.",
+      "hintCorrect": "Correto! 'Meio' é advérbio que modifica 'desanimada' e significa 'um pouco'.",
+      "hintWrong": "Incorreto. O correto é 'meio'. Como advérbio, é invariável.",
       "difficulty": "easy"
     },
     {
@@ -1429,9 +1428,9 @@
         "me-cha"
       ],
       "correctAnswerIndex": 1,
-      "hint": "A palavra 'mecha' é uma exceção à regra do 'x' depois de 'me'.",
-      "hintCorrect": "Correto! 'Mecha' (de cabelo) é escrita com 'ch'.",
-      "hintWrong": "Incorreto. A resposta certa é 'mecha'.",
+      "hint": "'Mecha' é exceção à regra geral do 'x' após 'me'.",
+      "hintCorrect": "Correto! 'Mecha' é escrito com 'ch', sendo uma exceção à regra do 'x' após 'me'.",
+      "hintWrong": "Incorreto. A forma correta é 'mecha'. É uma exceção à regra geral do 'x' após 'me'.",
       "difficulty": "medium"
     }
   ]

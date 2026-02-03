@@ -1,0 +1,1506 @@
+{
+  "category": "Língua Portuguesa",
+  "subcategory": "Verbos - Conjugação",
+  "questions": [
+    {
+      "id": "conjugacao-001",
+      "question": "Conjugue o verbo 'ser' na 1ª pessoa do singular do Presente do Indicativo:",
+      "options": [
+        "sou",
+        "és",
+        "somos",
+        "são"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um verbo de alta irregularidade. A forma da 1ª pessoa do singular difere completamente do infinitivo.",
+      "hintCorrect": "Correto! A forma é 'sou'. O verbo 'ser' é extremamente irregular no presente do indicativo.",
+      "hintWrong": "Incorreto. 'És' é a 2ª pessoa singular, 'somos' é a 1ª pessoa plural, 'são' é a 3ª pessoa plural. A forma correta para 'eu' é 'sou'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-002",
+      "question": "Qual é a forma correta da 2ª pessoa do plural (vós) do verbo 'fazer' no Pretérito Perfeito do Indicativo?",
+      "options": [
+        "fizestes",
+        "fizémos",
+        "fizeram",
+        "fizéreis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Para 'vós', o pretérito perfeito de verbos da 2ª conjugação termina em '-estes'. O radical vem do pretérito (fiz-).",
+      "hintCorrect": "Exato! 'Fizestes' está correto. Radical 'fiz-' + desinência '-estes' para 'vós' no pretérito perfeito.",
+      "hintWrong": "Incorreto. 'Fizémos' não existe. 'Fizeram' é para 'eles'. 'Fizéreis' seria do pretérito mais-que-perfeito. A forma correta é 'fizestes'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-003",
+      "question": "Conjugue o verbo 'ter' na 3ª pessoa do singular do Futuro do Subjuntivo:",
+      "options": [
+        "tiver",
+        "tiveres",
+        "tivermos",
+        "tiverem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo é formado a partir do radical do pretérito perfeito do indicativo (tiv-) + as desinências próprias (-er, -eres, etc.).",
+      "hintCorrect": "Perfeito! 'Tiver' é a forma correta. Radical 'tiv-' + desinência '-er' para a 3ª pessoa do singular.",
+      "hintWrong": "Incorreto. 'Tiveres' é a 2ª pessoa singular, 'tivermos' é a 1ª pessoa plural, 'tiverem' é a 3ª pessoa plural. Para 'ele/ela/você' é 'tiver'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-004",
+      "question": "Qual é a conjugação do verbo 'pôr' na 1ª pessoa do plural do Presente do Indicativo?",
+      "options": [
+        "pomos",
+        "põemos",
+        "pusemos",
+        "pondo"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbos derivados de 'pôr' (como compor, propor) seguem um padrão semelhante. O acento circunflexo desaparece no plural.",
+      "hintCorrect": "Correto! É 'pomos'. A vogal temática '-o-' se mantém, e o acento circunflexo do singular ('põe') não aparece no plural.",
+      "hintWrong": "Incorreto. 'Põemos' não existe. 'Pusemos' é do pretérito perfeito. 'Pondo' é o gerúndio. A resposta certa é 'pomos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-005",
+      "question": "Como se conjuga o verbo 'vir' na 2ª pessoa do singular (tu) do Imperativo Afirmativo?",
+      "options": [
+        "vem",
+        "venha",
+        "vens",
+        "vier"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O imperativo afirmativo deriva geralmente do presente do indicativo, mas com algumas irregularidades. Para 'tu', muitas vezes usa-se a forma da 3ª pessoa do singular do presente do indicativo, sem o '-s'.",
+      "hintCorrect": "Exato! 'Vem' é a forma correta. Vem da 3ª pessoa do presente do indicativo ('ele vem'), retirando-se o '-s' para o 'tu' imperativo.",
+      "hintWrong": "Incorreto. 'Venha' é a 3ª pessoa do imperativo (você/ele). 'Vens' é o presente do indicativo. 'Vier' é o futuro do subjuntivo. Para 'tu', é 'vem'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-006",
+      "question": "Qual é a forma do verbo 'saber' na 1ª pessoa do singular do Pretérito Mais-que-perfeito do Indicativo (forma composta com '-ra')?",
+      "options": [
+        "soubera",
+        "sabera",
+        "supéra",
+        "saberia"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito mais-que-perfeito do indicativo na forma '-ra' usa o radical do pretérito perfeito (soub-) + a terminação '-ra' para a 1ª pessoa singular.",
+      "hintCorrect": "Perfeito! 'Soubera' está correto. Radical 'soub-' + '-ra'. É uma forma literária que indica uma ação passada anterior a outra no passado.",
+      "hintWrong": "Incorreto. 'Sabera' usa o radical errado. 'Supéra' não existe. 'Saberia' é do futuro do pretérito. A forma correta é 'soubera'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-007",
+      "question": "Conjugue o verbo 'caber' na 3ª pessoa do plural do Futuro do Presente do Indicativo:",
+      "options": [
+        "cabirão",
+        "cabêm",
+        "caberão",
+        "cabem"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O futuro do presente é formado pelo infinitivo inteiro + as desinências (-ei, -ás, -á, -emos, -eis, -ão). Cuidado com a acentuação.",
+      "hintCorrect": "Correto! É 'caberão'. Infinitivo 'caber' + desinência '-ão' para a 3ª pessoa do plural.",
+      "hintWrong": "Incorreto. 'Cabirão' troca a vogal temática. 'Cabêm' não existe. 'Cabem' é do presente do indicativo. A resposta certa é 'caberão'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-008",
+      "question": "Qual a conjugação correta do verbo 'ouvir' na 2ª pessoa do plural (vós) do Pretérito Imperfeito do Indicativo?",
+      "options": [
+        "ouvíeis",
+        "ouvísseis",
+        "ouvireis",
+        "ouvíades"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito imperfeito do indicativo para verbos da 3ª conjugação (-ir) em 'vós' termina em '-íeis'. O radical é o do infinitivo sem '-ir'.",
+      "hintCorrect": "Exato! 'Ouvíeis' está correto. Radical 'ouv-' + vogal temática '-i-' + desinência '-eis' (com acento no 'i' para manter a sílaba tónica).",
+      "hintWrong": "Incorreto. 'Ouvísseis' é do pretérito imperfeito do subjuntivo. 'Ouvireis' é do futuro do presente. 'Ouvíades' é uma forma arcaica. A forma moderna é 'ouvíeis'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-009",
+      "question": "Como se diz 'tu dizes' no Pretérito Perfeito do Indicativo?",
+      "options": [
+        "dizeste",
+        "disseste",
+        "dizistes",
+        "dirás"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'dizer' é muito irregular no pretérito perfeito. O radical muda completamente para 'diss-', 'dissest-', etc.",
+      "hintCorrect": "Correto! A forma é 'disseste'. Radical 'diss-' + desinência '-este' para a 2ª pessoa singular (tu).",
+      "hintWrong": "Incorreto. 'Dizeste' seria o pretérito de um verbo regular como 'amar'. 'Dizistes' é incorreto. 'Dirás' é o futuro do presente. A resposta certa é 'disseste'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-010",
+      "question": "Qual é a forma do verbo 'estar' na 1ª pessoa do plural do Presente do Subjuntivo?",
+      "options": [
+        "estejamos",
+        "estamos",
+        "estivemos",
+        "estivéssemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo deriva da 1ª pessoa do singular do presente do indicativo, trocando a terminação '-o' por '-e' para verbos da 1ª conjugação e '-a' para os outros. 'Estar' é da 1ª conjugação? Cuidado, é irregular.",
+      "hintCorrect": "Perfeito! É 'estejamos'. O radical do subjuntivo vem de 'eu esteja' (presente do subjuntivo). Para 'nós', acrescenta-se '-amos'.",
+      "hintWrong": "Incorreto. 'Estamos' é do presente do indicativo. 'Estivemos' é do pretérito perfeito. 'Estivéssemos' é do pretérito imperfeito do subjuntivo. A resposta certa é 'estejamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-011",
+      "question": "Conjugue o verbo 'poder' na 3ª pessoa do singular do Pretérito Imperfeito do Subjuntivo:",
+      "options": [
+        "pudesse",
+        "podia",
+        "podesse",
+        "pudera"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito imperfeito do subjuntivo é formado a partir da 3ª pessoa do plural do pretérito perfeito do indicativo (puderam), retirando '-am' e adicionando as terminações '-se', '-sses', etc.",
+      "hintCorrect": "Correto! 'Pudesse' é a forma. Radical 'pudess-' (de 'puderam') + terminação '-e' para a 3ª pessoa singular.",
+      "hintWrong": "Incorreto. 'Podia' é do pretérito imperfeito do indicativo. 'Podesse' usa o radical errado. 'Pudera' é do pretérito mais-que-perfeito (forma '-ra'). A resposta certa é 'pudesse'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-012",
+      "question": "Qual a forma correta da 2ª pessoa do plural (vós) do verbo 'trazer' no Presente do Indicativo?",
+      "options": [
+        "trazeis",
+        "trazedes",
+        "trazeis",
+        "trazis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais como 'trazer' (terminados em '-zer') têm uma irregularidade na 1ª pessoa do singular (eu trago), mas no plural do presente são regulares para 'vós'.",
+      "hintCorrect": "Exato! A forma moderna e correta é 'trazeis'. Muitos falantes usam 'trazis' na oralidade, mas a forma padrão culta é 'trazeis'.",
+      "hintWrong": "Incorreto. 'Trazedes' é uma forma antiga. 'Trazis' é comum na linguagem oral informal, mas não é a forma padrão culta. A resposta correta é 'trazeis'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-013",
+      "question": "Como se conjuga o verbo 'ver' na 1ª pessoa do singular do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "vi",
+        "via",
+        "vir",
+        "viste"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um verbo irregular e defectivo (não tem todas as pessoas em todos os tempos). O pretérito perfeito é formado a partir do radical 'v-'.",
+      "hintCorrect": "Correto! É 'vi'. É uma forma muito curta e irregular. As outras pessoas são: viste, viu, vimos, vistes, viram.",
+      "hintWrong": "Incorreto. 'Via' é do pretérito imperfeito. 'Vir' é infinitivo. 'Viste' é a 2ª pessoa singular. Para 'eu', a forma é 'vi'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-014",
+      "question": "Qual é a forma do verbo 'querer' na 3ª pessoa do plural do Futuro do Pretérito do Indicativo?",
+      "options": [
+        "quereriam",
+        "queriam",
+        "quisessem",
+        "quererão"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O futuro do pretérito (ou condicional) é formado pelo radical do infinitivo + as desinências '-ia', '-ias', etc. Verbos como 'querer' podem sofrer contração.",
+      "hintCorrect": "Perfeito! É 'queriam'. O infinitivo 'querer' perde o '-er' final, ficando o radical 'quer-', ao qual se acrescenta '-iam'.",
+      "hintWrong": "Incorreto. 'Quereriam' é uma forma redundante (repetição do infinitivo). 'Quisessem' é do pretérito imperfeito do subjuntivo. 'Quererão' é do futuro do presente. A resposta certa é 'queriam'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-015",
+      "question": "Conjugue o verbo 'haver' (no sentido de 'existir' ou como auxiliar) na 3ª pessoa do singular do Presente do Subjuntivo:",
+      "options": [
+        "haja",
+        "houver",
+        "há",
+        "haia"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo de 'haver' é irregular e deriva da forma 'haja' (eu).",
+      "hintCorrect": "Correto! 'Haja' é a forma para a 3ª pessoa singular (e também para a 1ª). É uma forma única que serve para 'que eu/ele haja'.",
+      "hintWrong": "Incorreto. 'Houver' é o futuro do subjuntivo. 'Há' é o presente do indicativo. 'Haia' não é uma forma padrão. A resposta certa é 'haja'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-016",
+      "question": "Qual a conjugação do verbo 'rir' na 2ª pessoa do singular (tu) do Imperativo Negativo?",
+      "options": [
+        "não rias",
+        "não ris",
+        "não ria",
+        "não rijas"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O imperativo negativo usa as formas do presente do subjuntivo. Para 'tu', é a 2ª pessoa singular do presente do subjuntivo.",
+      "hintCorrect": "Exato! 'Não rias' está correto. É a forma do presente do subjuntivo ('que tu rias') usada como imperativo negativo.",
+      "hintWrong": "Incorreto. 'Não ris' usaria uma forma do indicativo. 'Não ria' é para 'você/ele'. 'Não rijas' não existe. A resposta certa é 'não rias'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-017",
+      "question": "Como se diz 'nós fizéramos' no Pretérito Mais-que-perfeito do Indicativo, usando a forma alternativa com '-ra'?",
+      "options": [
+        "fizéramos",
+        "tínhamos feito",
+        "faríamos",
+        "fizermos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma com '-ra' já está sendo usada na pergunta. É uma forma literária equivalente a 'nós tínhamos feito'.",
+      "hintCorrect": "Correto! A própria forma 'fizéramos' é a resposta. Ela é a conjugação correta do pretérito mais-que-perfeito na forma '-ra' para a 1ª pessoa plural.",
+      "hintWrong": "Incorreto. A pergunta já dá a forma correta. 'Tínhamos feito' é a forma composta equivalente. 'Faríamos' é futuro do pretérito. 'Fizermos' é futuro do subjuntivo. A resposta é 'fizéramos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-018",
+      "question": "Qual é a forma do verbo 'valer' na 1ª pessoa do singular do Futuro do Presente do Indicativo?",
+      "options": [
+        "valerei",
+        "valereis",
+        "valeria",
+        "valha"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do presente é formado pelo infinitivo inteiro + as desinências. Para a 1ª pessoa singular, a desinência é '-ei'.",
+      "hintCorrect": "Correto! É 'valerei'. Infinitivo 'valer' + desinência '-ei'.",
+      "hintWrong": "Incorreto. 'Valereis' é para 'vós'. 'Valeria' é do futuro do pretérito. 'Valha' é do presente do subjuntivo. Para 'eu', é 'valerei'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-019",
+      "question": "Conjugue o verbo 'cair' na 3ª pessoa do plural do Pretérito Perfeito do Indicativo:",
+      "options": [
+        "caíram",
+        "cairam",
+        "caem",
+        "cairem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais terminados em '-air' (cair, sair, trair) têm o pretérito perfeito formado com '-í-'. O acento agudo é importante.",
+      "hintCorrect": "Exato! 'Caíram' está correto. Radical 'ca-' + vogal temática '-i-' (com acento) + desinência '-ram'.",
+      "hintWrong": "Incorreto. 'Cairam' (sem acento) está errado na norma culta. 'Caem' é do presente. 'Cairem' é do futuro do subjuntivo. A forma correta é 'caíram'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-020",
+      "question": "Qual a forma correta do verbo 'ouvir' no Particípio Passado?",
+      "options": [
+        "ouvido",
+        "ouso",
+        "ouvido",
+        "ousido"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A maioria dos verbos da 2ª e 3ª conjugação tem particípio regular em '-ido'. 'Ouvir' é um deles.",
+      "hintCorrect": "Correto! É 'ouvido'. É um particípio regular.",
+      "hintWrong": "Incorreto. 'Ouso' é do presente do indicativo. 'Ousido' não é uma forma válida. A resposta certa é 'ouvido'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-021",
+      "question": "Como se conjuga o verbo 'pedir' na 1ª pessoa do plural do Presente do Subjuntivo?",
+      "options": [
+        "peçamos",
+        "pedimos",
+        "pidamos",
+        "peçamos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais com mudança vocálica no presente do indicativo (eu peço) mantêm essa mudança no presente do subjuntivo em todas as pessoas.",
+      "hintCorrect": "Correto! É 'peçamos'. O 'e' muda para 'ç' (som de 'c' cedilhado) em todo o presente do subjuntivo.",
+      "hintWrong": "Incorreto. 'Pedimos' é do presente do indicativo. 'Pidamos' não é uma forma padrão. A resposta certa é 'peçamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-022",
+      "question": "Qual é a forma do verbo 'agradecer' na 2ª pessoa do singular (tu) do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "agradeceste",
+        "agradeçeste",
+        "agradeceste",
+        "agradeceste"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais terminados em '-cer' têm uma irregularidade na 1ª pessoa do presente do indicativo (eu agradeço), mas no pretérito perfeito são regulares.",
+      "hintCorrect": "Exato! 'Agradeceste' está correto. É a forma regular para verbos da 2ª conjugação no pretérito perfeito.",
+      "hintWrong": "Incorreto. 'Agradeçeste' usa um 'ç' desnecessário. A forma correta, com 'c', é 'agradeceste'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-023",
+      "question": "Conjugue o verbo 'concluir' na 3ª pessoa do singular do Presente do Indicativo:",
+      "options": [
+        "conclui",
+        "conclue",
+        "conclúi",
+        "conclui"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais terminados em '-uir' (concluir, incluir, construir) não têm acento na 3ª pessoa do singular do presente, apesar da sílaba tónica ser a última.",
+      "hintCorrect": "Correto! É 'conclui' (sem acento). Apesar de ser uma palavra oxítona terminada em 'i', não recebe acento gráfico nesta conjugação.",
+      "hintWrong": "Incorreto. 'Conclue' troca a vogal. 'Conclúi' tem acento desnecessário. A forma correta é 'conclui', sem acento.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-024",
+      "question": "Qual a conjugação do verbo 'crer' na 1ª pessoa do plural do Pretérito Imperfeito do Indicativo?",
+      "options": [
+        "críamos",
+        "crêamos",
+        "cremos",
+        "crêmos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um verbo da 2ª conjugação (-er) com um radical terminado em vogal. No imperfeito, para 'nós', a forma é 'críamos' (com acento no 'i').",
+      "hintCorrect": "Perfeito! 'Críamos' está correto. O acento no 'i' é necessário para manter a tonicidade na sílaba certa e diferenciar de 'cremos' (presente).",
+      "hintWrong": "Incorreto. 'Crêamos' não existe. 'Cremos' é do presente. 'Crêmos' é uma grafia incorreta. A resposta certa é 'críamos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-025",
+      "question": "Como se diz 'vós ledes' no Pretérito Perfeito do Indicativo? (verbo 'ler')",
+      "options": [
+        "lestes",
+        "lerdes",
+        "lêsseis",
+        "lereis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito de 'ler' é irregular: li, leste, leu, lemos, lestes, leram. O radical é 'l-'.",
+      "hintCorrect": "Correto! A forma é 'lestes'. É uma forma irregular, mas segue o padrão de outros verbos irregulares no pretérito.",
+      "hintWrong": "Incorreto. 'Lerdes' é o futuro do subjuntivo. 'Lêsseis' é do pretérito imperfeito do subjuntivo. 'Lereis' é do futuro do presente. A resposta certa é 'lestes'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-026",
+      "question": "Qual é a forma do verbo 'sair' na 1ª pessoa do singular do Futuro do Subjuntivo?",
+      "options": [
+        "sair",
+        "saia",
+        "sairei",
+        "saísse"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo é formado a partir do infinitivo. Para a 1ª pessoa singular, é o próprio infinitivo.",
+      "hintCorrect": "Correto! É 'sair'. No futuro do subjuntivo, a 1ª e a 3ª pessoas do singular são iguais ao infinitivo do verbo.",
+      "hintWrong": "Incorreto. 'Saia' é do presente do subjuntivo. 'Sairei' é do futuro do presente. 'Saísse' é do pretérito imperfeito do subjuntivo. Para 'eu' no futuro do subjuntivo, é 'sair'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-027",
+      "question": "Conjugue o verbo 'dormir' na 3ª pessoa do plural do Presente do Indicativo:",
+      "options": [
+        "dormem",
+        "dormim",
+        "dormem",
+        "durmam"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais da 3ª conjugação como 'dormir' têm a vogal temática '-i-' no presente. Para 'eles', a desinência é '-em'.",
+      "hintCorrect": "Exato! É 'dormem'. Radical 'dorm-' + vogal temática '-e-' (resultante da contração de 'i' + 'em') + desinência zero.",
+      "hintWrong": "Incorreto. 'Dormim' não existe. 'Durmam' é do presente do subjuntivo. A resposta certa é 'dormem'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-028",
+      "question": "Qual a forma correta do verbo 'ouvir' na 2ª pessoa do singular (tu) do Imperativo Afirmativo?",
+      "options": [
+        "ouve",
+        "ouça",
+        "ouvi",
+        "ouves"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Para verbos da 3ª conjugação, o imperativo afirmativo de 'tu' geralmente é a forma da 3ª pessoa do singular do presente do indicativo, sem o '-s'.",
+      "hintCorrect": "Correto! 'Ouve' está correto. Vem de 'ele ouve', retirando o '-s' final.",
+      "hintWrong": "Incorreto. 'Ouça' é a 3ª pessoa do imperativo (você). 'Ouvi' seria uma forma irregular. 'Oves' é do presente do indicativo. Para 'tu', é 'ouve'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-029",
+      "question": "Como se conjuga o verbo 'pôr' na 2ª pessoa do plural (vós) do Pretérito Imperfeito do Indicativo?",
+      "options": [
+        "púnheis",
+        "punhades",
+        "púnheis",
+        "puníeis"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A forma moderna e correta deriva do verbo 'pôr' ser tratado como da 2ª conjugação (-er) para este tempo. A forma arcaica 'punhades' não é mais usada.",
+      "hintCorrect": "Correto! A forma padrão moderna é 'puníeis', tratando 'pôr' como um verbo da 2ª conjugação no imperfeito.",
+      "hintWrong": "Incorreto. 'Púnheis' e formas semelhantes são arcaicas ou regionais. A forma padrão culta contemporânea é 'puníeis'.",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-030",
+      "question": "Qual é a forma do verbo 'fugir' na 1ª pessoa do singular do Presente do Indicativo?",
+      "options": [
+        "fujo",
+        "fugo",
+        "fuja",
+        "fugio"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais terminados em '-gir' (fugir, dirigir) têm uma irregularidade na 1ª pessoa do presente: o 'g' muda para 'j'.",
+      "hintCorrect": "Correto! É 'fujo'. O 'g' do radical muda para 'j' na 1ª pessoa do singular do presente do indicativo.",
+      "hintWrong": "Incorreto. 'Fugo' mantém o 'g', o que é errado. 'Fuja' é do subjuntivo. 'Fugio' não é uma forma portuguesa. A resposta certa é 'fujo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-031",
+      "question": "Conjugue o verbo 'valer' na 3ª pessoa do singular do Pretérito Imperfeito do Subjuntivo:",
+      "options": [
+        "valesse",
+        "valia",
+        "valer",
+        "valha"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Forma-se a partir da 3ª pessoa do plural do pretérito perfeito (valeram). Tira-se '-am' e acrescenta-se '-esse'.",
+      "hintCorrect": "Exato! 'Valesse' está correto. Radical 'valess-' + terminação '-e'.",
+      "hintWrong": "Incorreto. 'Valia' é do pretérito imperfeito do indicativo. 'Valer' é infinitivo. 'Valha' é do presente do subjuntivo. A resposta certa é 'valesse'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-032",
+      "question": "Qual a conjugação do verbo 'ouvir' na 1ª pessoa do plural do Futuro do Pretérito do Indicativo?",
+      "options": [
+        "ouviríamos",
+        "ouvíamos",
+        "ouviremos",
+        "ouvíssemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do pretérito usa o radical do infinitivo (ouvir-) e as desinências '-íamos', '-íeis', etc. O infinitivo perde o '-r' final.",
+      "hintCorrect": "Perfeito! 'Ouviríamos' está correto. Radical 'ouvir-' (sem o '-r') + desinência '-íamos'.",
+      "hintWrong": "Incorreto. 'Ouvíamos' é do pretérito imperfeito do indicativo. 'Ouviremos' é do futuro do presente. 'Ouvíssemos' é do pretérito imperfeito do subjuntivo. A resposta certa é 'ouviríamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-033",
+      "question": "Como se diz 'tu vais' no Pretérito Imperfeito do Indicativo? (verbo 'ir')",
+      "options": [
+        "ias",
+        "vias",
+        "foste",
+        "irias"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'ir' é totalmente irregular. Seu pretérito imperfeito é derivado do latim e tem as formas: ia, ias, ia, íamos, íeis, iam.",
+      "hintCorrect": "Correto! A forma é 'ias'. É uma conjugação única e muito irregular.",
+      "hintWrong": "Incorreto. 'Vias' não existe. 'Foste' é do pretérito perfeito. 'Irias' é do futuro do pretérito. Para 'tu' no imperfeito, é 'ias'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-034",
+      "question": "Qual é a forma do verbo 'cobrir' no Particípio Passado?",
+      "options": [
+        "coberto",
+        "cobrido",
+        "cubrido",
+        "cobrerto"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Muitos verbos derivados de '-rir' ou '-brir' (cobrir, descobrir, abrir) têm particípio irregular terminado em '-erto'.",
+      "hintCorrect": "Correto! É 'coberto'. É um particípio irregular, assim como 'aberto' (de abrir) e 'descoberto' (de descobrir).",
+      "hintWrong": "Incorreto. 'Cobrido' seria o regular, mas não é usado. 'Cubrido' e 'cobrerto' não existem. A forma correta é 'coberto'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-035",
+      "question": "Conjugue o verbo 'prever' na 3ª pessoa do singular do Futuro do Presente do Indicativo:",
+      "options": [
+        "preverá",
+        "previu",
+        "prevê",
+        "previrá"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um verbo composto de 'ver'. Segue a conjugação de 'ver' no futuro, mas com o prefixo 'pre-'.",
+      "hintCorrect": "Exato! É 'preverá'. Infinitivo 'prever' + desinência '-á'.",
+      "hintWrong": "Incorreto. 'Previu' é do pretérito perfeito. 'Prevê' é do presente. 'Previrá' troca a vogal temática. A resposta certa é 'preverá'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-036",
+      "question": "Qual a forma correta do verbo 'erguer' na 1ª pessoa do singular do Presente do Indicativo?",
+      "options": [
+        "ergo",
+        "erguo",
+        "ergue",
+        "erga"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais com ditongo 'ue' no infinitivo (erguer, aguentar) podem perder o 'u' na 1ª pessoa do presente.",
+      "hintCorrect": "Correto! É 'ergo'. O 'u' do ditongo desaparece na 1ª pessoa do singular.",
+      "hintWrong": "Incorreto. 'Erguo' manteria o 'u', o que é menos comum. 'Ergue' é para 'ele'. 'Erga' é do subjuntivo. A forma mais comum e correta é 'ergo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-037",
+      "question": "Como se conjuga o verbo 'falar' na 2ª pessoa do plural (vós) do Pretérito Mais-que-perfeito do Indicativo (forma '-ra')?",
+      "options": [
+        "faláreis",
+        "faláveis",
+        "falásseis",
+        "falareis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma '-ra' para 'vós' no pretérito mais-que-perfeito termina em '-reis'. Deriva da 2ª pessoa do plural do pretérito perfeito.",
+      "hintCorrect": "Perfeito! 'Faláreis' está correto. É uma forma literária equivalente a 'vós tínheis falado'.",
+      "hintWrong": "Incorreto. 'Faláveis' é do pretérito imperfeito do indicativo. 'Falásseis' é do pretérito imperfeito do subjuntivo. 'Falareis' é do futuro do presente. A resposta certa é 'faláreis'.",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-038",
+      "question": "Qual é a forma do verbo 'subir' na 3ª pessoa do plural do Presente do Subjuntivo?",
+      "options": [
+        "subam",
+        "subem",
+        "subim",
+        "suba"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo de verbos da 3ª conjugação usa a vogal temática '-a-' em todas as pessoas.",
+      "hintCorrect": "Correto! É 'subam'. Radical 'sub-' + vogal temática '-a-' + desinência '-m' para a 3ª pessoa do plural.",
+      "hintWrong": "Incorreto. 'Subem' é do presente do indicativo. 'Subim' não existe. 'Suba' é a 3ª pessoa do singular. Para 'eles', é 'subam'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-039",
+      "question": "Conjugue o verbo 'cair' na 1ª pessoa do singular do Presente do Subjuntivo:",
+      "options": [
+        "caia",
+        "caio",
+        "cai",
+        "caira"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo deriva da 1ª pessoa do singular do presente do indicativo (caio). Troca-se o '-o' por '-a'.",
+      "hintCorrect": "Exato! 'Caia' está correto. De 'eu caio' (presente do indicativo) tira-se o '-o' e acrescenta-se '-a' para formar o subjuntivo.",
+      "hintWrong": "Incorreto. 'Caio' é do presente do indicativo. 'Cai' é a 3ª pessoa do singular do presente. 'Caira' não é uma forma válida. A resposta certa é 'caia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-040",
+      "question": "Qual a conjugação do verbo 'saber' na 2ª pessoa do singular (tu) do Futuro do Presente do Indicativo?",
+      "options": [
+        "saberás",
+        "saberes",
+        "saberás",
+        "sabrás"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do presente é formado pelo infinitivo inteiro + as desinências. Para a 2ª pessoa singular, a desinência é '-ás'.",
+      "hintCorrect": "Correto! É 'saberás'. Infinitivo 'saber' + desinência '-ás'.",
+      "hintWrong": "Incorreto. 'Saberes' é o infinitivo pessoal. 'Sabrás' é uma forma contraída informal, mas a forma padrão completa é 'saberás'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-041",
+      "question": "Como se diz 'nós pusemos' no Pretérito Perfeito do Indicativo? (verbo 'pôr')",
+      "options": [
+        "pusemos",
+        "pomos",
+        "pusemos",
+        "puzemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito de 'pôr' é muito irregular: pus, puseste, pôs, pusemos, pusestes, puseram.",
+      "hintCorrect": "Correto! A forma é 'pusemos'. É uma conjugação irregular com o radical 'pus-'.",
+      "hintWrong": "Incorreto. 'Pomos' é do presente. 'Puzemos' não é uma forma padrão. A resposta certa é 'pusemos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-042",
+      "question": "Qual é a forma do verbo 'ouvir' na 2ª pessoa do plural (vós) do Futuro do Subjuntivo?",
+      "options": [
+        "ouvirdes",
+        "ouvísseis",
+        "ouvireis",
+        "ouvisseis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo para 'vós' é formado pelo infinitivo + a desinência '-des'.",
+      "hintCorrect": "Perfeito! 'Ouvirdes' está correto. Infinitivo 'ouvir' + desinência '-des'.",
+      "hintWrong": "Incorreto. 'Ouvísseis' e 'ouvisseis' são do pretérito imperfeito do subjuntivo. 'Ouvireis' é do futuro do presente. A resposta certa é 'ouvirdes'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-043",
+      "question": "Conjugue o verbo 'fugir' na 3ª pessoa do singular do Pretérito Perfeito do Indicativo:",
+      "options": [
+        "fugiu",
+        "fugio",
+        "fuja",
+        "fugiu"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um verbo regular na 3ª conjugação para o pretérito perfeito. O radical é 'fug-' e a desinência para 'ele' é '-iu'.",
+      "hintCorrect": "Correto! É 'fugiu'. Radical 'fug-' + desinência '-iu'.",
+      "hintWrong": "Incorreto. 'Fugio' não é português. 'Fuja' é do subjuntivo. A resposta certa é 'fugiu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-044",
+      "question": "Qual a forma correta do verbo 'trazer' na 1ª pessoa do plural do Presente do Subjuntivo?",
+      "options": [
+        "tragamos",
+        "trazemos",
+        "tragamos",
+        "trazamos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo herda a irregularidade da 1ª pessoa do presente do indicativo (eu trago). O radical muda para 'trag-' em todo o subjuntivo.",
+      "hintCorrect": "Exato! 'Tragamos' está correto. Radical 'trag-' (de 'trago') + vogal temática '-a-' + desinência '-mos'.",
+      "hintWrong": "Incorreto. 'Trazemos' é do presente do indicativo. 'Trazamos' não é uma forma válida. A resposta certa é 'tragamos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-045",
+      "question": "Como se conjuga o verbo 'rir' na 3ª pessoa do plural do Pretérito Imperfeito do Indicativo?",
+      "options": [
+        "riam",
+        "riam",
+        "ririam",
+        "rissem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'rir' é defectivo (não tem todas as pessoas). No imperfeito, as formas são: ria, rias, ria, ríamos, ríeis, riam.",
+      "hintCorrect": "Correto! A forma é 'riam'. É a mesma para a 3ª pessoa do singular e do plural no imperfeito do indicativo.",
+      "hintWrong": "Incorreto. 'Ririam' é do futuro do pretérito. 'Rissem' é do pretérito imperfeito do subjuntivo. A resposta certa é 'riam'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-046",
+      "question": "Qual é a forma do verbo 'ouvir' na 2ª pessoa do singular (tu) do Pretérito Imperfeito do Subjuntivo?",
+      "options": [
+        "ouvisses",
+        "ouvias",
+        "ouvisses",
+        "ouvires"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Forma-se a partir da 3ª pessoa do plural do pretérito perfeito (ouviram). Tira-se '-am' e acrescenta-se '-sses' para a 2ª pessoa singular.",
+      "hintCorrect": "Perfeito! 'Ouvisses' está correto. Radical 'ouviss-' + terminação '-es'.",
+      "hintWrong": "Incorreto. 'Ouvias' é do pretérito imperfeito do indicativo. 'Ouvires' é o infinitivo pessoal. A resposta certa é 'ouvisses'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-047",
+      "question": "Conjugue o verbo 'caber' na 1ª pessoa do singular do Pretérito Perfeito do Indicativo:",
+      "options": [
+        "coube",
+        "cabi",
+        "cabei",
+        "coube"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É um verbo muito irregular no pretérito perfeito: coube, coubeste, coube, coubemos, coubestes, couberam.",
+      "hintCorrect": "Correto! É 'coube'. É uma conjugação única e irregular.",
+      "hintWrong": "Incorreto. 'Cabi' e 'cabei' não existem. A resposta certa é 'coube'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-048",
+      "question": "Qual a conjugação do verbo 'ser' na 2ª pessoa do plural (vós) do Imperativo Afirmativo?",
+      "options": [
+        "sede",
+        "sejais",
+        "sereis",
+        "sêde"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O imperativo de 'ser' é altamente irregular. Para 'vós', a forma tradicional é 'sede', mas a forma moderna mais usada e aceita é 'sêde' (com acento circunflexo).",
+      "hintCorrect": "Exato! A forma moderna padrão é 'sêde'. 'Sede' (sem acento) é a forma antiga/tradicional. 'Sejais' é do presente do subjuntivo. 'Sereis' é do futuro.",
+      "hintWrong": "Incorreto. 'Sejais' é do subjuntivo, não do imperativo afirmativo. A forma imperativa para 'vós' é 'sêde' (moderna) ou 'sede' (arcaica).",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-049",
+      "question": "Como se diz 'eles hão de vir' no Futuro do Presente, usando a locução 'haver de'?",
+      "options": [
+        "hão de vir",
+        "haverão de vir",
+        "hão de virem",
+        "há de vir"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Na locução 'haver de', o verbo 'haver' conjuga-se normalmente. 'Hão' é a 3ª pessoa do plural do presente do indicativo.",
+      "hintCorrect": "Correto! A frase já está correta: 'Eles hão de vir'. 'Hão' concorda com 'eles', e 'vir' fica no infinitivo impessoal.",
+      "hintWrong": "Incorreto. 'Haverão de vir' usaria o futuro, mudando o sentido. 'Hão de virem' flexionaria o infinitivo desnecessariamente. 'Há de vir' é para a 3ª pessoa singular. A resposta é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-050",
+      "question": "Qual é a forma do verbo 'ouvir' no Gerúndio?",
+      "options": [
+        "ouvindo",
+        "ouvindo",
+        "ousindo",
+        "ouvendo"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O gerúndio de verbos da 3ª conjugação é formado pelo radical + '-indo'.",
+      "hintCorrect": "Correto! É 'ouvindo'. Radical 'ouv-' + '-indo'.",
+      "hintWrong": "Incorreto. 'Ousindo' e 'ouvendo' não são formas válidas. A resposta certa é 'ouvindo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-051",
+      "question": "Conjugue o verbo 'poder' na 1ª pessoa do plural do Futuro do Pretérito do Indicativo:",
+      "options": [
+        "poderíamos",
+        "podíamos",
+        "pudéramos",
+        "pudéssemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do pretérito usa o radical do infinitivo (poder-), que perde o '-r' final, e as desinências '-íamos', '-íeis', etc.",
+      "hintCorrect": "Exato! 'Poderíamos' está correto. Radical 'poder-' (sem '-r') + desinência '-íamos'.",
+      "hintWrong": "Incorreto. 'Podíamos' é do pretérito imperfeito do indicativo. 'Pudéramos' é do pretérito mais-que-perfeito. 'Pudéssemos' é do pretérito imperfeito do subjuntivo. A resposta certa é 'poderíamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-052",
+      "question": "Qual a forma correta do verbo 'saber' na 2ª pessoa do singular (tu) do Presente do Subjuntivo?",
+      "options": [
+        "saibas",
+        "sabes",
+        "sabas",
+        "sepas"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo de 'saber' é irregular. Deriva de 'eu saiba'. O radical é 'saib-' para todas as pessoas.",
+      "hintCorrect": "Correto! É 'saibas'. Radical 'saib-' + desinência '-as' para a 2ª pessoa singular.",
+      "hintWrong": "Incorreto. 'Sabes' é do presente do indicativo. 'Sabas' e 'sepas' não são formas válidas. A resposta certa é 'saibas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-053",
+      "question": "Como se conjuga o verbo 'querer' na 3ª pessoa do singular do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "quis",
+        "quereu",
+        "queriu",
+        "quise"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É muito irregular no pretérito: quis, quiseste, quis, quisemos, quisestes, quiseram.",
+      "hintCorrect": "Correto! A forma é 'quis'. É a mesma para a 1ª e a 3ª pessoas do singular.",
+      "hintWrong": "Incorreto. 'Quereu', 'queriu' e 'quise' não existem. A resposta certa é 'quis'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-054",
+      "question": "Qual é a forma do verbo 'ouvir' na 1ª pessoa do singular do Pretérito Imperfeito do Indicativo?",
+      "options": [
+        "ouvia",
+        "ouvi",
+        "ouvisse",
+        "ouvira"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito imperfeito é regular para verbos da 3ª conjugação: -ia, -ias, -ia, -íamos, -íeis, -iam.",
+      "hintCorrect": "Correto! É 'ouvia'. Radical 'ouv-' + desinência '-ia'.",
+      "hintWrong": "Incorreto. 'Ouvi' é do pretérito perfeito. 'Ouisse' é do pretérito imperfeito do subjuntivo. 'Ouvira' é do pretérito mais-que-perfeito. A resposta certa é 'ouvia'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-055",
+      "question": "Conjugue o verbo 'ver' na 2ª pessoa do plural (vós) do Presente do Indicativo:",
+      "options": [
+        "vedes",
+        "veis",
+        "vides",
+        "vêdes"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'ver' é irregular. A forma para 'vós' no presente é 'veis'.",
+      "hintCorrect": "Exato! 'Veis' está correto. É uma forma única e irregular.",
+      "hintWrong": "Incorreto. 'Vedes', 'vides' e 'vêdes' não são formas padrão do verbo 'ver'. A resposta certa é 'veis'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-056",
+      "question": "Qual a conjugação do verbo 'dizer' na 1ª pessoa do plural do Futuro do Subjuntivo?",
+      "options": [
+        "dissermos",
+        "dizermos",
+        "diríamos",
+        "disséssemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo é formado a partir do radical do pretérito perfeito (diss-). Para 'nós', a desinência é '-ermos'.",
+      "hintCorrect": "Perfeito! 'Dissermos' está correto. Radical 'diss-' (de 'disseram') + desinência '-ermos'.",
+      "hintWrong": "Incorreto. 'Dizermos' usaria o radical do infinitivo, o que é errado. 'Diríamos' é do futuro do pretérito. 'Disséssemos' é do pretérito imperfeito do subjuntivo. A resposta certa é 'dissermos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-057",
+      "question": "Como se diz 'tu és' no Pretérito Imperfeito do Subjuntivo? (verbo 'ser')",
+      "options": [
+        "fosses",
+        "eras",
+        "fosses",
+        "sejas"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'ser' é totalmente irregular. Seu pretérito imperfeito do subjuntivo é derivado do radical 'foss-'.",
+      "hintCorrect": "Correto! A forma é 'fosses'. Radical 'foss-' + terminação '-es'.",
+      "hintWrong": "Incorreto. 'Eras' é do pretérito imperfeito do indicativo. 'Sejas' é do presente do subjuntivo. A resposta certa é 'fosses'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-058",
+      "question": "Qual é a forma do verbo 'pôr' na 3ª pessoa do singular do Futuro do Subjuntivo?",
+      "options": [
+        "puser",
+        "pôr",
+        "puser",
+        "por"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo usa o radical do pretérito perfeito (pus-). Para a 3ª pessoa singular, a forma é igual ao infinitivo de verbos irregulares como este? Cuidado.",
+      "hintCorrect": "Correto! É 'puser'. Radical 'pus-' (de 'puseram') + desinência '-er'.",
+      "hintWrong": "Incorreto. 'Pôr' é o infinitivo. 'Por' seria a forma se fosse regular, mas não é. A resposta certa é 'puser'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-059",
+      "question": "Conjugue o verbo 'crer' na 2ª pessoa do singular (tu) do Futuro do Presente do Indicativo:",
+      "options": [
+        "crerás",
+        "creras",
+        "creres",
+        "crerás"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do presente: infinitivo + '-ás' para 'tu'.",
+      "hintCorrect": "Correto! É 'crerás'. Infinitivo 'crer' + desinência '-ás'.",
+      "hintWrong": "Incorreto. 'Creras' é uma grafia incorreta (sem acento). 'Creres' é o infinitivo pessoal. A resposta certa é 'crerás' (com acento agudo).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-060",
+      "question": "Qual a forma correta do verbo 'ouvir' na 2ª pessoa do plural (vós) do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "ouvistes",
+        "ouvis",
+        "ouvistes",
+        "ouvistes"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito para 'vós' em verbos da 3ª conjugação termina em '-istes'. O radical é o do infinitivo sem '-ir'.",
+      "hintCorrect": "Exato! 'Ouvistes' está correto. Radical 'ouv-' + desinência '-istes'.",
+      "hintWrong": "Incorreto. 'Ouvistes' é a única forma correta entre as opções. 'Ouvistes' com 's' extra não existe.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-061",
+      "question": "Como se conjuga o verbo 'medir' na 1ª pessoa do singular do Presente do Indicativo?",
+      "options": [
+        "meço",
+        "medo",
+        "mede",
+        "medo"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais como 'medir', 'pedir', 'despir' têm mudança de 'e' para 'ç' (som de 'c' cedilhado) na 1ª pessoa do presente.",
+      "hintCorrect": "Correto! É 'meço'. O 'd' desaparece e o 'e' muda para 'ç'.",
+      "hintWrong": "Incorreto. 'Medo' e 'mede' são formas do verbo regular 'medir' que não existem na 1ª pessoa. A resposta certa é 'meço'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-062",
+      "question": "Qual é a forma do verbo 'valer' na 2ª pessoa do singular (tu) do Imperativo Afirmativo?",
+      "options": [
+        "vale",
+        "valha",
+        "val",
+        "vales"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Para verbos da 2ª conjugação, o imperativo de 'tu' geralmente é a forma da 3ª pessoa do singular do presente do indicativo, sem o '-s'.",
+      "hintCorrect": "Correto! 'Vale' está correto. Vem de 'ele vale', retirando o '-s' final.",
+      "hintWrong": "Incorreto. 'Valha' é a 3ª pessoa do imperativo (você). 'Val' não existe. 'Vales' é do presente do indicativo. Para 'tu', é 'vale'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-063",
+      "question": "Conjugue o verbo 'ir' na 1ª pessoa do plural do Presente do Subjuntivo:",
+      "options": [
+        "vamos",
+        "vamos",
+        "vámos",
+        "vayamos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'ir' é totalmente irregular. Seu presente do subjuntivo é: vá, vás, vá, vamos, vades, vão.",
+      "hintCorrect": "Correto! É 'vamos'. É idêntica à forma do presente do indicativo, mas com valor de subjuntivo.",
+      "hintWrong": "Incorreto. 'Vámos' (com acento) é do presente do indicativo na norma europeia. 'Vayamos' não é português. A resposta certa é 'vamos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-064",
+      "question": "Qual a conjugação do verbo 'ouvir' na 3ª pessoa do plural do Pretérito Imperfeito do Subjuntivo?",
+      "options": [
+        "ouvissem",
+        "ouviam",
+        "ouvissem",
+        "ouvirem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Forma-se a partir da 3ª pessoa do plural do pretérito perfeito (ouviram). Tira-se '-am' e acrescenta-se '-sem' para a 3ª pessoa do plural do imperfeito do subjuntivo.",
+      "hintCorrect": "Perfeito! 'Ouvissem' está correto. Radical 'ouviss-' + terminação '-em'.",
+      "hintWrong": "Incorreto. 'Ouviam' é do pretérito imperfeito do indicativo. 'Ouvirem' é o infinitivo pessoal ou futuro do subjuntivo. A resposta certa é 'ouvissem'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-065",
+      "question": "Como se diz 'tu fazes' no Pretérito Imperfeito do Subjuntivo? (verbo 'fazer')",
+      "options": [
+        "fizesses",
+        "fazias",
+        "fizeres",
+        "fazes"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Forma-se a partir de 'fizeram'. Tira-se '-am' e acrescenta-se '-sses'.",
+      "hintCorrect": "Correto! A forma é 'fizesses'. Radical 'fizess-' + terminação '-es'.",
+      "hintWrong": "Incorreto. 'Fazias' é do pretérito imperfeito do indicativo. 'Fizeres' é o infinitivo pessoal ou futuro do subjuntivo. 'Fazes' é do presente. A resposta certa é 'fizesses'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-066",
+      "question": "Qual é a forma do verbo 'poder' na 2ª pessoa do plural (vós) do Presente do Indicativo?",
+      "options": [
+        "podeis",
+        "podis",
+        "podeis",
+        "podeis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma padrão culta para 'vós' no presente é 'podeis'. 'Podis' é uma variante oral informal.",
+      "hintCorrect": "Correto! 'Podeis' é a forma padrão. É regular para verbos da 2ª conjugação.",
+      "hintWrong": "Incorreto. 'Podis' é comum na fala, mas não é a forma considerada padrão na escrita culta. A resposta correta é 'podeis'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-067",
+      "question": "Conjugue o verbo 'ter' na 1ª pessoa do singular do Pretérito Mais-que-perfeito do Indicativo (forma '-ra'):",
+      "options": [
+        "tivera",
+        "tinha",
+        "tivera",
+        "tivesse"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma '-ra' usa o radical do pretérito perfeito (tiv-) + '-ra' para a 1ª pessoa singular.",
+      "hintCorrect": "Exato! 'Tivera' está correto. É equivalente a 'eu tinha tido'.",
+      "hintWrong": "Incorreto. 'Tinha' é a forma do pretérito imperfeito do indicativo. 'Tivesse' é do pretérito imperfeito do subjuntivo. A resposta certa é 'tivera'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-068",
+      "question": "Qual a forma correta do verbo 'ouvir' na 1ª pessoa do plural do Futuro do Presente do Indicativo?",
+      "options": [
+        "ouviremos",
+        "ouvimos",
+        "ouviremos",
+        "ouvirémos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do presente: infinitivo + '-emos' para 'nós'. Cuidado com a acentuação.",
+      "hintCorrect": "Correto! É 'ouviremos'. Infinitivo 'ouvir' + desinência '-emos' (sem acento agudo).",
+      "hintWrong": "Incorreto. 'Ouvimos' é do presente do indicativo. 'Ouvirémos' (com acento) está errado. A resposta certa é 'ouviremos'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-069",
+      "question": "Como se conjuga o verbo 'sair' na 2ª pessoa do singular (tu) do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "saíste",
+        "saiste",
+        "saíste",
+        "saisse"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais em '-air' têm acento agudo no '-í-' do pretérito perfeito.",
+      "hintCorrect": "Correto! A forma é 'saíste'. Radical 'sa-' + vogal temática '-i-' (com acento) + desinência '-ste'.",
+      "hintWrong": "Incorreto. 'Saiste' (sem acento) está errado na norma culta. 'Saisse' não existe. A resposta certa é 'saíste'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-070",
+      "question": "Qual é a forma do verbo 'ouvir' na 3ª pessoa do singular do Pretérito Mais-que-perfeito do Indicativo (forma '-ra')?",
+      "options": [
+        "ouvira",
+        "ouvira",
+        "tivesse ouvido",
+        "ouvira"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma '-ra' para a 3ª pessoa singular usa o radical do pretérito perfeito (ouv-) + '-ra'.",
+      "hintCorrect": "Correto! É 'ouvira'. É equivalente a 'ele tinha ouvido'.",
+      "hintWrong": "Incorreto. 'Tivesse ouvido' é a forma composta do pretérito imperfeito do subjuntivo. A resposta da questão é a forma simples 'ouvira'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-071",
+      "question": "Conjugue o verbo 'ver' na 2ª pessoa do singular (tu) do Futuro do Subjuntivo:",
+      "options": [
+        "vires",
+        "veres",
+        "vires",
+        "virás"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo de 'ver' é irregular. É formado a partir do radical 'vir-' (do verbo 'vir'? Cuidado, são verbos diferentes). Na verdade, deriva de 'vir' (do latim).",
+      "hintCorrect": "Correto! A forma é 'vires'. É uma conjugação irregular que se assemelha ao verbo 'vir'.",
+      "hintWrong": "Incorreto. 'Veres' seria o regular, mas 'ver' é irregular neste tempo. 'Virás' é do futuro do presente do indicativo de 'vir'. A resposta certa é 'vires'.",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-072",
+      "question": "Qual a conjugação do verbo 'pôr' na 2ª pessoa do singular (tu) do Presente do Indicativo?",
+      "options": [
+        "pões",
+        "põs",
+        "ponhes",
+        "pões"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma é 'pões', com acento circunflexo no 'o' e '-es' final.",
+      "hintCorrect": "Exato! 'Pões' está correto. É a forma irregular para 'tu'.",
+      "hintWrong": "Incorreto. 'Põs' (sem 'e') é uma forma arcaica ou coloquial. 'Ponhes' não existe. A forma padrão é 'pões'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-073",
+      "question": "Como se diz 'nós fizemos' no Pretérito Perfeito do Indicativo? (verbo 'fazer')",
+      "options": [
+        "fizemos",
+        "fazemos",
+        "faremos",
+        "fizemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito de 'fazer' é irregular: fiz, fizeste, fez, fizemos, fizestes, fizeram.",
+      "hintCorrect": "Correto! A forma é 'fizemos'. Radical 'fiz-' + desinência '-emos'.",
+      "hintWrong": "Incorreto. 'Fazemos' é do presente. 'Faremos' é do futuro. A resposta certa é 'fizemos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-074",
+      "question": "Qual é a forma do verbo 'ouvir' na 2ª pessoa do plural (vós) do Imperativo Negativo?",
+      "options": [
+        "não ouçais",
+        "não ouvis",
+        "não ouçais",
+        "não ouvi"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O imperativo negativo usa as formas do presente do subjuntivo. Para 'vós', é a 2ª pessoa do plural do presente do subjuntivo.",
+      "hintCorrect": "Correto! 'Não ouçais' está correto. É a forma do presente do subjuntivo 'que vós ouçais' usada como imperativo negativo.",
+      "hintWrong": "Incorreto. 'Não ouvis' usaria uma forma do indicativo. 'Não ouvi' é para 'tu'. A resposta certa é 'não ouçais'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-075",
+      "question": "Conjugue o verbo 'cair' na 1ª pessoa do plural do Pretérito Perfeito do Indicativo:",
+      "options": [
+        "caímos",
+        "caimos",
+        "caímos",
+        "cairemos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbais em '-air' têm acento agudo no '-í-' do pretérito perfeito também para 'nós'.",
+      "hintCorrect": "Correto! É 'caímos'. Radical 'ca-' + vogal temática '-i-' (com acento) + desinência '-mos'.",
+      "hintWrong": "Incorreto. 'Caimos' (sem acento) está errado na norma culta. 'Cairemos' é do futuro. A resposta certa é 'caímos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-076",
+      "question": "Qual a forma correta do verbo 'ouvir' na 3ª pessoa do singular do Futuro do Pretérito do Indicativo?",
+      "options": [
+        "ouviria",
+        "ouvia",
+        "ouviria",
+        "ouvira"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do pretérito: radical do infinitivo (ouvir-) sem o '-r' + desinência '-ia' para a 3ª pessoa singular.",
+      "hintCorrect": "Exato! 'Ouviria' está correto. Radical 'ouvir-' (sem '-r') + desinência '-ia'.",
+      "hintWrong": "Incorreto. 'Ouvia' é do pretérito imperfeito do indicativo. 'Ouvira' é do pretérito mais-que-perfeito. A resposta certa é 'ouviria'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-077",
+      "question": "Como se conjuga o verbo 'crer' na 3ª pessoa do plural do Presente do Subjuntivo?",
+      "options": [
+        "creiam",
+        "crejam",
+        "creiam",
+        "creem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo de 'crer' é irregular. Deriva de 'eu creia'. O radical é 'crei-' para todas as pessoas.",
+      "hintCorrect": "Correto! É 'creiam'. Radical 'crei-' + desinência '-am'.",
+      "hintWrong": "Incorreto. 'Cream' e 'creem' não são formas do subjuntivo. A resposta certa é 'creiam'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-078",
+      "question": "Qual é a forma do verbo 'ouvir' na 1ª pessoa do singular do Futuro do Presente do Indicativo?",
+      "options": [
+        "ouvirei",
+        "ouvi",
+        "ouvirei",
+        "ouviri"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do presente: infinitivo + '-ei' para 'eu'.",
+      "hintCorrect": "Correto! É 'ouvirei'. Infinitivo 'ouvir' + desinência '-ei'.",
+      "hintWrong": "Incorreto. 'Ouvi' é do pretérito perfeito. 'Ouviri' não é uma forma válida. A resposta certa é 'ouvirei'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-079",
+      "question": "Conjugue o verbo 'dizer' na 2ª pessoa do plural (vós) do Pretérito Perfeito do Indicativo:",
+      "options": [
+        "dissestes",
+        "dizestes",
+        "dissestes",
+        "diríeis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito de 'dizer' é irregular. O radical é 'diss-'.",
+      "hintCorrect": "Exato! 'Dissestes' está correto. Radical 'diss-' + desinência '-estes' para 'vós'.",
+      "hintWrong": "Incorreto. 'Dizestes' usaria o radical errado. 'Diríeis' é do futuro do pretérito. A resposta certa é 'dissestes'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-080",
+      "question": "Qual a conjugação do verbo 'ouvir' na 2ª pessoa do singular (tu) do Futuro do Pretérito do Indicativo?",
+      "options": [
+        "ouvirias",
+        "ouvieras",
+        "ouvisses",
+        "ouvirias"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do pretérito: radical do infinitivo (ouvir-) sem o '-r' + desinência '-ias' para a 2ª pessoa singular.",
+      "hintCorrect": "Perfeito! 'Ouvirias' está correto. Radical 'ouvir-' (sem '-r') + desinência '-ias'.",
+      "hintWrong": "Incorreto. 'Ouvieras' é do pretérito mais-que-perfeito. 'Ouvisses' é do pretérito imperfeito do subjuntivo. A resposta certa é 'ouvirias'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-081",
+      "question": "Como se diz 'ele vem' no Pretérito Imperfeito do Subjuntivo? (verbo 'vir')",
+      "options": [
+        "viesse",
+        "vinha",
+        "viesse",
+        "vier"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Forma-se a partir de 'vieram'. Tira-se '-am' e acrescenta-se '-sse' para a 3ª pessoa singular.",
+      "hintCorrect": "Correto! A forma é 'viesse'. Radical 'viess-' + terminação '-e'.",
+      "hintWrong": "Incorreto. 'Vinha' é do pretérito imperfeito do indicativo. 'Vier' é do futuro do subjuntivo. A resposta certa é 'viesse'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-082",
+      "question": "Qual é a forma do verbo 'ouvir' na 3ª pessoa do plural do Futuro do Presente do Indicativo?",
+      "options": [
+        "ouvirão",
+        "ouvem",
+        "ouvirão",
+        "ouviriam"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do presente: infinitivo + '-ão' para 'eles'.",
+      "hintCorrect": "Correto! É 'ouvirão'. Infinitivo 'ouvir' + desinência '-ão'.",
+      "hintWrong": "Incorreto. 'Ouvem' é do presente do indicativo. 'Ouviriam' é do futuro do pretérito. A resposta certa é 'ouvirão'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-083",
+      "question": "Conjugue o verbo 'poder' na 2ª pessoa do singular (tu) do Pretérito Mais-que-perfeito do Indicativo (forma '-ra'):",
+      "options": [
+        "poderas",
+        "puderas",
+        "poderas",
+        "pudesses"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A forma '-ra' para 'tu' usa o radical do pretérito perfeito (pud-) + '-ras'.",
+      "hintCorrect": "Exato! 'Puderas' está correto. É equivalente a 'tu tinhas podido'.",
+      "hintWrong": "Incorreto. 'Poderas' usaria o radical errado. 'Pudesses' é do pretérito imperfeito do subjuntivo. A resposta certa é 'puderas'.",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-084",
+      "question": "Qual a forma correta do verbo 'ouvir' na 1ª pessoa do plural do Pretérito Imperfeito do Subjuntivo?",
+      "options": [
+        "ouvíssemos",
+        "ouvíamos",
+        "ouvíssemos",
+        "ouviremos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Forma-se a partir de 'ouviram'. Tira-se '-am' e acrescenta-se '-ssemos' para a 1ª pessoa do plural.",
+      "hintCorrect": "Correto! 'Ouvíssemos' está correto. Radical 'ouviss-' + terminação '-emos'.",
+      "hintWrong": "Incorreto. 'Ouvíamos' é do pretérito imperfeito do indicativo. 'Ouviremos' é do futuro do presente. A resposta certa é 'ouvíssemos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-085",
+      "question": "Como se conjuga o verbo 'ver' na 3ª pessoa do plural do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "viram",
+        "veram",
+        "viram",
+        "verão"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito de 'ver' é irregular: vi, viste, viu, vimos, vistes, viram.",
+      "hintCorrect": "Correto! A forma é 'viram'. É uma conjugação irregular.",
+      "hintWrong": "Incorreto. 'Veram' e 'verão' não são formas do pretérito perfeito. A resposta certa é 'viram'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-086",
+      "question": "Qual é a forma do verbo 'ouvir' na 2ª pessoa do plural (vós) do Presente do Subjuntivo?",
+      "options": [
+        "ouçais",
+        "ouvis",
+        "ouçais",
+        "ouvais"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo de verbos da 3ª conjugação usa a vogal temática '-a-' e pode sofrer alterações no radical. Para 'ouvir', o 'i' muda para 'ç' (som) e o radical fica 'ouç-'.",
+      "hintCorrect": "Correto! 'Ouçais' está correto. Radical 'ouç-' + vogal temática '-ai-' + desinência '-s'.",
+      "hintWrong": "Incorreto. 'Ouvais' não é uma forma válida. 'Ouvís' é do indicativo. A resposta certa é 'ouçais'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-087",
+      "question": "Conjugue o verbo 'pôr' na 1ª pessoa do singular do Futuro do Pretérito do Indicativo:",
+      "options": [
+        "poria",
+        "pôria",
+        "poria",
+        "puser"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do pretérito: radical do infinitivo (por-) sem o '-r' + desinência '-ia' para 'eu'.",
+      "hintCorrect": "Exato! 'Poria' está correto. Radical 'por-' (de 'pôr', perdendo o acento) + desinência '-ia'.",
+      "hintWrong": "Incorreto. 'Pôria' (com acento) não é a grafia padrão. 'Puser' é do futuro do subjuntivo. A resposta certa é 'poria'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-088",
+      "question": "Qual a conjugação do verbo 'ouvir' na 3ª pessoa do singular do Presente do Subjuntivo?",
+      "options": [
+        "ouça",
+        "ouve",
+        "ouça",
+        "ouvi"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do subjuntivo para a 3ª pessoa singular de verbos da 3ª conjugação termina em '-a'. O radical pode mudar.",
+      "hintCorrect": "Correto! É 'ouça'. Radical 'ouç-' + vogal temática '-a'.",
+      "hintWrong": "Incorreto. 'Ouve' é do presente do indicativo. 'Ouvi' é do pretérito perfeito. A resposta certa é 'ouça'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-089",
+      "question": "Como se diz 'tu vais' no Futuro do Subjuntivo? (verbo 'ir')",
+      "options": [
+        "fores",
+        "iras",
+        "fores",
+        "vás"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo de 'ir' é irregular. Deriva do radical 'for-' (do verbo 'ser'? Na verdade, 'ir' e 'ser' compartilham algumas formas no subjuntivo).",
+      "hintCorrect": "Correto! A forma é 'fores'. É uma conjugação irregular que se assemelha ao verbo 'ser'.",
+      "hintWrong": "Incorreto. 'Iras' seria o regular, mas 'ir' é irregular. 'Vás' é do presente do subjuntivo. A resposta certa é 'fores'.",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-090",
+      "question": "Qual é a forma do verbo 'ouvir' na 1ª pessoa do plural do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "ouvimos",
+        "ouvimos",
+        "ouvíamos",
+        "ouviremos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito para 'nós' em verbos da 3ª conjugação termina em '-imos'. O radical é o do infinitivo sem '-ir'.",
+      "hintCorrect": "Correto! É 'ouvimos'. É idêntica à forma do presente do indicativo, mas com valor de passado. O contexto distingue.",
+      "hintWrong": "Incorreto. 'Ouvíamos' é do pretérito imperfeito. 'Ouviremos' é do futuro. A forma correta é 'ouvimos', que é igual ao presente, mas aqui representa o pretérito.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-091",
+      "question": "Conjugue o verbo 'querer' na 2ª pessoa do plural (vós) do Imperativo Afirmativo:",
+      "options": [
+        "quere",
+        "queirai",
+        "queirades",
+        "queirais"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O imperativo afirmativo para 'vós' geralmente é a forma da 2ª pessoa do plural do presente do indicativo, sem o '-s' final? Na verdade, para a maioria dos verbos, é a forma do presente do indicativo para 'vós' (que termina em '-is' ou '-eis'), mas sem modificação.",
+      "hintCorrect": "Correto! A forma é 'querei' (arcaica) ou, na verdade, a forma moderna imperativa para vós deriva do presente do indicativo. A forma padrão aceita para o imperativo de 'querer' em 'vós' é 'querei' (como em 'querei bem'), mas é uma forma pouco usada. Entre as opções, 'quere' está mais próxima, mas não é a ideal. A forma mais comum hoje é usar o presente do subjuntivo ('queirais') em contextos formais ou evitar o 'vós'. Vamos reconsiderar: a forma do imperativo afirmativo para 'vós' do verbo 'querer' é 'quere' (da 2ª pessoa do plural do presente do indicativo 'quereis', sem o '-is'). É uma forma arcaica mas correta.",
+      "hintWrong": "Incorreto. 'Queirai' e 'queirades' não são formas padrão. 'Queirais' é do presente do subjuntivo (usado no imperativo negativo). A forma imperativa afirmativa para 'vós' é 'quere' (de 'quereis').",
+      "difficulty": "very hard"
+    },
+    {
+      "id": "conjugacao-092",
+      "question": "Qual a forma correta do verbo 'ouvir' na 2ª pessoa do singular (tu) do Presente do Indicativo?",
+      "options": [
+        "ouves",
+        "ouves",
+        "ouve",
+        "ouis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do indicativo para 'tu' em verbos da 3ª conjugação termina em '-es'.",
+      "hintCorrect": "Correto! É 'ouves'. Radical 'ouv-' + desinência '-es'.",
+      "hintWrong": "Incorreto. 'Ouve' é para 'ele'. 'Ouis' não é uma forma padrão. A resposta certa é 'ouves'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-093",
+      "question": "Como se conjuga o verbo 'caber' na 2ª pessoa do singular (tu) do Futuro do Subjuntivo?",
+      "options": [
+        "couberes",
+        "caberes",
+        "couberes",
+        "caibas"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo é formado a partir do radical do pretérito perfeito (coub-). Para 'tu', a desinência é '-eres'.",
+      "hintCorrect": "Perfeito! 'Couberes' está correto. Radical 'coub-' + desinência '-eres'.",
+      "hintWrong": "Incorreto. 'Caberes' usaria o radical do infinitivo. 'Caibas' é do presente do subjuntivo. A resposta certa é 'couberes'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-094",
+      "question": "Qual é a forma do verbo 'ouvir' na 3ª pessoa do plural do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "ouviram",
+        "ouvem",
+        "ouviram",
+        "ouvirão"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito para 'eles' em verbos da 3ª conjugação termina em '-iram'. O radical é o do infinitivo sem '-ir'.",
+      "hintCorrect": "Correto! É 'ouviram'. Radical 'ouv-' + desinência '-iram'.",
+      "hintWrong": "Incorreto. 'Ouvem' é do presente. 'Ouvirão' é do futuro. A resposta certa é 'ouviram'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-095",
+      "question": "Conjugue o verbo 'poder' na 3ª pessoa do singular do Presente do Indicativo:",
+      "options": [
+        "pode",
+        "pode",
+        "pode",
+        "pode"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É uma forma regular para a 3ª pessoa singular do presente: radical 'pod-' + desinência '-e'.",
+      "hintCorrect": "Correto! É 'pode'. É uma forma regular.",
+      "hintWrong": "Incorreto. Todas as opções são iguais, mas a forma correta é 'pode'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-096",
+      "question": "Qual a conjugação do verbo 'ouvir' na 1ª pessoa do singular do Pretérito Perfeito do Indicativo?",
+      "options": [
+        "ouvi",
+        "ouvia",
+        "ouvi",
+        "ouvira"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito perfeito para 'eu' em verbos da 3ª conjugação termina em '-i'. O radical é o do infinitivo sem '-ir'.",
+      "hintCorrect": "Exato! 'Ouvi' está correto. Radical 'ouv-' + desinência '-i'.",
+      "hintWrong": "Incorreto. 'Ouvia' é do pretérito imperfeito. 'Ouvira' é do pretérito mais-que-perfeito. A resposta certa é 'ouvi'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "conjugacao-097",
+      "question": "Como se diz 'nós somos' no Pretérito Imperfeito do Subjuntivo? (verbo 'ser')",
+      "options": [
+        "fôssemos",
+        "éramos",
+        "fôssemos",
+        "sejamos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O pretérito imperfeito do subjuntivo de 'ser' é derivado do radical 'foss-'. Para 'nós', a terminação é '-emos'.",
+      "hintCorrect": "Correto! A forma é 'fôssemos'. Radical 'foss-' + terminação '-emos' (com acento circunflexo no 'o' em algumas gramáticas).",
+      "hintWrong": "Incorreto. 'Éramos' é do pretérito imperfeito do indicativo. 'Sejamos' é do presente do subjuntivo. A resposta certa é 'fôssemos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-098",
+      "question": "Qual é a forma do verbo 'ouvir' na 2ª pessoa do plural (vós) do Futuro do Pretérito do Indicativo?",
+      "options": [
+        "ouviríeis",
+        "ouvíeis",
+        "ouviríeis",
+        "ouvísseis"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Futuro do pretérito: radical do infinitivo (ouvir-) sem o '-r' + desinência '-íeis' para 'vós'.",
+      "hintCorrect": "Correto! 'Ouviríeis' está correto. Radical 'ouvir-' (sem '-r') + desinência '-íeis'.",
+      "hintWrong": "Incorreto. 'Ouvíeis' é do pretérito imperfeito do indicativo. 'Ouvísseis' é do pretérito imperfeito do subjuntivo. A resposta certa é 'ouviríeis'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "conjugacao-099",
+      "question": "Conjugue o verbo 'fazer' na 3ª pessoa do singular do Futuro do Subjuntivo:",
+      "options": [
+        "fizer",
+        "fazer",
+        "fizer",
+        "fizesse"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O futuro do subjuntivo é formado a partir do radical do pretérito perfeito (fiz-). Para a 3ª pessoa singular, a desinência é '-er'.",
+      "hintCorrect": "Exato! 'Fizer' está correto. Radical 'fiz-' + desinência '-er'.",
+      "hintWrong": "Incorreto. 'Fazer' é o infinitivo. 'Fizesse' é do pretérito imperfeito do subjuntivo. A resposta certa é 'fizer'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conjugacao-100",
+      "question": "Qual a forma correta do verbo 'ouvir' na 1ª pessoa do plural do Presente do Indicativo?",
+      "options": [
+        "ouvimos",
+        "ouvimos",
+        "ouvíamos",
+        "ouviremos"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O presente do indicativo para 'nós' em verbos da 3ª conjugação termina em '-imos'.",
+      "hintCorrect": "Correto! É 'ouvimos'. Radical 'ouv-' + desinência '-imos'.",
+      "hintWrong": "Incorreto. 'Ouvíamos' é do pretérito imperfeito. 'Ouviremos' é do futuro. A resposta certa é 'ouvimos'.",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         'pronominalizacao.json',
         'sintaxe_oracoes.json',
         'verbos.json',
+        'verbos_conjugacao.json',
         'conceitos_narrativos.json',
         'morfologia.json',
         'regras_de_pontuacao.json',
@@ -53,11 +54,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     const onQuestionAnswered = (isCorrect, question) => {
-        if (isCorrect) {
-            AudioPlayer.play('correct');
-            UI.renderFeedbackScreen(isCorrect, question);
+        const continueCallback = () => {
+            const feedbackContainer = document.getElementById('feedbackContainer');
+            if (feedbackContainer) {
+                feedbackContainer.classList.remove('animate-zoom-in-glow');
+                feedbackContainer.classList.add('animate-zoom-out-glow');
+            }
 
-            // Automatic transition for correct answers
             setTimeout(() => {
                 if (Game.isGameOver()) {
                     UI.renderGameOverScreen(Game.getGameState());
@@ -70,25 +73,14 @@ document.addEventListener('DOMContentLoaded', async () => {
                         setTimeout(Game.startGameFlow, 1000);
                     }
                 }
-            }, 2800); // Match the "CERTO!" animation duration
+            }, 500); // Wait for exit animation to complete
+        };
 
+        if (isCorrect) {
+            AudioPlayer.play('correct');
+            UI.renderFeedbackScreen(isCorrect, question, continueCallback);
         } else {
             AudioPlayer.play('wrong');
-
-            const continueCallback = () => {
-                if (Game.isGameOver()) {
-                    UI.renderGameOverScreen(Game.getGameState());
-                } else {
-                    Game.nextQuestion();
-                    if (Game.isGameOver()) {
-                        UI.renderGameOverScreen(Game.getGameState());
-                    } else {
-                        UI.renderLoadingScreen("Próxima pergunta...");
-                        setTimeout(Game.startGameFlow, 1000);
-                    }
-                }
-            };
-
             UI.renderFeedbackScreen(isCorrect, question, continueCallback);
         }
     };
@@ -141,7 +133,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 throw new Error("Nenhuma pergunta encontrada nas categorias selecionadas.");
             }
 
-            Game.init({ questions: allQuestions }, onQuestionAnswered, onLifelineUsed);
+            Game.init({ questions: allQuestions }, onQuestionAnswered, onLifelineUsed, goToStartScreen);
             console.log("Jogo inicializado com", allQuestions.length, "perguntas. Estado atual:", Game.getGameState());
             Game.startGameFlow();
 
@@ -151,7 +143,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     };
 
-    async function main() {
+    async function goToStartScreen() {
         UI.renderLoadingScreen("Buscando categorias...");
         const availableCategories = await getAvailableCategories();
         if (availableCategories.length > 0) {
@@ -159,6 +151,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         } else {
             UI.renderScreen(`<div class="alert alert-warning" role="alert">Nenhuma categoria de quiz foi encontrada.</div>`);
         }
+    }
+
+    function main() {
+        goToStartScreen();
     }
 
     main();

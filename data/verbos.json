@@ -1,7 +1,6 @@
-
 {
   "category": "Língua Portuguesa",
-  "subcategory": "Verbos",
+  "subcategory": "Verbos - Conceitos",
   "questions": [
     {
       "id": "verbos-001",
@@ -10,46 +9,16 @@
         "Ativa",
         "Passiva",
         "Reflexiva",
-        "Nenhuma das opções"
+        "Impassiva"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O sujeito ('O aluno') pratica a ação de ler. Quando o sujeito é o agente da ação, qual é a voz verbal?",
-      "hintCorrect": "Correto! Na voz ativa, o sujeito é o agente, ou seja, ele pratica a ação expressa pelo verbo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Ativa'. O sujeito 'O aluno' está praticando a ação.",
+      "hint": "Observe o sujeito da oração. Quem pratica a ação?",
+      "hintCorrect": "Exato! Na voz ativa, o sujeito pratica a ação expressa pelo verbo. 'O aluno' é o agente da ação de ler.",
+      "hintWrong": "Incorreto. Na voz ativa, o sujeito é o agente da ação. Aqui, 'O aluno' pratica a ação de ler. A resposta correta é 'Ativa'.",
       "difficulty": "easy"
     },
     {
       "id": "verbos-002",
-      "question": "Qual é a forma correta do verbo 'ver' no Futuro do Subjuntivo?",
-      "options": [
-        "Quando eu ver",
-        "Quando eu vir",
-        "Quando eu verei",
-        "Quando eu visse"
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "O Futuro do Subjuntivo de 'ver' e seus derivados ('prever', 'rever') é irregular. Pense na frase 'Se você ___ o meu amigo, diga-lhe olá.'",
-      "hintCorrect": "Exato! A conjugação correta é 'Quando eu vir', 'Quando tu vires', 'Quando ele vir'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Quando eu vir'. O verbo 'ver' é irregular no Futuro do Subjuntivo.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-003",
-      "question": "Qual é a forma correta do verbo 'haver' na frase: '___ muitos problemas na cidade.'?",
-      "options": [
-        "Havia",
-        "Haviam",
-        "Existe",
-        "Existem"
-      ],
-      "correctAnswerIndex": 0,
-      "hint": "O verbo 'haver', no sentido de 'existir', é impessoal e fica sempre na 3ª pessoa do singular.",
-      "hintCorrect": "Correto! No sentido de existência, 'haver' é impessoal e não vai para o plural.",
-      "hintWrong": "Incorreto. A resposta certa é 'Havia'. O verbo 'haver' com sentido de 'existir' é impessoal e fica no singular.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-004",
       "question": "A frase 'Vendem-se casas' está na voz:",
       "options": [
         "Ativa",
@@ -58,40 +27,70 @@
         "Reflexiva"
       ],
       "correctAnswerIndex": 1,
-      "hint": "A partícula 'se' está apassivando o verbo. A frase pode ser reescrita como 'Casas são vendidas'.",
-      "hintCorrect": "Exato! É a voz passiva sintética, onde o 'se' funciona como partícula apassivadora e 'casas' é o sujeito paciente.",
-      "hintWrong": "Incorreto. A resposta certa é 'Passiva Sintética'. A frase equivale a 'Casas são vendidas'.",
+      "hint": "A partícula 'se' pode ter várias funções. Aqui, ela transforma uma ação ativa em passiva, sem usar 'ser/estar + particípio'.",
+      "hintCorrect": "Perfeito! É a voz passiva sintética. O 'se' é uma partícula apassivadora e 'casas' é o sujeito paciente. A frase equivale a 'Casas são vendidas'.",
+      "hintWrong": "Incorreto. A estrutura com 'se' que pode ser reescrita com 'ser + particípio' indica voz passiva sintética. A resposta certa é 'Passiva Sintética'.",
       "difficulty": "medium"
+    },
+    {
+      "id": "verbos-003",
+      "question": "Transformando 'Eu fiz o trabalho' para a voz passiva analítica, a forma correta é:",
+      "options": [
+        "O trabalho foi feito por mim.",
+        "O trabalho era feito por mim.",
+        "O trabalho é feito por mim.",
+        "O trabalho será feito por mim."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Ao passar para a passiva, o objeto direto ('o trabalho') vira sujeito. O verbo auxiliar 'ser' deve manter o tempo original ('fiz' é passado).",
+      "hintCorrect": "Correto! A voz passiva analítica usa o verbo 'ser' no mesmo tempo da voz ativa (pretérito perfeito -> 'foi') seguido do particípio ('feito'). O agente é introduzido por 'por'.",
+      "hintWrong": "Incorreto. O verbo 'ser' deve ficar no mesmo tempo do verbo da voz ativa ('fiz' é pretérito). A resposta certa é 'O trabalho foi feito por mim'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-004",
+      "question": "Na frase 'O bolo foi comido por mim', qual é a voz verbal?",
+      "options": [
+        "Ativa",
+        "Passiva Analítica",
+        "Passiva Sintética",
+        "Reflexiva"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A estrutura da frase é: Sujeito Paciente + 'ser' (conjugado) + particípio + 'por' + agente.",
+      "hintCorrect": "Exato! Essa é a estrutura clássica da voz passiva analítica. O sujeito ('O bolo') sofre a ação, que é praticada pelo agente ('por mim').",
+      "hintWrong": "Incorreto. Quando a passiva é formada com o verbo 'ser' + particípio, é a passiva analítica. A resposta certa é 'Passiva Analítica'.",
+      "difficulty": "easy"
     },
     {
       "id": "verbos-005",
-      "question": "Qual a forma correta do verbo 'manter' (derivado de 'ter') na 3ª pessoa do plural do presente do indicativo?",
+      "question": "Na frase 'O menino feriu-se', a voz é:",
       "options": [
-        "Eles mantêm",
-        "Eles mantem",
-        "Eles mantêm",
-        "Eles mantam"
+        "Ativa",
+        "Passiva",
+        "Reflexiva",
+        "Impassiva"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Verbos derivados de 'ter' e 'vir' recebem acento agudo no singular ('mantém') e circunflexo no plural ('mantêm').",
-      "hintCorrect": "Correto! A forma correta é 'mantêm', com acento circunflexo, para diferenciar da 3ª pessoa do singular ('mantém').",
-      "hintWrong": "Incorreto. A resposta certa é 'mantêm'. Derivados de 'ter' e 'vir' usam acento circunflexo na 3ª pessoa do plural.",
-      "difficulty": "hard"
+      "hint": "O pronome 'se' indica que a ação do verbo retorna ao próprio sujeito.",
+      "hintCorrect": "Correto! Na voz reflexiva, o sujeito pratica e sofre a ação ao mesmo tempo. Ele se feriu a si mesmo.",
+      "hintWrong": "Incorreto. Quando o sujeito pratica a ação sobre si mesmo, temos a voz reflexiva. A resposta certa é 'Reflexiva'.",
+      "difficulty": "easy"
     },
     {
       "id": "verbos-006",
-      "question": "Na frase 'Se eu ___ tempo, eu iria à festa', qual a forma correta do verbo 'ter'?",
+      "question": "A frase 'Os amigos abraçaram-se' expressa uma voz:",
       "options": [
-        "ter",
-        "tiver",
-        "tivesse",
-        "tenho"
+        "Ativa",
+        "Passiva",
+        "Reflexiva Recíproca",
+        "Reflexiva Simples"
       ],
       "correctAnswerIndex": 2,
-      "hint": "A segunda oração usa o Futuro do Pretérito ('iria'). Isso pede uma correlação com o Pretérito Imperfeito do Subjuntivo na primeira oração.",
-      "hintCorrect": "Exato! A correlação verbal correta é 'Se eu tivesse' (Pretérito Imperfeito do Subjuntivo) com 'eu iria' (Futuro do Pretérito do Indicativo).",
-      "hintWrong": "Incorreto. A resposta certa é 'tivesse'. A correlação verbal pede o Pretérito Imperfeito do Subjuntivo.",
-      "difficulty": "medium"
+      "hint": "Pense se a ação é feita por um sobre o outro, de forma mútua.",
+      "hintCorrect": "Perfeito! É uma voz reflexiva recíproca. A ação de abraçar é trocada entre os membros do sujeito ('Os amigos'): um abraçou o outro.",
+      "hintWrong": "Incorreto. Quando a ação é mútua entre os elementos do sujeito, é uma reflexiva recíproca. A resposta certa é 'Reflexiva Recíproca'.",
+      "difficulty": "easy"
     },
     {
       "id": "verbos-007",
@@ -103,313 +102,103 @@
         "Parte integrante do verbo"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'precisar' é transitivo indireto ('precisar de'). Quando o 'se' acompanha verbos que não são transitivos diretos, ele indetermina o sujeito.",
-      "hintCorrect": "Correto! Como o verbo é transitivo indireto, o 'se' funciona como índice de indeterminação do sujeito, e o verbo fica obrigatoriamente no singular.",
-      "hintWrong": "Incorreto. A resposta certa é 'Índice de Indeterminação do Sujeito'. O verbo não é transitivo direto, então o 'se' indetermina o sujeito.",
+      "hint": "O verbo 'precisar' é transitivo indireto (precisa DE algo). 'Se' com verbo transitivo indireto não forma passiva.",
+      "hintCorrect": "Exato! Como o verbo 'precisar' exige a preposição 'de', o 'se' não pode ser apassivador. Ele serve para indeterminar o sujeito da ação. (Alguém não especificado precisa).",
+      "hintWrong": "Incorreto. Com verbos transitivos indiretos, o 'se' não forma voz passiva. Sua função é indeterminar o sujeito. A resposta certa é 'Índice de Indeterminação do Sujeito'.",
       "difficulty": "hard"
     },
     {
       "id": "verbos-008",
-      "question": "Qual é a forma correta do particípio do verbo 'pagar' com os auxiliares 'ter' ou 'haver'?",
-      "options": [
-        "Eu tinha pago.",
-        "Eu tinha pagado.",
-        "Ambas estão corretas.",
-        "Nenhuma está correta."
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "Verbos abundantes como 'pagar' têm um particípio regular (-ado, -ido) para 'ter/haver' e um irregular para 'ser/estar'.",
-      "hintCorrect": "Exato! Com os auxiliares 'ter' e 'haver', usa-se o particípio regular: 'tinha pagado'. O particípio irregular ('pago') é usado com 'ser' e 'estar': 'A conta foi paga'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Eu tinha pagado'. Com 'ter' e 'haver', usa-se o particípio regular.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-009",
-      "question": "Transformando 'Eu fiz o trabalho' para a voz passiva analítica, a forma correta é:",
-      "options": [
-        "O trabalho foi feito por mim.",
-        "O trabalho era feito por mim.",
-        "O trabalho é feito por mim.",
-        "O trabalho será feito por mim."
-      ],
-      "correctAnswerIndex": 0,
-      "hint": "O verbo auxiliar 'ser' deve ficar no mesmo tempo do verbo da voz ativa ('fiz' está no Pretérito Perfeito).",
-      "hintCorrect": "Correto! O verbo 'ser' vai para o Pretérito Perfeito ('foi') e o verbo principal vai para o particípio ('feito').",
-      "hintWrong": "Incorreto. A resposta certa é 'O trabalho foi feito por mim'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-010",
       "question": "Na frase 'Fui eu que paguei a conta', a concordância verbal está correta por quê?",
       "options": [
-        "O verbo concorda com 'eu'.",
+        "O verbo concorda com 'eu' (antecedente do 'que').",
         "O verbo concorda com 'que'.",
         "O verbo deveria estar no plural.",
-        "O verbo deveria ser 'pagou'."
+        "O verbo deveria ser 'pagou' (3ª pessoa)."
       ],
       "correctAnswerIndex": 0,
-      "hint": "Quando o pronome relativo 'que' tem como antecedente um pronome pessoal, o verbo concorda com esse pronome pessoal.",
-      "hintCorrect": "Correto! Com o pronome relativo 'que', o verbo concorda com o termo antecedente, neste caso, 'eu'.",
-      "hintWrong": "Incorreto. A resposta certa é 'O verbo concorda com 'eu''.",
+      "hint": "O pronome relativo 'que' se refere a um termo anterior (antecedente).",
+      "hintCorrect": "Correto! O verbo da oração com 'que' pode concordar com o seu antecedente, que neste caso é 'eu'. A forma 'pagou' também seria aceitável.",
+      "hintWrong": "Incorreto. Com o pronome relativo 'que', é permitido que o verbo concorde com o antecedente. A resposta certa é 'O verbo concorda com 'eu''.",
       "difficulty": "hard"
     },
     {
-      "id": "verbos-011",
-      "question": "Qual é a forma correta do verbo 'pôr' no Pretérito Imperfeito do Subjuntivo?",
-      "options": [
-        "Se eu por",
-        "Se eu ponho",
-        "Se eu pusesse",
-        "Se eu ponha"
-      ],
-      "correctAnswerIndex": 2,
-      "hint": "O verbo 'pôr' e seus derivados são irregulares. Pense na conjugação: 'Se eu fizesse', 'Se eu quisesse'...",
-      "hintCorrect": "Exato! A conjugação correta é 'Se eu pusesse', 'Se tu pusesses', 'Se ele pusesse'...",
-      "hintWrong": "Incorreto. A resposta certa é 'Se eu pusesse'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-012",
-      "question": "A frase 'Os amigos abraçaram-se' expressa uma voz:",
-      "options": [
-        "Ativa",
-        "Passiva",
-        "Reflexiva Recíproca",
-        "Reflexiva Simples"
-      ],
-      "correctAnswerIndex": 2,
-      "hint": "A ação de abraçar é mútua entre os elementos do sujeito (um abraçou o outro).",
-      "hintCorrect": "Correto! É uma voz reflexiva recíproca, pois a ação é trocada entre os membros do sujeito.",
-      "hintWrong": "Incorreto. A resposta certa é 'Reflexiva Recíproca'.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "verbos-013",
-      "question": "Qual a forma correta do verbo 'ir' no Presente do Subjuntivo (para 'eu')?",
-      "options": [
-        "que eu vou",
-        "que eu vá",
-        "que eu ir",
-        "que eu fui"
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "O verbo 'ir' é anômalo (altamente irregular). Pense na frase 'Espero que você ___ bem.'",
-      "hintCorrect": "Correto! A conjugação é 'que eu vá', 'que tu vás', 'que ele vá'...",
-      "hintWrong": "Incorreto. A resposta certa é 'que eu vá'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-014",
+      "id": "verbos-009",
       "question": "Na frase 'A maioria dos alunos passaram', a concordância está correta?",
       "options": [
-        "Não, deveria ser 'passou'.",
-        "Sim, pois o verbo pode concordar com 'alunos'.",
+        "Não, deveria ser 'passou' (concordar com 'maioria').",
+        "Sim, pois o verbo pode concordar com 'alunos'. Ambas são aceitas.",
         "Não, o verbo não concorda com 'maioria'.",
         "Sim, pois 'maioria' é plural."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Com expressões partitivas como 'a maioria de', o verbo pode concordar com o núcleo da expressão ('maioria', singular) ou com o substantivo seguinte ('alunos', plural).",
-      "hintCorrect": "Exato! Ambas as formas são aceitas: 'A maioria dos alunos passou' (concordando com 'maioria') e 'A maioria dos alunos passaram' (concordando com 'alunos').",
-      "hintWrong": "Incorreto. A resposta certa é 'Sim, pois o verbo pode concordar com 'alunos''. A forma 'passou' também estaria correta.",
+      "hint": "Expressões como 'a maioria de', 'parte de' permitem duas concordâncias.",
+      "hintCorrect": "Exato! A concordância pode ser feita com o núcleo do sujeito ('A maioria passou') ou com o especificador ('alunos', que atrai para o plural). Ambas as formas são gramaticalmente aceitas.",
+      "hintWrong": "Incorreto. Nesse caso, há dupla possibilidade de concordância. A resposta certa é que a frase está correta, pois o verbo pode concordar com 'alunos'.",
       "difficulty": "hard"
     },
     {
-      "id": "verbos-015",
-      "question": "Qual é a forma correta do verbo 'vir' no Futuro do Subjuntivo?",
+      "id": "verbos-010",
+      "question": "Na frase 'Tudo são flores', o verbo 'ser' concorda com:",
       "options": [
-        "Quando eu vir",
-        "Quando eu vier",
-        "Quando eu vim",
-        "Quando eu venho"
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "O Futuro do Subjuntivo de 'vir' e seus derivados ('convir', 'intervir') é irregular.",
-      "hintCorrect": "Correto! A conjugação correta é 'Quando eu vier', 'Quando tu vieres', 'Quando ele vier'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Quando eu vier'. 'Quando eu vir' é do verbo 'ver'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-016",
-      "question": "A frase 'Os Estados Unidos são uma potência' está correta por quê?",
-      "options": [
-        "O verbo concorda com 'potência'.",
-        "O verbo concorda com o nome no plural que é usado com artigo ('Os').",
-        "O verbo deveria estar no singular.",
+        "O sujeito 'Tudo' (singular).",
+        "O predicativo do sujeito 'flores' (plural).",
+        "Deveria ser 'é flores'.",
         "A frase está incorreta."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Para nomes que só existem no plural, a presença do artigo ('os', 'as') define a concordância.",
-      "hintCorrect": "Correto! Como 'Os Estados Unidos' está precedido de artigo no plural, o verbo também vai para o plural.",
-      "hintWrong": "Incorreto. A resposta certa é 'O verbo concorda com o nome no plural que é usado com artigo ('Os')'.",
+      "hint": "Com o verbo 'ser', quando o sujeito é um pronome indefinido neutro (tudo, nada, algo), a concordância tende a ir para o predicativo.",
+      "hintCorrect": "Correto! O verbo 'ser', nessa construção, concorda com o predicativo do sujeito ('flores'), que está no plural. É uma regra especial de concordância para esse verbo.",
+      "hintWrong": "Incorreto. Para o verbo 'ser' com sujeitos como 'tudo', a concordância verbal se faz preferencialmente com o predicativo. A resposta certa é 'O predicativo 'flores''.",
       "difficulty": "hard"
     },
     {
-      "id": "verbos-017",
-      "question": "Qual é o tempo verbal da forma 'cantara'?",
+      "id": "verbos-011",
+      "question": "A frase 'Os Estados Unidos são uma potência' está correta por quê?",
       "options": [
-        "Pretérito Perfeito do Indicativo",
-        "Pretérito Imperfeito do Indicativo",
-        "Pretérito Mais-que-perfeito do Indicativo",
-        "Futuro do Pretérito do Indicativo"
-      ],
-      "correctAnswerIndex": 2,
-      "hint": "Este tempo verbal indica uma ação que ocorreu antes de outra ação já passada. Ex: 'Quando cheguei, ele já cantara.'",
-      "hintCorrect": "Exato! A terminação '-ra' é característica do Pretérito Mais-que-perfeito do Indicativo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Pretérito Mais-que-perfeito do Indicativo'.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "verbos-018",
-      "question": "Na frase 'Tudo são flores', o verbo 'ser' concorda com:",
-      "options": [
-        "O sujeito 'Tudo'.",
-        "O predicativo 'flores'.",
-        "Deveria ser 'é'.",
-        "Está incorreto."
+        "O verbo concorda com 'potência'.",
+        "O verbo concorda com o nome no plural precedido de artigo ('Os').",
+        "O verbo deveria estar no singular ('é').",
+        "A frase está incorreta."
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'ser' tem regras de concordância especiais. Quando o sujeito é um pronome indefinido ('tudo', 'nada') e o predicativo está no plural, o verbo tende a concordar com o predicativo.",
-      "hintCorrect": "Correto! Em casos como este, o verbo 'ser' concorda com o predicativo do sujeito ('flores'), que está no plural.",
-      "hintWrong": "Incorreto. A resposta certa é 'O predicativo 'flores''.",
+      "hint": "Nomes próprios de lugares que são pluralia tantum (usados apenas no plural) podem reger o verbo no singular ou no plural.",
+      "hintCorrect": "Correto! Quando o topônimo (nome de lugar) vem precedido de artigo no plural, o verbo normalmente vai para o plural. 'Os Estados Unidos' é tratado como um sujeito no plural.",
+      "hintWrong": "Incorreto. Com nomes de países no plural acompanhados de artigo ('Os'), a concordância verbal é no plural. A resposta certa é 'O verbo concorda com o nome no plural que é usado com artigo ('Os')'.",
       "difficulty": "hard"
     },
     {
-      "id": "verbos-019",
-      "question": "Qual é a forma correta do verbo 'intervir' na 3ª pessoa do singular do presente do indicativo?",
+      "id": "verbos-012",
+      "question": "Na frase 'Faz dez anos que não o vejo', o verbo 'fazer' está correto porque:",
       "options": [
-        "Ele interveio",
-        "Ele intervém",
-        "Ele interviu",
-        "Ele intervê"
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "O verbo 'intervir' deriva de 'vir' e segue a mesma conjugação. Como se conjuga 'ele vem'?",
-      "hintCorrect": "Correto! Assim como 'ele vem', a forma correta é 'ele intervém', com acento agudo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Ele intervém'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-020",
-      "question": "A frase 'Faz dez anos que não o vejo' está correta por quê?",
-      "options": [
-        "Deveria ser 'Fazem'.",
-        "O verbo 'fazer', indicando tempo, é impessoal e fica no singular.",
+        "Deveria ser 'Fazem' (concordar com 'anos').",
+        "Indica tempo decorrido e, nesse caso, é impessoal (sempre singular).",
         "O verbo concorda com 'dez anos'.",
         "A frase está incorreta."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Assim como 'haver', o verbo 'fazer' indicando tempo decorrido é impessoal.",
-      "hintCorrect": "Exato! O verbo 'fazer' indicando tempo é impessoal e permanece sempre na 3ª pessoa do singular.",
-      "hintWrong": "Incorreto. A resposta certa é 'O verbo 'fazer', indicando tempo, é impessoal e fica no singular'.",
+      "hint": "Pense se a expressão de tempo é o sujeito da ação ou apenas uma indicação de quando a ação ocorre.",
+      "hintCorrect": "Exato! O verbo 'fazer', quando expressa tempo decorrido, é impessoal (não tem sujeito). Por isso, fica sempre na 3ª pessoa do singular, independente do número que o acompanha.",
+      "hintWrong": "Incorreto. 'Fazer' indicando tempo é impessoal e invariável. A resposta certa é 'O verbo 'fazer', indicando tempo, é impessoal e fica no singular'.",
       "difficulty": "medium"
     },
     {
-      "id": "verbos-021",
-      "question": "Qual é a forma correta do particípio do verbo 'imprimir' com o auxiliar 'ser'?",
-      "options": [
-        "O documento foi imprimido.",
-        "O documento foi impresso.",
-        "Ambas estão corretas.",
-        "Nenhuma está correta."
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "'Imprimir' é um verbo abundante. Com 'ser' e 'estar', usa-se o particípio irregular.",
-      "hintCorrect": "Correto! Com os auxiliares 'ser' e 'estar', usa-se o particípio irregular: 'foi impresso'. O particípio regular ('imprimido') é usado com 'ter' e 'haver': 'tinha imprimido'.",
-      "hintWrong": "Incorreto. A resposta certa é 'O documento foi impresso'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-022",
-      "question": "Na frase 'O menino feriu-se', a voz é:",
-      "options": [
-        "Ativa",
-        "Passiva",
-        "Reflexiva",
-        "Impessoal"
-      ],
-      "correctAnswerIndex": 2,
-      "hint": "O sujeito ('O menino') pratica e sofre a ação ao mesmo tempo (feriu a si mesmo).",
-      "hintCorrect": "Correto! Na voz reflexiva, a ação do sujeito recai sobre ele mesmo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Reflexiva'.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "verbos-023",
-      "question": "Qual é a forma correta do verbo 'querer' no Pretérito Perfeito do Indicativo (para 'eu')?",
-      "options": [
-        "Eu quiz",
-        "Eu quis",
-        "Eu queri",
-        "Eu queria"
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "O verbo 'querer' é irregular neste tempo.",
-      "hintCorrect": "Exato! A conjugação correta é 'eu quis', 'tu quiseste', 'ele quis'...",
-      "hintWrong": "Incorreto. A resposta certa é 'Eu quis'.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "verbos-024",
-      "question": "Na frase 'Fui eu quem paguei a conta', a concordância está correta?",
-      "options": [
-        "Não, deveria ser 'pagou'.",
-        "Sim, pois com 'quem' o verbo pode concordar com o antecedente.",
-        "Não, o verbo deveria ser 'paga'.",
-        "Sim, pois 'quem' exige a 1ª pessoa."
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "Com o pronome relativo 'quem', o verbo pode ficar na 3ª pessoa do singular ou concordar com o termo antecedente ('eu').",
-      "hintCorrect": "Correto! Ambas as formas são aceitas: 'Fui eu quem paguei' (concordando com 'eu') e 'Fui eu quem pagou' (verbo na 3ª pessoa).",
-      "hintWrong": "Incorreto. A resposta certa é 'Sim, pois com 'quem' o verbo pode concordar com o antecedente'. A forma 'pagou' também estaria correta.",
-      "difficulty": "hard"
-    },
-    {
-      "id": "verbos-025",
-      "question": "Qual é a forma correta do verbo 'reaver' no presente do indicativo (para 'nós')?",
-      "options": [
-        "Nós reavemos",
-        "Nós reavimos",
-        "Nós reouvemos",
-        "Não é conjugado nesta forma."
-      ],
-      "correctAnswerIndex": 3,
-      "hint": "'Reaver' é um verbo defectivo, derivado de 'haver', mas só é conjugado nas formas em que o 'haver' tem a letra 'v'.",
-      "hintCorrect": "Exato! O verbo 'reaver' é defectivo e não se conjuga em todas as pessoas do presente do indicativo. As únicas formas existentes são 'nós reavemos' e 'vós reaveis'. A questão é capciosa, a opção correta seria 'Nós reavemos', mas a opção 'Não é conjugado' é mais precisa para as outras pessoas.",
-      "hintWrong": "Incorreto. A resposta certa é 'Não é conjugado nesta forma.'. O verbo 'reaver' é defectivo e só se conjuga em 'nós' (reavemos) e 'vós' (reaveis) no presente do indicativo.",
-      "difficulty": "hard"
-    },
-    {
-      "id": "verbos-026",
+      "id": "verbos-013",
       "question": "A forma 'falando' é um exemplo de qual forma nominal do verbo?",
       "options": [
-        "Infinitivo",
+        "Infinitivo (pessoal ou impessoal)",
         "Gerúndio",
         "Particípio",
         "Imperativo"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Esta forma nominal, terminada em -ndo, indica uma ação em andamento.",
-      "hintCorrect": "Correto! O gerúndio expressa uma ação em curso.",
-      "hintWrong": "Incorreto. A resposta certa é 'Gerúndio'.",
+      "hint": "Ela termina em '-ndo' e indica uma ação em progresso.",
+      "hintCorrect": "Correto! O gerúndio é uma das três formas nominais do verbo, terminada em -ndo, e expressa uma ação contínua ou simultânea.",
+      "hintWrong": "Incorreto. A forma terminada em '-ndo' é o gerúndio. A resposta certa é 'Gerúndio'.",
       "difficulty": "easy"
     },
     {
-      "id": "verbos-027",
-      "question": "Qual é a forma correta do verbo 'deter' na 1ª pessoa do plural do pretérito perfeito?",
-      "options": [
-        "Nós detemos",
-        "Nós detivemos",
-        "Nós deteremos",
-        "Nós detíamos"
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "O verbo 'deter' deriva de 'ter' e segue sua conjugação irregular. Pense em como se conjuga 'nós tivemos'.",
-      "hintCorrect": "Correto! Assim como 'nós tivemos', a forma correta é 'nós detivemos'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Nós detivemos'.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "verbos-028",
+      "id": "verbos-014",
       "question": "Na frase 'Choveu muito ontem', o verbo 'chover' é classificado como:",
       "options": [
         "Verbo de ligação",
@@ -418,55 +207,1300 @@
         "Verbo irregular"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Verbos que expressam fenómenos da natureza não têm sujeito e são conjugados na 3ª pessoa do singular.",
-      "hintCorrect": "Exato! 'Chover', 'nevar', 'ventar' são verbos que indicam fenómenos da natureza e são impessoais.",
-      "hintWrong": "Incorreto. A resposta certa é 'Verbo que indica fenómeno da natureza (impessoal)'.",
+      "hint": "Pense se a ação tem um sujeito que a pratica.",
+      "hintCorrect": "Exato! Verbos que expressam fenómenos da natureza ('chover', 'nevar', 'trovejar') são impessoais, ou seja, não possuem sujeito e são usados apenas na 3ª pessoa do singular.",
+      "hintWrong": "Incorreto. 'Chover' não tem um sujeito que pratica a ação; é um acontecimento natural. A resposta certa é 'Verbo que indica fenómeno da natureza (impessoal)'.",
       "difficulty": "easy"
     },
     {
-      "id": "verbos-029",
-      "question": "Qual é a forma correta do verbo 'caber' no presente do indicativo (para 'eu')?",
+      "id": "verbos-015",
+      "question": "Qual é o tempo verbal da forma 'cantara'?",
       "options": [
-        "Eu cabo",
-        "Eu caibo",
-        "Eu queibo",
-        "Eu cabo"
+        "Pretérito Perfeito do Indicativo",
+        "Pretérito Imperfeito do Indicativo",
+        "Pretérito Mais-que-perfeito do Indicativo",
+        "Futuro do Pretérito do Indicativo"
       ],
-      "correctAnswerIndex": 1,
-      "hint": "O verbo 'caber' é irregular na primeira pessoa do presente.",
-      "hintCorrect": "Correto! A conjugação correta é 'eu caibo'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Eu caibo'.",
+      "correctAnswerIndex": 2,
+      "hint": "Esse tempo verbal indica uma ação passada anterior a outra ação também passada.",
+      "hintCorrect": "Correto! A terminação '-ra' é a marca do Pretérito Mais-que-perfeito do Indicativo. Exemplo: 'Quando cheguei, ele já cantara' (ele tinha cantado antes da minha chegada).",
+      "hintWrong": "Incorreto. A forma com '-ra' é uma forma alternativa e literária do Pretérito Mais-que-perfeito. A resposta certa é 'Pretérito Mais-que-perfeito do Indicativo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-016",
+      "question": "Qual a classificação do verbo na frase 'Ele parece cansado'?",
+      "options": [
+        "Verbo Intransitivo",
+        "Verbo Transitivo Direto",
+        "Verbo de Ligação",
+        "Verbo Transitivo Indireto"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo está unindo o sujeito ('Ele') a uma característica ou estado ('cansado').",
+      "hintCorrect": "Exato! 'Parecer', neste contexto, é um verbo de ligação (ou copulativo). Sua função é ligar o sujeito ao seu predicativo ('cansado'), expressando um estado ou qualidade.",
+      "hintWrong": "Incorreto. O verbo não indica uma ação completa, mas sim um estado ou aparência do sujeito. A resposta certa é 'Verbo de Ligação'.",
       "difficulty": "medium"
     },
     {
-      "id": "verbos-030",
-      "question": "A frase 'O bolo foi comido por mim' está na voz:",
+      "id": "verbos-017",
+      "question": "Na frase 'Ela deu um livro ao irmão', o verbo 'dar' é classificado como:",
       "options": [
-        "Ativa",
-        "Passiva Analítica",
-        "Passiva Sintética",
-        "Reflexiva"
+        "Intransitivo",
+        "Transitivo Direto",
+        "Transitivo Indireto",
+        "Transitivo Direto e Indireto (Bitransitivo)"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Ele exige um objeto direto (o que foi dado?) e um objeto indireto (a quem foi dado?).",
+      "hintCorrect": "Correto! O verbo 'dar' é bitransitivo. Ele exige dois complementos: um direto, sem preposição ('um livro'), e um indireto, com preposição ('ao irmão' = a + o irmão).",
+      "hintWrong": "Incorreto. O verbo 'dar' pede tanto um objeto direto (o que se dá) quanto um indireto (a quem se dá). A resposta certa é 'Transitivo Direto e Indireto (Bitransitivo)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-018",
+      "question": "Em 'Os convidados chegaram cedo', o verbo 'chegar' é:",
+      "options": [
+        "Transitivo Direto",
+        "Transitivo Indireto",
+        "Intransitivo",
+        "De Ligação"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A ação expressa pelo verbo é completa em si mesma, não necessitando de um complemento para ter sentido pleno.",
+      "hintCorrect": "Correto! O verbo 'chegar' é intransitivo. Sua ação não transita para um objeto; ela se completa no próprio sujeito. 'Cedo' é um adjunto adverbial, não um complemento verbal.",
+      "hintWrong": "Incorreto. O sentido do verbo 'chegar' é completo, não exigindo um objeto. 'Cedo' indica circunstância, não complementa o verbo. A resposta certa é 'Intransitivo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-019",
+      "question": "A frase 'Havia muitas pessoas na sala' está correta porque:",
+      "options": [
+        "O verbo concorda com 'pessoas' (plural).",
+        "O verbo 'haver', no sentido de 'existir', é impessoal e fica no singular.",
+        "Deveria ser 'Haviam'.",
+        "A frase está incorreta."
       ],
       "correctAnswerIndex": 1,
-      "hint": "A estrutura é: Sujeito Paciente + Verbo Auxiliar 'ser' + Particípio + Agente da Passiva.",
-      "hintCorrect": "Correto! Esta é a estrutura clássica da voz passiva analítica.",
-      "hintWrong": "Incorreto. A resposta certa é 'Passiva Analítica'.",
+      "hint": "Quando 'haver' significa 'existir' ou 'ocorrer', ele se comporta como um verbo impessoal.",
+      "hintCorrect": "Exato! O verbo 'haver', com sentido de existência, é impessoal. Portanto, fica sempre na 3ª pessoa do singular, mesmo que o termo que o segue ('muitas pessoas') esteja no plural.",
+      "hintWrong": "Incorreto. 'Haver' existencial não varia. A resposta certa é 'O verbo 'haver', no sentido de 'existir', é impessoal e fica no singular'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-020",
+      "question": "Na oração 'É preciso estudar', o sujeito é:",
+      "options": [
+        "Estudar",
+        "Oculto/Desinencial (você)",
+        "Indeterminado",
+        "Oração sem sujeito (Impessoal)"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A expressão 'É preciso' indica necessidade de uma forma genérica, sem referir a ninguém específico.",
+      "hintCorrect": "Correto! A locução 'é preciso' é uma construção impessoal, ou seja, a oração não possui sujeito. 'Estudar' é o objeto direto do adjetivo 'preciso'.",
+      "hintWrong": "Incorreto. Não há um sujeito realizando a ação de 'ser preciso'. É uma construção que expressa necessidade de forma generalizada. A resposta certa é 'Oração sem sujeito (Impessoal)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-021",
+      "question": "Em 'Disseram que ele viria', o sujeito de 'Disseram' é:",
+      "options": [
+        "Ele",
+        "Que ele viria",
+        "Indeterminado",
+        "Inexistente"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Não sabemos quem disse. A ação foi atribuída a pessoas não especificadas.",
+      "hintCorrect": "Correto! O sujeito é indeterminado. Não se sabe (ou não se quer dizer) quem praticou a ação de 'dizer'. O verbo está na 3ª pessoa do plural para indicar essa indeterminação.",
+      "hintWrong": "Incorreto. Sabemos que a ação aconteceu, mas não por quem. Isso caracteriza um sujeito indeterminado. A resposta certa é 'Indeterminado'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-022",
+      "question": "Na frase 'Pintaram o muro', o sujeito é:",
+      "options": [
+        "O muro",
+        "Oculto/Desinencial ('eles')",
+        "Indeterminado",
+        "Inexistente"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A ação foi realizada por alguém, mas não está explícito na frase. O verbo dá uma pista sobre quem poderia ser.",
+      "hintCorrect": "Correto! O sujeito é oculto (ou desinencial). Sabemos que 'alguém' pintou, e a desinência verbal '-am' (3ª pessoa do plural) nos indica que o sujeito é 'eles'. O sujeito pode ser recuperado pelo contexto.",
+      "hintWrong": "Incorreto. A ação tem um agente, ele apenas não está escrito. A terminação do verbo indica quem é. A resposta certa é 'Oculto/Desinencial ('eles')'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-023",
+      "question": "Qual o modo verbal da oração principal em 'É importante que você estude'?",
+      "options": [
+        "Indicativo",
+        "Subjuntivo",
+        "Imperativo",
+        "Infinitivo"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O modo expressa a atitude do falante em relação ao fato. A oração principal afirma uma certeza ('É importante').",
+      "hintCorrect": "Correto! 'É' está no Indicativo. O Indicativo é usado para exprimir fatos certos, reais, concretos. A certeza da importância é o fato principal.",
+      "hintWrong": "Incorreto. A oração 'É importante' expressa uma afirmação, uma certeza. Isso é função do modo Indicativo. A resposta certa é 'Indicativo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-024",
+      "question": "Na oração 'Espero que ele venha', o verbo 'venha' está no modo:",
+      "options": [
+        "Indicativo",
+        "Subjuntivo",
+        "Imperativo",
+        "Infinitivo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo expressa um desejo, uma possibilidade, algo que não é um fato consumado.",
+      "hintCorrect": "Exato! 'Venha' está no Presente do Subjuntivo. O Subjuntivo é usado para expressar dúvida, desejo, hipótese, incerteza. Aqui, expressa um desejo ('Espero que...').",
+      "hintWrong": "Incorreto. Após verbos que indicam desejo, como 'esperar', usamos o modo Subjuntivo na oração subordinada. A resposta certa é 'Subjuntivo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-025",
+      "question": "Em 'Venha aqui, por favor!', o modo verbal expressa:",
+      "options": [
+        "Uma certeza",
+        "Uma ordem ou pedido",
+        "Uma dúvida",
+        "Uma condição"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O falante está dirigindo-se diretamente ao ouvinte para que ele realize uma ação.",
+      "hintCorrect": "Correto! 'Venha' está no modo Imperativo, que é usado para dar ordens, fazer pedidos, dar conselhos ou fazer convites de forma direta.",
+      "hintWrong": "Incorreto. A frase é um comando direto ao interlocutor. Esse é o uso típico do modo Imperativo. A resposta certa é 'Uma ordem ou pedido'.",
       "difficulty": "easy"
     },
     {
-      "id": "verbos-101",
-      "question": "Qual é a forma correta do verbo 'ser' no Pretérito Perfeito do Indicativo (para 'nós')?",
+      "id": "verbos-026",
+      "question": "Na construção 'Ao chegar em casa, liguei a TV', a expressão 'Ao chegar' é:",
       "options": [
-        "Nós somos",
-        "Nós fomos",
-        "Nós éramos",
-        "Nós seremos"
+        "Uma oração subordinada adverbial temporal no infinitivo.",
+        "Um gerúndio absoluto.",
+        "Um particípio.",
+        "Uma locução adverbial."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Ela é iniciada por uma preposição ('a' + 'o') e contém uma forma nominal do verbo (infinitivo).",
+      "hintCorrect": "Exato! 'Ao chegar' é uma oração reduzida de infinitivo. Ela exerce a função de uma oração subordinada adverbial temporal (= 'Quando cheguei em casa').",
+      "hintWrong": "Incorreto. É uma construção em que o infinitivo é precedido de preposição, formando uma oração reduzida. A resposta certa é 'Uma oração subordinada adverbial temporal no infinitivo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-027",
+      "question": "Na frase 'Terminado o trabalho, todos foram para casa', 'Terminado' é:",
+      "options": [
+        "Um verbo no particípio passivo.",
+        "Um verbo no gerúndio.",
+        "Um verbo no infinitivo.",
+        "Um adjetivo."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Essa construção, chamada de 'particípio absoluto', geralmente expressa uma circunstância (tempo, causa) relacionada à oração principal.",
+      "hintCorrect": "Correto! 'Terminado' é o particípio do verbo 'terminar'. Na construção 'particípio absoluto', ele forma uma oração reduzida com valor adverbial (= 'Quando/Depois que o trabalho foi terminado').",
+      "hintWrong": "Incorreto. É o particípio do verbo sendo usado para iniciar uma oração reduzida. A resposta certa é 'Um verbo no particípio passivo'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-028",
+      "question": "Qual a função sintática de 'cansado' na frase 'O menino chegou cansado'?",
+      "options": [
+        "Objeto Direto",
+        "Objeto Indireto",
+        "Predicativo do Sujeito",
+        "Adjunto Adverbial"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O termo atribui uma característica ao sujeito ('O menino') no momento da ação expressa pelo verbo.",
+      "hintCorrect": "Exato! 'Cansado' é o predicativo do sujeito. Ele indica o estado em que o sujeito se encontrava quando realizou a ação de chegar. Note que não é verbo de ligação, mas o predicativo aparece mesmo com um verbo intransitivo.",
+      "hintWrong": "Incorreto. 'Cansado' não completa o sentido do verbo 'chegar', mas sim caracteriza o sujeito. A resposta certa é 'Predicativo do Sujeito'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-029",
+      "question": "Na frase 'Eles elegeram Maria presidente', 'presidente' exerce a função de:",
+      "options": [
+        "Objeto Direto",
+        "Objeto Indireto",
+        "Predicativo do Objeto",
+        "Agente da Passiva"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O termo atribui uma qualidade ou função ao objeto direto 'Maria', como resultado da ação verbal.",
+      "hintCorrect": "Correto! 'Presidente' é o predicativo do objeto. Indica o cargo/função que 'Maria' (objeto direto) passou a ocupar como resultado da ação de 'eleger'.",
+      "hintWrong": "Incorreto. O termo não completa o verbo sozinho, mas qualifica o objeto da ação. A resposta certa é 'Predicativo do Objeto'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-030",
+      "question": "Na frase 'A casa foi construída pelos pedreiros', o termo 'pelos pedreiros' é:",
+      "options": [
+        "Objeto Indireto",
+        "Agente da Passiva",
+        "Complemento Nominal",
+        "Adjunto Adnominal"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'ser' é anômalo e tem a mesma forma do verbo 'ir' neste tempo.",
-      "hintCorrect": "Correto! A conjugação correta é 'nós fomos'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Nós fomos'.",
+      "hint": "Indica quem praticou a ação na voz passiva. É introduzido pela preposição 'por' (ou suas flexões).",
+      "hintCorrect": "Exato! 'Pelos pedreiros' é o agente da passiva. É o complemento que indica o ser que pratica a ação na voz passiva, sempre introduzido por 'por' ou 'de'.",
+      "hintWrong": "Incorreto. Na voz passiva, o complemento iniciado por 'por' que indica o executor da ação é o agente da passiva. A resposta certa é 'Agente da Passiva'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-031",
+      "question": "Na frase 'Talvez ele venha amanhã', o modo do verbo 'venha' indica:",
+      "options": [
+        "Uma certeza sobre o futuro.",
+        "Uma possibilidade ou incerteza.",
+        "Uma ordem direta.",
+        "Um fato habitual."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O advérbio 'Talvez' é um forte indicador do modo que expressa dúvida.",
+      "hintCorrect": "Correto! 'Talvez' exige o modo Subjuntivo ('venha'), que é precisamente o modo da dúvida, da possibilidade, da hipótese.",
+      "hintWrong": "Incorreto. 'Talvez' introduz uma ideia de incerteza, característica do modo Subjuntivo. A resposta certa é 'Uma possibilidade ou incerteza'.",
       "difficulty": "easy"
+    },
+    {
+      "id": "verbos-032",
+      "question": "Na construção 'É necessário que se faça silêncio', a locução 'que se faça' está na voz:",
+      "options": [
+        "Ativa",
+        "Passiva Sintética",
+        "Reflexiva",
+        "Não há voz definida."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O 'se' não indica reflexividade. Pense se a frase pode ser reescrita com 'silêncio' como sujeito paciente.",
+      "hintCorrect": "Exato! É uma voz passiva sintética. A construção equivale a 'É necessário que silêncio seja feito'. O 'se' é partícula apassivadora e 'silêncio' (na oração desenvolvida) seria o sujeito paciente.",
+      "hintWrong": "Incorreto. 'Faça-se' ou 'que se faça' são estruturas típicas da passiva sintética. O 'se' apassiva o verbo. A resposta certa é 'Passiva Sintética'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-033",
+      "question": "A concordância em 'Bastaria um gesto para mudar tudo' está correta porque:",
+      "options": [
+        "O verbo concorda com 'gesto' (singular).",
+        "O verbo concorda com 'tudo'.",
+        "'Bastaria' é impessoal e sempre singular.",
+        "O verbo 'bastar' permite concordância no singular ou no plural."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Identifique o sujeito da oração. 'Para mudar tudo' não é o sujeito, é uma finalidade.",
+      "hintCorrect": "Correto! O sujeito da oração é 'um gesto' (singular), portanto o verbo 'bastar' concorda com ele no singular ('bastaria').",
+      "hintWrong": "Incorreto. 'Bastar' não é impessoal; ele concorda com seu sujeito. Neste caso, o sujeito singular é 'um gesto'. A resposta certa é 'O verbo concorda com 'gesto' (singular)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-034",
+      "question": "Na oração 'Espero que eles cheguem a tempo', o modo subjuntivo ('cheguem') é utilizado porque:",
+      "options": [
+        "Expressa um fato real e concreto.",
+        "Expressa um desejo ou vontade do falante.",
+        "Expressa uma ordem.",
+        "É a única forma correta do verbo chegar."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo da oração principal ('Espero') revela a atitude do falante.",
+      "hintCorrect": "Exato! O Subjuntivo é usado em orações subordinadas substantivas quando a principal expressa desejo, vontade, pedido, como é o caso de 'esperar'.",
+      "hintWrong": "Incorreto. A principal ('Espero') introduz um desejo. Orações que completam verbos de desejo exigem o modo Subjuntivo. A resposta certa é 'Expressa um desejo ou vontade do falante'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-035",
+      "question": "Qual a voz verbal da frase: 'As crianças machucaram-se no parque'?",
+      "options": [
+        "Ativa (sujeito agente)",
+        "Passiva (sujeito paciente)",
+        "Reflexiva (ação volta para o sujeito)",
+        "Recíproca (ação mútua)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O pronome 'se' sugere que a ação do verbo recai sobre o próprio sujeito que a pratica.",
+      "hintCorrect": "Correto! É voz reflexiva. O sujeito 'As crianças' pratica e sofre a ação de 'machucar'. Elas machucaram a si mesmas.",
+      "hintWrong": "Incorreto. A ação não é passiva (elas não foram machucadas por outro) nem mútua (uma não machucou a outra). A ação retorna ao sujeito. A resposta certa é 'Reflexiva'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-036",
+      "question": "Na frase 'É bom que você leia este livro', o uso do subjuntivo ('leia') é obrigatório porque:",
+      "options": [
+        "A oração principal expressa uma avaliação (é bom/mau, é importante, é necessário).",
+        "A oração principal está no futuro.",
+        "O sujeito da subordinada é 'você'.",
+        "O verbo 'ler' é irregular."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Expressões impessoais que avaliam, julgam ou indicam necessidade costumam reger o subjuntivo.",
+      "hintCorrect": "Exato! O Subjuntivo é exigido após expressões impessoais que fazem um juízo de valor, como 'é bom', 'é importante', 'é preciso', 'é necessário'.",
+      "hintWrong": "Incorreto. A regência não tem a ver com o sujeito ou irregularidade do verbo, mas com o sentido da oração principal. A resposta certa é 'A oração principal expressa uma avaliação'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-037",
+      "question": "A concordância em 'Cerca de 20% do eleitorado não votou' está:",
+      "options": [
+        "Correta, pois o verbo concorda com o núcleo do sujeito ('eleitorado', singular).",
+        "Incorreta, deveria ser 'não votaram' (concordância com o número '20%').",
+        "Incorreta, deveria ser 'não votara'.",
+        "Correta, pois 'cerca de' torna o sujeito indeterminado."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Com porcentagens, a concordância pode ser feita com o número da porcentagem ou com o substantivo a que ela se refere.",
+      "hintCorrect": "Correto! Neste caso, a concordância foi feita com o núcleo do sujeito 'eleitorado' (singular), que é a opção mais comum e natural. Concordar com '20%' ('não votaram') também seria aceitável.",
+      "hintWrong": "Incorreto. Com expressões partitivas ou de porcentagem, o verbo pode concordar com o termo principal ('eleitorado'). A frase está correta. A resposta certa é a primeira opção.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-038",
+      "question": "Em 'Vá embora!', o modo verbal é:",
+      "options": [
+        "Indicativo (afirma um fato)",
+        "Subjuntivo (expressa desejo)",
+        "Imperativo (dá uma ordem)",
+        "Infinitivo (forma nominal)"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma ordem direta e incisiva dada ao interlocutor.",
+      "hintCorrect": "Correto! 'Vá' é a forma do Imperativo Afirmativo da 2ª pessoa (você). É o modo usado para comandos diretos.",
+      "hintWrong": "Incorreto. Trata-se de uma ordem, função específica do modo Imperativo. A resposta certa é 'Imperativo (dá uma ordem)'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-039",
+      "question": "A frase 'Aluga-se este apartamento' está na voz passiva sintética. Qual seria sua forma na voz ativa?",
+      "options": [
+        "Este apartamento é alugado.",
+        "Aluga este apartamento.",
+        "Alguém aluga este apartamento.",
+        "Este apartamento aluga-se."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Na voz ativa, precisamos de um sujeito agente (quem aluga) e o objeto direto (o que é alugado).",
+      "hintCorrect": "Exato! Na transformação para a voz ativa, o sujeito paciente ('este apartamento') vira objeto direto. Como o agente não é expresso, usamos um sujeito genérico: 'Alguém' ou 'O proprietário' aluga este apartamento.",
+      "hintWrong": "Incorreto. A primeira opção é a passiva analítica. A ativa exige um sujeito agente explícito ou implícito. A resposta certa é 'Alguém aluga este apartamento'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-040",
+      "question": "Na oração 'Receio que eles não cheguem a tempo', o modo subjuntivo ('cheguem') é usado para expressar:",
+      "options": [
+        "Uma certeza do falante.",
+        "Um medo ou receio do falante.",
+        "Uma ordem do falante.",
+        "Um fato passado."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo da oração principal ('Receio') indica um sentimento de apreensão.",
+      "hintCorrect": "Correto! Verbos que expressam sentimentos (receio, temo, tenho medo) ou dúvida exigem o Subjuntivo nas orações subordinadas.",
+      "hintWrong": "Incorreto. 'Receio' indica um sentimento de preocupação, o que pede o modo Subjuntivo na oração seguinte. A resposta certa é 'Um medo ou receio do falante'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-041",
+      "question": "Qual a concordância VERBAL mais aceita na frase: 'A gente ___ cansado no final do dia.'?",
+      "options": [
+        "ficamos",
+        "fica",
+        "ficam",
+        "ficareis"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'A gente' é uma locução pronominal singular, equivalente a 'nós', mas com concordância no singular.",
+      "hintCorrect": "Correto! Apesar de se referir a um grupo, 'A gente' exige o verbo na 3ª pessoa do singular. O correto é 'A gente fica'.",
+      "hintWrong": "Incorreto. 'A gente' não é 'nós' gramaticalmente. É um sujeito de 3ª pessoa do singular. A resposta certa é 'fica'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-042",
+      "question": "Na frase 'Os dois se cumprimentaram calorosamente', a voz verbal é:",
+      "options": [
+        "Ativa.",
+        "Passiva Sintética.",
+        "Reflexiva Recíproca.",
+        "Reflexiva Simples."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A ação foi praticada e recebida de forma mútua entre os elementos do sujeito.",
+      "hintCorrect": "Exato! 'Os dois se cumprimentaram' significa que um cumprimentou o outro e vice-versa. É a típica voz reflexiva recíproca.",
+      "hintWrong": "Incorreto. Não é uma ação passiva. Como há troca mútua de ação entre 'Os dois', é uma reflexiva recíproca. A resposta certa é a terceira opção.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-043",
+      "question": "No período 'Se chover, o jogo será cancelado.', a oração 'Se chover' está no modo:",
+      "options": [
+        "Indicativo, por indicar uma certeza.",
+        "Subjuntivo, por expressar uma hipótese.",
+        "Imperativo, por dar uma condição.",
+        "Infinitivo, por ser uma forma nominal."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Oração iniciada por 'se' condicional indica uma possibilidade, uma condição para que algo aconteça.",
+      "hintCorrect": "Correto! O verbo 'chover' está no Futuro do Subjuntivo, modo utilizado para expressar uma condição ou hipótese futura.",
+      "hintWrong": "Incorreto. 'Se' introduzindo condição exige o Subjuntivo (normalmente o Futuro do Subjuntivo). A resposta certa é 'Subjuntivo, por expressar uma hipótese'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-044",
+      "question": "A concordância em 'Existem muitas pessoas esperando' está:",
+      "options": [
+        "Correta, pois 'haver' existencial pode ir para o plural.",
+        "Incorreta, deveria ser 'Existe' (impessoal).",
+        "Correta, pois 'existir' não é impessoal e concorda com 'pessoas'.",
+        "Incorreta, deveria ser 'Há muitas pessoas'."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Diferente de 'haver', o verbo 'existir' é pessoal e concorda normalmente com seu sujeito.",
+      "hintCorrect": "Exato! 'Existir' é um verbo pessoal. O sujeito é 'muitas pessoas' (plural), portanto o verbo vai para o plural: 'Existem'. (Cuidado para não confundir com 'Há', que é impessoal).",
+      "hintWrong": "Incorreto. 'Existir' varia. O erro comum é usar 'existe' no plural pensando na regra do 'haver'. A frase está correta. A resposta certa é a terceira opção.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-045",
+      "question": "A frase 'Não se esqueça dos seus documentos' está na voz:",
+      "options": [
+        "Ativa, com sujeito oculto 'você'.",
+        "Passiva Sintética.",
+        "Reflexiva (própria).",
+        "Recíproca."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O 'se' indica que a ação de 'esquecer' recai sobre o próprio sujeito que a pratica.",
+      "hintCorrect": "Correto! É uma voz reflexiva. O sujeito (oculto: 'você') pratica a ação de esquecer, e o objeto esquecido são 'os documentos'. O 'se' é pronome reflexivo.",
+      "hintWrong": "Incorreto. O sujeito não é paciente (passiva), e a ação não é mútua (recíproca). A ação retorna ao agente. A resposta certa é 'Reflexiva (própria)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-046",
+      "question": "Em 'Convém que todos participem da reunião', o uso do subjuntivo ('participem') se deve ao fato de que o verbo 'convir':",
+      "options": [
+        "Expressa uma certeza absoluta.",
+        "É impessoal e, nesse uso, exige o subjuntivo na oração completiva.",
+        "Está no pretérito perfeito.",
+        "É um verbo defectivo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Convém' é uma forma impessoal (só usada na 3ª pessoa do singular) que indica conveniência.",
+      "hintCorrect": "Exato! 'Convém que' é uma construção impessoal que indica necessidade ou conveniência, e essas construções geralmente regem o modo Subjuntivo na oração subordinada.",
+      "hintWrong": "Incorreto. Não é sobre o tempo ou defectividade, mas sobre o tipo de construção (impessoal + 'que'). A resposta certa é a segunda opção.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-047",
+      "question": "Na frase 'Um conjunto de regras foi estabelecido', a concordância verbal:",
+      "options": [
+        "Está correta (concorda com 'conjunto', singular).",
+        "Deveria ser no plural ('foram estabelecidas'), concordando com 'regras'.",
+        "Deveria ser 'foi estabelecida'.",
+        "Ambas as concordâncias (singular e plural) são igualmente corretas."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Com palavras como 'conjunto', 'grupo', 'maioria', a concordância preferencial é com o núcleo do sujeito.",
+      "hintCorrect": "Correto! O núcleo do sujeito é 'conjunto' (singular), portanto a concordância verbal padrão é no singular: 'foi estabelecido'. A concordância com o especificador ('regras') é menos comum.",
+      "hintWrong": "Incorreto. A concordância atrativa (com 'regras') existe, mas a norma culta prefere a concordância com o núcleo ('conjunto'). A frase, portanto, está correta como está. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-048",
+      "question": "A oração 'Penso, logo existo.' apresenta os verbos no modo:",
+      "options": [
+        "Subjuntivo, por expressar raciocínio.",
+        "Indicativo, por afirmar fatos como certezas.",
+        "Imperativo, por concluir um argumento.",
+        "Infinitivo, por serem formas nominais."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A frase afirma duas verdades gerais e incontestáveis para o falante.",
+      "hintCorrect": "Correto! Ambos os verbos ('Penso', 'existo') estão no Presente do Indicativo. Este modo é usado para declarar fatos apresentados como reais e certos, como neste famoso princípio filosófico.",
+      "hintWrong": "Incorreto. Não há dúvida, desejo ou ordem. Há uma afirmação categórica de fatos. Isso é função do Indicativo. A resposta certa é a segunda.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-049",
+      "question": "Transforme a voz ativa 'O vento quebrou a janela' para a voz passiva analítica.",
+      "options": [
+        "A janela foi quebrada pelo vento.",
+        "A janela quebrou-se pelo vento.",
+        "Quebrou-se a janela pelo vento.",
+        "Pelo vento, a janela quebrou."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Na passiva analítica, o objeto direto vira sujeito paciente, usa-se 'ser' no mesmo tempo do verbo ativo, o verbo principal vira particípio e o sujeito agente vira 'agente da passiva' (por + ...).",
+      "hintCorrect": "Perfeito! Seguindo a regra: 'A janela' (sujeito paciente) + 'foi' (ser no pretérito) + 'quebrada' (particípio) + 'pelo vento' (agente da passiva).",
+      "hintWrong": "Incorreto. A segunda e terceira opções são tentativas de passiva sintética, mas estão mal construídas. A quarta não é uma passiva. A resposta certa é a primeira.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-050",
+      "question": "Na construção 'Vendo a casa, ele ficou aliviado.', 'Vendo' é:",
+      "options": [
+        "Um gerúndio que forma uma oração subordinada adverbial causal.",
+        "Um particípio irregular.",
+        "O verbo principal da oração.",
+        "Um infinitivo flexionado."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma '-ndo' introduz uma oração reduzida que explica a causa da ação principal.",
+      "hintCorrect": "Exato! 'Vendo a casa' é uma oração reduzida de gerúndio com valor adverbial causal. Equivale a 'Porque vendeu a casa' ou 'Ao vender a casa', ele ficou aliviado.",
+      "hintWrong": "Incorreto. É um gerúndio, mas não está apenas indicando ação contínua; está introduzindo uma oração que expressa causa. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-051",
+      "question": "A frase 'Trata-se de um assunto sério.' está na voz:",
+      "options": [
+        "Ativa, com sujeito indeterminado.",
+        "Passiva Sintética.",
+        "Reflexiva.",
+        "Não é possível definir a voz."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "O verbo 'tratar', quando significa 'versar sobre', é pronominal (usa-se com 'se').",
+      "hintCorrect": "Correto! 'Tratar-se' é uma locução verbal pronominal (ou reflexiva). O 'se' é parte integrante do verbo nesta acepção. Não há transformação para passiva.",
+      "hintWrong": "Incorreto. Não é passiva sintética, pois não pode ser transformada em '*Um assunto sério é tratado'. O 'se' é um pronome que faz parte do verbo. A resposta certa é 'Reflexiva'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-052",
+      "question": "A concordância em 'Nem ele nem ela ___ responsáveis.' deve ser:",
+      "options": [
+        "foi",
+        "foram",
+        "era",
+        "são"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Com a conjunção 'nem... nem...' ligando sujeitos, o verbo normalmente vai para o plural.",
+      "hintCorrect": "Correto! Quando 'nem... nem...' liga sujeitos, o verbo concorda no plural: 'foram responsáveis'.",
+      "hintWrong": "Incorreto. A regra para sujeitos ligados por 'nem... nem...' é a concordância no plural. A resposta certa é 'foram'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-053",
+      "question": "Qual o valor do modo Subjuntivo em: 'Que Deus te abençoe!'?",
+      "options": [
+        "Expressa uma dúvida.",
+        "Expressa um desejo ou benção.",
+        "Expressa uma condição.",
+        "Expressa uma ordem."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "É uma fórmula típica de benção ou desejo positivo.",
+      "hintCorrect": "Exato! O Subjuntivo é o modo do desejo. Nesta frase, expressa um forte desejo ou uma benção.",
+      "hintWrong": "Incorreto. Não é uma dúvida sobre se Deus vai abençoar, mas um desejo expresso. A resposta certa é 'Expressa um desejo ou benção'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-054",
+      "question": "Na frase 'As paredes foram pintadas de azul.', identifique a voz verbal.",
+      "options": [
+        "Ativa.",
+        "Passiva Analítica.",
+        "Passiva Sintética.",
+        "Reflexiva."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A estrutura é: Sujeito Paciente + Verbo Auxiliar 'ser' + Particípio.",
+      "hintCorrect": "Correto! É a voz passiva analítica. 'As paredes' (sujeito paciente) + 'foram' (auxiliar 'ser') + 'pintadas' (particípio). O agente da passiva ('pelos pintores') está oculto.",
+      "hintWrong": "Incorreto. Não há o 'se' da passiva sintética. A estrutura clássica com 'ser + particípio' indica passiva analítica. A resposta certa é a segunda.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-055",
+      "question": "A concordância em 'Mais de um aluno reclamou da prova.' está:",
+      "options": [
+        "Correta, pois 'mais de um' tem ideia de singularidade.",
+        "Incorreta, deveria ser 'reclamaram' (plural).",
+        "Incorreta, deveria ser 'reclamara'.",
+        "Correta apenas na linguagem informal."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Expressões como 'mais de um', 'cerca de um' tendem a levar o verbo para o singular.",
+      "hintCorrect": "Correto! Apesar da ideia de pluralidade, a expressão 'mais de um' leva o verbo para o singular. É a concordância gramatical (e não a lógica) que prevalece.",
+      "hintWrong": "Incorreto. 'Mais de um aluno' é tratado como sujeito singular na norma culta. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-056",
+      "question": "Na oração 'Embora estivesse cansado, foi à festa.', o verbo 'estivesse' está no Subjuntivo porque:",
+      "options": [
+        "Expressa um fato concreto.",
+        "Introduz uma concessão (ideia contrária à principal).",
+        "Está no passado.",
+        "O sujeito está oculto."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Conjunções concessivas ('embora', 'ainda que', 'mesmo que') exigem o modo Subjuntivo.",
+      "hintCorrect": "Exato! 'Embora' é uma conjunção concessiva. Orações subordinadas adverbiais concessivas exigem o verbo no modo Subjuntivo.",
+      "hintWrong": "Incorreto. O tempo verbal não é a razão. É a natureza da conjunção ('embora') que exige o Subjuntivo. A resposta certa é a segunda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-057",
+      "question": "A frase 'O presidente e o ministro discursaram' tem sujeito:",
+      "options": [
+        "Simples (apenas 'presidente').",
+        "Composto ('presidente e ministro').",
+        "Indeterminado.",
+        "Inexistente."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Dois núcleos ligados pela conjunção 'e' formam um sujeito composto.",
+      "hintCorrect": "Correto! O sujeito é composto pelos núcleos 'presidente' e 'ministro', ligados por 'e'. Por isso o verbo está no plural ('discursaram').",
+      "hintWrong": "Incorreto. 'E' une dois termos, tornando o sujeito composto. A resposta certa é 'Composto ('presidente e ministro')'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-058",
+      "question": "Qual o modo do verbo em 'Oxalá ele tenha sucesso!'?",
+      "options": [
+        "Indicativo",
+        "Subjuntivo",
+        "Imperativo",
+        "Infinitivo"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Oxalá' é uma interjeição que expressa um forte desejo.",
+      "hintCorrect": "Correto! 'Oxalá' é seguido do Subjuntivo, pois expressa um desejo, uma esperança.",
+      "hintWrong": "Incorreto. Palavras como 'oxalá', 'tomara', 'queira Deus' introduzem desejos e exigem o modo Subjuntivo. A resposta certa é 'Subjuntivo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-059",
+      "question": "Na voz passiva sintética 'Consertam-se relógios.', o sujeito é:",
+      "options": [
+        "Indeterminado.",
+        "'relógios' (paciente).",
+        "Oculto ('eles').",
+        "Inexistente."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na passiva sintética, o termo que vem antes do verbo (ou após, em algumas construções) é o sujeito paciente.",
+      "hintCorrect": "Exato! Na frase, 'relógios' é o sujeito paciente. A frase pode ser reescrita na passiva analítica: 'Relógios são consertados (por alguém).'",
+      "hintWrong": "Incorreto. A presença do 'se' apassivador indica que há um sujeito paciente, que neste caso é 'relógios'. A resposta certa é ''relógios' (paciente)'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-060",
+      "question": "A concordância em 'Os Lusíadas é um poema épico.' está:",
+      "options": [
+        "Correta, pois obras artísticas no plural concordam no singular.",
+        "Incorreta, deveria ser 'são um poema'.",
+        "Incorreta, deveria ser 'é uma poema'.",
+        "Correta apenas se considerarmos 'Os Lusíadas' como título."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Títulos de obras no plural podem ser considerados como um todo singular.",
+      "hintCorrect": "Correto! Títulos de obras, mesmo no plural, podem concordar no singular quando se referem à obra como uma unidade. 'Os Lusíadas' (a obra) é um poema.",
+      "hintWrong": "Incorreto. Há uma regra especial para títulos. A concordância no singular é perfeitamente aceitável. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-061",
+      "question": "Na frase 'É possível que ele ganhe o prémio.', o modo subjuntivo ('ganhe') é usado porque:",
+      "options": [
+        "A oração principal expressa possibilidade.",
+        "O verbo 'ganhar' é irregular.",
+        "A frase é uma pergunta.",
+        "O sujeito é 'ele'."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Adjetivos como 'possível', 'provável', 'improvável' regem o subjuntivo.",
+      "hintCorrect": "Exato! Expressões impessoais que indicam possibilidade, probabilidade ou improbabilidade ('é possível', 'é provável') exigem o modo Subjuntivo na oração subordinada.",
+      "hintWrong": "Incorreto. A razão é semântica: a ideia de possibilidade não afirmada categoricamente pede o Subjuntivo. A resposta certa é a primeira.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-062",
+      "question": "Qual a voz da frase: 'A taça quebrou-se com o impacto.'?",
+      "options": [
+        "Ativa.",
+        "Passiva (a taça foi quebrada).",
+        "Reflexiva Própria (a taça quebrou a si mesma).",
+        "Reflexiva Recíproca."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A taça não praticou a ação de quebrar. Ela sofreu a ação. O 'se' aqui não é reflexivo.",
+      "hintCorrect": "Correto! É uma voz passiva sintética. O 'se' é partícula apassivadora. A frase equivale a 'A taça foi quebrada com o impacto.'. A taça é o sujeito paciente.",
+      "hintWrong": "Incorreto. Objetos inanimados não praticam ações reflexivas. O 'se' está apassivando o verbo. A resposta certa é 'Passiva'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-063",
+      "question": "A concordância em 'Vossa Senhoria está convidado para a cerimónia.' está correta porque:",
+      "options": [
+        "O verbo concorda com 'Vossa Senhoria' (3ª pessoa).",
+        "O verbo concorda com o predicativo 'convidado' (masculino singular).",
+        "O verbo e o predicativo concordam com a pessoa a quem se fala (2ª pessoa de tratamento).",
+        "Deve-se usar 'estão convidados'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Pronomes de tratamento como 'Vossa Senhoria' exigem o verbo na 3ª pessoa, mas a concordância de gênero/número é com o interlocutor.",
+      "hintCorrect": "Correto! Com pronomes de tratamento, o verbo fica na 3ª pessoa ('está'), mas os adjetivos e particípios concordam em gênero e número com a pessoa a quem se dirige (no exemplo, um homem singular -> 'convidado').",
+      "hintWrong": "Incorreto. O verbo vai para a 3ª pessoa, mas a concordância do predicativo segue o interlocutor. A resposta certa é a segunda.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-064",
+      "question": "Em 'Duvido que ele saiba a resposta.', o uso do subjuntivo ('saiba') é obrigatório devido ao verbo principal:",
+      "options": [
+        "'Duvido', que expressa incerteza.",
+        "'ele', que é sujeito da subordinada.",
+        "'a resposta', que é objeto direto.",
+        "Nenhuma das opções, poderia ser o indicativo."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbos que expressam dúvida, negação ou incerteza regem o subjuntivo.",
+      "hintCorrect": "Exato! 'Duvido' é um verbo que introduz uma dúvida sobre o fato contido na oração seguinte. Por isso, exige o modo Subjuntivo ('saiba').",
+      "hintWrong": "Incorreto. A regência é feita pelo verbo da oração principal. 'Duvidar que' exige Subjuntivo. A resposta certa é a primeira.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-065",
+      "question": "Na frase 'Nós nos ajudamos mutuamente.', a voz é:",
+      "options": [
+        "Ativa.",
+        "Passiva Sintética.",
+        "Reflexiva (simples).",
+        "Reflexiva Recíproca."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O advérbio 'mutuamente' reforça a ideia de ação trocada.",
+      "hintCorrect": "Correto! A presença do pronome 'nos' e do advérbio 'mutuamente' deixa claro que a ação de ajudar é recíproca entre os membros do sujeito 'Nós'. É uma reflexiva recíproca.",
+      "hintWrong": "Incorreto. Não é uma ação passiva, nem reflexiva simples (ajudar a si mesmo). É uma ajuda mútua. A resposta certa é 'Reflexiva Recíproca'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-066",
+      "question": "A concordância em 'Custa dez reais o quilo.' está correta porque:",
+      "options": [
+        "O verbo 'custar', indicando preço, é impessoal (sempre singular).",
+        "O verbo concorda com 'dez reais'.",
+        "O verbo concorda com 'o quilo'.",
+        "A frase deveria ser 'Custam'."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Quando verbos como 'custar', 'valer' indicam valor, peso ou medida, são usados impessoalmente.",
+      "hintCorrect": "Exato! Verbos que exprimem valor, peso, medida e preço são frequentemente usados de forma impessoal, ficando na 3ª pessoa do singular, independente do que vem depois.",
+      "hintWrong": "Incorreto. Neste sentido, 'custar' funciona como 'fazer' (tempo) ou 'haver' (existir), permanecendo no singular. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-067",
+      "question": "Na oração 'Antes que você chegue, eu já terei saído.', a oração 'Antes que você chegue' está no modo:",
+      "options": [
+        "Indicativo, por se referir ao futuro.",
+        "Subjuntivo, por expressar uma anterioridade temporal incerta.",
+        "Imperativo, por ser uma advertência.",
+        "Infinitivo, por ser uma oração reduzida."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Conjunções temporais como 'antes que', 'até que', 'logo que' (quando indicam futuro) exigem o subjuntivo.",
+      "hintCorrect": "Correto! 'Antes que' é uma conjunção subordinativa temporal que exige o verbo da subordinada no modo Subjuntivo, pois refere-se a um momento futuro não concretizado.",
+      "hintWrong": "Incorreto. A ideia de tempo futuro com 'antes que' pede o Subjuntivo. A resposta certa é a segunda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-068",
+      "question": "A frase 'Vive-se bem nesta cidade.' apresenta:",
+      "options": [
+        "Voz passiva sintética ('A cidade é vivida').",
+        "Voz ativa com sujeito indeterminado (índice 'se').",
+        "Voz reflexiva ('viver a si mesmo').",
+        "Verbo pronominal ('viver-se')."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'viver' é intransitivo. Com verbos intransitivos, o 'se' não pode ser apassivador.",
+      "hintCorrect": "Exato! Como 'viver' é intransitivo, o 'se' não forma passiva. Sua função é indeterminar o sujeito da ação. A frase significa 'As pessoas vivem/ Alguém vive bem...'.",
+      "hintWrong": "Incorreto. Verbos intransitivos não formam passiva sintética. O 'se' aqui indetermina quem vive. A resposta certa é a segunda.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-069",
+      "question": "A concordância em 'Aí vem ele e seus irmãos.' está:",
+      "options": [
+        "Correta, pois o verbo concorda com o primeiro núcleo ('ele') próximo a ele.",
+        "Incorreta, deveria ser 'vêm' (plural).",
+        "Correta apenas na linguagem coloquial.",
+        "Incorreta, deveria ser 'vêm ele'."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Quando o sujeito é composto e posposto ao verbo, é comum o verbo concordar com o núcleo mais próximo.",
+      "hintCorrect": "Correto! Na ordem inversa (verbo antes do sujeito composto), é aceitável que o verbo concorde apenas com o primeiro núcleo do sujeito. 'Vem ele e seus irmãos' é uma construção idiomática e aceita.",
+      "hintWrong": "Incorreto. Embora 'vêm' também seja correto, a concordância com o núcleo mais próximo ('ele') é uma possibilidade aceita pela gramática. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-070",
+      "question": "Qual o modo do verbo em 'Saiam daqui imediatamente!'?",
+      "options": [
+        "Indicativo (Presente).",
+        "Subjuntivo (Presente).",
+        "Imperativo Afirmativo.",
+        "Imperativo Negativo."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "É uma ordem direta e afirmativa dada a mais de uma pessoa.",
+      "hintCorrect": "Correto! 'Saiam' é a forma do Imperativo Afirmativo da 2ª pessoa do plural (vós) ou da 3ª pessoa do plural (vocês). É um comando direto.",
+      "hintWrong": "Incorreto. Não é um desejo (subjuntivo) nem uma afirmação (indicativo). É uma ordem afirmativa. A resposta certa é 'Imperativo Afirmativo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-071",
+      "question": "Na frase 'O acidente aconteceu na esquina.', o verbo 'acontecer' é:",
+      "options": [
+        "Transitivo Direto ('aconteceu o quê?').",
+        "Intransitivo (não precisa de complemento).",
+        "De Ligação (liga sujeito a 'na esquina').",
+        "Impersonal (sempre no singular)."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "A ação de 'acontecer' é completa; 'na esquina' é apenas um adjunto adverbial de lugar.",
+      "hintCorrect": "Correto! 'Acontecer' é um verbo intransitivo. Ele não exige um objeto para completar seu sentido. 'Na esquina' é um adjunto adverbial, não um complemento verbal.",
+      "hintWrong": "Incorreto. O verbo não liga sujeito a predicativo, nem transita para um objeto. Sua ação se encerra no sujeito. A resposta certa é 'Intransitivo'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-072",
+      "question": "A frase 'Não se fala mais nisso.' está na voz:",
+      "options": [
+        "Ativa, com sujeito indeterminado.",
+        "Passiva Sintética.",
+        "Reflexiva.",
+        "Impersonal."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O verbo 'falar' é intransitivo quando usado com a preposição 'em' (falar EM algo).",
+      "hintCorrect": "Exato! 'Falar em' é transitivo indireto. Com verbos transitivos indiretos, o 'se' funciona como índice de indeterminação do sujeito. Significa 'As pessoas não falam mais nisso'.",
+      "hintWrong": "Incorreto. Verbo transitivo indireto + 'se' = sujeito indeterminado, não voz passiva. A resposta certa é 'Ativa, com sujeito indeterminado'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-073",
+      "question": "A concordância em 'Já é uma hora da tarde.' está correta. Se mudarmos para 'Já são uma hora da tarde.', estará:",
+      "options": [
+        "Incorreta, pois 'uma hora' é singular.",
+        "Correta, pois com horas o verbo pode ir para o plural.",
+        "Correta apenas em Portugal.",
+        "Incorreta, o verbo 'ser' sempre concorda com a hora."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na indicação de horas, o verbo 'ser' pode concordar com o numeral ('uma' -> singular) ou ir para o plural fixo ('são').",
+      "hintCorrect": "Correto! Na indicação de horas, ambas as formas são aceitas: 'É uma hora' (concordância com o numeral) e 'São uma hora' (verbo no plural fixo, considerado mais formal).",
+      "hintWrong": "Incorreto. 'São uma hora' é uma construção tradicional e correta, especialmente em contextos formais. A resposta certa é a segunda.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-074",
+      "question": "Na construção 'Para ser aprovado, é preciso estudar.', 'Para ser aprovado' é:",
+      "options": [
+        "Uma oração subordinada adverbial final no infinitivo.",
+        "Um gerúndio absoluto.",
+        "O sujeito da oração.",
+        "Uma oração principal."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Ela inicia com a preposição 'para' e contém um verbo no infinitivo, indicando a finalidade da ação principal.",
+      "hintCorrect": "Exato! É uma oração reduzida de infinitivo introduzida pela preposição 'para', exercendo a função de adjunto adverbial de finalidade. (= 'Para que seja aprovado').",
+      "hintWrong": "Incorreto. Não é o sujeito ('estudar' é o sujeito de 'é preciso'). Ela indica o objetivo. A resposta certa é a primeira.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-075",
+      "question": "A frase 'Ele foi considerado o melhor jogador.' apresenta um predicativo. Esse predicativo é do:",
+      "options": [
+        "Sujeito ('Ele foi considerado...').",
+        "Objeto (não há objeto aqui).",
+        "Objeto Direto ('o melhor jogador' qualifica 'Ele').",
+        "Verbo (é um complemento verbal)."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "O termo 'o melhor jogador' atribui uma qualidade ao sujeito 'Ele' como resultado da ação verbal passiva.",
+      "hintCorrect": "Correto! Na voz passiva, o predicativo pode se ligar ao sujeito paciente. 'O melhor jogador' é o predicativo do sujeito 'Ele'.",
+      "hintWrong": "Incorreto. Em 'Ele foi considerado X', X é uma característica atribuída a 'Ele' (sujeito). Portanto, é predicativo do sujeito. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-076",
+      "question": "A concordância em 'Um dos livros que li era fantástico.' está correta. Se usarmos 'eram', a concordância seria com:",
+      "options": [
+        "'Um' (sujeito principal).",
+        "'livros' (antecedente do 'que').",
+        "'li' (verbo da relativa).",
+        "A frase ficaria incorreta."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O pronome relativo 'que' pode retomar 'livros' (plural), atraindo o verbo para o plural.",
+      "hintCorrect": "Exato! Na construção 'um dos livros que', o verbo da oração relativa ('que era/eram') pode concordar com 'um' (singular) ou com 'livros' (plural). 'Eram' concordaria com 'livros'.",
+      "hintWrong": "Incorreto. A concordância atrativa é possível. 'Que' retoma 'livros', então 'eram' estaria correto. A resposta certa é ''livros' (antecedente do 'que')'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-077",
+      "question": "Na frase 'Onde quer que você vá, eu irei também.', 'onde quer que' introduz uma oração no modo:",
+      "options": [
+        "Indicativo, por ser uma declaração.",
+        "Subjuntivo, por ser uma concessão ou lugar indeterminado.",
+        "Imperativo, por ser uma condição.",
+        "Infinitivo, por ser reduzida."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Expressões do tipo 'onde quer que', 'quem quer que', 'o que quer que' indicam indeterminação e exigem o subjuntivo.",
+      "hintCorrect": "Correto! 'Onde quer que' é uma locução conjuntiva que indica lugar indeterminado e exige o verbo da subordinada no modo Subjuntivo ('vá').",
+      "hintWrong": "Incorreto. A ideia de 'qualquer lugar que seja' é de indeterminação, campo do Subjuntivo. A resposta certa é a segunda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-078",
+      "question": "A voz da frase 'As promessas não se cumpriram.' é:",
+      "options": [
+        "Ativa, com sujeito indeterminado.",
+        "Passiva Sintética (promessas foram cumpridas).",
+        "Reflexiva Própria (promessas cumpriram a si mesmas).",
+        "Recíproca."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Promessas não têm vontade própria para cumprir algo. Elas são cumpridas (ou não) por alguém.",
+      "hintCorrect": "Correto! É voz passiva sintética. O 'se' é apassivador. A frase significa 'As promessas não foram cumpridas (por ninguém).'. 'As promessas' é sujeito paciente.",
+      "hintWrong": "Incorreto. Seres inanimados não praticam ações reflexivas. O sentido é passivo. A resposta certa é 'Passiva Sintética'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-079",
+      "question": "A concordância em 'Há de haver soluções.' está:",
+      "options": [
+        "Correta, 'haver' no infinitivo é invariável e 'Há de' é locução modal.",
+        "Incorreta, deveria ser 'Hão de haver'.",
+        "Incorreta, deveria ser 'Há de haverem'.",
+        "Correta apenas na linguagem poética."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A locução 'haver de' + infinitivo expressa futuro ou obrigação. O verbo 'haver' nela é impessoal (sempre 'há').",
+      "hintCorrect": "Exato! 'Há de' é uma locução verbal modal invariável. O verbo principal ('haver', no sentido de existir) fica no infinitivo impessoal, não flexionando. A frase está corretíssima.",
+      "hintWrong": "Incorreto. 'Há de' não varia. O segundo 'haver' (existir) fica no infinitivo. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-080",
+      "question": "Na oração 'Quero que me escutes.', o modo subjuntivo ('escutes') é usado porque:",
+      "options": [
+        "O verbo da principal ('Quero') expressa uma vontade.",
+        "A oração é interrogativa.",
+        "O sujeito é 'que'.",
+        "O verbo 'escutar' é irregular."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbos de vontade, desejo, ordem ou pedido regem o subjuntivo.",
+      "hintCorrect": "Exato! 'Quero' é um verbo que exprime vontade. Orações substantivas objetivas diretas que completam verbos de desejo vêm no modo Subjuntivo.",
+      "hintWrong": "Incorreto. A regência é feita por 'querer'. 'Quero que' + Subjuntivo. A resposta certa é a primeira.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-081",
+      "question": "A frase 'Ela olhou-se no espelho.' exemplifica a voz:",
+      "options": [
+        "Ativa.",
+        "Passiva.",
+        "Reflexiva Própria.",
+        "Recíproca."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A ação de 'olhar' tem como alvo o próprio sujeito que a pratica (usando o espelho como meio).",
+      "hintCorrect": "Correto! É uma voz reflexiva própria. O sujeito 'Ela' pratica a ação de olhar, e o pronome 'se' indica que o objeto da ação é ela mesma. 'No espelho' é um adjunto adverbial.",
+      "hintWrong": "Incorreto. Não há um agente externo (passiva) nem troca de ação (recíproca). A resposta certa é 'Reflexiva Própria'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-082",
+      "question": "A concordância em 'É proibida a entrada de menores.' está correta. O verbo 'ser' concorda com:",
+      "options": [
+        "O sujeito 'a entrada' (singular feminino).",
+        "O predicativo 'proibida' (singular feminino).",
+        "O termo 'menores' (plural).",
+        "A frase deveria ser 'São proibidas'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Em frases com sujeito posposto iniciadas por 'é', a concordância do verbo 'ser' frequentemente se faz com o predicativo.",
+      "hintCorrect": "Correto! Nesta construção, é comum o verbo 'ser' concordar com o predicativo ('proibida'), que está no singular e feminino. O sujeito é 'a entrada de menores'.",
+      "hintWrong": "Incorreto. Apesar de 'a entrada' ser o sujeito, numa construção com sujeito posposto, o verbo 'ser' tende a concordar com o predicativo. A resposta certa é a segunda.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-083",
+      "question": "Na frase 'Tomara que chova amanhã!', o modo do verbo 'chova' é:",
+      "options": [
+        "Indicativo, por se referir ao futuro.",
+        "Subjuntivo, após 'Tomara' que expressa desejo.",
+        "Imperativo, por ser uma exclamação.",
+        "Infinitivo, por ser uma forma nominal."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Tomara' é uma forma do verbo 'tomar' usada como interjeição para expressar desejo.",
+      "hintCorrect": "Correto! 'Tomara (que)' é uma expressão fixa que indica forte desejo e, como tal, exige o modo Subjuntivo na oração seguinte.",
+      "hintWrong": "Incorreto. 'Tomara que' é um dos contextos clássicos que pedem o Subjuntivo. A resposta certa é a segunda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-084",
+      "question": "A voz da frase 'As chaves perderam-se.' é:",
+      "options": [
+        "Ativa (chaves praticaram a ação).",
+        "Passiva Sintética (chaves foram perdidas).",
+        "Reflexiva (chaves perderam a si mesmas).",
+        "Recíproca."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Objetos inanimados como 'chaves' não têm capacidade de 'se perder' ativamente.",
+      "hintCorrect": "Correto! É uma voz passiva sintética. O 'se' é apassivador. A frase significa 'As chaves foram perdidas (por alguém).'. É uma construção muito comum com verbos como perder, achar, encontrar.",
+      "hintWrong": "Incorreto. Não faz sentido as chaves praticarem a ação de se perder. A interpretação é passiva. A resposta certa é 'Passiva Sintética'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-085",
+      "question": "A concordância em 'Seguiram-se anos de prosperidade.' está:",
+      "options": [
+        "Correta, o verbo concorda com 'anos' (sujeito posposto).",
+        "Incorreta, deveria ser 'Seguiu-se' (concordando com a ideia de sequência).",
+        "Incorreta, deveria ser 'Foi seguido'.",
+        "Correta apenas se 'se' for pronome reflexivo."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Nesta construção, 'anos' é o sujeito da oração. O verbo deve concordar com ele.",
+      "hintCorrect": "Exato! Nesta frase, 'anos' é o sujeito paciente da passiva sintética. O verbo concorda com ele: 'Seguiram-se anos'. (Anos de prosperidade se seguiram / foram seguidos).",
+      "hintWrong": "Incorreto. O sujeito é 'anos' (plural), portanto o verbo vai para o plural. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-086",
+      "question": "Em 'A menos que você insista, não vou mudar de ideia.', a oração 'A menos que você insista' está no modo:",
+      "options": [
+        "Indicativo, por expressar uma condição real.",
+        "Subjuntivo, após 'a menos que' que expressa condição negativa.",
+        "Imperativo, por ser um aviso.",
+        "Infinitivo, por ser reduzida."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Conjunções concessivas ou condicionais como 'a menos que', 'a não ser que' exigem o subjuntivo.",
+      "hintCorrect": "Correto! 'A menos que' é uma locução conjuntiva condicional que exige o verbo da subordinada no modo Subjuntivo ('insista').",
+      "hintWrong": "Incorreto. 'A menos que' introduz uma condição para que algo NÃO aconteça, e esse contexto exige o Subjuntivo. A resposta certa é a segunda.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-087",
+      "question": "A frase 'Compraram-se sapatos.' e a frase 'Precisa-se de sapatos.' diferem quanto à função do 'se'. Na primeira, ele é:",
+      "options": [
+        "Índice de indeterminação do sujeito.",
+        "Partícula apassivadora.",
+        "Pronome reflexivo.",
+        "Parte integrante do verbo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Compare a transitividade dos verbos. 'Comprar' é transitivo direto; 'precisar' é transitivo indireto.",
+      "hintCorrect": "Exato! Em 'Compraram-se sapatos', o verbo 'comprar' é transitivo direto. O 'se' transforma a construção em passiva sintética: 'Sapatos são comprados'.",
+      "hintWrong": "Incorreto. Com verbo transitivo direto ('comprar'), o 'se' forma a passiva sintética. A resposta certa é 'Partícula apassivadora'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-088",
+      "question": "A concordância em 'Sobrou apenas duas fatias de bolo.' é considerada:",
+      "options": [
+        "Correta, na linguagem informal, por concordância atrativa com 'duas fatias'.",
+        "Incorreta, pois deveria ser 'Sobraram'.",
+        "Correta, pois 'sobrar' é impessoal como 'fazer' (tempo).",
+        "Correta em qualquer contexto."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Na norma culta, 'sobrar' é pessoal e deve concordar com o sujeito.",
+      "hintCorrect": "Correto! Na gramática normativa, o correto é 'Sobraram apenas duas fatias', pois o sujeito ('duas fatias') é plural. A forma 'sobrou' é comum na linguagem coloquial por influência da concordância atrativa (o verbo concorda com o predicativo numérico 'duas').",
+      "hintWrong": "Incorreto. 'Sobrar' não é impessoal. A forma culta é 'Sobraram'. A primeira opção descreve bem o fenômeno linguístico. A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-089",
+      "question": "Na frase 'Roubaram-lhe a carteira.', a voz é ativa. Transformando para a passiva analítica, temos:",
+      "options": [
+        "A carteira foi roubada a ele.",
+        "A carteira foi-lhe roubada.",
+        "Ele foi roubado a carteira.",
+        "Foi roubada a carteira a ele."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na passiva, o objeto direto ('a carteira') vira sujeito. O objeto indireto ('lhe') deve ser mantido.",
+      "hintCorrect": "Exato! Na transformação, o objeto direto 'a carteira' torna-se sujeito paciente: 'A carteira'. O verbo fica na passiva: 'foi roubada'. O objeto indireto ('lhe') permanece como complemento: 'foi-lhe roubada'.",
+      "hintWrong": "Incorreto. A terceira opção muda o sentido. A primeira e a quarta têm problemas de construção. A resposta correta e idiomática é 'A carteira foi-lhe roubada.'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-090",
+      "question": "Em 'Ordeno que saias.', o modo subjuntivo ('saias') é usado porque o verbo da principal ('Ordeno') expressa:",
+      "options": [
+        "Uma dúvida.",
+        "Uma ordem ou comando.",
+        "Uma possibilidade.",
+        "Um fato passado."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos que expressam mandamento, autorização ou proibição regem o subjuntivo.",
+      "hintCorrect": "Correto! 'Ordenar' é um verbo de comando. As orações subordinadas que completam verbos de ordem, pedido ou autorização vêm no modo Subjuntivo.",
+      "hintWrong": "Incorreto. 'Ordenar' não deixa dúvida; é uma imposição de vontade, contexto que pede o Subjuntivo. A resposta certa é 'Uma ordem ou comando'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-091",
+      "question": "A voz da frase 'As flores murcharam-se com o calor.' é:",
+      "options": [
+        "Ativa, pois flores podem murchar ativamente.",
+        "Passiva Sintética (flores foram murchadas).",
+        "Reflexiva (flores murcharam a si mesmas).",
+        "A frase está mal construída; o 'se' é redundante."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O verbo 'murchar' é intransitivo quando se refere ao processo natural. Nesse caso, não leva 'se'.",
+      "hintCorrect": "Exato! A construção correta seria simplesmente 'As flores murcharam com o calor.'. O uso do 'se' com verbos intransitivos que indicam processo ou mudança de estado ('murchar', 'crescer', 'aparecer') é considerado redundante e desnecessário na norma culta.",
+      "hintWrong": "Incorreto. A frase, como está, contém um vício de linguagem (o 'se' expletivo ou de alargamento). A resposta mais precisa é que a construção é inadequada. A resposta certa é a quarta.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-092",
+      "question": "A concordância em 'Vai fazer dois meses que não a vejo.' está:",
+      "options": [
+        "Correta, pois 'fazer' indicando tempo é impessoal.",
+        "Incorreta, deveria ser 'Vão fazer'.",
+        "Incorreta, deveria ser 'Faz'.",
+        "Correta apenas no Brasil."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A locução verbal 'ir fazer' também herda a impessoalidade de 'fazer' quando indica tempo decorrido.",
+      "hintCorrect": "Correto! Na indicação de tempo decorrido, a locução 'ir fazer' se comporta como 'fazer', permanecendo impessoal (na 3ª pessoa do singular). 'Vai fazer dois meses' é a forma correta.",
+      "hintWrong": "Incorreto. A impessoalidade se mantém na locução. 'Vão fazer' estaria errado. A resposta certa é a primeira.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-093",
+      "question": "Na construção 'Apesar de estar doente, foi trabalhar.', 'Apesar de estar doente' é:",
+      "options": [
+        "Oração subordinada adverbial concessiva no infinitivo.",
+        "Uma oração principal.",
+        "O sujeito da oração.",
+        "Um gerúndio absoluto."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Introduzida por 'apesar de', expressa uma concessão (contraste) em relação à principal.",
+      "hintCorrect": "Exato! É uma oração reduzida de infinitivo, introduzida pela locução prepositiva 'apesar de', exercendo a função de oração subordinada adverbial concessiva. (= 'Apesar de que estivesse doente').",
+      "hintWrong": "Incorreto. 'Apesar de' é uma locução concessiva. A forma verbal 'estar' está no infinitivo, caracterizando uma oração reduzida. A resposta certa é a primeira.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-094",
+      "question": "A frase 'Os noivos beijaram-se no altar.' exemplifica a voz:",
+      "options": [
+        "Ativa.",
+        "Passiva.",
+        "Reflexiva Própria.",
+        "Reflexiva Recíproca."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A ação de beijar foi trocada entre os dois membros do sujeito.",
+      "hintCorrect": "Correto! É a típica voz reflexiva recíproca. 'Os noivos' são um sujeito composto, e a ação de beijar foi mútua: um beijou o outro.",
+      "hintWrong": "Incorreto. Não é um beijo passivo, nem cada um beijou a si mesmo. É uma ação recíproca. A resposta certa é 'Reflexiva Recíproca'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "verbos-095",
+      "question": "A concordância em 'É necessário pacência e perseverança.' (sujeito composto posposto) poderia também ser expressa como:",
+      "options": [
+        "São necessários pacência e perseverança.",
+        "São necessário pacência e perseverança.",
+        "É necessário pacências e perseveranças.",
+        "A forma original é a única correta."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Com sujeito composto posposto, o verbo 'ser' pode concordar com o predicativo no singular ('é necessário') ou ir para o plural concordando com o sujeito ('são necessários').",
+      "hintCorrect": "Exato! Ambas as construções são possíveis e corretas: 1) Verbo no singular concordando com o predicativo ('É necessário X e Y'). 2) Verbo e predicativo no plural concordando com o sujeito composto ('São necessários X e Y').",
+      "hintWrong": "Incorreto. A concordância no plural é perfeitamente válida, desde que o predicativo também vá para o plural ('necessários'). A resposta certa é a primeira.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-096",
+      "question": "Em 'Seria melhor se você calasse a boca.', a oração 'se você calasse a bota' está no modo:",
+      "options": [
+        "Indicativo (Imperfeito).",
+        "Subjuntivo (Imperfeito).",
+        "Imperativo.",
+        "Infinitivo."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O 'se' aqui não é condicional, mas sim uma conjunção integrante que introduz uma oração subjetiva. O verbo expressa um desejo/conselho não real.",
+      "hintCorrect": "Correto! Nesta construção, 'se' equivale a 'que' e introduz uma oração subordinada substantiva subjetiva. O verbo 'calasse' está no Pretérito Imperfeito do Subjuntivo, expressando um desejo ou conselho hipotético.",
+      "hintWrong": "Incorreto. Não é um fato (indicativo) nem uma ordem direta (imperativo). É um conselho hipotético, próprio do Subjuntivo. A resposta certa é a segunda.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-097",
+      "question": "A voz da frase 'Alugam-se casas.' é passiva sintética. O agente da passiva (quem aluga) está:",
+      "options": [
+        "Expresso na frase ('se').",
+        "Oculto ou indeterminado.",
+        "Expresso pelo termo 'casas'.",
+        "Inexistente, pois a frase é impessoal."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na passiva sintética, o agente da passiva (a pessoa ou entidade que pratica a ação) geralmente não é mencionado.",
+      "hintCorrect": "Exato! Na passiva sintética, o foco está no sujeito paciente ('casas') e na ação sofrida. O agente (o proprietário, a imobiliária) normalmente fica oculto ou é irrelevante para a mensagem.",
+      "hintWrong": "Incorreto. O 'se' é a partícula de passiva, não o agente. 'Casas' é o sujeito paciente. O agente não está expresso. A resposta certa é 'Oculto ou indeterminado'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-098",
+      "question": "A concordância em 'Basta-me suas palavras.' está:",
+      "options": [
+        "Correta, 'bastar' pode ser impessoal e ficar no singular com objeto indireto.",
+        "Incorreta, deveria ser 'Bastam-me' (concordância com 'palavras').",
+        "Incorreta, deveria ser 'Bastam-me suas palavra'.",
+        "Correta apenas na linguagem poética."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Na norma culta, 'bastar' é pessoal e deve concordar com o sujeito.",
+      "hintCorrect": "Correto! O verbo 'bastar' concorda com o sujeito. Neste caso, o sujeito é 'suas palavras' (plural). Portanto, o correto é 'Bastam-me suas palavras.'.",
+      "hintWrong": "Incorreto. 'Bastar' não é impessoal como 'fazer' ou 'haver'. Ele varia. A resposta certa é 'Bastam-me' (concordância com 'palavras').",
+      "difficulty": "hard"
+    },
+    {
+      "id": "verbos-099",
+      "question": "Na frase 'Mandaram que eu me retirasse.', o modo subjuntivo ('retirasse') é usado porque 'mandaram' expressa:",
+      "options": [
+        "Uma dúvida sobre o passado.",
+        "Uma ordem indireta no passado.",
+        "Um fato consumado.",
+        "Uma possibilidade remota."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O verbo 'mandar' no passado ainda carrega a ideia de comando, que exige o subjuntivo na subordinada.",
+      "hintCorrect": "Exato! 'Mandaram' é um verbo de ordem no passado. Mesmo no passado, a oração subordinada que completa esse sentido de ordem mantém o verbo no modo Subjuntivo (no caso, no Imperfeito do Subjuntivo: 'retirasse').",
+      "hintWrong": "Incorreto. Não é uma dúvida, mas uma ordem relatada. A resposta certa é 'Uma ordem indireta no passado'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "verbos-100",
+      "question": "A frase 'A casa construiu-se em seis meses.' está na voz:",
+      "options": [
+        "Ativa (a casa praticou a ação).",
+        "Passiva Sintética (a casa foi construída).",
+        "Reflexiva (a casa construiu a si mesma).",
+        "A frase está incorreta; deveria ser 'A casa foi construída'."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Casas não se constroem sozinhas. O 'se' indica que a ação foi realizada por alguém sobre a casa.",
+      "hintCorrect": "Correto! É uma voz passiva sintética. A frase significa 'A casa foi construída (por construtores) em seis meses.'. É uma construção comum, especialmente em textos mais formais ou jornalísticos.",
+      "hintWrong": "Incorreto. A interpretação lógica é passiva. A quarta opção indica uma alternativa correta, mas a forma da segunda opção (passiva sintética) também é gramaticalmente válida. A resposta da questão é a segunda.",
+      "difficulty": "medium"
     }
   ]
 }

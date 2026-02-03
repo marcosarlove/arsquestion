@@ -1,4 +1,3 @@
-
 {
   "category": "Língua Portuguesa",
   "subcategory": "Relação Semântica",
@@ -28,7 +27,7 @@
         "Certo"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Antônimos são palavras com significados opostos. O oposto de 'fazer o bem' é 'fazer o...'. Cuidado para não confundir com o oposto de 'bom'.",
+      "hint": "Antônimos são palavras com significados opostos. O oposto do advérbio 'bem' é o advérbio 'mal'. Cuidado para não confundir com o antônimo do adjetivo 'bom', que é 'mau'.",
       "hintCorrect": "Exato! O antônimo do advérbio 'bem' é 'mal'. O antônimo do adjetivo 'bom' é 'mau'.",
       "hintWrong": "Incorreto. A resposta certa é 'mal'. 'Mal' é o oposto de 'bem', enquanto 'mau' é o oposto de 'bom'.",
       "difficulty": "medium"
@@ -43,9 +42,9 @@
         "Secção"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Sessão' refere-se a um período de tempo de um evento. 'Seção' é uma divisão. 'Cessão' é o ato de ceder.",
+      "hint": "'Sessão' refere-se a um período de tempo de um evento. 'Seção' (ou 'secção') é uma divisão de um todo. 'Cessão' é o ato de ceder algo.",
       "hintCorrect": "Correto! 'Sessão' (com 'ss') é usada para indicar o tempo de duração de uma reunião, espetáculo ou filme.",
-      "hintWrong": "Incorreto. A resposta certa é 'Sessão'. 'Seção' é um departamento e 'Cessão' é o ato de ceder.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sessão'. 'Seção' (ou secção) é uma parte ou divisão de um todo, como um departamento. 'Cessão' é o ato de ceder algo.",
       "difficulty": "medium"
     },
     {
@@ -60,7 +59,7 @@
       "correctAnswerIndex": 3,
       "hint": "São palavras muito parecidas na escrita e na pronúncia, mas com significados diferentes.",
       "hintCorrect": "Exato! Parônimos são palavras parecidas na forma, mas diferentes no significado, o que frequentemente causa confusão.",
-      "hintWrong": "Incorreto. A resposta certa é 'Paronímia'. Homônimos teriam a mesma pronúncia ou a mesma grafia.",
+      "hintWrong": "Incorreto. A resposta certa é 'Paronímia'. Homônimos teriam a mesma pronúncia e/ou grafia, e aqui elas são ligeiramente diferentes.",
       "difficulty": "easy"
     },
     {
@@ -73,9 +72,9 @@
         "Doméstico"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Hiperônimo é a palavra mais genérica que engloba um grupo de palavras mais específicas. Qual categoria inclui todos os exemplos?",
-      "hintCorrect": "Correto! 'Animal' é a categoria geral que inclui 'cão', 'gato', 'pássaro' e muitos outros. 'Mamífero' seria um hiperônimo para 'cão' e 'gato', mas não para 'pássaro'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Animal', pois é a categoria mais geral que abrange todos os termos listados.",
+      "hint": "Hiperônimo é a palavra mais genérica que engloba um grupo de palavras mais específicas (os hipônimos). Qual categoria inclui todos os exemplos?",
+      "hintCorrect": "Correto! 'Animal' é a categoria geral (hiperônimo) que inclui 'cão', 'gato', 'pássaro' e muitos outros. 'Mamífero' seria um hiperônimo para 'cão' e 'gato', mas não para 'pássaro'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Animal', pois é a categoria mais geral que abrange todos os termos listados. 'Mamífero' não inclui 'pássaro'.",
       "difficulty": "medium"
     },
     {
@@ -88,9 +87,9 @@
         "Contagem da população."
       ],
       "correctAnswerIndex": 1,
-      "hint": "A palavra homófona 'acento' é o sinal gráfico. 'Assento' (com 'ss') refere-se a outra coisa.",
+      "hint": "Pense na palavra homófona 'acento', que é o sinal gráfico. 'Assento' (com 'ss') refere-se a outra coisa.",
       "hintCorrect": "Correto! 'Assento' com 'ss' é um lugar onde se senta.",
-      "hintWrong": "Incorreto. A resposta certa é 'Lugar para sentar'. 'Acento' com 'c' é o sinal gráfico.",
+      "hintWrong": "Incorreto. A resposta certa é 'Lugar para sentar'. 'Acento' com 'c' é o sinal gráfico que indica a sílaba tônica.",
       "difficulty": "easy"
     },
     {
@@ -103,9 +102,9 @@
         "Sinônimas"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Elas têm a mesma grafia ('homo' + 'grafo'), mas a pronúncia é diferente.",
+      "hint": "Elas têm a mesma grafia ('homo' = igual, 'grafo' = escrita), mas a pronúncia é diferente.",
       "hintCorrect": "Exato! São homógrafas porque se escrevem da mesma forma, mas a pronúncia (timbre da vogal 'o') e o significado são diferentes.",
-      "hintWrong": "Incorreto. A resposta certa é 'Homógrafas'. Elas têm a mesma escrita, mas som e significado diferentes.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homógrafas'. Elas têm a mesma escrita, mas som e significado diferentes. Homófonas teriam o mesmo som e escrita/grafia diferentes.",
       "difficulty": "medium"
     },
     {
@@ -118,9 +117,9 @@
         "Largo"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Procure a palavra que significa o oposto de 'longo' em termos de comprimento.",
+      "hint": "Procure a palavra que significa o oposto de 'longo' em termos de comprimento ou duração.",
       "hintCorrect": "Correto! 'Curto' é o antônimo direto de 'longo'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Curto'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Curto'. 'Largo' é antônimo de 'estreito', e 'grande' é antônimo de 'pequeno'.",
       "difficulty": "easy"
     },
     {
@@ -133,9 +132,9 @@
         "Homonímia"
       ],
       "correctAnswerIndex": 2,
-      "hint": "É quando uma única palavra adquire vários significados diferentes dependendo do contexto.",
-      "hintCorrect": "Correto! A polissemia é a capacidade de uma palavra ter múltiplos significados.",
-      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "hint": "Acontece quando uma única palavra adquire vários significados diferentes, mas relacionados, dependendo do contexto.",
+      "hintCorrect": "Correto! A polissemia é a capacidade de uma palavra ter múltiplos significados, todos originados de uma mesma ideia central (como a ideia de 'pequena marca' ou 'lugar específico').",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'. Homonímia ocorre quando palavras com origens e significados completamente diferentes acabam tendo a mesma forma ou som por acaso.",
       "difficulty": "medium"
     },
     {
@@ -150,7 +149,7 @@
       "correctAnswerIndex": 0,
       "hint": "'Concerto' com 'c' refere-se a uma apresentação musical. 'Conserto' com 's' é um reparo.",
       "hintCorrect": "Exato! 'Concerto' é um espetáculo musical.",
-      "hintWrong": "Incorreto. A resposta certa é 'Concerto'. 'Conserto' (com s) significa reparo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Concerto'. 'Conserto' (com s) significa o ato de reparar algo que estava quebrado.",
       "difficulty": "medium"
     },
     {
@@ -163,9 +162,9 @@
         "Doce"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Hipônimos são os itens específicos que pertencem a uma categoria geral (o hiperônimo).",
-      "hintCorrect": "Correto! 'Fruta' é a categoria geral que engloba 'maçã', 'banana' e 'laranja'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Fruta'.",
+      "hint": "Hipônimos são os itens específicos que pertencem a uma categoria geral (o hiperônimo). Qual palavra define a categoria deles?",
+      "hintCorrect": "Correto! 'Fruta' é a categoria geral (hiperônimo) que engloba 'maçã', 'banana' e 'laranja'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fruta'. 'Comida' seria um hiperônimo muito mais geral, mas 'fruta' é o mais direto e específico para o grupo.",
       "difficulty": "easy"
     },
     {
@@ -178,12 +177,12 @@
       "correctAnswerIndex": 1,
       "hint": "'Taxar' com 'x' significa impor uma taxa ou imposto. 'Tachar' com 'ch' é acusar ou rotular.",
       "hintCorrect": "Correto! 'Taxar' refere-se à aplicação de taxas ou tributos.",
-      "hintWrong": "Incorreto. A resposta certa é 'Taxar'. 'Tachar' (com ch) significa rotular alguém de algo (ex: tachar de ladrão).",
+      "hintWrong": "Incorreto. A resposta certa é 'Taxar'. 'Tachar' (com ch) significa rotular alguém de algo negativo (ex: tachar de ladrão).",
       "difficulty": "hard"
     },
     {
       "id": "semantica-013",
-      "question": "As palavras 'verão' (estação do ano) e 'verão' (verbo ver no futuro) são:",
+      "question": "As palavras 'verão' (estação do ano) e 'verão' (verbo 'ver' no futuro) são:",
       "options": [
         "Homônimos perfeitos",
         "Homógrafos apenas",
@@ -191,9 +190,9 @@
         "Parônimos"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Elas têm a mesma grafia e a mesma pronúncia, mas significados totalmente diferentes.",
-      "hintCorrect": "Exato! São homônimos perfeitos porque são idênticas tanto na escrita quanto no som.",
-      "hintWrong": "Incorreto. A resposta certa é 'Homônimos perfeitos'.",
+      "hint": "Elas têm a mesma grafia e a mesma pronúncia, mas significados totalmente diferentes e sem relação.",
+      "hintCorrect": "Exato! São homônimos perfeitos porque são idênticas tanto na escrita quanto no som, mas com origens e significados distintos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homônimos perfeitos'. Por terem a mesma grafia e o mesmo som, elas são simultaneamente homógrafas e homófonas, caracterizando a homonímia perfeita.",
       "difficulty": "medium"
     },
     {
@@ -206,9 +205,9 @@
         "Discreção"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Procure a palavra que significa 'qualidade de ser discreto' e é muito parecida na escrita.",
+      "hint": "Procure a palavra que significa 'qualidade de ser discreto' e é muito parecida na escrita e pronúncia.",
       "hintCorrect": "Correto! 'Descrição' e 'discrição' são parônimos, palavras parecidas na forma mas com significados distintos.",
-      "hintWrong": "Incorreto. A resposta certa é 'Discrição'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Discrição'. 'Dispensa' (ato de dispensar) e 'despensa' (local de armazenar alimentos) formam outro par de parônimos.",
       "difficulty": "medium"
     },
     {
@@ -219,9 +218,9 @@
         "Cassar"
       ],
       "correctAnswerIndex": 1,
-      "hint": "'Caçar' com 'ç' é perseguir animais. 'Cassar' com 'ss' é anular ou invalidar.",
+      "hint": "'Caçar' com 'ç' é perseguir animais. 'Cassar' com 'ss' é anular, invalidar ou suspender um direito.",
       "hintCorrect": "Correto! 'Cassar' é o termo jurídico para anular um mandato, licença ou direito.",
-      "hintWrong": "Incorreto. A resposta certa é 'Cassar'. 'Caçar' (com ç) é perseguir animais.",
+      "hintWrong": "Incorreto. A resposta certa é 'Cassar'. 'Caçar' (com ç) é o ato de perseguir animais para apanhá-los.",
       "difficulty": "hard"
     },
     {
@@ -234,9 +233,9 @@
         "Farto"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Procure o oposto de 'cheio'.",
+      "hint": "Procure o oposto de 'cheio', que indica ausência de conteúdo.",
       "hintCorrect": "Correto! 'Vazio' é o antônimo de 'cheio'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Vazio'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Vazio'. 'Completo', 'lotado' e 'farto' são sinônimos ou ideias relacionadas a 'cheio'.",
       "difficulty": "easy"
     },
     {
@@ -249,9 +248,9 @@
         "Paronímia"
       ],
       "correctAnswerIndex": 1,
-      "hint": "É uma única palavra com múltiplos significados.",
-      "hintCorrect": "Exato! É um caso clássico de polissemia, onde a mesma palavra 'banco' adquiriu diferentes significados.",
-      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "hint": "É uma única palavra com múltiplos significados que, historicamente, podem ter uma origem em comum.",
+      "hintCorrect": "Exato! É um caso clássico de polissemia, onde a mesma palavra 'banco' adquiriu diferentes significados a partir de uma ideia base (como 'local de depósito' ou 'assento').",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'. Sinonímia seria se fossem palavras diferentes com o mesmo significado (ex: 'assento' e 'banco' [móvel]).",
       "difficulty": "easy"
     },
     {
@@ -262,14 +261,14 @@
         "Senso"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Censo' com 'c' é a contagem ou recenseamento. 'Senso' com 's' é juízo.",
-      "hintCorrect": "Correto! 'Censo' é o levantamento estatístico da população.",
-      "hintWrong": "Incorreto. A resposta certa é 'Censo'. 'Senso' (com s) refere-se a juízo (bom senso).",
+      "hint": "'Censo' com 'c' é a contagem ou recenseamento oficial. 'Senso' com 's' refere-se a juízo, percepção.",
+      "hintCorrect": "Correto! 'Censo' é o levantamento estatístico oficial da população.",
+      "hintWrong": "Incorreto. A resposta certa é 'Censo'. 'Senso' (com s) refere-se a juízo ou entendimento (ex: bom senso, senso comum).",
       "difficulty": "medium"
     },
     {
       "id": "semantica-019",
-      "question": "As palavras 'emergir' (vir à tona) e 'imergir' (mergulhar) são:",
+      "question": "As palavras 'emergir' (vir à tona, surgir) e 'imergir' (mergulhar) são:",
       "options": [
         "Sinônimas",
         "Antônimas",
@@ -277,9 +276,9 @@
         "Homófonas"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Elas são muito parecidas na forma, mas têm significados diferentes (e até opostos!). A relação de semelhança na forma é a chave.",
-      "hintCorrect": "Correto! São parônimas por serem parecidas na grafia e pronúncia, mas com significados distintos.",
-      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'. Embora seus significados sejam opostos (antonímia), a relação de forma é de paronímia.",
+      "hint": "Elas são muito parecidas na forma (grafia e pronúncia), mas têm significados diferentes (e até opostos!). A relação de semelhança na forma é a chave.",
+      "hintCorrect": "Correto! São parônimas por serem parecidas na grafia e pronúncia, mas com significados distintos. Embora sejam antônimas em significado, a classificação pedida é baseada na forma, que é de paronímia.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'. Embora seus significados sejam opostos (o que caracterizaria uma antonímia), a relação de semelhança na forma as classifica como parônimas.",
       "difficulty": "hard"
     },
     {
@@ -292,9 +291,9 @@
         "Pesado"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Procure a palavra com o mesmo significado de 'rápido'.",
+      "hint": "Procure a palavra com o mesmo significado ou muito próximo de 'rápido'.",
       "hintCorrect": "Correto! 'Veloz' é sinônimo de 'rápido'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Veloz'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Veloz'. 'Lento' e 'vagaroso' são antônimos.",
       "difficulty": "easy"
     },
     {
@@ -305,9 +304,9 @@
         "Tráfico"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Tráfego' com 'e' refere-se ao trânsito. 'Tráfico' com 'i' é comércio ilegal.",
-      "hintCorrect": "Correto! 'Tráfego' é o termo usado para o trânsito de veículos, pessoas ou informações.",
-      "hintWrong": "Incorreto. A resposta certa é 'Tráfego'. 'Tráfico' (com i) refere-se a comércio ilegal.",
+      "hint": "'Tráfego' com 'e' refere-se ao trânsito, circulação. 'Tráfico' com 'i' é comércio, especialmente o ilegal.",
+      "hintCorrect": "Correto! 'Tráfego' é o termo usado para o movimento ou fluxo de veículos, pessoas ou dados.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tráfego'. 'Tráfico' (com i) refere-se a comércio, normalmente associado a atividades ilegais, como o tráfico de drogas.",
       "difficulty": "medium"
     },
     {
@@ -320,9 +319,9 @@
         "Não são antônimos."
       ],
       "correctAnswerIndex": 2,
-      "hint": "A existência de um pressupõe a existência do outro em uma relação recíproca.",
-      "hintCorrect": "Exato! É uma antonímia de relação, pois a palavra 'pai' só faz sentido em relação a 'filho', e vice-versa.",
-      "hintWrong": "Incorreto. A resposta certa é 'Reversa (ou de Relação)'.",
+      "hint": "A existência de um pressupõe a existência do outro em uma relação recíproca e interdependente.",
+      "hintCorrect": "Exato! É uma antonímia de relação (ou reversa), pois a palavra 'pai' só faz sentido em relação a 'filho', e vice-versa. É uma relação de oposição dentro de um vínculo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Reversa (ou de Relação)'. Antônimos complementares seriam como 'vivo/morto' (a negação de um implica necessariamente o outro). Aqui, a relação é de interdependência.",
       "difficulty": "hard"
     },
     {
@@ -335,9 +334,9 @@
         "Casa"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Qual é a categoria geral que inclui todos esses itens?",
+      "hint": "Qual é a categoria geral que inclui todos esses itens de forma mais específica?",
       "hintCorrect": "Correto! 'Móvel' é o hiperônimo que engloba 'mesa', 'cadeira', 'sofá', etc.",
-      "hintWrong": "Incorreto. A resposta certa é 'Móvel'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Móvel'. 'Objeto' é um hiperônimo muito mais amplo e menos específico. Nem todos os objetos são móveis.",
       "difficulty": "easy"
     },
     {
@@ -348,14 +347,14 @@
         "Retificar"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Ratificar' é confirmar. 'Retificar' é corrigir.",
-      "hintCorrect": "Correto! 'Ratificar' significa confirmar ou validar algo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Ratificar'. 'Retificar' significa corrigir um erro.",
+      "hint": "'Ratificar' é confirmar, validar, tornar firme. 'Retificar' é corrigir, retificar um erro.",
+      "hintCorrect": "Correto! 'Ratificar' significa confirmar ou validar algo oficialmente.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ratificar'. 'Retificar' significa corrigir um erro, o que seria o oposto de validar (implicaria que havia um erro).",
       "difficulty": "hard"
     },
     {
       "id": "semantica-025",
-      "question": "As palavras 'cedo' (advérbio) e 'cedo' (verbo ceder) são:",
+      "question": "As palavras 'cedo' (advérbio de tempo) e 'cedo' (verbo 'ceder' na 1ª pessoa do singular) são:",
       "options": [
         "Homônimos perfeitos",
         "Homógrafos apenas",
@@ -363,9 +362,9 @@
         "Parônimos"
       ],
       "correctAnswerIndex": 0,
-      "hint": "Mesma grafia, mesma pronúncia, significados diferentes.",
+      "hint": "Mesma grafia, mesma pronúncia, significados diferentes e sem relação etimológica.",
       "hintCorrect": "Correto! São idênticas na forma e no som, mas os significados são distintos, caracterizando homônimos perfeitos.",
-      "hintWrong": "Incorreto. A resposta certa é 'Homônimos perfeitos'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homônimos perfeitos'. Por terem a mesma grafia e o mesmo som, não podem ser 'apenas' homógrafos ou homófonos; são ambos ao mesmo tempo.",
       "difficulty": "medium"
     },
     {
@@ -378,9 +377,9 @@
         "Amizade"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Procure o sentimento oposto ao amor.",
-      "hintCorrect": "Correto! 'Ódio' é o antônimo clássico de 'amor'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Ódio'.",
+      "hint": "Procure o sentimento oposto e contrastante ao amor.",
+      "hintCorrect": "Correto! 'Ódio' é o antônimo clássico e direto de 'amor'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ódio'. 'Paixão', 'afeição' e 'amizade' são sentimentos relacionados ou de mesma polaridade afetiva, não opostos.",
       "difficulty": "easy"
     },
     {
@@ -391,9 +390,9 @@
         "Cavalheiro"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Cavaleiro' é o homem que anda a cavalo. 'Cavalheiro' é um homem gentil.",
-      "hintCorrect": "Correto! 'Cavaleiro' é o guerreiro ou nobre que monta a cavalo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Cavaleiro'. 'Cavalheiro' é um homem educado.",
+      "hint": "'Cavaleiro' é o guerreiro montado a cavalo, frequentemente associado a ordens de cavalaria. 'Cavalheiro' é um homem educado, cortês.",
+      "hintCorrect": "Correto! 'Cavaleiro' é o guerreiro ou nobre que monta a cavalo, figura comum em histórias medievais.",
+      "hintWrong": "Incorreto. A resposta certa é 'Cavaleiro'. 'Cavalheiro' é um homem educado e gentil, mas não necessariamente um guerreiro nobre.",
       "difficulty": "medium"
     },
     {
@@ -406,9 +405,9 @@
         "Polissemia"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Uma única palavra com vários significados relacionados.",
-      "hintCorrect": "Exato! É um caso de polissemia, onde a palavra 'cabeça' expandiu seu significado original para incluir a ideia de liderança.",
-      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "hint": "É uma única palavra com vários significados, mas esses significados estão relacionados por uma metáfora (a cabeça comanda o corpo -> o líder comanda o grupo).",
+      "hintCorrect": "Exato! É um caso de polissemia, onde a palavra 'cabeça' expandiu seu significado original (parte do corpo) para incluir a ideia de liderança por uma relação metafórica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'. Homonímia seria se as palavras tivessem origens etimológicas diferentes e significados desconexos, o que não é o caso aqui.",
       "difficulty": "medium"
     },
     {
@@ -421,9 +420,9 @@
         "Medicina"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Hipônimo é um exemplo específico de uma categoria geral. Qual das opções é um tipo de 'doença'?",
+      "hint": "Hipônimo é um exemplo específico de uma categoria geral. Qual das opções é um tipo específico de 'doença'?",
       "hintCorrect": "Correto! 'Gripe' é um tipo específico de doença, sendo, portanto, um hipônimo de 'doença'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Gripe'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Gripe'. 'Saúde' é o antônimo, 'sintoma' é uma manifestação da doença, e 'medicina' é a área do conhecimento.",
       "difficulty": "easy"
     },
     {
@@ -434,13 +433,13 @@
         "Fragrante"
       ],
       "correctAnswerIndex": 0,
-      "hint": "'Flagrante' é o ato de ser pego no momento exato do crime. 'Fragrante' refere-se a um cheiro ou perfume.",
+      "hint": "'Flagrante' é o ato de ser pego no momento exato do crime. 'Fragrante' refere-se a um cheiro agradável, perfume.",
       "hintCorrect": "Correto! 'Flagrante delito' é a expressão jurídica para o crime que é presenciado no momento em que ocorre.",
       "hintWrong": "Incorreto. A resposta certa é 'Flagrante'. 'Fragrante' (com 'r' após o 'f') refere-se a fragrância, perfume.",
       "difficulty": "hard"
     },
     {
-      "id": "semantica-101",
+      "id": "semantica-031",
       "question": "Qual palavra é sinônimo de 'casa'?",
       "options": [
         "Prédio",
@@ -449,9 +448,699 @@
         "Construção"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Procure a palavra que tem um significado muito próximo, muitas vezes com uma conotação mais afetiva.",
-      "hintCorrect": "Correto! 'Lar' é um sinônimo de 'casa', frequentemente usado para se referir ao ambiente familiar e afetivo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Lar'.",
+      "hint": "Procure a palavra que tem um significado muito próximo, muitas vezes com uma conotação mais afetiva ou de refúgio.",
+      "hintCorrect": "Correto! 'Lar' é um sinônimo de 'casa', frequentemente usado para se referir ao ambiente familiar, afetivo e de aconchego.",
+      "hintWrong": "Incorreto. A resposta certa é 'Lar'. 'Prédio' e 'apartamento' são tipos de edificações ou moradias, mas não são sinônimos diretos e completos de 'casa'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-032",
+      "question": "As palavras 'infligir' (aplicar pena, causar) e 'infringir' (desrespeitar, violar) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras parecidas na escrita e na pronúncia, mas com significados distintos e frequentemente confundidos.",
+      "hintCorrect": "Correto! São parônimas, pois são muito parecidas na forma mas diferentes no significado. 'Infligir' é aplicar algo negativo (pena, dor). 'Infringir' é transgredir (uma lei).",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'. 'Infligir' é aplicar uma pena, enquanto 'infringir' é violar uma lei. Por serem parecidas na escrita mas com significados diferentes, são parônimas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-033",
+      "question": "Qual é o antônimo de 'claro' (no sentido de cor)?",
+      "options": ["Brilhante", "Escuro", "Luminoso", "Transparente"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure o oposto de 'claro' quando se refere à tonalidade, à luminosidade ou à falta de luz de uma cor.",
+      "hintCorrect": "Correto! 'Escuro' é o antônimo de 'claro' no que se refere à cor ou à luminosidade.",
+      "hintWrong": "Incorreto. A resposta certa é 'Escuro'. 'Brilhante' e 'Luminoso' são sinônimos ou ideias associadas a 'claro', não antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-034",
+      "question": "A palavra 'vela' pode ser a parte do barco ou a peça de cera que ilumina. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "É uma única palavra com múltiplos significados. Pense se há uma relação histórica ou metafórica entre os sentidos (ambos são 'elementos alongados' ou 'que se projetam').",
+      "hintCorrect": "Correto! É geralmente considerado um caso de polissemia, onde a mesma palavra 'vela' tem múltiplos significados que podem ter uma origem comum (do latim 'vela', plural de 'velum', que significava pano, cortina, cobertura).",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'. Homonímia seria se as palavras tivessem origens etimológicas completamente diferentes e independentes, o que é menos comum neste caso.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-035",
+      "question": "Qual é o hiperônimo de 'azul', 'verde' e 'amarelo'?",
+      "options": ["Tinta", "Cor", "Arco-íris", "Pigmento"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual categoria geral abstrata engloba todas essas opções concretas?",
+      "hintCorrect": "Correto! 'Cor' é a categoria geral (hiperônimo) que engloba 'azul', 'verde' e 'amarelo' (que são hipônimos).",
+      "hintWrong": "Incorreto. A resposta certa é 'Cor'. 'Tinta' e 'pigmento' são materiais que possuem cor, mas não são a categoria em si. 'Arco-íris' é um fenômeno que exibe cores.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-036",
+      "question": "As palavras 'colher' (verbo: ação de pegar com a mão) e 'colher' (substantivo: utensílio) são:",
+      "options": ["Homófonas", "Homógrafas", "Homônimos perfeitos", "Parônimas"],
+      "correctAnswerIndex": 1,
+      "hint": "Têm a mesma grafia, mas a pronúncia (sílaba tônica) e o significado são diferentes.",
+      "hintCorrect": "Correto! São homógrafas, pois têm a mesma grafia mas pronúncia e significado diferentes. O verbo é paroxítono (co-LHER), o substantivo é oxítono (co-LHÉR).",
+      "hintWrong": "Incorreto. A resposta certa é 'Homógrafas'. Elas não são homófonas porque a pronúncia (sílaba tônica) é diferente. Também não são homônimos perfeitos porque o som não é idêntico.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-037",
+      "question": "Complete a frase: 'O juiz vai ___ o pedido de habeas corpus.'",
+      "options": ["Deferir", "Diferir"],
+      "correctAnswerIndex": 0,
+      "hint": "'Deferir' é conceder, atender a um pedido. 'Diferir' é adiar, postergar, ou ser diferente.",
+      "hintCorrect": "Correto! 'Deferir' significa atender, conceder, dar provimento a um pedido.",
+      "hintWrong": "Incorreto. A resposta certa é 'Deferir'. 'Diferir' significaria que o juiz vai adiar a decisão (ou que a decisão dele é diferente), o que não se encaixa bem no contexto de 'conceder' o pedido.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-038",
+      "question": "Qual é o sinônimo de 'difícil'?",
+      "options": ["Fácil", "Complicado", "Simples", "Claro"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a palavra com o significado mais próximo de 'difícil', que indica algo que exige esforço ou não é fácil de entender/fazer.",
+      "hintCorrect": "Correto! 'Complicado' é um bom sinônimo de 'difícil', especialmente no sentido de complexo, intrincado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Complicado'. 'Fácil' e 'simples' são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-039",
+      "question": "As palavras 'cela' (pequena divisão, prisão) e 'sela' (arreio para montaria) são:",
+      "options": ["Homógrafas", "Homófonas", "Homônimos perfeitos", "Parônimas"],
+      "correctAnswerIndex": 1,
+      "hint": "Têm a mesma pronúncia em muitos dialetos do português, mas grafia e significado diferentes.",
+      "hintCorrect": "Correto! Em boa parte do Brasil, são pronunciadas da mesma forma (/ˈsɛ.lɐ/), sendo, portanto, homófonas. A grafia é diferente ('c' vs 's').",
+      "hintWrong": "Incorreto. A resposta certa é 'Homófonas'. Elas não são homógrafas porque a grafia é diferente ('cela' vs 'sela').",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-040",
+      "question": "Qual é o hipônimo de 'sentimento'?",
+      "options": ["Razão", "Emoção", "Alegria", "Pensamento"],
+      "correctAnswerIndex": 2,
+      "hint": "Hipônimo é um membro específico de uma categoria. Qual das opções é um tipo específico de sentimento?",
+      "hintCorrect": "Correto! 'Alegria' é um tipo específico de sentimento, portanto, é um hipônimo de 'sentimento'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Alegria'. 'Emoção' é um conceito próximo, mas não é um tipo específico de sentimento, é uma categoria que inclui sentimentos. 'Razão' e 'pensamento' são antagônicos a sentimento/emoção.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-041",
+      "question": "Complete a frase: 'Ele é um escritor ___ no cenário literário.'",
+      "options": ["Eminente", "Iminente"],
+      "correctAnswerIndex": 0,
+      "hint": "'Eminente' é notável, ilustre, que se destaca. 'Iminente' é algo que está prestes a acontecer, próximo no tempo.",
+      "hintCorrect": "Correto! 'Eminente' significa notável, destacado, de grande prestígio.",
+      "hintWrong": "Incorreto. A resposta certa é 'Eminente'. 'Iminente' significa algo que está para acontecer (ex: perigo iminente).",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-042",
+      "question": "As palavras 'manga' (fruta) e 'manga' (parte da roupa) são um exemplo de:",
+      "options": ["Homonímia perfeita", "Polissemia", "Paronímia", "Antonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "É uma única palavra com múltiplos significados. Alguns estudiosos veem uma relação metonímica ou de forma (ambos são 'oblongos' ou 'que se estendem') entre os sentidos, apontando para polissemia.",
+      "hintCorrect": "Correto! É geralmente considerado um caso de polissemia, pois a mesma palavra 'manga' adquiriu múltiplos significados. A relação pode ser vista como metonímica (a fruta que cresce na 'manga' da árvore? – discussão etimológica) ou de forma semelhante.",
+      "hintWrong": "Incorreto. A resposta mais aceita é 'Polissemia'. Embora sejam idênticas na forma e som, muitos linguistas argumentam que há uma relação histórica ou semântica entre os significados, caracterizando polissemia. A homonímia perfeita implicaria origens completamente independentes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-043",
+      "question": "Qual é o antônimo de 'verdade'?",
+      "options": ["Realidade", "Mentira", "Fato", "Certeza"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure o conceito que se opõe diretamente à conformidade com os fatos ou à sinceridade.",
+      "hintCorrect": "Correto! 'Mentira' é o antônimo de 'verdade'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Mentira'. 'Realidade', 'fato' e 'certeza' são palavras do mesmo campo semântico da verdade ou suas consequências.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-044",
+      "question": "As palavras 'paço' (palácio, sede de governo) e 'passo' (andar, movimento do pé) são:",
+      "options": ["Homógrafas", "Homófonas", "Homônimos perfeitos", "Parônimas"],
+      "correctAnswerIndex": 1,
+      "hint": "Em boa parte do Brasil, têm a mesma pronúncia, mas grafia e significado diferentes.",
+      "hintCorrect": "Correto! São homófonas, pois têm o mesmo som (/ˈpa.su/), mas grafias diferentes ('ç' vs 'ss') e significados distintos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homófonas'. A grafia é diferente ('paço' vs 'passo'), portanto, não são homógrafas nem homônimos perfeitos.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-045",
+      "question": "Qual é o hiperônimo de 'carro', 'moto' e 'bicicleta'?",
+      "options": ["Transporte", "Veículo", "Roda", "Motor"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual categoria geral engloba todos esses meios de locomoção de forma mais direta?",
+      "hintCorrect": "Correto! 'Veículo' é a categoria geral (hiperônimo) para esses itens (hipônimos).",
+      "hintWrong": "Incorreto. A resposta certa é 'Veículo'. 'Transporte' é a ação ou sistema de levar algo de um lugar a outro, não o objeto em si.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-046",
+      "question": "Complete a frase: 'É preciso ___ os bons alunos dos maus.'",
+      "options": ["Discriminar", "Descriminar"],
+      "correctAnswerIndex": 0,
+      "hint": "'Discriminar' significa distinguir, diferenciar, separar com base em características. 'Descriminar' é declarar inocente, tirar o caráter criminoso de um ato.",
+      "hintCorrect": "Correto! 'Discriminar' significa diferenciar, separar, discernir. É o sentido original e neutro da palavra.",
+      "hintWrong": "Incorreto. A resposta certa é 'Discriminar'. 'Descriminar' é um termo jurídico que significa absolver, inocentar, o que não faz sentido na frase.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-047",
+      "question": "As palavras 'caminho' (substantivo: via, estrada) e 'caminho' (verbo 'caminhar' na 1ª pessoa do singular) são:",
+      "options": ["Homófonas", "Homógrafas", "Homônimos perfeitos", "Parônimas"],
+      "correctAnswerIndex": 2,
+      "hint": "Têm a mesma grafia e, no português padrão, a mesma pronúncia. Os significados são diferentes.",
+      "hintCorrect": "Correto! São homônimos perfeitos, pois são idênticos na escrita e no som, mas com significados distintos (um é substantivo, o outro é verbo).",
+      "hintWrong": "Incorreto. A resposta certa é 'Homônimos perfeitos'. Por serem idênticas em som e grafia, são a forma mais completa de homonímia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-048",
+      "question": "Qual é o sinônimo de 'alegre'?",
+      "options": ["Triste", "Contente", "Melancólico", "Sério"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a palavra com o mesmo significado de 'alegre', que expressa felicidade ou bom humor.",
+      "hintCorrect": "Correto! 'Contente' é sinônimo de 'alegre', satisfeito, feliz.",
+      "hintWrong": "Incorreto. A resposta certa é 'Contente'. 'Triste' e 'melancólico' são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-049",
+      "question": "A palavra 'linha' pode ser de costura, de trem, de telefone ou de raciocínio. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Antonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados, todos relacionados à ideia de algo contínuo, esticado, sequencial ou delimitador.",
+      "hintCorrect": "Correto! É um caso de polissemia, pois a mesma palavra 'linha' se aplica a vários contextos com uma ideia central em comum de sequência, traçado, conexão ou direção.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-050",
+      "question": "Qual é o hipônimo de 'ferramenta'?",
+      "options": ["Trabalho", "Martelo", "Oficina", "Máquina"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual das opções é um tipo específico, um exemplo concreto de ferramenta?",
+      "hintCorrect": "Correto! 'Martelo' é um tipo específico de ferramenta, portanto, um hipônimo de 'ferramenta'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Martelo'. 'Oficina' é onde se usam ferramentas, 'trabalho' é a ação, e 'máquina' é uma categoria diferente (embora relacionada).",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-051",
+      "question": "Complete a frase: 'O ___ do presidente é de quatro anos.'",
+      "options": ["Mandado", "Mandato"],
+      "correctAnswerIndex": 1,
+      "hint": "'Mandado' é uma ordem judicial escrita (ex: mandado de prisão, de busca). 'Mandato' é o período de exercício de um cargo eletivo ou representativo.",
+      "hintCorrect": "Correto! 'Mandato' é o período de tempo de um cargo político ou de representação.",
+      "hintWrong": "Incorreto. A resposta certa é 'Mandato'. 'Mandado' é uma ordem judicial (ex: mandado de prisão).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-052",
+      "question": "As palavras 'acender' (atear fogo, ligar) e 'ascender' (subir, elevar-se) são:",
+      "options": ["Homógrafas", "Homófonas", "Homônimos perfeitos", "Parônimas"],
+      "correctAnswerIndex": 1,
+      "hint": "Em muitos sotaques do português brasileiro, têm a mesma pronúncia, mas grafia e significado diferentes.",
+      "hintCorrect": "Correto! São homófonas, pois soam da mesma forma (/a.ˈsẽ.deɾ/), mas têm grafias diferentes ('ac' vs 'asc') e significados distintos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homófonas'. A grafia é diferente ('acender' vs 'ascender'), portanto, não são homógrafas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-053",
+      "question": "Qual é o antônimo de 'guerra'?",
+      "options": ["Conflito", "Batalha", "Paz", "Luta"],
+      "correctAnswerIndex": 2,
+      "hint": "Procure o conceito que representa o estado oposto ao de conflito armado e hostilidade.",
+      "hintCorrect": "Correto! 'Paz' é o antônimo de 'guerra'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Paz'. 'Conflito', 'batalha' e 'luta' são sinônimos ou conceitos relacionados à guerra.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-054",
+      "question": "A palavra 'cabo' pode ser a extremidade de algo, um posto militar ou um fio elétrico. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados, relacionados à ideia de 'extremidade', 'ponta', 'elo' ou 'cargo intermediário'.",
+      "hintCorrect": "Correto! É um caso de polissemia, pois a mesma palavra 'cabo' se aplica a vários contextos com uma ideia semântica central compartilhada.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-055",
+      "question": "Qual é o hiperônimo de 'rosa', 'cravo' e 'orquídea'?",
+      "options": ["Jardim", "Planta", "Flor", "Perfume"],
+      "correctAnswerIndex": 2,
+      "hint": "Qual categoria geral mais específica engloba todas essas opções?",
+      "hintCorrect": "Correto! 'Flor' é o hiperônimo mais específico e adequado. 'Planta' é um hiperônimo ainda mais geral.",
+      "hintWrong": "Incorreto. A resposta certa é 'Flor'. 'Planta' é um hiperônimo mais amplo, mas 'flor' é mais preciso para o grupo dado.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-056",
+      "question": "Complete a frase: 'Aquele ___ de campo é muito bonito.'",
+      "options": ["Sítio", "Cítio"],
+      "correctAnswerIndex": 0,
+      "hint": "'Sítio' é um local, um terreno, uma propriedade rural. 'Cítio' não é uma palavra portuguesa com esse sentido.",
+      "hintCorrect": "Correto! 'Sítio' é a palavra correta para um terreno ou propriedade rural.",
+      "hintWrong": "Incorreto. A resposta certa é 'Sítio'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-057",
+      "question": "As palavras 'aprender' (adquirir conhecimento) e 'apreender' (capturar, confiscar) são:",
+      "options": ["Homógrafas", "Homófonas", "Homônimos perfeitos", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras muito parecidas na escrita e na pronúncia, mas com significados distintos.",
+      "hintCorrect": "Correto! São parônimas, pois são muito parecidas na forma (grafia e som quase idênticos) e são frequentemente confundidas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-058",
+      "question": "Qual é o sinônimo de 'enorme'?",
+      "options": ["Pequeno", "Gigante", "Minúsculo", "Vasto"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a palavra com o mesmo significado de 'enorme', que indica algo de tamanho muito grande.",
+      "hintCorrect": "Correto! 'Gigante' é um ótimo sinônimo para 'enorme'. 'Vasto' também é sinônimo, mas mais associado a extensão (espaço) do que a tamanho geral.",
+      "hintWrong": "Incorreto. A resposta certa é 'Gigante'. 'Pequeno' e 'minúsculo' são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-059",
+      "question": "A palavra 'pena' pode ser a pluma de uma ave, um instrumento de escrita ou uma punição. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Antonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados. Historicamente, pode haver relação (a pena de escrever era feita de pena de ave; a 'pena' como punição pode ter relação simbólica com 'cortar as asas').",
+      "hintCorrect": "Correto! É geralmente tratado como um caso de polissemia, onde os significados divergiram a partir de uma raiz comum ou por relações metonímicas/metafóricas.",
+      "hintWrong": "Incorreto. A resposta mais aceita é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-060",
+      "question": "Qual é o hipônimo de 'sentido' (faculdade de perceber)?",
+      "options": ["Razão", "Visão", "Cérebro", "Percepção"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual das opções é um dos cinco sentidos humanos específicos?",
+      "hintCorrect": "Correto! 'Visão' é um dos cinco sentidos (visão, audição, olfato, paladar, tato), portanto, um hipônimo de 'sentido'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Visão'. 'Percepção' é um processo mais amplo que envolve os sentidos. 'Razão' e 'cérebro' não são sentidos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-061",
+      "question": "Complete a frase: 'O ___ do seu cabelo é impressionante.'",
+      "options": ["Comprimento", "Cumprimento"],
+      "correctAnswerIndex": 0,
+      "hint": "'Comprimento' é extensão, medida linear. 'Cumprimento' é saudação ou a realização de algo.",
+      "hintCorrect": "Correto! 'Comprimento' refere-se à extensão, ao tamanho.",
+      "hintWrong": "Incorreto. A resposta certa é 'Comprimento'. 'Cumprimento' seria uma saudação.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-062",
+      "question": "As palavras 'incipiente' (que está começando, iniciante) e 'insipiente' (que não sabe, ignorante) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras parecidas na escrita e na pronúncia, mas com significados distintos (embora possam ser confundidas).",
+      "hintCorrect": "Correto! São parônimas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-063",
+      "question": "Qual é o antônimo de 'rico'?",
+      "options": ["Pobre", "Afortunado", "Próspero", "Abonado"],
+      "correctAnswerIndex": 0,
+      "hint": "Procure o oposto de 'rico' no sentido de possuir bens ou recursos financeiros.",
+      "hintCorrect": "Correto! 'Pobre' é o antônimo direto de 'rico'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pobre'. As outras opções ('Afortunado', 'Próspero', 'Abonado') são sinônimos ou palavras relacionadas à riqueza.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-064",
+      "question": "A palavra 'boca' pode ser a parte do corpo, a entrada de uma caverna ou a foz de um rio. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados, todos relacionados metaforicamente à ideia de 'abertura', 'entrada' ou 'saída'.",
+      "hintCorrect": "Correto! É um caso de polissemia, pois a mesma palavra 'boca' se aplica a vários contextos com uma ideia em comum de 'abertura' por analogia com a boca humana.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-065",
+      "question": "Qual é o hiperônimo de 'futebol', 'basquete' e 'vôlei'?",
+      "options": ["Esporte", "Bola", "Time", "Jogo"],
+      "correctAnswerIndex": 0,
+      "hint": "Qual categoria geral engloba todas essas atividades?",
+      "hintCorrect": "Correto! 'Esporte' é o hiperônimo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Esporte'. 'Jogo' é um conceito mais amplo que pode não envolver atividade física organizada.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-066",
+      "question": "Complete a frase: 'O avião está no ___ para decolar.'",
+      "options": ["Hangar", "Angar"],
+      "correctAnswerIndex": 0,
+      "hint": "'Hangar' é o local onde se guardam, mantêm e reparam aviões. 'Angar' não é a grafia correta em português.",
+      "hintCorrect": "Correto! 'Hangar' é a palavra correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Hangar'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-067",
+      "question": "As palavras 'recrear' (divertir, distrair) e 'recriar' (criar novamente) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras parecidas na escrita e na pronúncia, mas com significados distintos.",
+      "hintCorrect": "Correto! São parônimas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-068",
+      "question": "Qual é o sinônimo de 'belo'?",
+      "options": ["Feio", "Lindo", "Horrível", "Desagradável"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a palavra com o mesmo significado de 'belo', que expressa beleza.",
+      "hintCorrect": "Correto! 'Lindo' é sinônimo de 'belo'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Lindo'. 'Feio' e 'horrível' são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-069",
+      "question": "A palavra 'são' (verbo ser), 'são' (santo) e 'são' (sadio) são um caso de:",
+      "options": ["Homonímia perfeita", "Polissemia", "Paronímia", "Antonímia"],
+      "correctAnswerIndex": 0,
+      "hint": "Têm a mesma grafia e pronúncia, mas significados diferentes e não relacionados etimologicamente (ou com relações muito distantes).",
+      "hintCorrect": "Correto! São homônimos perfeitos. Embora 'são' (sadio) e 'são' (santo) possam ter uma raiz comum distante ('sanctus'), no português moderno são percebidos como palavras homônimas com significados distintos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homonímia perfeita'. Não é polissemia porque os significados atuais ('verbo ser', 'santo', 'sadio') são bastante distintos e não derivam claramente um do outro no uso contemporâneo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-070",
+      "question": "Qual é o hipônimo de 'mamífero'?",
+      "options": ["Animal", "Baleia", "Peixe", "Réptil"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual das opções é um tipo específico de mamífero?",
+      "hintCorrect": "Correto! 'Baleia' é um tipo de mamífero (mamífero marinho).",
+      "hintWrong": "Incorreto. A resposta certa é 'Baleia'. 'Peixe' e 'réptil' são outras classes de animais. 'Animal' é o hiperônimo de 'mamífero'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-071",
+      "question": "Complete a frase: 'Ele agiu com muita ___ ao resolver o problema.'",
+      "options": ["Descrisão", "Discrição"],
+      "correctAnswerIndex": 1,
+      "hint": "'Discrição' é a qualidade de ser discreto, reservado, prudente. 'Descrição' é o ato de descrever algo.",
+      "hintCorrect": "Correto! 'Discrição' é a palavra correta, significando prudência, cautela, tato.",
+      "hintWrong": "Incorreto. A resposta certa é 'Discrição'. 'Descrição' (com 'e') é o ato de relatar as características de algo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-072",
+      "question": "As palavras 'sortir' (abastecer, prover - menos comum) e 'surtir' (produzir efeito, resultar) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras parecidas na escrita e na pronúncia, mas com significados e usos distintos.",
+      "hintCorrect": "Correto! São parônimas. 'Sortir' é um verbo pouco usado no Brasil, significando equipar, prover. 'Surtir' é muito mais comum.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-073",
+      "question": "Qual é o antônimo de 'alegria'?",
+      "options": ["Felicidade", "Tristeza", "Contentamento", "Euforia"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure o sentimento oposto à alegria.",
+      "hintCorrect": "Correto! 'Tristeza' é o antônimo de 'alegria'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Tristeza'. As outras opções são sinônimos ou estados emocionais positivos similares.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-074",
+      "question": "A palavra 'chave' pode ser um instrumento para abrir fechaduras ou a solução de um problema. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados, relacionados metaforicamente (a 'chave' que 'abre' a solução).",
+      "hintCorrect": "Correto! É um caso de polissemia, pois a mesma palavra 'chave' se aplica a vários contextos com uma ideia em comum de 'algo que abre, desbloqueia ou resolve'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-075",
+      "question": "Qual é o hiperônimo de 'segunda-feira', 'terça-feira' e 'quarta-feira'?",
+      "options": ["Semana", "Dia da semana", "Calendário", "Tempo"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual categoria geral mais específica engloba todas essas opções?",
+      "hintCorrect": "Correto! 'Dia da semana' é o hiperônimo. 'Semana' é o conjunto de sete dias.",
+      "hintWrong": "Incorreto. A resposta certa é 'Dia da semana'. 'Semana' é o hiperônimo do conjunto, não dos dias individuais.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-076",
+      "question": "Complete a frase: 'A ___ de fumaça cobriu a cidade.'",
+      "options": ["Nuvem", "Nevoeiro"],
+      "correctAnswerIndex": 0,
+      "hint": "'Nuvem' é uma massa visível de partículas minúsculas de água ou outros materiais em suspensão na atmosfera. 'Nevoeiro' é uma nuvem que toca o solo, composta por gotículas de água.",
+      "hintCorrect": "Correto! 'Nuvem' é a palavra correta para uma massa de fumaça ou partículas no ar.",
+      "hintWrong": "Incorreto. A resposta certa é 'Nuvem'. 'Nevoeiro' especificamente se refere à condensação de vapor d'água perto do solo, reduzindo a visibilidade.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-077",
+      "question": "As palavras 'vultoso' (de grande vulto, volumoso, importante) e 'vultuoso' (que tem vulto, congestionado - menos comum) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras muito parecidas na escrita e na pronúncia, mas com significados e usos distintos (sendo 'vultoso' muito mais comum).",
+      "hintCorrect": "Correto! São parônimas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-078",
+      "question": "Qual é o sinônimo de 'melancólico'?",
+      "options": ["Alegre", "Contente", "Triste", "Feliz"],
+      "correctAnswerIndex": 2,
+      "hint": "Procure a palavra com o mesmo significado de 'melancólico', que indica um estado de tristeza profunda ou pensativa.",
+      "hintCorrect": "Correto! 'Triste' é sinônimo de 'melancólico', embora 'melancólico' possa ter uma nuance mais específica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Triste'. As outras opções são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-079",
+      "question": "A palavra 'rio' (curso de água) e 'rio' (verbo 'rir' na 1ª pessoa do singular) são um caso de:",
+      "options": ["Homonímia perfeita", "Polissemia", "Paronímia", "Antonímia"],
+      "correctAnswerIndex": 0,
+      "hint": "Têm a mesma grafia e pronúncia, mas significados diferentes e não relacionados etimologicamente.",
+      "hintCorrect": "Correto! São homônimos perfeitos.",
+      "hintWrong": "Incorreto. A resposta certa é 'Homonímia perfeita'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-080",
+      "question": "Qual é o hipônimo de 'inseto'?",
+      "options": ["Animal", "Formiga", "Aranha", "Bicho"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual das opções é um tipo específico de inseto?",
+      "hintCorrect": "Correto! 'Formiga' é um tipo de inseto.",
+      "hintWrong": "Incorreto. A resposta certa é 'Formiga'. 'Aranha' é um aracnídeo, não um inseto (pertencem a classes diferentes). 'Animal' e 'bicho' são hiperônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-081",
+      "question": "Complete a frase: 'Ele foi ___ da acusação.'",
+      "options": ["Absolvido", "Absorvido"],
+      "correctAnswerIndex": 0,
+      "hint": "'Absolver' é declarar inocente, perdoar, isentar de culpa. 'Absorver' é sugar, assimilar, incorporar.",
+      "hintCorrect": "Correto! 'Absolvido' é a palavra correta, significando inocentado, perdoado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Absolvido'. 'Absorvido' significaria que ele foi 'engolido' ou totalmente concentrado pela acusação, o que não faz sentido no contexto jurídico.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-082",
+      "question": "As palavras 'precedente' (que vem antes, anterior) e 'procedente' (que tem procedência, originário, fundamentado) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras parecidas na escrita e na pronúncia, mas com significados distintos.",
+      "hintCorrect": "Correto! São parônimas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-083",
+      "question": "Qual é o antônimo de 'forte'?",
+      "options": ["Fraco", "Robusto", "Vigoroso", "Potente"],
+      "correctAnswerIndex": 0,
+      "hint": "Procure o oposto de 'forte' no sentido de força física, intensidade ou resistência.",
+      "hintCorrect": "Correto! 'Fraco' é o antônimo de 'forte'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fraco'. As outras opções são sinônimos de 'forte'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-084",
+      "question": "A palavra 'braço' pode ser a parte do corpo ou um galho de rio. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados, relacionados metaforicamente à ideia de 'extensão', 'ramificação' ou 'parte que se projeta'.",
+      "hintCorrect": "Correto! É um caso de polissemia, pois a mesma palavra 'braço' se aplica a vários contextos com uma ideia em comum de 'extensão' a partir de um corpo principal.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-085",
+      "question": "Qual é o hiperônimo de 'verão', 'outono', 'inverno' e 'primavera'?",
+      "options": ["Tempo", "Clima", "Estação do ano", "Período"],
+      "correctAnswerIndex": 2,
+      "hint": "Qual categoria geral engloba essas quatro divisões do ano?",
+      "hintCorrect": "Correto! 'Estação do ano' é o hiperônimo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Estação do ano'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-086",
+      "question": "Complete a frase: 'O ___ do show foi cancelado.'",
+      "options": ["Evento", "Avento"],
+      "correctAnswerIndex": 0,
+      "hint": "'Evento' é um acontecimento, algo que ocorre. 'Avento' não é uma palavra portuguesa com esse sentido.",
+      "hintCorrect": "Correto! 'Evento' é a palavra correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Evento'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-087",
+      "question": "As palavras 'dispensa' (ato de dispensar, exoneração) e 'despensa' (local de guardar alimentos, armazém) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras parecidas na escrita e na pronúncia, mas com significados distintos.",
+      "hintCorrect": "Correto! São parônimas clássicas, muito confundidas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-088",
+      "question": "Qual é o sinônimo de 'veloz'?",
+      "options": ["Lento", "Rápido", "Devagar", "Calmo"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a palavra com o mesmo significado de 'veloz', que indica grande rapidez.",
+      "hintCorrect": "Correto! 'Rápido' é sinônimo de 'veloz'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Rápido'. 'Lento' e 'devagar' são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-089",
+      "question": "A palavra 'serra' (cadeia de montanhas) e 'serra' (ferramenta de corte) são um caso de:",
+      "options": ["Homonímia perfeita", "Polissemia", "Paronímia", "Antonímia"],
+      "correctAnswerIndex": 0,
+      "hint": "Têm a mesma grafia e pronúncia, mas significados diferentes e não relacionados etimologicamente (ou com uma relação muito remota e obscura).",
+      "hintCorrect": "Correto! São geralmente consideradas homônimos perfeitos. A origem etimológica é diferente (ferramenta: do latim 'serra'; montanha: do latim 'serra' no sentido de 'serra' [ferramenta], por analogia de forma? Há discussão, mas no uso atual são tratadas como homônimas).",
+      "hintWrong": "Incorreto. A resposta mais segura e comum é 'Homonímia perfeita'. A possível relação polissêmica (forma de serra) é considerada muito tênue, sendo mais didático classificá-las como homônimas.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-090",
+      "question": "Qual é o hipônimo de 'ave'?",
+      "options": ["Animal", "Pássaro", "Pena", "Ninho"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual das opções é um tipo específico, um exemplo de ave?",
+      "hintCorrect": "Correto! 'Pássaro' é um tipo de ave (geralmente ave canora ou de pequeno porte). É um hipônimo de 'ave'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pássaro'. 'Animal' é o hiperônimo de 'ave'. 'Pena' é parte de uma ave, e 'ninho' é sua morada.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-091",
+      "question": "Complete a frase: 'Ele fez uma ___ de mestrado brilhante.'",
+      "options": ["Dissertação", "Disertação"],
+      "correctAnswerIndex": 0,
+      "hint": "'Dissertação' é um trabalho acadêmico longo e detalhado para obtenção de título (mestrado, doutorado). 'Disertação' é o ato de discorrer sobre um assunto, uma exposição oral ou escrita.",
+      "hintCorrect": "Correto! 'Dissertação' é a palavra técnica correta para o trabalho de mestrado.",
+      "hintWrong": "Incorreto. A resposta certa é 'Dissertação'. Embora 'disertação' possa ser usada em contextos mais gerais, no âmbito acadêmico formal usa-se 'dissertação'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-092",
+      "question": "As palavras 'absolver' (perdoar, inocentar) e 'absorver' (sugar, assimilar) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 3,
+      "hint": "São palavras muito parecidas na escrita e na pronúncia, mas com significados distintos.",
+      "hintCorrect": "Correto! São parônimas.",
+      "hintWrong": "Incorreto. A resposta certa é 'Parônimas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-093",
+      "question": "Qual é o antônimo de 'claro' (no sentido de compreensível, evidente)?",
+      "options": ["Óbvio", "Confuso", "Evidente", "Nítido"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure o oposto de 'claro' quando se refere à facilidade de entendimento de uma informação ou texto.",
+      "hintCorrect": "Correto! 'Confuso' é o antônimo de 'claro' nesse sentido.",
+      "hintWrong": "Incorreto. A resposta certa é 'Confuso'. 'Óbvio', 'evidente' e 'nítido' são sinônimos de 'claro'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-094",
+      "question": "A palavra 'coroa' pode ser um adorno real, a parte superior de um dente ou a parte de cima de uma árvore. Este é um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados, todos relacionados à ideia de 'topo', 'cume', 'parte mais alta' ou 'ornamento superior'.",
+      "hintCorrect": "Correto! É um caso de polissemia, pois a mesma palavra 'coroa' se aplica a vários contextos com uma ideia semântica central de 'parte superior' ou 'circunferência'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-095",
+      "question": "Qual é o hiperônimo de 'maçã', 'uva' e 'morango'?",
+      "options": ["Planta", "Fruta", "Alimento", "Doce"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual categoria geral mais específica engloba todas essas opções?",
+      "hintCorrect": "Correto! 'Fruta' é o hiperônimo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Fruta'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-096",
+      "question": "Complete a frase: 'Ele é um ___ de primeira classe.'",
+      "options": ["Ator", "Autor"],
+      "correctAnswerIndex": 0,
+      "hint": "'Ator' é quem atua, interpreta papéis no cinema, teatro, etc. 'Autor' é quem cria, escreve uma obra.",
+      "hintCorrect": "Correto! 'Ator' é a palavra correta para um intérprete.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ator'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-097",
+      "question": "As palavras 'estático' (parado, imóvel) e 'extático' (em êxtase, em estado de grande admiração ou alegria) são:",
+      "options": ["Sinônimas", "Antônimas", "Homófonas", "Parônimas"],
+      "correctAnswerIndex": 2,
+      "hint": "Têm a mesma pronúncia em português, mas grafia e significado diferentes.",
+      "hintCorrect": "Correto! São homófonas (/is.ˈta.t͡ʃi.ku/ ou /es.ˈta.t͡ʃi.ku/). A grafia é diferente ('est' vs 'ext').",
+      "hintWrong": "Incorreto. A resposta certa é 'Homófonas'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "semantica-098",
+      "question": "Qual é o sinônimo de 'minúsculo'?",
+      "options": ["Grande", "Pequeno", "Enorme", "Vasto"],
+      "correctAnswerIndex": 1,
+      "hint": "Procure a palavra com o mesmo significado de 'minúsculo', que indica tamanho muito reduzido.",
+      "hintCorrect": "Correto! 'Pequeno' é sinônimo de 'minúsculo', embora 'minúsculo' denote um grau ainda maior de pequenez.",
+      "hintWrong": "Incorreto. A resposta certa é 'Pequeno'. As outras opções são antônimos.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "semantica-099",
+      "question": "A palavra 'mão' (parte do corpo) e 'mão' (demão de tinta) são um caso de:",
+      "options": ["Homonímia", "Polissemia", "Paronímia", "Sinonímia"],
+      "correctAnswerIndex": 1,
+      "hint": "Uma única palavra com múltiplos significados. Pense se há uma relação (a 'mão' que aplica a tinta -> a camada aplicada por uma vez).",
+      "hintCorrect": "Correto! É geralmente considerado um caso de polissemia. O sentido de 'demão' (camada) deriva metaforicamente da ação da mão ao aplicar algo (uma 'mão de tinta' = a quantidade aplicada em uma vez com a mão/pincel).",
+      "hintWrong": "Incorreto. A resposta certa é 'Polissemia'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "semantica-100",
+      "question": "Qual é o hipônimo de 'metal'?",
+      "options": ["Elemento", "Ferro", "Mineral", "Rocha"],
+      "correctAnswerIndex": 1,
+      "hint": "Qual das opções é um tipo específico, um exemplo de metal?",
+      "hintCorrect": "Correto! 'Ferro' é um tipo de metal, portanto, um hipônimo de 'metal'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ferro'. 'Elemento' e 'mineral' são categorias mais amplas. Nem todo mineral é metal.",
       "difficulty": "easy"
     }
   ]

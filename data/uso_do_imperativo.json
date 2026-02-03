@@ -1,4 +1,3 @@
-
 {
   "category": "Língua Portuguesa",
   "subcategory": "Uso do Imperativo",
@@ -13,9 +12,9 @@
         "Fazes"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'fazer' é um dos 4 irregulares importantes no imperativo afirmativo para 'tu'.",
-      "hintCorrect": "Correto! A forma do imperativo afirmativo para 'tu' do verbo 'fazer' é 'Faz'. Ex: 'Faz o teu trabalho.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Faz'. 'Fazer' é irregular na forma 'tu' do imperativo.",
+      "hint": "A forma do imperativo afirmativo para 'tu' geralmente vem da 3ª pessoa do singular do presente do indicativo, sem o 's' final.",
+      "hintCorrect": "Correto! A forma do imperativo afirmativo para 'tu' do verbo 'fazer' é 'Faz' (deriva de 'ele faz'). Ex: 'Faz o teu trabalho.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Faz'. Para 'tu', o imperativo afirmativo de 'fazer' é irregular e deriva da 3ª pessoa do presente do indicativo.",
       "difficulty": "medium"
     },
     {
@@ -28,9 +27,9 @@
         "É facultativa."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Pense na frase 'Ajude-me'. Onde está o pronome em relação ao verbo?",
-      "hintCorrect": "Exato! No imperativo afirmativo, a ênclise é obrigatória. O pronome vem sempre depois do verbo, ligado por hífen.",
-      "hintWrong": "Incorreto. A resposta certa é 'Ênclise'. Ex: 'Diga-lhe', 'Sente-se'.",
+      "hint": "Pense na frase 'Ajude-me'. Como o verbo inicia a frase no modo imperativo, onde deve estar o pronome?",
+      "hintCorrect": "Exato! No imperativo afirmativo, a ênclise é obrigatória. O pronome vem sempre depois do verbo, ligado por hífen. Ex: 'Sente-se', 'Diga-lhe'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ênclise'. No imperativo afirmativo, o pronome átono deve vir após o verbo (ex: 'Olhe-me', 'Calem-se').",
       "difficulty": "easy"
     },
     {
@@ -43,9 +42,9 @@
         "É facultativa."
       ],
       "correctAnswerIndex": 0,
-      "hint": "A palavra 'não' é um fator de atração. O que ela faz com o pronome?",
-      "hintCorrect": "Correto! A palavra de negação ('não', 'nunca') atrai o pronome para antes do verbo, tornando a próclise obrigatória.",
-      "hintWrong": "Incorreto. A resposta certa é 'Próclise'. Ex: 'Não me diga', 'Não se sente'.",
+      "hint": "A palavra 'não' é um fator de atração pronominal. O que ela faz com o pronome em relação ao verbo?",
+      "hintCorrect": "Correto! No imperativo negativo, a presença do advérbio de negação ('não', 'nunca', 'jamais') atrai o pronome para antes do verbo, tornando a próclise obrigatória. Ex: 'Não me diga', 'Nunca se esqueça'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Próclise'. A negação precede o verbo e atrai o pronome para a posição proclítica. Ex: 'Não te preocupes', 'Não se mova'.",
       "difficulty": "easy"
     },
     {
@@ -58,14 +57,14 @@
         "Não me dize a verdade."
       ],
       "correctAnswerIndex": 1,
-      "hint": "No imperativo negativo, o pronome vai para antes do verbo (próclise) por causa do 'não'.",
-      "hintCorrect": "Exato! A ênclise do afirmativo ('diga-me') se transforma em próclise no negativo ('não me diga').",
-      "hintWrong": "Incorreto. A resposta certa é 'Não me diga a verdade'. O 'não' puxa o pronome 'me' para antes do verbo.",
+      "hint": "Lembre-se: no negativo, o 'não' atrai o pronome para antes do verbo.",
+      "hintCorrect": "Exato! A ênclise do afirmativo ('diga-me') se transforma em próclise no negativo, devido ao advérbio 'não' ('não me diga').",
+      "hintWrong": "Incorreto. A resposta certa é 'Não me diga a verdade'. O 'não' exige que o pronome 'me' venha antes do verbo (próclise).",
       "difficulty": "medium"
     },
     {
       "id": "imperativo-005",
-      "question": "O imperativo negativo é formado inteiramente a partir de qual tempo verbal?",
+      "question": "O imperativo negativo é formado inteiramente a partir de qual tempo/modo verbal?",
       "options": [
         "Presente do Indicativo",
         "Presente do Subjuntivo",
@@ -73,9 +72,9 @@
         "Pretérito Perfeito"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Pense na conjugação: 'que eu fale', 'que tu fales', 'que ele fale'... -> 'não fales', 'não fale'...",
-      "hintCorrect": "Correto! Todas as formas do imperativo negativo são idênticas às formas correspondentes do Presente do Subjuntivo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Presente do Subjuntivo'.",
+      "hint": "Pense nas conjugações: 'que tu fales' (subjuntivo) -> 'não fales' (imperativo negativo).",
+      "hintCorrect": "Correto! Todas as pessoas do imperativo negativo são idênticas às formas correspondentes do Presente do Subjuntivo. Ex: 'não fales' (tu), 'não fale' (você), 'não falemos' (nós), 'não falem' (vocês).",
+      "hintWrong": "Incorreto. A resposta certa é 'Presente do Subjuntivo'. A forma negativa do imperativo é emprestada desse tempo/modo.",
       "difficulty": "easy"
     },
     {
@@ -88,9 +87,9 @@
         "Vinde"
       ],
       "correctAnswerIndex": 0,
-      "hint": "A forma 'tu' do imperativo afirmativo vem da 3ª pessoa do singular do Presente do Indicativo ('ele vem').",
-      "hintCorrect": "Correto! A forma é 'Vem'. Ex: 'Vem aqui, por favor.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Vem'. 'Venha' é para 'você'.",
+      "hint": "Para a maioria dos verbos, a forma 'tu' do imperativo afirmativo vem da 3ª pessoa do singular do Presente do Indicativo.",
+      "hintCorrect": "Correto! A forma é 'Vem' (deriva de 'ele vem'). Ex: 'Vem cá, por favor.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Vem'. 'Venha' é a forma para 'você/ele' (subjuntivo/imperativo) e 'Vinde' é para 'vós'.",
       "difficulty": "medium"
     },
     {
@@ -103,9 +102,9 @@
         "Se"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'ser' é um dos 4 irregulares importantes no imperativo afirmativo para 'tu'.",
-      "hintCorrect": "Exato! A forma do imperativo afirmativo para 'tu' do verbo 'ser' é 'Sê'. Ex: 'Sê forte.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Sê'. 'Ser' é irregular na forma 'tu' do imperativo.",
+      "hint": "O verbo 'ser' tem uma forma irregular e específica para o imperativo afirmativo na 2ª pessoa do singular.",
+      "hintCorrect": "Exato! A forma do imperativo afirmativo para 'tu' do verbo 'ser' é 'Sê'. É uma das formas irregulares do imperativo. Ex: 'Sê gentil.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Sê'. 'Ser' é irregular: sua forma de imperativo para 'tu' não segue a regra comum de derivar do presente do indicativo.",
       "difficulty": "hard"
     },
     {
@@ -118,14 +117,14 @@
         "Ponha-o"
       ],
       "correctAnswerIndex": 3,
-      "hint": "O imperativo de 'pôr' para 'você' é 'ponha'. Como é afirmativo, o pronome 'o' (que substitui 'o livro') vem depois (ênclise).",
-      "hintCorrect": "Correto! A forma verbal é 'ponha'. O pronome 'o' é adicionado com ênclise, resultando em 'Ponha-o'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Ponha-o'. O imperativo é 'ponha' e a colocação pronominal é a ênclise.",
+      "hint": "Para 'você', o imperativo afirmativo vem do presente do subjuntivo. Como é afirmativo, o pronome deve vir depois do verbo.",
+      "hintCorrect": "Correto! A forma verbal para 'você' é 'ponha' (do subjuntivo 'que ele ponha'). Como é imperativo afirmativo, o pronome 'o' (que substitui 'o livro') vem depois, em ênclise, resultando em 'Ponha-o'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ponha-o'. O imperativo para 'você' é 'ponha' e a colocação pronominal correta no afirmativo é a ênclise.",
       "difficulty": "medium"
     },
     {
       "id": "imperativo-009",
-      "question": "Qual frase está INCORRETA?",
+      "question": "Qual frase está INCORRETA do ponto de vista da norma culta?",
       "options": [
         "Não te preocupes.",
         "Não se preocupe.",
@@ -133,9 +132,9 @@
         "Se preocupe."
       ],
       "correctAnswerIndex": 3,
-      "hint": "Não se deve iniciar uma frase com pronome oblíquo átono na norma culta.",
-      "hintCorrect": "Correto! A frase 'Se preocupe' está incorreta pois inicia com pronome oblíquo. O correto no imperativo afirmativo seria 'Preocupe-se'.",
-      "hintWrong": "Incorreto. A frase errada é 'Se preocupe'. O correto seria 'Preocupe-se' (ênclise).",
+      "hint": "Na norma culta, frases afirmativas não devem começar com pronomes oblíquos átonos (me, te, se, o, a, lhe, nos, vos, lhes, os, as).",
+      "hintCorrect": "Correto! A frase 'Se preocupe' está incorreta pois inicia com pronome oblíquo átono. O correto no imperativo afirmativo seria 'Preocupe-se' (ênclise).",
+      "hintWrong": "Incorreto. A frase errada é 'Se preocupe'. O correto, em início de frase afirmativa, seria 'Preocupe-se', com o pronome após o verbo.",
       "difficulty": "easy"
     },
     {
@@ -148,9 +147,9 @@
         "vós"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Esta forma vem do Presente do Indicativo ('vós falais'), com a remoção do 's' final.",
-      "hintCorrect": "Exato! 'Falai' é a forma do imperativo afirmativo para 'vós'.",
-      "hintWrong": "Incorreto. A resposta certa é 'vós'.",
+      "hint": "Esta forma é característica de um tratamento de formalidade média/arcaica, correspondente à 2ª pessoa do plural.",
+      "hintCorrect": "Exato! 'Falai' é a forma do imperativo afirmativo para 'vós'. Deriva do presente do indicativo 'vós falais', retirando-se o 's' final.",
+      "hintWrong": "Incorreto. A resposta certa é 'vós'. A terminação '-ai' é típica do imperativo afirmativo da 2ª pessoa do plural.",
       "difficulty": "medium"
     },
     {
@@ -163,9 +162,9 @@
         "Não fechar"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O imperativo negativo para 'tu' vem do Presente do Subjuntivo ('que tu feches').",
-      "hintCorrect": "Correto! A forma correta é 'Não feches'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Não feches'. O imperativo negativo de 'tu' deriva do presente do subjuntivo.",
+      "hint": "O imperativo negativo para 'tu' é idêntico à 2ª pessoa do singular do presente do subjuntivo.",
+      "hintCorrect": "Correto! A forma correta é 'Não feches', que corresponde a 'que tu feches' no presente do subjuntivo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não feches'. O imperativo negativo de 'tu' deriva diretamente do presente do subjuntivo.",
       "difficulty": "medium"
     },
     {
@@ -178,9 +177,9 @@
         "Tens"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O verbo 'ter' é um dos 4 irregulares importantes no imperativo afirmativo para 'tu'.",
-      "hintCorrect": "Correto! A forma do imperativo afirmativo para 'tu' do verbo 'ter' é 'Tem'. Ex: 'Tem calma.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Tem'. 'Ter' é irregular na forma 'tu' do imperativo.",
+      "hint": "Seguindo a regra geral, o imperativo afirmativo para 'tu' deriva da 3ª pessoa do singular do presente do indicativo.",
+      "hintCorrect": "Correto! A forma do imperativo afirmativo para 'tu' do verbo 'ter' é 'Tem' (deriva de 'ele tem'). Ex: 'Tem paciência.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Tem'. Assim como 'fazer', 'dizer' e 'vir', 'ter' segue a regra comum para o imperativo de 'tu'.",
       "difficulty": "medium"
     },
     {
@@ -193,9 +192,9 @@
         "Me incomoda."
       ],
       "correctAnswerIndex": 0,
-      "hint": "No imperativo afirmativo, o pronome vai para depois do verbo (ênclise).",
-      "hintCorrect": "Exato! A próclise do negativo ('não me incomode') se transforma em ênclise no afirmativo ('Incomode-me').",
-      "hintWrong": "Incorreto. A resposta certa é 'Incomode-me'. O pronome 'me' vai para depois do verbo.",
+      "hint": "Ao retirar a negação e tornar a frase afirmativa, a colocação pronominal muda de próclise para ênclise.",
+      "hintCorrect": "Exato! A próclise do negativo ('não me incomode') se transforma em ênclise no afirmativo ('Incomode-me'), pois o verbo inicia a oração.",
+      "hintWrong": "Incorreto. A resposta certa é 'Incomode-me'. No afirmativo, o pronome 'me' vai para depois do verbo, ligado por hífen.",
       "difficulty": "medium"
     },
     {
@@ -208,9 +207,9 @@
         "Digas"
       ],
       "correctAnswerIndex": 2,
-      "hint": "O imperativo para 'você' vem do Presente do Subjuntivo ('que ele diga').",
-      "hintCorrect": "Correto! A forma correta é 'Diga'. Ex: 'Diga a verdade.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Diga'. 'Diz' é para 'tu'.",
+      "hint": "Para 'você' (que usa a forma da 3ª pessoa), o imperativo afirmativo é idêntico à 3ª pessoa do singular do presente do subjuntivo.",
+      "hintCorrect": "Correto! A forma correta é 'Diga' (do subjuntivo 'que ele diga'). Ex: 'Diga seu nome.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Diga'. 'Diz' é a forma do imperativo afirmativo para 'tu'.",
       "difficulty": "easy"
     },
     {
@@ -223,14 +222,14 @@
         "Não fazem"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo negativo para 'vocês' vem do Presente do Subjuntivo ('que eles façam').",
-      "hintCorrect": "Correto! A forma correta é 'Não façam'.",
+      "hint": "O imperativo negativo para 'vocês' é idêntico à 3ª pessoa do plural do presente do subjuntivo.",
+      "hintCorrect": "Correto! A forma correta é 'Não façam', que corresponde a 'que eles façam' no presente do subjuntivo.",
       "hintWrong": "Incorreto. A resposta certa é 'Não façam'. O imperativo negativo de 'vocês' deriva do presente do subjuntivo.",
       "difficulty": "easy"
     },
     {
       "id": "imperativo-016",
-      "question": "Qual frase usa a ênclise corretamente?",
+      "question": "Qual frase usa a colocação pronominal corretamente para um comando inicial?",
       "options": [
         "Me dê um minuto.",
         "Dê-me um minuto.",
@@ -238,9 +237,9 @@
         "Me não dê um minuto."
       ],
       "correctAnswerIndex": 1,
-      "hint": "A ênclise (pronome depois do verbo) é usada em inícios de frase e no imperativo afirmativo.",
-      "hintCorrect": "Exato! A frase começa com o verbo no imperativo afirmativo, exigindo ênclise.",
-      "hintWrong": "Incorreto. A resposta certa é 'Dê-me um minuto'.",
+      "hint": "Em uma frase iniciada por verbo no imperativo afirmativo, a ênclise (pronome depois) é obrigatória.",
+      "hintCorrect": "Exato! 'Dê-me um minuto.' está correto. A frase começa com o verbo no imperativo afirmativo, exigindo ênclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Dê-me um minuto'. Frases imperativas afirmativas que iniciam com o verbo requerem ênclise.",
       "difficulty": "easy"
     },
     {
@@ -253,9 +252,9 @@
         "Vais"
       ],
       "correctAnswerIndex": 2,
-      "hint": "A forma 'tu' do imperativo afirmativo vem da 3ª pessoa do singular do Presente do Indicativo ('ele vai').",
-      "hintCorrect": "Correto! A forma é 'Vai'. Ex: 'Vai com cuidado.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Vai'. 'Vá' é para 'você'.",
+      "hint": "Assim como 'vir', a forma para 'tu' deriva da 3ª pessoa do singular do presente do indicativo.",
+      "hintCorrect": "Correto! A forma é 'Vai' (deriva de 'ele vai'). Ex: 'Vai devagar.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Vai'. 'Vá' é a forma para 'você' (presente do subjuntivo) e 'Ide' é para 'vós'.",
       "difficulty": "medium"
     },
     {
@@ -268,9 +267,9 @@
         "Arrumai"
       ],
       "correctAnswerIndex": 0,
-      "hint": "A forma 'tu' do imperativo afirmativo vem da 3ª pessoa do singular do Presente do Indicativo ('ele arruma').",
-      "hintCorrect": "Correto! A forma correta é 'Arruma'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Arruma'. 'Arrume' é para 'você'.",
+      "hint": "Para verbos regulares da 1ª conjugação como 'arrumar', a forma para 'tu' segue a regra geral.",
+      "hintCorrect": "Correto! A forma correta é 'Arruma' (deriva de 'ele arruma').",
+      "hintWrong": "Incorreto. A resposta certa é 'Arruma'. 'Arrume' é a forma para 'você' (presente do subjuntivo).",
       "difficulty": "easy"
     },
     {
@@ -283,9 +282,9 @@
         "Se não esqueça do guarda-chuva."
       ],
       "correctAnswerIndex": 0,
-      "hint": "A palavra 'não' atrai o pronome para antes do verbo (próclise).",
-      "hintCorrect": "Correto! O 'não' exige a próclise, colocando o 'se' antes de 'esqueça'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Não se esqueça do guarda-chuva'.",
+      "hint": "A presença do 'não' antes do verbo exige uma colocação pronominal específica.",
+      "hintCorrect": "Correto! 'Não se esqueça do guarda-chuva.' está perfeito. O 'não' exige a próclise, colocando o 'se' antes de 'esqueça'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não se esqueça do guarda-chuva'. No imperativo negativo, usa-se próclise.",
       "difficulty": "easy"
     },
     {
@@ -298,9 +297,9 @@
         "vós"
       ],
       "correctAnswerIndex": 3,
-      "hint": "Esta forma vem do Presente do Indicativo ('vós comeis'), com a remoção do 's' final.",
-      "hintCorrect": "Exato! 'Comei' é a forma do imperativo afirmativo para 'vós'.",
-      "hintWrong": "Incorreto. A resposta certa é 'vós'.",
+      "hint": "Observe a terminação '-ei'. Ela é característica de uma pessoa gramatical específica no imperativo.",
+      "hintCorrect": "Exato! 'Comei' é a forma do imperativo afirmativo para 'vós'. Deriva do presente do indicativo 'vós comeis', sem o 's' final.",
+      "hintWrong": "Incorreto. A resposta certa é 'vós'. A terminação '-ei' é marca do imperativo da 2ª pessoa do plural.",
       "difficulty": "medium"
     },
     {
@@ -313,9 +312,9 @@
         "Não és"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo negativo para 'tu' vem do Presente do Subjuntivo ('que tu sejas').",
-      "hintCorrect": "Correto! A forma correta é 'Não sejas'. Ex: 'Não sejas mau.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Não sejas'.",
+      "hint": "Lembre-se: o imperativo negativo vem do presente do subjuntivo. Qual é a forma de 'que tu sejas'?",
+      "hintCorrect": "Correto! A forma correta é 'Não sejas' (de 'que tu sejas'). Ex: 'Não sejas teimoso.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não sejas', que é a forma correspondente do presente do subjuntivo.",
       "difficulty": "hard"
     },
     {
@@ -328,9 +327,9 @@
         "Abri"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo para 'você' vem do Presente do Subjuntivo ('que ele abra').",
-      "hintCorrect": "Correto! A forma correta é 'Abra'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Abra'. 'Abre' é para 'tu'.",
+      "hint": "Para 'você', o imperativo afirmativo é igual à 3ª pessoa do singular do presente do subjuntivo.",
+      "hintCorrect": "Correto! A forma correta é 'Abra' (do subjuntivo 'que ele abra').",
+      "hintWrong": "Incorreto. A resposta certa é 'Abra'. 'Abre' é a forma do imperativo afirmativo para 'tu'.",
       "difficulty": "easy"
     },
     {
@@ -343,10 +342,10 @@
         "Não lavem a."
       ],
       "correctAnswerIndex": 1,
-      "hint": "O 'não' atrai o pronome 'a' para antes do verbo.",
-      "hintCorrect": "Exato! A ênclise do afirmativo ('lavem-na') se transforma em próclise no negativo ('não a lavem').",
-      "hintWrong": "Incorreto. A resposta certa é 'Não a lavem'.",
-      "difficulty": "medium"
+      "hint": "No negativo, o pronome objeto deve ser colocado antes do verbo. O pronome 'na' contrai 'a' (louça) com 'a' preposição? Não, 'na' é a forma combinada do pronome 'a' com a preposição 'em'. Aqui, é apenas o pronome 'a'.",
+      "hintCorrect": "Exato! A ênclise do afirmativo ('lavem-na', onde 'na' = 'a' + 'a') se desfaz no negativo. O 'não' atrai o pronome 'a' para antes do verbo, resultando em 'Não a lavem'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não a lavem'. A contração 'na' (a+a) do afirmativo é desfeita no negativo, ficando apenas o pronome 'a' em próclise.",
+      "difficulty": "hard"
     },
     {
       "id": "imperativo-024",
@@ -358,9 +357,9 @@
         "Ponde"
       ],
       "correctAnswerIndex": 0,
-      "hint": "A forma 'tu' do imperativo afirmativo vem da 3ª pessoa do singular do Presente do Indicativo ('ele põe').",
-      "hintCorrect": "Correto! A forma correta é 'Põe'. Ex: 'Põe o livro aqui.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Põe'. 'Ponha' é para 'você'.",
+      "hint": "A forma para 'tu' deriva da 3ª pessoa do singular do presente do indicativo, que tem uma alteração ortográfica (ô -> õe).",
+      "hintCorrect": "Correto! A forma correta é 'Põe' (deriva de 'ele põe'). Ex: 'Põe a mesa.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Põe'. 'Ponha' é a forma para 'você' (presente do subjuntivo).",
       "difficulty": "medium"
     },
     {
@@ -373,9 +372,9 @@
         "Te não cala!"
       ],
       "correctAnswerIndex": 0,
-      "hint": "O verbo está no imperativo afirmativo, exigindo ênclise.",
-      "hintCorrect": "Correto! 'Cala-te!' é a forma correta do imperativo afirmativo para 'tu', com ênclise.",
-      "hintWrong": "Incorreto. A resposta certa é 'Cala-te!'.",
+      "hint": "É um comando direto e afirmativo para 'tu'. A colocação pronominal deve refletir isso.",
+      "hintCorrect": "Correto! 'Cala-te!' é a forma correta do imperativo afirmativo para 'tu', com ênclise obrigatória.",
+      "hintWrong": "Incorreto. A resposta certa é 'Cala-te!'. No imperativo afirmativo, o pronome vem após o verbo.",
       "difficulty": "easy"
     },
     {
@@ -388,9 +387,9 @@
         "Não acreditar"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo negativo para 'você' vem do Presente do Subjuntivo ('que ele acredite').",
-      "hintCorrect": "Correto! A forma correta é 'Não acredite'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Não acredite'.",
+      "hint": "Para 'você', o imperativo negativo é igual à 3ª pessoa do singular do presente do subjuntivo.",
+      "hintCorrect": "Correto! A forma correta é 'Não acredite' (de 'que ele acredite').",
+      "hintWrong": "Incorreto. A resposta certa é 'Não acredite'. 'Não acredites' seria a forma para 'tu'.",
       "difficulty": "easy"
     },
     {
@@ -403,9 +402,9 @@
         "Lede"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo para 'você' vem do Presente do Subjuntivo ('que ele leia').",
-      "hintCorrect": "Correto! A forma correta é 'Leia'. Ex: 'Leia este livro.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Leia'. 'Lê' é para 'tu'.",
+      "hint": "'Ler' é um verbo irregular no presente do subjuntivo, que forma a base do imperativo para 'você'.",
+      "hintCorrect": "Correto! A forma correta é 'Leia' (do subjuntivo 'que ele leia'). Ex: 'Leia em voz alta.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Leia'. 'Lê' é a forma para 'tu' e 'Lede' é para 'vós'.",
       "difficulty": "easy"
     },
     {
@@ -418,9 +417,9 @@
         "Perturbes-o."
       ],
       "correctAnswerIndex": 0,
-      "hint": "O verbo para 'tu' é 'perturba'. No afirmativo, o pronome 'o' vai para depois do verbo.",
-      "hintCorrect": "Exato! A próclise do negativo ('não o perturbes') se transforma em ênclise no afirmativo ('Perturba-o').",
-      "hintWrong": "Incorreto. A resposta certa é 'Perturba-o'.",
+      "hint": "Primeiro, encontre a forma afirmativa do verbo para 'tu'. Depois, ajuste a posição do pronome.",
+      "hintCorrect": "Exato! A forma afirmativa do verbo para 'tu' é 'perturba'. A próclise do negativo ('não o perturbes') se transforma em ênclise no afirmativo ('Perturba-o').",
+      "hintWrong": "Incorreto. A resposta certa é 'Perturba-o'. O verbo no afirmativo é 'perturba' e o pronome 'o' deve vir após, em ênclise.",
       "difficulty": "medium"
     },
     {
@@ -433,14 +432,14 @@
         "Peçais"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo para 'nós' vem do Presente do Subjuntivo ('que nós peçamos').",
-      "hintCorrect": "Correto! A forma correta é 'Peçamos'. Ex: 'Peçamos silêncio.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Peçamos'.",
+      "hint": "O imperativo para 'nós' é idêntico à 1ª pessoa do plural do presente do subjuntivo. 'Pedir' tem alteração vocálica (e->ç) nesse tempo.",
+      "hintCorrect": "Correto! A forma correta é 'Peçamos' (do subjuntivo 'que nós peçamos'). Ex: 'Peçamos licença.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Peçamos'. É a forma do presente do subjuntivo usada como imperativo.",
       "difficulty": "medium"
     },
     {
       "id": "imperativo-030",
-      "question": "Qual frase está INCORRETA?",
+      "question": "Qual frase está INCORRETA do ponto de vista da norma culta?",
       "options": [
         "Diga-nos o que aconteceu.",
         "Não nos diga o que aconteceu.",
@@ -448,13 +447,13 @@
         "Digam-nos o que aconteceu."
       ],
       "correctAnswerIndex": 2,
-      "hint": "Lembre-se da regra sobre iniciar frases com pronomes oblíquos átonos.",
-      "hintCorrect": "Correto! A frase 'Nos diga...' está incorreta na norma culta. O correto seria 'Diga-nos...'.",
-      "hintWrong": "Incorreto. A frase errada é 'Nos diga o que aconteceu'.",
+      "hint": "Preste atenção a frases que começam com pronomes oblíquos átonos sem um fator de atração (como 'não') antes deles.",
+      "hintCorrect": "Correto! A frase 'Nos diga o que aconteceu.' está incorreta na norma culta, pois inicia com pronome oblíquo. O correto seria 'Diga-nos...' (ênclise) ou, em contexto informal, pode ser aceita, mas a norma preconiza a ênclise no início.",
+      "hintWrong": "Incorreto. A frase errada é 'Nos diga o que aconteceu'. Na escrita formal, o correto é iniciar com o verbo: 'Diga-nos...'.",
       "difficulty": "easy"
     },
     {
-      "id": "imperativo-101",
+      "id": "imperativo-031",
       "question": "Qual é a forma correta do imperativo afirmativo do verbo 'estudar' para 'você'?",
       "options": [
         "Estuda",
@@ -463,10 +462,1045 @@
         "Estudai"
       ],
       "correctAnswerIndex": 1,
-      "hint": "O imperativo para 'você' vem do Presente do Subjuntivo ('que ele estude').",
-      "hintCorrect": "Correto! A forma correta é 'Estude'. Ex: 'Estude mais.'",
-      "hintWrong": "Incorreto. A resposta certa é 'Estude'. 'Estuda' é para 'tu'.",
+      "hint": "Para verbos regulares da 1ª conjugação, a forma do subjuntivo (e imperativo para 'você') troca o '-a' final do radical por '-e'.",
+      "hintCorrect": "Correto! A forma correta é 'Estude' (do subjuntivo 'que ele estude'). Ex: 'Estude para a prova.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Estude'. 'Estuda' é a forma do imperativo afirmativo para 'tu'.",
       "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-032",
+      "question": "Complete com o imperativo negativo para 'tu': '___ tão depressa!' (Correr)",
+      "options": [
+        "Não corre",
+        "Não corras",
+        "Não corra",
+        "Não correr"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Lembre-se da regra: imperativo negativo de 'tu' = presente do subjuntivo de 'tu'.",
+      "hintCorrect": "Correto! 'Não corras' vem de 'que tu corras' (presente do subjuntivo).",
+      "hintWrong": "Incorreto. A resposta certa é 'Não corras'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-033",
+      "question": "Qual é a forma correta do imperativo afirmativo do verbo 'ouvir' para 'vós'?",
+      "options": [
+        "Ouvi",
+        "Ouvis",
+        "Ouçais",
+        "Ouvide"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Para 'vós', retire o '-s' final da 2ª pessoa do plural do presente do indicativo ('vós ouvis').",
+      "hintCorrect": "Exato! 'Ouvi' é a forma correta. (De 'vós ouvis' -> tira o 's' -> 'ouvi').",
+      "hintWrong": "Incorreto. A resposta certa é 'Ouvi'. A forma do imperativo para 'vós' é simples e direta.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-034",
+      "question": "Qual frase demonstra a próclise corretamente no imperativo?",
+      "options": [
+        "Sempre se levante cedo.",
+        "Levante-se sempre cedo.",
+        "Nunca se atrase.",
+        "Atrase-se nunca."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Próclise no imperativo acontece principalmente com advérbios de negação. 'Nunca' é um deles.",
+      "hintCorrect": "Correto! 'Nunca se atrase.' está perfeito. 'Nunca' atrai o pronome 'se' para antes do verbo, assim como 'não'.",
+      "hintWrong": "Incorreto. A única com próclise correta motivada por um advérbio de negação é 'Nunca se atrase'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-035",
+      "question": "Complete com o imperativo afirmativo para 'nós': '___ mais vezes.' (Encontrar-se)",
+      "options": [
+        "Encontramo-nos",
+        "Encontremo-nos",
+        "Encontrámo-nos",
+        "Encontrimos-nos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O imperativo para 'nós' vem do presente do subjuntivo. O verbo é 'encontrar' e o pronome é 'nos' (recíproco).",
+      "hintCorrect": "Correto! A forma é 'Encontremo-nos' (de 'que nós nos encontremos'). Ajusta-se o verbo para o subjuntivo ('encontremos') e faz-se a ênclise.",
+      "hintWrong": "Incorreto. A resposta certa é 'Encontremo-nos'. É a forma do subjuntivo com o pronome em ênclise.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-036",
+      "question": "Qual a forma negativa correta para 'vocês' do verbo 'trazer'?",
+      "options": [
+        "Não tragam",
+        "Não trazam",
+        "Não trazei",
+        "Não trazem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Trazer' é irregular no subjuntivo: que eu traga, que eles tragam.",
+      "hintCorrect": "Correto! 'Não tragam' vem de 'que eles tragam' (presente do subjuntivo).",
+      "hintWrong": "Incorreto. A resposta certa é 'Não tragam'. É uma forma irregular derivada do subjuntivo.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-037",
+      "question": "A expressão 'Vamos lá!' é um exemplo de imperativo para qual pessoa?",
+      "options": [
+        "tu",
+        "você",
+        "nós",
+        "vós"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "'Vamos' é a forma da 1ª pessoa do plural do presente do indicativo do verbo 'ir', mas é comumente usada como imperativo (uma espécie de 'imperativo inclusivo').",
+      "hintCorrect": "Exato! 'Vamos' é usado como imperativo para 'nós', convidando o ouvinte a fazer algo junto com quem fala. Ex: 'Vamos embora!'",
+      "hintWrong": "Incorreto. A resposta certa é 'nós'. 'Vamos' funciona como um imperativo que inclui o falante na ação.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-038",
+      "question": "Complete a forma negativa para 'tu' considerando o pronome: '___ com isso.' (Meter-se)",
+      "options": [
+        "Não te metas",
+        "Não metas-te",
+        "Não se meta",
+        "Não meta-se"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Verbo 'meter-se'. Imperativo negativo para 'tu' vem do subjuntivo ('que tu te metas'). O 'não' exige próclise.",
+      "hintCorrect": "Correto! 'Não te metas' é a forma correta. O pronome 'te' vem antes do verbo por causa da negação.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não te metas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-039",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'sair' para 'você'?",
+      "options": [
+        "Sai",
+        "Saia",
+        "Sais",
+        "Saí"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Para 'você', use o presente do subjuntivo. 'Sair' é irregular: que eu saia, que ele saia.",
+      "hintCorrect": "Correto! A forma é 'Saia' (de 'que ele saia'). Ex: 'Saia agora.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Saia'. 'Sai' é para 'tu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-040",
+      "question": "Transforme 'Entre já.' para a forma negativa (tratamento por 'você').",
+      "options": [
+        "Não entre já.",
+        "Não entra já.",
+        "Não entres já.",
+        "Já não entre."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Apenas adicione 'não' e mantenha a forma do verbo, que já está no imperativo/subjuntivo para 'você'.",
+      "hintCorrect": "Correto! Simplesmente acrescenta-se 'não' antes do verbo: 'Não entre já.' O pronome, se houvesse, viria antes do verbo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não entre já.' A forma verbal 'entre' já é a correta para o negativo.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-041",
+      "question": "Qual destas formas NÃO existe como imperativo afirmativo padrão do verbo 'ver'?",
+      "options": [
+        "Vê (tu)",
+        "Veja (você)",
+        "Vede (vós)",
+        "Vemos (nós)"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O imperativo para 'nós' do verbo 'ver' é 'vejamos', vindo do subjuntivo.",
+      "hintCorrect": "Correto! 'Vemos' é a forma do presente do indicativo. O imperativo para 'nós' é 'Vejamos' (de 'que nós vejamos').",
+      "hintWrong": "Incorreto. A forma que não existe como imperativo é 'Vemos'. A forma correta para 'nós' seria 'Vejamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-042",
+      "question": "Complete com o imperativo negativo para 'vocês' e o pronome: '___ nesse assunto.' (Implicar)",
+      "options": [
+        "Não implicam",
+        "Não impliquem",
+        "Não impliqueis",
+        "Não implicai"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbo 'implicar'. Imperativo negativo para 'vocês' = presente do subjuntivo para 'eles'. Atenção à ortografia (c -> qu).",
+      "hintCorrect": "Correto! 'Não impliquem' vem de 'que eles impliquem'. A letra 'c' muda para 'qu' antes do 'e' para manter o som /k/.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não impliquem'. É a forma do subjuntivo com a alteração ortográfica necessária.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-043",
+      "question": "A frase 'Dá-me isso.' está no imperativo para qual pessoa?",
+      "options": [
+        "tu",
+        "você",
+        "vós",
+        "nós"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Observe a forma verbal 'Dá'. Ela é a 3ª pessoa do singular do presente do indicativo ('ele dá'), usada como imperativo para 'tu'.",
+      "hintCorrect": "Exato! 'Dá' é a forma do imperativo afirmativo para 'tu' do verbo 'dar'. Ex: 'Dá-me a tua mão.'",
+      "hintWrong": "Incorreto. A resposta certa é 'tu'. A forma 'Dá' é específica para o imperativo da 2ª pessoa do singular informal.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-044",
+      "question": "Qual é a forma correta do imperativo negativo para 'nós' do verbo 'fazer'?",
+      "options": [
+        "Não fazemos",
+        "Não façamos",
+        "Não façais",
+        "Não fazei"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Lembre-se: imperativo negativo = presente do subjuntivo. Para 'nós' do verbo 'fazer' é 'façamos'.",
+      "hintCorrect": "Correto! A forma é 'Não façamos' (de 'que nós façamos').",
+      "hintWrong": "Incorreto. A resposta certa é 'Não façamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-045",
+      "question": "Complete a transformação para o negativo: 'Sentem-se aqui.' -> '___ aqui.'",
+      "options": [
+        "Não sentem-se",
+        "Não se sentem",
+        "Não se sentam",
+        "Não sentam-se"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Sentem-se' é imperativo afirmativo para 'vocês'. No negativo, o 'não' atrai o 'se' para antes, e o verbo mantém a forma do subjuntivo.",
+      "hintCorrect": "Exato! De 'Sentem-se' (afirmativo, ênclise) para 'Não se sentem' (negativo, próclise). O verbo 'sentem' já está na forma correta do subjuntivo (que eles sentem).",
+      "hintWrong": "Incorreto. A resposta certa é 'Não se sentem'. A forma verbal permanece 'sentem' (subjuntivo) e o pronome vai para antes.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-046",
+      "question": "Qual é a forma do imperativo afirmativo para 'vós' do verbo 'dizer'?",
+      "options": [
+        "Dizei",
+        "Dizeis",
+        "Digais",
+        "Diz"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Para 'vós', a regra é: presente do indicativo de 'vós' sem o 's' final. 'Vós dizeis' -> 'dizei'.",
+      "hintCorrect": "Correto! 'Dizei' é a forma. (De 'vós dizeis' -> tira o 's'). Ex: 'Dizei a verdade.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Dizei'. É uma forma irregular, mas segue a regra de formação para 'vós'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-047",
+      "question": "A forma 'Tenham' pode ser:",
+      "options": [
+        "Apenas imperativo afirmativo para 'vocês'.",
+        "Apenas presente do subjuntivo para 'eles'.",
+        "Ambas as anteriores, dependendo do contexto.",
+        "Nenhuma das anteriores."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Pense: 'Que eles tenham' (subjuntivo) e 'Tenham paciência!' (imperativo).",
+      "hintCorrect": "Exato! 'Tenham' é homógrafa: pode ser a 3ª pessoa do plural do presente do subjuntivo do verbo 'ter' (que eles tenham) OU o imperativo afirmativo para 'vocês' do mesmo verbo (Tenham calma!).",
+      "hintWrong": "Incorreto. A resposta certa é que pode ser ambas. A forma é idêntica para o subjuntivo e para o imperativo de 'vocês'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-048",
+      "question": "Complete com o imperativo afirmativo (com pronome) para 'tu': '___ já!' (Calçar os sapatos)",
+      "options": [
+        "Calça-os",
+        "Calce-os",
+        "Calça-lhes",
+        "Calce-lhes"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Primeiro, a forma do verbo para 'tu' é 'calça'. O pronome objeto direto para 'os sapatos' (masculino plural) é 'os'. Lugar do pronome?",
+      "hintCorrect": "Correto! O verbo é 'calça' (tu). O pronome 'os' vem depois, em ênclise, resultando em 'Calça-os'.",
+      "hintWrong": "Incorreto. A resposta certa é 'Calça-os'. 'Calce' é a forma para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-049",
+      "question": "Qual destas opções contém APENAS verbos com a mesma forma no imperativo afirmativo para 'tu' e na 3ª pessoa do presente do indicativo?",
+      "options": [
+        "Fazer, Ser, Ir",
+        "Falar, Comer, Abrir",
+        "Pôr, Ver, Saber",
+        "Ter, Vir, Dizer"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "Esses são os chamados 'verbos irregulares no imperativo de tu' que, na verdade, seguem a regra geral: usam a forma da 3ª pessoa do indicativo.",
+      "hintCorrect": "Exato! Ter (ele tem -> Tem!), Vir (ele vem -> Vem!), Dizer (ele diz -> Diz!). Eles seguem perfeitamente a regra.",
+      "hintWrong": "Incorreto. A resposta certa é 'Ter, Vir, Dizer'. 'Ser' (é -> Sê!) e 'Ir' (vai -> Vai!) também seguem, mas 'Saber' (sabe -> Sabe!) também se encaixa. A opção 3 tem 'Saber' que também se encaixa, mas 'Ver' (vê -> Vê!) também. A opção 4 é a mais clássica e sempre citada.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-050",
+      "question": "A frase 'Ide em paz.' está no imperativo para qual pessoa? É uma forma comum no português moderno?",
+      "options": [
+        "tu; Sim, muito comum.",
+        "vós; Não, é arcaica/litúrgica.",
+        "vocês; Sim, muito comum.",
+        "nós; Não, é incorreta."
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Ide' é a forma do verbo 'ir' para 'vós'. Pense em onde você ouve essa expressão.",
+      "hintCorrect": "Correto! 'Ide' é o imperativo afirmativo de 'ir' para 'vós'. Seu uso no português contemporâneo é restrito a contextos bíblicos, litúrgicos ou arcaizantes. No dia a dia, usamos 'Vão' para 'vocês'.",
+      "hintWrong": "Incorreto. A resposta certa é 'vós; Não, é arcaica/litúrgica.' O tratamento por 'vós' caiu em desuso na fala corrente.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-051",
+      "question": "Qual é a forma correta do imperativo afirmativo do verbo 'cobrir' para 'você'?",
+      "options": [
+        "Cobre",
+        "Cubra",
+        "Cobris",
+        "Cobri"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos como 'cobrir' têm alteração vocálica (o -> u) no presente do subjuntivo, que é a base para o imperativo de 'você'.",
+      "hintCorrect": "Correto! A forma é 'Cubra' (de 'que ele cubra'). Ex: 'Cubra a panela.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Cubra'. 'Cobre' é a forma para 'tu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-052",
+      "question": "Transforme para o imperativo negativo com pronome: 'Deixa-me ver.' (tu)",
+      "options": [
+        "Não me deixa ver.",
+        "Não deixe-me ver.",
+        "Não me deixes ver.",
+        "Não deixes-me ver."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Passo 1: Verbo no negativo para 'tu' = subjuntivo ('deixes'). Passo 2: 'não' atrai o pronome 'me' para antes.",
+      "hintCorrect": "Exato! A forma afirmativa 'Deixa-me' vira 'Não me deixes ver'. O verbo muda para 'deixes' (subjuntivo) e o pronome 'me' vai para a posição proclítica.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não me deixes ver'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-053",
+      "question": "Complete com o imperativo afirmativo para 'nós': '___ à festa!' (Comparecer)",
+      "options": [
+        "Comparecemos",
+        "Compareçamos",
+        "Compareçemos",
+        "Comparecamos"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos terminados em '-cer' como 'comparecer' ganham 'ç' antes de 'a' no presente do subjuntivo.",
+      "hintCorrect": "Correto! A forma é 'Compareçamos' (de 'que nós compareçamos').",
+      "hintWrong": "Incorreto. A resposta certa é 'Compareçamos'. A consoante 'c' muda para 'ç' para manter o som /s/.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-054",
+      "question": "Qual é a forma do imperativo negativo para 'tu' do verbo 'perder'?",
+      "options": [
+        "Não perdes",
+        "Não perda",
+        "Não percas",
+        "Não perder"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "'Perder' tem uma pequena alteração ortográfica no subjuntivo: o 'd' muda para 'c' antes de 'a' para manter o som /s/ de 'perdes'.",
+      "hintCorrect": "Correto! A forma é 'Não percas' (de 'que tu percas'). A mudança de 'd' para 'c' preserva o som.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não percas'. É uma alteração ortográfica comum em verbos terminados em '-der' e '-ter'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-055",
+      "question": "A colocação pronominal em 'Esperem-nos um pouco.' está correta?",
+      "options": [
+        "Sim, é imperativo afirmativo para 'vocês' com ênclise.",
+        "Não, deveria ser 'Não nos esperem'.",
+        "Não, deveria ser 'Esperem por nós'.",
+        "Sim, mas apenas se 'nos' for objeto indireto."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Analise: 'Esperem' (imperativo afirmativo, vocês) + 'nos' (pronome objeto, aqui significa 'a nós'). A ênclise é obrigatória.",
+      "hintCorrect": "Correto! A frase está gramaticalmente correta. 'Esperem-nos' significa 'Aguardem-nos (a nós)'. A ênclise é a regra para o imperativo afirmativo.",
+      "hintWrong": "Incorreto. A frase está correta. A opção C sugere uma forma diferente (com preposição), mas a forma com o pronome também é possível e gramatical.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-056",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'agradecer' para 'você'?",
+      "options": [
+        "Agradece",
+        "Agradeça",
+        "Agradeces",
+        "Agradeci"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos em '-cer' ganham 'ç' antes de 'a' no subjuntivo. Para 'você', use essa forma.",
+      "hintCorrect": "Correto! A forma é 'Agradeça' (de 'que ele agradeça'). Ex: 'Agradeça ao seu amigo.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Agradeça'. 'Agradece' é para 'tu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-057",
+      "question": "Complete a frase negativa para 'você' com o pronome: '___ com estranhos.' (Conversar)",
+      "options": [
+        "Não conversa",
+        "Não converse",
+        "Não converses",
+        "Não se converse"
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "O sentido é 'Não converse (você) com estranhos.', mas com um pronome reflexivo/recíproco implícito ('consigo mesmo' ou 'entre si'). O pronome 'se' é necessário. No negativo, ele vem antes.",
+      "hintCorrect": "Correto! A forma completa é 'Não se converse com estranhos.', onde 'se' tem um valor recíproco/genérico. Verbo no subjuntivo ('converse') e pronome em próclise por causa do 'não'.",
+      "hintWrong": "Incorreto. Considerando o sentido completo com o pronome recíproco, a resposta certa é 'Não se converse'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-058",
+      "question": "A expressão 'Olha só!' usa o imperativo de qual verbo e para qual pessoa?",
+      "options": [
+        "Olhar; tu",
+        "Olhar; você",
+        "Ver; tu",
+        "Ver; você"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Olha' é a forma da 3ª pessoa do singular do presente do indicativo ('ele olha'), usada como imperativo para 'tu'.",
+      "hintCorrect": "Exato! É o verbo 'olhar' no imperativo afirmativo para 'tu'. É uma expressão idiomática muito comum.",
+      "hintWrong": "Incorreto. A resposta certa é 'Olhar; tu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-059",
+      "question": "Qual a forma correta do imperativo negativo para 'vocês' do verbo 'construir'?",
+      "options": [
+        "Não construam",
+        "Não construem",
+        "Não construí",
+        "Não construais"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Construir' é regular no subjuntivo. A forma para 'eles' é 'construam'.",
+      "hintCorrect": "Correto! 'Não construam' (de 'que eles construam').",
+      "hintWrong": "Incorreto. A resposta certa é 'Não construam'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-060",
+      "question": "Transforme 'Parem de fazer barulho.' para a forma afirmativa com o pronome enclítico adequado (supondo 'o barulho' como objeto).",
+      "options": [
+        "Parem-no de fazer.",
+        "Parem-no.",
+        "Parem de fazê-lo.",
+        "Parem de o fazer."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A estrutura é complexa. O objeto direto é toda a ação 'fazer barulho'. 'Barulho' pode ser substituído por 'o'. O verbo principal da ação objeto é 'fazer', que deve receber o pronome.",
+      "hintCorrect": "Correto! A forma mais natural e correta é 'Parem de fazê-lo.', onde 'lo' substitui 'o barulho' e é ligado ao verbo 'fazer' no infinitivo, formando 'fazê-lo'.",
+      "hintWrong": "Incorreto. A forma mais idiomática e gramatical é 'Parem de fazê-lo'. O pronome se liga ao infinitivo 'fazer'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-061",
+      "question": "Complete com o imperativo afirmativo para 'tu' do verbo 'rir': '___ mais da vida!'",
+      "options": [
+        "Ri",
+        "Ris",
+        "Ria",
+        "Ride"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma da 3ª pessoa do singular do presente do indicativo de 'rir' é 'ri' (ele ri).",
+      "hintCorrect": "Correto! A forma é 'Ri'. Ex: 'Ri dessa situação!'",
+      "hintWrong": "Incorreto. A resposta certa é 'Ri'. 'Ria' é para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-062",
+      "question": "Qual é a forma correta do imperativo negativo do verbo 'ouvir' para 'tu'?",
+      "options": [
+        "Não ouve",
+        "Não ouças",
+        "Não oiça",
+        "Não ouviste"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O presente do subjuntivo de 'ouvir' para 'tu' é 'ouças' (que tu ouças).",
+      "hintCorrect": "Correto! A forma é 'Não ouças'. Ex: 'Não ouças isso.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não ouças'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-063",
+      "question": "Qual frase usa uma forma de imperativo para 'nós'?",
+      "options": [
+        "Vamos ao cinema.",
+        "Ide embora.",
+        "Façam silêncio.",
+        "Sê bom."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Vamos' é a forma do presente do indicativo de 'ir' para 'nós', mas é muito usada com valor de imperativo inclusivo.",
+      "hintCorrect": "Exato! 'Vamos ao cinema.' é um exemplo clássico do chamado 'imperativo de 1ª pessoa do plural' ou 'convite', usando a forma 'vamos'.",
+      "hintWrong": "Incorreto. 'Vamos ao cinema.' é o exemplo de imperativo para 'nós'. 'Ide' é para vós, 'Façam' para vocês, 'Sê' para tu.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-064",
+      "question": "Complete com o imperativo negativo para 'você': '___ em casa sozinho à noite.' (Ficar)",
+      "options": [
+        "Não fica",
+        "Não fique",
+        "Não fiques",
+        "Não ficar"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Para 'você', a forma negativa é igual ao presente do subjuntivo da 3ª pessoa singular.",
+      "hintCorrect": "Correto! A forma é 'Não fique' (de 'que ele fique').",
+      "hintWrong": "Incorreto. A resposta certa é 'Não fique'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-065",
+      "question": "Qual a forma do imperativo afirmativo do verbo 'cair' para 'tu'?",
+      "options": [
+        "Cai",
+        "Cais",
+        "Caia",
+        "Caí"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A 3ª pessoa do singular do presente do indicativo é 'cai' (ele cai).",
+      "hintCorrect": "Correto! A forma é 'Cai'. Ex: 'Cai fora!' (expressão idiomática).",
+      "hintWrong": "Incorreto. A resposta certa é 'Cai'. 'Caia' é para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-066",
+      "question": "Transforme para o afirmativo com ênclise: 'Não lhes dê ouvidos.' (você)",
+      "options": [
+        "Dê-lhes ouvidos.",
+        "Lhes dê ouvidos.",
+        "Dê ouvidos-lhes.",
+        "Dê ouvidos a eles."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "No afirmativo, o pronome indireto 'lhes' deve vir depois do verbo, ligado por hífen.",
+      "hintCorrect": "Exato! A próclise do negativo ('não lhes dê') vira ênclise no afirmativo: 'Dê-lhes ouvidos.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Dê-lhes ouvidos'. A ênclise é obrigatória no imperativo afirmativo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-067",
+      "question": "Complete com o imperativo afirmativo para 'vós' do verbo 'partir': '___ já!'",
+      "options": [
+        "Parti",
+        "Partis",
+        "Partais",
+        "Partam"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Presente do indicativo: 'vós partis'. Para o imperativo, tire o 's' final.",
+      "hintCorrect": "Correto! A forma é 'Parti' (de 'vós partis' -> sem o 's').",
+      "hintWrong": "Incorreto. A resposta certa é 'Parti'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-068",
+      "question": "Qual é a forma negativa correta para 'tu' do verbo 'conseguir'?",
+      "options": [
+        "Não consegues",
+        "Não consigas",
+        "Não consiga",
+        "Não conseguir"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'conseguir' para 'tu' é 'consigas' (que tu consigas).",
+      "hintCorrect": "Correto! A forma é 'Não consigas'. Ex: 'Não consigas isso de maneira errada.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não consigas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-069",
+      "question": "A frase 'Beba água.' está no imperativo para qual pessoa?",
+      "options": [
+        "tu",
+        "você",
+        "vós",
+        "nós"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Beba' é a forma da 3ª pessoa do singular do presente do subjuntivo do verbo 'beber'.",
+      "hintCorrect": "Correto! 'Beba' é o imperativo afirmativo para 'você' (ou 'ele/ela'). Ex: 'Beba bastante líquido.'",
+      "hintWrong": "Incorreto. A resposta certa é 'você'. A forma 'bebe' seria para 'tu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-070",
+      "question": "Complete a transformação para o negativo: 'Contem-nos uma história.' -> '___ uma história.'",
+      "options": [
+        "Não contem-nos",
+        "Não nos contem",
+        "Não conteis-nos",
+        "Não nos conteis"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "'Contem-nos' é afirmativo para 'vocês'. No negativo, o 'não' atrai 'nos' para antes, e o verbo fica 'contem' (já é subjuntivo).",
+      "hintCorrect": "Exato! 'Não nos contem uma história.' é a forma negativa correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não nos contem'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-071",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'subir' para 'você'?",
+      "options": [
+        "Sobe",
+        "Suba",
+        "Subis",
+        "Subi"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Para 'você', use a forma do presente do subjuntivo da 3ª pessoa singular.",
+      "hintCorrect": "Correto! A forma é 'Suba' (de 'que ele suba'). Ex: 'Suba as escadas.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Suba'. 'Sobe' é para 'tu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-072",
+      "question": "Qual destas é a forma correta do imperativo negativo para 'nós' do verbo 'ver'?",
+      "options": [
+        "Não vemos",
+        "Não vejamos",
+        "Não vejais",
+        "Não vedes"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O presente do subjuntivo de 'ver' para 'nós' é 'vejamos' (que nós vejamos).",
+      "hintCorrect": "Correto! A forma é 'Não vejamos'. Ex: 'Não vejamos apenas os defeitos.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não vejamos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-073",
+      "question": "Transforme 'Fecha os olhos.' (tu) para a forma negativa.",
+      "options": [
+        "Não fecha os olhos.",
+        "Não feche os olhos.",
+        "Não feches os olhos.",
+        "Não fechar os olhos."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A forma afirmativa para 'tu' é 'Fecha'. A negativa para 'tu' vem do subjuntivo: 'feches'.",
+      "hintCorrect": "Exato! 'Não feches os olhos.' é a forma negativa correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não feches os olhos'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-074",
+      "question": "Complete com o imperativo afirmativo (com pronome) para 'você': '___ amanhã.' (Ligar para mim)",
+      "options": [
+        "Ligue-me",
+        "Me ligue",
+        "Liga-me",
+        "Me liga"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Para 'você', o verbo é 'ligue' (subjuntivo). No afirmativo, o pronome 'me' vem depois.",
+      "hintCorrect": "Correto! A forma é 'Ligue-me'. Ex: 'Ligue-me quando chegar.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Ligue-me'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-075",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'sorrir' para 'tu'?",
+      "options": [
+        "Sorri",
+        "Sorris",
+        "Sorria",
+        "Sorride"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Assim como 'rir', a forma para 'tu' vem de 'ele sorri'.",
+      "hintCorrect": "Correto! A forma é 'Sorri'. Ex: 'Sorri para a foto!'",
+      "hintWrong": "Incorreto. A resposta certa é 'Sorri'. 'Sorria' é para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-076",
+      "question": "Qual a forma correta do imperativo negativo para 'vocês' do verbo 'pedir'?",
+      "options": [
+        "Não pedem",
+        "Não peçam",
+        "Não peçais",
+        "Não pedi"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'pedir' para 'eles' é 'peçam' (que eles peçam).",
+      "hintCorrect": "Correto! A forma é 'Não peçam'. Ex: 'Não peçam o impossível.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não peçam'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-077",
+      "question": "A frase 'Ponham-se a caminho.' está gramaticalmente correta?",
+      "options": [
+        "Sim, é imperativo afirmativo para 'vocês' com o pronome 'se' (reflexivo) em ênclise.",
+        "Não, deveria ser 'Se ponham a caminho.'",
+        "Não, deveria ser 'Ponham a caminho-se.'",
+        "Sim, mas apenas se 'se' for partícula apassivadora."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Analise: 'Ponham' (imperativo afirmativo, vocês) + 'se' (pronome reflexivo, 'a si mesmos') + complemento. A ênclise é a regra.",
+      "hintCorrect": "Correto! A frase está perfeitamente correta. Significa '(Vocês) coloquem-se a caminho.' O pronome reflexivo 'se' está na posição enclítica, como manda a norma.",
+      "hintWrong": "Incorreto. A frase está correta. O pronome 'se' tem valor reflexivo e sua posição após o verbo é obrigatória no imperativo afirmativo.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-078",
+      "question": "Complete com o imperativo negativo para 'tu' do verbo 'fugir': '___ do problema.'",
+      "options": [
+        "Não foge",
+        "Não fujas",
+        "Não fuja",
+        "Não fugir"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'fugir' para 'tu' é 'fujas' (que tu fujas).",
+      "hintCorrect": "Correto! A forma é 'Não fujas'. Ex: 'Não fujas das responsabilidades.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não fujas'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-079",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'crescer' para 'você'?",
+      "options": [
+        "Cresce",
+        "Cresça",
+        "Cresces",
+        "Cresci"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos em '-cer' ganham 'ç' antes de 'a' no subjuntivo.",
+      "hintCorrect": "Correto! A forma é 'Cresça' (de 'que ele cresça'). Ex: 'Cresça e apareça!' (expressão).",
+      "hintWrong": "Incorreto. A resposta certa é 'Cresça'. 'Cresce' é para 'tu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-080",
+      "question": "Transforme 'Aconselhem-no.' para a forma negativa (vocês).",
+      "options": [
+        "Não o aconselhem.",
+        "Não aconselhem-no.",
+        "Não aconselhem o.",
+        "Não aconselhai-o."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "No negativo, o pronome 'o' (que em 'aconselhem-no' está enclítico) deve vir antes do verbo (próclise).",
+      "hintCorrect": "Exato! 'Não o aconselhem.' é a forma negativa correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não o aconselhem'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-081",
+      "question": "Complete com o imperativo afirmativo para 'tu' do verbo 'seguir': '___ em frente!'",
+      "options": [
+        "Segue",
+        "Segues",
+        "Siga",
+        "Segui"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A 3ª pessoa do singular do presente do indicativo é 'segue' (ele segue).",
+      "hintCorrect": "Correto! A forma é 'Segue'. Ex: 'Segue o teu caminho.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Segue'. 'Siga' é para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-082",
+      "question": "Qual é a forma negativa correta para 'você' do verbo 'conhecer'?",
+      "options": [
+        "Não conhece",
+        "Não conheça",
+        "Não conheces",
+        "Não conhecer"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'conhecer' para 'ele' é 'conheça' (que ele conheça).",
+      "hintCorrect": "Correto! A forma é 'Não conheça'. Ex: 'Não conheça a derrota.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não conheça'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-083",
+      "question": "A expressão 'Cala a boca!' é um imperativo para qual pessoa?",
+      "options": [
+        "tu",
+        "você",
+        "vós",
+        "Pode ser tanto 'tu' quanto 'você', dependendo do contexto regional."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "No português do Brasil, coloquialmente, a forma da 3ª pessoa do indicativo ('cala') é frequentemente usada como imperativo tanto para 'tu' quanto para 'você', embora a norma para 'você' seja 'cale'.",
+      "hintCorrect": "Exato! No uso coloquial brasileiro, 'Cala a boca!' é usado dirigindo-se a um único ouvinte, independentemente de se usar 'tu' ou 'você' na teoria. A norma culta para 'você' seria 'Cale a boca!'",
+      "hintWrong": "Incorreto. Na prática do português brasileiro coloquial, essa forma serve para ambos os tratamentos, embora a gramática normativa faça distinção.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-084",
+      "question": "Complete com o imperativo negativo para 'nós' do verbo 'dizer': '___ isso a ninguém.'",
+      "options": [
+        "Não dizemos",
+        "Não digamos",
+        "Não digais",
+        "Não dizei"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'dizer' para 'nós' é 'digamos' (que nós digamos).",
+      "hintCorrect": "Correto! A forma é 'Não digamos'. Ex: 'Não digamos palavrões.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não digamos'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-085",
+      "question": "Qual a forma do imperativo afirmativo do verbo 'ouvir' para 'você'?",
+      "options": [
+        "Ouve",
+        "Ouça",
+        "Ouviste",
+        "Ouvi"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'ouvir' para 'ele' é 'ouça' (que ele ouça).",
+      "hintCorrect": "Correto! A forma é 'Ouça'. Ex: 'Ouça com atenção.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Ouça'. 'Ouve' é para 'tu'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-086",
+      "question": "Transforme 'Vá embora.' para a forma negativa (você).",
+      "options": [
+        "Não vá embora.",
+        "Não vai embora.",
+        "Não vás embora.",
+        "Não ir embora."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Vá' já é a forma do subjuntivo/imperativo para 'você'. Basta acrescentar 'não'.",
+      "hintCorrect": "Exato! Simplesmente 'Não vá embora.' A forma verbal já é a correta para o negativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não vá embora'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-087",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'preferir' para 'tu'?",
+      "options": [
+        "Prefere",
+        "Preferes",
+        "Prefira",
+        "Prefere"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A 3ª pessoa do singular do presente do indicativo é 'prefere' (ele prefere). Atenção: é igual à forma para 'tu' no imperativo.",
+      "hintCorrect": "Correto! A forma é 'Prefere'. Ex: 'Prefere isto àquilo.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Prefere'. A forma 'prefere' serve tanto para 'ele prefere' (indicativo) quanto para 'tu prefere!' (imperativo).",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-088",
+      "question": "Complete com o imperativo negativo para 'vocês' do verbo 'escrever': '___ no quadro.'",
+      "options": [
+        "Não escrevem",
+        "Não escrevam",
+        "Não escreveis",
+        "Não escrevei"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'escrever' para 'eles' é 'escrevam' (que eles escrevam).",
+      "hintCorrect": "Correto! A forma é 'Não escrevam'. Ex: 'Não escrevam nada ainda.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não escrevam'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-089",
+      "question": "Qual frase está correta considerando a norma culta?",
+      "options": [
+        "Avise-me quando chegar.",
+        "Me avise quando chegar.",
+        "Não avise-me quando chegar.",
+        "Me não avise quando chegar."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "É uma frase imperativa afirmativa iniciada pelo verbo. Relembre a regra de colocação pronominal.",
+      "hintCorrect": "Correto! 'Avise-me quando chegar.' está perfeito. Verbo no início, pronome em ênclise.",
+      "hintWrong": "Incorreto. A única correta segundo a norma culta é 'Avise-me quando chegar'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-090",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'medir' para 'você'?",
+      "options": [
+        "Mede",
+        "Meça",
+        "Medes",
+        "Medi"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "Verbos como 'medir' têm alteração vocálica (e -> ç) no subjuntivo.",
+      "hintCorrect": "Correto! A forma é 'Meça' (de 'que ele meça'). Ex: 'Meça suas palavras.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Meça'. 'Mede' é para 'tu'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-091",
+      "question": "Transforme 'Pega nisso.' (tu) para a forma negativa.",
+      "options": [
+        "Não pega nisso.",
+        "Não pegue nisso.",
+        "Não pegues nisso.",
+        "Não pegar nisso."
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "A forma afirmativa para 'tu' é 'pega'. A negativa vem do subjuntivo: 'pegues'.",
+      "hintCorrect": "Exato! 'Não pegues nisso.' é a forma negativa correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não pegues nisso'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-092",
+      "question": "Complete com o imperativo afirmativo para 'vós' do verbo 'beber': '___ água.'",
+      "options": [
+        "Bebei",
+        "Bebeis",
+        "Bebam",
+        "Bebem"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "Presente do indicativo: 'vós bebeis'. Para o imperativo, tire o 's' final.",
+      "hintCorrect": "Correto! A forma é 'Bebei' (de 'vós bebeis' -> sem o 's').",
+      "hintWrong": "Incorreto. A resposta certa é 'Bebei'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-093",
+      "question": "Qual a forma correta do imperativo negativo para 'tu' do verbo 'valer'?",
+      "options": [
+        "Não vales",
+        "Não valhas",
+        "Não valha",
+        "Não valer"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'valer' para 'tu' é 'valhas' (que tu valhas). É irregular.",
+      "hintCorrect": "Correto! A forma é 'Não valhas'. Ex: 'Não valhas mais do que os outros.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não valhas'. É uma forma irregular.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-094",
+      "question": "A frase 'Deixem-no em paz.' está no imperativo para qual pessoa?",
+      "options": [
+        "tu",
+        "você",
+        "vocês",
+        "vós"
+      ],
+      "correctAnswerIndex": 2,
+      "hint": "Observe a terminação do verbo '-em' e a ênclise do pronome '-no'.",
+      "hintCorrect": "Correto! 'Deixem' é a forma do imperativo afirmativo para 'vocês' (ou presente do subjuntivo para 'eles'). A ênclise 'no' confirma que é um comando afirmativo.",
+      "hintWrong": "Incorreto. A resposta certa é 'vocês'. A terminação '-em' é característica da 3ª pessoa do plural.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-095",
+      "question": "Complete com o imperativo negativo para 'você' do verbo 'sentir': '___ remorso.'",
+      "options": [
+        "Não sente",
+        "Não sinta",
+        "Não sintas",
+        "Não sentir"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'sentir' para 'ele' é 'sinta' (que ele sinta).",
+      "hintCorrect": "Correto! A forma é 'Não sinta'. Ex: 'Não sinta pena.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não sinta'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-096",
+      "question": "Qual é a forma do imperativo afirmativo do verbo 'trazer' para 'tu'?",
+      "options": [
+        "Traz",
+        "Trazes",
+        "Traga",
+        "Traze"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A 3ª pessoa do singular do presente do indicativo é 'traz' (ele traz).",
+      "hintCorrect": "Correto! A forma é 'Traz'. Ex: 'Traz o livro aqui.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Traz'. 'Traga' é para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-097",
+      "question": "Transforme 'Venham cedo.' para a forma negativa (vocês).",
+      "options": [
+        "Não venham cedo.",
+        "Não vêm cedo.",
+        "Não vindes cedo.",
+        "Não venhais cedo."
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "'Venham' já é a forma do subjuntivo/imperativo para 'vocês'. Basta acrescentar 'não'.",
+      "hintCorrect": "Exato! 'Não venham cedo.' é a forma negativa correta.",
+      "hintWrong": "Incorreto. A resposta certa é 'Não venham cedo'.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "imperativo-098",
+      "question": "Complete com o imperativo afirmativo (com pronome) para 'tu': '___ logo!' (Vestir a camisa)",
+      "options": [
+        "Veste-a",
+        "Vista-a",
+        "Vestes-a",
+        "Vestis-a"
+      ],
+      "correctAnswerIndex": 0,
+      "hint": "A forma do verbo para 'tu' é 'veste'. O pronome 'a' (camisa, feminino) vem depois.",
+      "hintCorrect": "Correto! 'Veste-a' é a forma correta. Ex: 'Veste-a antes de sair.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Veste-a'. 'Vista-a' seria para 'você'.",
+      "difficulty": "medium"
+    },
+    {
+      "id": "imperativo-099",
+      "question": "Qual a forma correta do imperativo negativo para 'nós' do verbo 'pôr'?",
+      "options": [
+        "Não pomos",
+        "Não ponhamos",
+        "Não pondes",
+        "Não põe"
+      ],
+      "correctAnswerIndex": 1,
+      "hint": "O subjuntivo de 'pôr' para 'nós' é 'ponhamos' (que nós ponhamos).",
+      "hintCorrect": "Correto! A forma é 'Não ponhamos'. Ex: 'Não ponhamos a carroça à frente dos bois.'",
+      "hintWrong": "Incorreto. A resposta certa é 'Não ponhamos'.",
+      "difficulty": "hard"
+    },
+    {
+      "id": "imperativo-100",
+      "question": "A expressão 'Ouve bem' pode ser considerada:",
+      "options": [
+        "Apenas imperativo afirmativo para 'tu'.",
+        "Apenas presente do indicativo para 'tu'.",
+        "Presente do indicativo para 'tu' ou 'ele', dependendo do contexto.",
+        "Tanto imperativo para 'tu' quanto presente do indicativo para 'ele', dependendo da entonação e contexto."
+      ],
+      "correctAnswerIndex": 3,
+      "hint": "A forma 'ouve' é a mesma para: (1) 'tu ouves' no presente do indicativo (com o 's' omitido em algumas variantes? Não, 'tu ouves' tem 's'), (2) 'ele ouve' no presente do indicativo, e (3) 'tu ouve!' no imperativo afirmativo (forma usada no Brasil coloquialmente, embora a norma seja 'ouve' sem 's' para imperativo de 'tu' que vem de 'ele ouve'). Na escrita, 'ouve' é indicativo de ele e imperativo de tu.",
+      "hintCorrect": "Exato! Na escrita, 'Ouve' é ambígua: pode ser a 3ª pessoa do singular do presente do indicativo ('Ele ouve bem.') ou o imperativo afirmativo para 'tu' ('Ouve bem o que te digo!'). A distinção se dá pelo contexto e pontuação/entoção.",
+      "hintWrong": "Incorreto. A resposta mais abrangente e correta é que a forma pode representar tanto um modo/tempo quanto outro, dependendo de como é usada.",
+      "difficulty": "medium"
     }
   ]
 }

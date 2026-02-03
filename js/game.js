@@ -6,46 +6,81 @@ function shuffleArray(array) {
 }
 
 const Game = (() => {
-    const PRIZE_LADDER = [0, 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 250000, 500000, 1000000];
-
     let state = {
         questions: [],
         removedOptions: [],
         currentQuestionIndex: 0,
         score: 0,
-        currentPrize: PRIZE_LADDER[0],
+        currentPrize: 0,
         errors: 0,
         maxErrors: 3,
         lifelines: { fiftyFifty: true, hint: true, skip: true },
         wrongAnswers: [],
+        prizeLadder: [],
+        difficultyCounts: {},
+        difficultyStarts: {}
     };
 
     let onQuestionAnsweredCallback = null;
     let onLifelineUsedCallback = null;
+    let onBackCallback = null;
 
-    const init = (quizData, questionAnsweredCb, lifelineUsedCb) => {
-        let questionsToPlay = [...quizData.questions];
-        shuffleArray(questionsToPlay);
+    const init = (quizData, questionAnsweredCb, lifelineUsedCb, onBackCb) => {
+        let allQuestions = [...quizData.questions];
+
+        // Group by difficulty
+        const easyQuestions = allQuestions.filter(q => q.difficulty === 'easy');
+        const mediumQuestions = allQuestions.filter(q => q.difficulty === 'medium');
+        const hardQuestions = allQuestions.filter(q => q.difficulty === 'hard');
+        const otherQuestions = allQuestions.filter(q => !['easy', 'medium', 'hard'].includes(q.difficulty));
+
+        // Shuffle each group individually
+        shuffleArray(easyQuestions);
+        shuffleArray(mediumQuestions);
+        shuffleArray(hardQuestions);
+        shuffleArray(otherQuestions);
+
+        // Combine them in the correct order
+        const sortedQuestions = [...easyQuestions, ...mediumQuestions, ...hardQuestions, ...otherQuestions];
 
         // Now, for each question, shuffle its answers and update the correct index
-        state.questions = questionsToPlay.map(originalQuestion => {
+        state.questions = sortedQuestions.map(originalQuestion => {
             const question = JSON.parse(JSON.stringify(originalQuestion)); // Deep copy
-            const correctAnswerText = question.options[question.correctAnswerIndex];
+            const correctAnswerText = question.options[originalQuestion.correctAnswerIndex];
             shuffleArray(question.options);
             question.correctAnswerIndex = question.options.indexOf(correctAnswerText);
             return question;
         });
+        
+        // Generate prize ladder dynamically
+        const numQuestions = state.questions.length;
+        state.prizeLadder = Array.from({ length: numQuestions + 1 }, (_, i) => i);
+
+        // Store difficulty counts and start indexes
+        state.difficultyCounts = {
+            easy: easyQuestions.length,
+            medium: mediumQuestions.length,
+            hard: hardQuestions.length,
+            other: otherQuestions.length
+        };
+        state.difficultyStarts = {
+            easy: 0,
+            medium: easyQuestions.length,
+            hard: easyQuestions.length + mediumQuestions.length,
+            other: easyQuestions.length + mediumQuestions.length + hardQuestions.length
+        };
 
         state.currentQuestionIndex = 0;
         state.score = 0;
-        state.currentPrize = PRIZE_LADDER[0];
+        state.currentPrize = state.prizeLadder[0];
         state.errors = 0;
         state.removedOptions = [];
         state.lifelines = { fiftyFifty: true, hint: true, skip: true };
         state.wrongAnswers = [];
         onQuestionAnsweredCallback = questionAnsweredCb;
         onLifelineUsedCallback = lifelineUsedCb;
-        console.log("Game initialized with fully shuffled questions and answers:", state.questions);
+        onBackCallback = onBackCb;
+        console.log("Game initialized with difficulty-sorted questions:", state.difficultyCounts);
     };
 
     const startGameFlow = () => {
@@ -54,7 +89,7 @@ const Game = (() => {
             return;
         }
         const currentQuestion = getCurrentQuestion();
-        UI.renderQuestionScreen(currentQuestion, getGameState(), handleAnswer, handleLifeline);
+        UI.renderQuestionScreen(currentQuestion, getGameState(), handleAnswer, handleLifeline, onBackCallback);
     };
 
     const handleAnswer = (selectedIndex) => {
@@ -103,7 +138,7 @@ const Game = (() => {
 
         if (isCorrect) {
             state.score++;
-            state.currentPrize = PRIZE_LADDER[state.score] || PRIZE_LADDER[PRIZE_LADDER.length - 1];
+            state.currentPrize = state.prizeLadder[state.score];
             console.log("Correct! Score:", state.score, "Prize:", state.currentPrize);
         } else {
             state.errors++;
@@ -118,7 +153,8 @@ const Game = (() => {
         state.removedOptions = [];
         if (state.currentQuestionIndex < state.questions.length && state.errors < state.maxErrors) {
             return true;
-        } else {
+        }
+        else {
             return false;
         }
     };
@@ -128,10 +164,7 @@ const Game = (() => {
     };
 
     const getGameState = () => {
-        return { 
-            ...state,
-            prizeLadder: PRIZE_LADDER
-        };
+        return { ...state };
     };
 
     return {

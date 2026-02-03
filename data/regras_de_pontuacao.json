@@ -12,14 +12,14 @@
         "Comprei pão leite, queijo e frutas."
       ],
       "correctAnswerIndex": 2,
-      "hint": "A vírgula deve separar os itens da lista. A conjunção 'e' geralmente substitui a última vírgula.",
-      "hintCorrect": "Correto! A vírgula é usada para separar os termos de uma enumeração. Ex: 'pão, leite, queijo'.",
-      "hintWrong": "Incorreto. A resposta certa é 'Comprei pão, leite, queijo e frutas'. Usa-se a vírgula para separar os itens de uma lista.",
+      "hint": "Na enumeração, a vírgula separa os itens. A conjunção 'e' substitui a última vírgula antes do item final.",
+      "hintCorrect": "Correto! A vírgula é usada para separar os termos de uma enumeração, como em 'pão, leite, queijo'.",
+      "hintWrong": "Incorreto. A forma correta é 'Comprei pão, leite, queijo e frutas'. A vírgula deve separar os itens da lista.",
       "difficulty": "easy"
     },
     {
       "id": "pontuacao-002",
-      "question": "O que são 'Reticências' (...) e qual sua principal função?",
+      "question": "O que são reticências (...) e qual sua principal função?",
       "options": [
         "Indicar uma pergunta direta.",
         "Indicar uma interrupção ou suspensão da frase ou do pensamento.",
@@ -27,7 +27,7 @@
         "Finalizar uma frase declarativa com ênfase."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Este sinal é usado quando uma ideia fica por dizer ou para criar suspense.",
+      "hint": "Este sinal é usado quando uma ideia fica incompleta, sugerindo algo não dito ou criando suspense.",
       "hintCorrect": "Exato! As reticências indicam uma pausa, hesitação, ou que algo ficou subentendido.",
       "hintWrong": "Incorreto. A resposta certa é 'Indicar uma interrupção ou suspensão da frase ou do pensamento'.",
       "difficulty": "easy"
@@ -42,9 +42,9 @@
         "Separar uma oração subordinada."
       ],
       "correctAnswerIndex": 1,
-      "hint": "'Maria' é o termo usado para chamar ou invocar a pessoa com quem se fala. Qual o nome técnico disso?",
+      "hint": "'Maria' é o termo usado para chamar a pessoa com quem se fala. Esse termo deve ser destacado da frase.",
       "hintCorrect": "Correto! 'Maria' é um vocativo (um chamamento), e os vocativos devem sempre ser isolados por vírgulas.",
-      "hintWrong": "Incorreto. A resposta certa é 'Isolar o vocativo'. A vírgula está a separar o nome da pessoa a quem a ordem se dirige.",
+      "hintWrong": "Incorreto. A resposta certa é 'Isolar o vocativo'. A vírgula separa o nome da pessoa a quem se dirige o pedido.",
       "difficulty": "medium"
     },
     {
@@ -57,9 +57,9 @@
         "A frase está correta."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Existe uma regra fundamental que proíbe separar por vírgula dois termos essenciais da oração.",
+      "hint": "Existe uma regra fundamental que proíbe separar dois termos essenciais da oração: o sujeito e seu verbo.",
       "hintCorrect": "Exato! É proibido usar vírgula para separar o sujeito ('Os rapazes') do predicado ('jogam futebol no campo').",
-      "hintWrong": "Incorreto. O erro é que 'A vírgula está a separar o sujeito do predicado', o que é uma das proibições mais importantes do uso da vírgula.",
+      "hintWrong": "Incorreto. O erro é que 'A vírgula está a separar o sujeito do predicado', o que é um dos erros mais graves no uso da vírgula.",
       "difficulty": "easy"
     },
     {
@@ -72,8 +72,8 @@
         "Expressar surpresa ou emoção forte."
       ],
       "correctAnswerIndex": 2,
-      "hint": "Pense neste sinal como uma 'porta' que se abre para algo que virá a seguir.",
-      "hintCorrect": "Correto! Os dois pontos anunciam algo: uma lista, a fala de alguém, ou um esclarecimento.",
+      "hint": "Pense neste sinal como uma 'porta' que anuncia algo que virá a seguir.",
+      "hintCorrect": "Correto! Os dois pontos anunciam uma enumeração, uma fala, um exemplo ou um esclarecimento.",
       "hintWrong": "Incorreto. A resposta certa é 'Introduzir uma enumeração, citação ou explicação'.",
       "difficulty": "easy"
     },
@@ -87,7 +87,7 @@
         "Alternativa"
       ],
       "correctAnswerIndex": 2,
-      "hint": "A conjunção 'logo' introduz uma ideia de conclusão a partir da ideia anterior.",
+      "hint": "A conjunção 'logo' introduz uma ideia de conclusão que deriva da ideia anterior.",
       "hintCorrect": "Correto! 'Logo' é uma conjunção conclusiva, e a vírgula é usada para separar a oração que ela introduz.",
       "hintWrong": "Incorreto. A resposta certa é 'Conclusiva', pois 'logo' indica uma conclusão.",
       "difficulty": "medium"
@@ -102,7 +102,7 @@
         "Para introduzir uma fala."
       ],
       "correctAnswerIndex": 1,
-      "hint": "É um sinal intermediário, usado para organizar listas complexas ou separar orações com uma forte relação de sentido.",
+      "hint": "É um sinal intermediário, ideal para organizar listas complexas ou separar orações com forte relação de sentido.",
       "hintCorrect": "Exato! O ponto e vírgula serve como uma pausa intermediária, ideal para separar itens em uma lista que já contém vírgulas, ou para conectar orações relacionadas.",
       "hintWrong": "Incorreto. A resposta certa é 'Para indicar uma pausa mais forte que a vírgula, mas mais fraca que o ponto'.",
       "difficulty": "medium"
@@ -117,14 +117,14 @@
         "O João, um bom amigo, sempre me ajuda."
       ],
       "correctAnswerIndex": 2,
-      "hint": "O travessão, quando usado para intercalar, deve vir em pares, abrindo e fechando a informação a ser destacada.",
+      "hint": "O travessão, quando usado para intercalar uma informação, deve vir em pares, abrindo e fechando o trecho a ser destacado.",
       "hintCorrect": "Correto! O par de travessões isola e dá ênfase à informação 'um bom amigo', de forma semelhante às vírgulas ou parênteses, mas com mais destaque.",
       "hintWrong": "Incorreto. A resposta certa é 'O João — um bom amigo — sempre me ajuda'. Para intercalar uma explicação, usam-se dois travessões (ou duas vírgulas, ou parênteses).",
       "difficulty": "medium"
     },
     {
       "id": "pontuacao-009",
-      "question": "As 'Aspas' (" ") são usadas para, exceto:",
+      "question": "As 'Aspas' (\" \") são usadas para, exceto:",
       "options": [
         "Indicar citações ou falas.",
         "Destacar palavras estrangeiras ou gírias.",
@@ -132,8 +132,8 @@
         "Separar itens de uma lista."
       ],
       "correctAnswerIndex": 3,
-      "hint": "Três das opções são funções das aspas. Uma delas é a função principal de outro sinal de pontuação.",
-      "hintCorrect": "Correto! As aspas têm várias funções, mas separar itens de uma lista é a função da vírgula.",
+      "hint": "Três das opções são funções das aspas. A quarta é a função principal de outro sinal de pontuação.",
+      "hintCorrect": "Correto! As aspas têm várias funções, mas separar itens de uma lista é a função da vírgula, não das aspas.",
       "hintWrong": "Incorreto. A resposta certa é 'Separar itens de uma lista', pois essa é uma função da vírgula, não das aspas.",
       "difficulty": "easy"
     },
@@ -147,8 +147,8 @@
         "Introduzir uma explicação."
       ],
       "correctAnswerIndex": 1,
-      "hint": "A vírgula está no lugar de um verbo que já foi mencionado antes na frase. Qual verbo?",
-      "hintCorrect": "Exato! A vírgula substitui o verbo 'gosto' ('eu gosto de natação') para evitar a sua repetição. Isso é chamado de zeugma.",
+      "hint": "A vírgula está no lugar de um verbo que já foi mencionado antes na frase, para evitar a repetição.",
+      "hintCorrect": "Exato! A vírgula substitui o verbo 'gosto' ('eu gosto de natação'). Esse recurso se chama zeugma.",
       "hintWrong": "Incorreto. A resposta certa é 'Marcar a omissão de um verbo (zeugma)'. A vírgula está a substituir o verbo 'gosto'.",
       "difficulty": "hard"
     },
@@ -162,7 +162,7 @@
         "Dois pontos (:)"
       ],
       "correctAnswerIndex": 1,
-      "hint": "Este sinal gráfico representa a entoação de uma pergunta.",
+      "hint": "Este sinal gráfico representa na escrita a entoação de uma pergunta.",
       "hintCorrect": "Correto! O ponto de interrogação é o sinal que marca graficamente uma pergunta direta.",
       "hintWrong": "Incorreto. A resposta certa é 'Ponto de interrogação (?)'.",
       "difficulty": "easy"
@@ -177,7 +177,7 @@
         "A frase está incorreta."
       ],
       "correctAnswerIndex": 1,
-      "hint": "A pergunta não é feita diretamente. O narrador está a contar que alguém fez uma pergunta.",
+      "hint": "A pergunta não é feita diretamente. O narrador está a relatar que alguém fez uma pergunta.",
       "hintCorrect": "Correto! Em perguntas indiretas, a entoação é declarativa, por isso usamos o ponto final.",
       "hintWrong": "Incorreto. A resposta certa é 'É uma pergunta indireta e não leva ponto de interrogação'. A frase relata uma pergunta, mas não é a pergunta em si.",
       "difficulty": "medium"
@@ -192,7 +192,7 @@
         "Uma pausa breve."
       ],
       "correctAnswerIndex": 2,
-      "hint": "Pense em gritar, surpreender-se ou ficar muito feliz. Este sinal representa essas emoções na escrita.",
+      "hint": "Este sinal representa na escrita emoções fortes como surpresa, alegria, raiva ou ordens enfáticas.",
       "hintCorrect": "Exato! O ponto de exclamação marca a entoação de surpresa, alegria, raiva, medo, ou dá força a uma ordem.",
       "hintWrong": "Incorreto. A resposta certa é 'Emoções, ênfase ou ordens'.",
       "difficulty": "easy"
@@ -222,7 +222,7 @@
         "Separar o local no início da frase."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Esta é considerada a regra de ouro da vírgula: nunca separar os dois pilares de uma oração.",
+      "hint": "Esta é considerada a regra de ouro da vírgula: nunca separar os dois pilares de uma oração (sujeito e predicado).",
       "hintCorrect": "Correto! Nunca se deve usar vírgula entre o sujeito e o seu verbo/predicado.",
       "hintWrong": "Incorreto. A resposta certa é 'Separar o sujeito do predicado'. Este é um dos erros mais comuns e graves no uso da vírgula.",
       "difficulty": "easy"
@@ -261,15 +261,15 @@
       "id": "pontuacao-018",
       "question": "Para indicar a fala de uma personagem num diálogo, qual sinal é mais comum?",
       "options": [
-        "Aspas (" ")",
+        "Aspas (\" \")",
         "Parênteses ( )",
         "Travessão (—)",
         "Dois Pontos (:)"
       ],
       "correctAnswerIndex": 2,
-      "hint": "Este sinal é um traço longo que aparece no início da linha de cada fala.",
-      "hintCorrect": "Correto! O travessão é o sinal padrão para introduzir a fala de cada personagem em um diálogo.",
-      "hintWrong": "Incorreto. A resposta certa é 'Travessão (—)'. As aspas também podem ser usadas, mas o travessão é mais específico para diálogos.",
+      "hint": "Este sinal é um traço longo que aparece no início da linha de cada fala em textos literários.",
+      "hintCorrect": "Correto! O travessão é o sinal padrão para introduzir a fala de cada personagem em um diálogo, principalmente em literatura.",
+      "hintWrong": "Incorreto. A resposta certa é 'Travessão (—)'. As aspas também podem ser usadas, mas o travessão é mais característico em diálogos.",
       "difficulty": "easy"
     },
     {
@@ -297,8 +297,8 @@
         "Todos acordaram, cedo naquela manhã."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Quando uma expressão de tempo, lugar ou modo é longa e está no início da frase, ela deve ser separada por vírgula.",
-      "hintCorrect": "Correto! 'Naquela manhã' é um adjunto adverbial de tempo deslocado para o início da frase e, por ser longo, deve ser seguido de vírgula.",
+      "hint": "Quando uma expressão de tempo, lugar ou modo é deslocada para o início da frase, ela geralmente é seguida de vírgula.",
+      "hintCorrect": "Correto! 'Naquela manhã' é um adjunto adverbial de tempo deslocado para o início da frase e, por isso, deve ser seguido de vírgula.",
       "hintWrong": "Incorreto. A resposta certa é 'Naquela manhã, todos acordaram cedo'. A vírgula isola o adjunto adverbial deslocado.",
       "difficulty": "medium"
     },
@@ -388,7 +388,7 @@
       ],
       "correctAnswerIndex": 1,
       "hint": "Este sinal está mais ligado à formação de palavras (ortografia) do que à sintaxe.",
-      "hintCorrect": "Exato! O hífen é usado para unir os elementos de palavras compostas, para ligar pronomes a verbos (ênclise) e para a separação de sílabas no final da linha.",
+      "hintCorrect": "Exato! O hífen é usado principalmente para unir elementos de palavras compostas e para a separação de sílabas no final da linha.",
       "hintWrong": "Incorreto. A resposta certa é 'Para ligar palavras compostas como 'guarda-chuva''.",
       "difficulty": "easy"
     },
@@ -402,7 +402,7 @@
         "Comprei: pão e leite."
       ],
       "correctAnswerIndex": 1,
-      "hint": "Uma das funções dos dois pontos é introduzir a fala de alguém (discurso direto).",
+      "hint": "Uma das principais funções dos dois pontos é introduzir a fala de alguém (discurso direto).",
       "hintCorrect": "Correto! Os dois pontos são usados para anunciar a fala de uma personagem ou uma citação.",
       "hintWrong": "Incorreto. A resposta certa é 'Ele disse: 'Estou cansado.''. Nas outras opções, os dois pontos estão a ser mal utilizados, geralmente separando termos que deveriam estar juntos.",
       "difficulty": "medium"
@@ -627,7 +627,7 @@
         "Quando chegares, avisa."
       ],
       "correctAnswerIndex": 2,
-      "hint": "Uma das frases separa um verbo do seu complemento.",
+      "hint": "Uma das frases separa indevidamente um verbo do seu complemento.",
       "hintCorrect": "Correto! A frase 'Eu gosto de, ler e escrever' está errada porque a vírgula separa a preposição 'de' dos seus complementos 'ler e escrever'.",
       "hintWrong": "Incorreto. A frase errada é 'Eu gosto de, ler e escrever', pois a vírgula quebra a ligação entre 'de' e o resto da frase.",
       "difficulty": "easy"
@@ -1158,21 +1158,6 @@
       "difficulty": "medium"
     },
     {
-      "id": "pontuacao-078",
-      "question": "Em '— Que queres?', o travessão indica:",
-      "options": [
-        "Uma explicação.",
-        "A fala de uma personagem.",
-        "A omissão de um verbo.",
-        "Uma ironia."
-      ],
-      "correctAnswerIndex": 1,
-      "hint": "Este é o uso mais comum do travessão em textos narrativos.",
-      "hintCorrect": "Correto! O travessão no início de um parágrafo é a marca que introduz o discurso direto de uma personagem em um diálogo.",
-      "hintWrong": "Incorreto. A resposta certa é 'A fala de uma personagem'.",
-      "difficulty": "easy"
-    },
-    {
       "id": "pontuacao-079",
       "question": "Qual frase está INCORRETAMENTE pontuada?",
       "options": [
@@ -1354,7 +1339,7 @@
     },
     {
       "id": "pontuacao-091",
-      "question": "Ele comprou o carro; eu, a mota.' contém um exemplo de:",
+      "question": "'Ele comprou o carro; eu, a mota.' contém um exemplo de:",
       "options": [
         "Aposto e vocativo.",
         "Ponto e vírgula separando orações e vírgula marcando zeugma.",

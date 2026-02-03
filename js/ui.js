@@ -97,23 +97,45 @@ const UI = (() => {
         renderScreen(loadingHtml);
     };
 
-    const renderQuestionScreen = (question, gameState, onAnswer, onUseLifeline) => {
-        const progressPercentage = gameState.questions.length > 0 ? ((gameState.currentQuestionIndex + 1) / gameState.questions.length) * 100 : 0;
+    const renderQuestionScreen = (question, gameState, onAnswer, onUseLifeline, onBack) => {
+        // Determine current difficulty level and progress within it
+        let currentLevelName = 'Fácil';
+        let levelStartIndex = 0;
+        let questionsInLevel = 0;
+        let questionsCompletedInLevel = 0;
+
+        if (gameState.currentQuestionIndex >= gameState.difficultyStarts.hard) {
+            currentLevelName = 'Difícil';
+            levelStartIndex = gameState.difficultyStarts.hard;
+            questionsInLevel = gameState.difficultyCounts.hard;
+        } else if (gameState.currentQuestionIndex >= gameState.difficultyStarts.medium) {
+            currentLevelName = 'Médio';
+            levelStartIndex = gameState.difficultyStarts.medium;
+            questionsInLevel = gameState.difficultyCounts.medium;
+        } else {
+            currentLevelName = 'Fácil';
+            levelStartIndex = gameState.difficultyStarts.easy;
+            questionsInLevel = gameState.difficultyCounts.easy;
+        }
+        
+        questionsCompletedInLevel = gameState.currentQuestionIndex - levelStartIndex;
+        const progressPercentage = questionsInLevel > 0 ? ((questionsCompletedInLevel + 1) / questionsInLevel) * 100 : 0;
+
         const getProgressColor = () => {
-            const difficulty = question.difficulty || 'easy';
-            if (difficulty === 'easy') return 'bg-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.6)]';
-            if (difficulty === 'medium') return 'bg-amber-500 shadow-[0_0_10px_rgba(245,158,11,0.6)]';
+            if (currentLevelName === 'Fácil') return 'bg-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.6)]';
+            if (currentLevelName === 'Médio') return 'bg-amber-500 shadow-[0_0_10px_rgba(245,158,11,0.6)]';
             return 'bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.6)]';
         };
 
         const prizeLadderHtml = gameState.prizeLadder.map((val, idx) => {
             const level = idx + 1;
+            if (val === 0) return ''; // Don't show the 0 prize
             const isActive = gameState.score === idx;
             const isPassed = gameState.score > idx;
             return `
                 <div class="flex justify-between items-center px-3 py-1.5 rounded-lg text-[10px] font-bold transition-all ${isActive ? 'bg-amber-500 text-slate-950 scale-105 shadow-md z-10 translate-x-1' : isPassed ? 'text-blue-400/30' : 'text-slate-600'}">
                     <span>${level.toString().padStart(2, '0')}</span>
-                    <span>Kz ${val}</span>
+                    <span>${val}</span>
                 </div>
             `;
         }).reverse().join('');
@@ -148,44 +170,49 @@ const UI = (() => {
 
                     <div class="flex-1 flex flex-col overflow-hidden relative bg-[url('https://www.transparenttextures.com/patterns/dark-matter.png')]">
                         <header class="px-4 py-3 flex justify-between items-center border-b border-white/5 bg-slate-950/80 backdrop-blur shrink-0">
-                            <div class="flex items-center gap-3 text-slate-500 text-[9px] font-black uppercase tracking-widest">
-                                <span>${question.difficulty || 'Normal'}</span> <div class="w-1 h-1 rounded-full bg-slate-800"></div> <span>PERGUNTA ${gameState.currentQuestionIndex + 1} / ${gameState.questions.length}</span>
+                            <div class="flex items-center gap-3">
+                                <button id="backBtn" class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center border border-white/10 hover:bg-white/10 transition-all active:scale-90">
+                                    <svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" /></svg>
+                                </button>
+                                <div class="flex items-center gap-3 text-slate-500 text-[9px] font-black uppercase tracking-widest">
+                                    <span>NÍVEL ${currentLevelName.toUpperCase()}</span> <div class="w-1 h-1 rounded-full bg-slate-800"></div> <span>${questionsCompletedInLevel + 1} / ${questionsInLevel}</span>
+                                </div>
                             </div>
                             <div class="flex items-center gap-2">
                                 <div class="bg-slate-900/50 px-3 py-1 rounded-lg border border-white/5 text-right">
                                     <p class="text-slate-500 text-[7px] font-bold uppercase tracking-widest leading-none mb-0.5">VALENDO</p>
-                                    <p class="text-white font-black text-sm md:text-base leading-none">Kz ${gameState.currentPrize}</p>
+                                    <p class="text-white font-black text-sm md:text-base leading-none">${gameState.prizeLadder[gameState.score + 1] || gameState.prizeLadder[gameState.prizeLadder.length - 1]}</p>
                                 </div>
                             </div>
                         </header>
 
-                        <main class="flex-1 flex flex-col items-center p-4 md:p-6 overflow-hidden pt-8">
-                            <div class="w-full flex flex-col items-center justify-center overflow-hidden h-full max-h-full">
-                                <div class="w-full max-w-2xl text-center animate-slide-up">
-                                    <h2 class="text-2xl md:text-3xl font-bold text-slate-100 mb-6">${question.question}</h2>
-                                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
-                                        ${optionsHtml}
-                                    </div>
+                        <main class="flex-1 flex flex-col items-center justify-center p-4 md:p-6 overflow-y-auto">
+                            <div class="w-full max-w-2xl text-center animate-slide-up">
+                                <h2 class="text-2xl md:text-3xl font-bold text-slate-100 mb-6">${question.question}</h2>
+                                <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                                    ${optionsHtml}
                                 </div>
+                                
+                                <footer class="px-4 py-4 md:py-6 flex justify-center gap-4 md:gap-10 shrink-0 mt-8">
+                                    <button id="lifeline-fiftyFifty" ${gameState.lifelines.fiftyFifty ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.fiftyFifty ? 'border-blue-500/30 bg-blue-500/5 text-blue-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
+                                        <span class="text-base md:text-lg mb-0.5">50:50</span>
+                                    </button>
+                                    <button id="lifeline-skip" ${gameState.lifelines.skip ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.skip ? 'border-amber-500/30 bg-amber-500/5 text-amber-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
+                                        <span class="text-base md:text-lg mb-0.5">PULAR</span>
+                                    </button>
+                                    <button id="lifeline-hint" ${gameState.lifelines.hint ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.hint ? 'border-green-500/30 bg-green-500/5 text-green-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
+                                        <span class="text-base md:text-lg mb-0.5">DICA</span>
+                                    </button>
+                                </footer>
                             </div>
                         </main>
-
-                        <footer class="px-4 py-4 md:py-6 border-t border-white/5 bg-slate-950/90 backdrop-blur-xl flex justify-center gap-4 md:gap-10 shrink-0 mt-8">
-                            <button id="lifeline-fiftyFifty" ${gameState.lifelines.fiftyFifty ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.fiftyFifty ? 'border-blue-500/30 bg-blue-500/5 text-blue-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
-                                <span class="text-base md:text-lg mb-0.5">50:50</span>
-                            </button>
-                            <button id="lifeline-skip" ${gameState.lifelines.skip ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.skip ? 'border-amber-500/30 bg-amber-500/5 text-amber-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
-                                <span class="text-base md:text-lg mb-0.5">PULAR</span>
-                            </button>
-                            <button id="lifeline-hint" ${gameState.lifelines.hint ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.hint ? 'border-green-500/30 bg-green-500/5 text-green-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
-                                <span class="text-base md:text-lg mb-0.5">DICA</span>
-                            </button>
-                        </footer>
                     </div>
                 </div>
             </div>
         `;
         renderScreen(questionScreenHtml);
+
+        document.getElementById('backBtn').addEventListener('click', onBack);
 
         const answerButtons = document.querySelectorAll('[data-index]');
 
@@ -228,35 +255,36 @@ const UI = (() => {
     };
 
     const renderFeedbackScreen = (isCorrect, question, onContinue) => {
-        if (isCorrect) {
-            const gameState = Game.getGameState();
-            const feedbackHtml = `
-                <div class="h-screen w-screen flex flex-col items-center justify-center bg-slate-950 overflow-hidden text-center p-6 relative">
-                    <div class="absolute inset-0 bg-amber-500/5 animate-pulse"></div>
-                    <div class="animate-zoom-glow z-10 flex flex-col items-center">
-                       <h2 class="text-6xl md:text-9xl font-black text-amber-500 italic mb-6 drop-shadow-[0_0_15px_rgba(245,158,11,0.5)]">CERTO!</h2>
-                       <p class="text-slate-400 uppercase tracking-[0.6em] text-[10px] md:text-xs mb-4">Prêmio Atual</p>
-                       <div class="relative">
-                         <div class="absolute -inset-4 bg-white/10 blur-2xl rounded-full"></div>
-                         <p class="text-5xl md:text-8xl font-black text-white relative">Kz ${gameState.currentPrize}</p>
-                       </div>
-                    </div>
+        const gameState = Game.getGameState();
+        const title = isCorrect ? 'CERTO!' : 'Incorreto!';
+        const titleColor = isCorrect ? 'text-amber-500' : 'text-red-500';
+        const bgColor = isCorrect ? 'bg-amber-500/5' : 'bg-red-500/5';
+        const buttonColor = isCorrect ? 'bg-amber-500 text-slate-950' : 'bg-red-500 text-white';
+        const hintText = isCorrect ? question.hintCorrect : question.hintWrong;
+        
+        // NOTE: Prize penalty logic is not implemented in Game.js yet.
+        // For now, on wrong answer, we show the prize the user had before answering.
+        const prize = isCorrect ? gameState.currentPrize : gameState.prizeLadder[gameState.score];
+
+        const feedbackHtml = `
+            <div class="h-screen w-screen flex flex-col items-center justify-center bg-slate-950 overflow-hidden text-center p-6 relative">
+                <div class="absolute inset-0 ${bgColor} animate-pulse"></div>
+                <div id="feedbackContainer" class="animate-zoom-in-glow z-10 flex flex-col items-center max-w-2xl w-full">
+                   <h2 class="text-6xl md:text-9xl font-black ${titleColor} italic mb-6 drop-shadow-[0_0_15px_rgba(245,158,11,0.5)]">${title}</h2>
+                   <p class="text-slate-400 uppercase tracking-[0.6em] text-[10px] md:text-xs mb-4">Pontos</p>
+                   <div class="relative mb-6">
+                     <div class="absolute -inset-4 bg-white/10 blur-2xl rounded-full"></div>
+                     <p class="text-5xl md:text-8xl font-black text-white relative">${prize}</p>
+                   </div>
+                   <div class="bg-black/20 p-4 rounded-lg mb-6">
+                        <p class="text-slate-300 text-base">${hintText}</p>
+                   </div>
+                   <button id="continueBtn" class="w-full max-w-sm py-3 rounded-lg ${buttonColor} font-bold hover:opacity-90 transition-all">Continuar</button>
                 </div>
-            `;
-            renderScreen(feedbackHtml);
-        } else {
-            const feedbackHtml = `
-                <div class="h-screen w-screen flex flex-col items-center justify-center bg-red-950/50 p-6 text-center">
-                    <div class="animate-stamp bg-slate-900/50 p-8 rounded-2xl border border-red-500/20 shadow-2xl max-w-lg">
-                        <h2 class="text-7xl font-black text-red-500 italic">Errado!</h2>
-                        <p class="text-slate-300 mt-4 mb-6 text-lg">${question.hintWrong}</p>
-                        <button id="continueBtn" class="w-full py-3 rounded-lg bg-red-500 text-white font-bold hover:bg-red-400 transition-all">Continuar</button>
-                    </div>
-                </div>
-            `;
-            renderScreen(feedbackHtml);
-            document.getElementById('continueBtn').addEventListener('click', onContinue);
-        }
+            </div>
+        `;
+        renderScreen(feedbackHtml);
+        document.getElementById('continueBtn').addEventListener('click', onContinue);
     };
 
     const renderGameOverScreen = (gameState) => {
@@ -284,8 +312,8 @@ const UI = (() => {
                         "Não desanime. Cada erro é um degrau no aprendizado."
                         <p class="mt-2 text-[8px] font-bold text-slate-500 uppercase">— Marcos Arlove</p>
                     </div>
-                    <p class="text-xs text-slate-400 uppercase font-bold tracking-widest mb-1">Prêmio Final</p>
-                    <p class="text-3xl md:text-4xl font-black text-white mb-8">Kz ${gameState.currentPrize}</p>
+                    <p class="text-xs text-slate-400 uppercase font-bold tracking-widest mb-1">Pontuação Final</p>
+                    <p class="text-3xl md:text-4xl font-black text-white mb-8">${gameState.currentPrize}</p>
                     
                     ${summaryHtml}
 
@@ -300,6 +328,7 @@ const UI = (() => {
         document.getElementById('restartGameBtn').addEventListener('click', () => window.location.reload());
         document.getElementById('mainMenuBtn').addEventListener('click', () => window.location.reload());
     };
+
 
     const renderHintModal = (hint) => {
         const existingModal = document.getElementById('hintModalContainer');
