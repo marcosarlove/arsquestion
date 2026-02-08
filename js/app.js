@@ -74,12 +74,24 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
 
             setTimeout(() => {
-                if (Game.isGameOver()) {
-                    UI.renderGameOverScreen(Game.getGameState());
-                } else {
+                const gameResult = Game.getGameResult();
+                const restartGame = () => {
+                    const saved = JSON.parse(localStorage.getItem('ars_selectedCategories'));
+                    handleStartGame(saved || []);
+                };
+
+                if (gameResult === 'WIN') {
+                    UI.renderVictoryScreen(Game.getGameState(), restartGame, goToStartScreen);
+                } else if (gameResult === 'LOSE') {
+                    UI.renderGameOverScreen(Game.getGameState(), restartGame, goToStartScreen);
+                } else { // ONGOING
                     Game.nextQuestion();
-                    if (Game.isGameOver()) {
-                        UI.renderGameOverScreen(Game.getGameState());
+                    // Check again in case the last question was just answered
+                    const nextResult = Game.getGameResult();
+                    if (nextResult === 'WIN') {
+                        UI.renderVictoryScreen(Game.getGameState(), restartGame, goToStartScreen);
+                    } else if (nextResult === 'LOSE') {
+                        UI.renderGameOverScreen(Game.getGameState(), restartGame, goToStartScreen);
                     } else {
                         UI.renderLoadingScreen("Próxima pergunta...");
                         setTimeout(Game.startGameFlow, 1000);
@@ -100,8 +112,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     const onLifelineUsed = (lifelineType) => {
         console.log(`Lifeline used: ${lifelineType}`);
         if (lifelineType === 'skip') {
-            if (Game.isGameOver()) {
-                UI.renderGameOverScreen(Game.getGameState());
+            const gameResult = Game.getGameResult();
+            const restartGame = () => {
+                const saved = JSON.parse(localStorage.getItem('ars_selectedCategories'));
+                handleStartGame(saved || []);
+            };
+
+            if (gameResult === 'WIN') {
+                UI.renderVictoryScreen(Game.getGameState(), restartGame, goToStartScreen);
+            } else if (gameResult === 'LOSE') {
+                UI.renderGameOverScreen(Game.getGameState(), restartGame, goToStartScreen);
             } else {
                 UI.renderLoadingScreen("Pulando pergunta...");
                 setTimeout(() => {
@@ -128,11 +148,13 @@ document.addEventListener('DOMContentLoaded', async () => {
             return;
         }
 
+        // Save the selected categories for the next session
+        localStorage.setItem('ars_selectedCategories', JSON.stringify(selectedCategoryFiles));
+
         UI.renderLoadingScreen("Carregando perguntas...");
 
         const allQuestions = [];
         const promises = selectedCategoryFiles.map(file => loadQuizData(file));
-
         try {
             const results = await Promise.all(promises);
             results.forEach(data => {
@@ -159,7 +181,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         UI.renderLoadingScreen("Buscando categorias...");
         const availableCategories = await getAvailableCategories();
         if (availableCategories.length > 0) {
-            UI.renderStartScreen(availableCategories, handleStartGame);
+            // Load saved categories from localStorage
+            const savedCategories = JSON.parse(localStorage.getItem('ars_selectedCategories'));
+            UI.renderStartScreen(availableCategories, handleStartGame, savedCategories);
         } else {
             UI.renderScreen(`<div class="alert alert-warning" role="alert">Nenhuma categoria de quiz foi encontrada.</div>`);
         }

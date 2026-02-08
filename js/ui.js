@@ -5,12 +5,17 @@ const UI = (() => {
         appContainer.innerHTML = htmlContent;
     };
 
-    const renderStartScreen = (availableCategories, onStartGame) => {
+    const renderStartScreen = (availableCategories, onStartGame, savedCategories) => {
+        // If savedCategories is null (first visit), default to all checked. Otherwise, use the saved list.
+        const isFirstVisit = savedCategories === null || savedCategories === undefined;
+
         let categoriesHtml = '';
         availableCategories.forEach(cat => {
+            // If it's the first visit, check all. Otherwise, check only if it's in the saved list.
+            const isChecked = isFirstVisit ? true : savedCategories.includes(cat.file);
             categoriesHtml += `
                 <div class="relative">
-                    <input type="checkbox" id="cat-${cat.file}" value="${cat.file}" class="category-checkbox sr-only peer" checked>
+                    <input type="checkbox" id="cat-${cat.file}" value="${cat.file}" class="category-checkbox sr-only peer" ${isChecked ? 'checked' : ''}>
                     <label for="cat-${cat.file}" class="flex flex-col items-center justify-center p-3 md:p-4 rounded-xl border-2 border-white/10 bg-white/5 backdrop-blur-sm peer-checked:border-amber-500 peer-checked:bg-amber-500/10 transition-all duration-200 cursor-pointer hover:bg-white/10 peer-checked:text-amber-300 text-slate-300">
                         <span class="text-base font-bold">${cat.name}</span>
                         <span class="text-xs text-slate-400 peer-checked:text-amber-500">${cat.subcategory}</span>
@@ -47,7 +52,7 @@ const UI = (() => {
                     <div class="bg-white/5 backdrop-blur-md p-6 md:p-8 rounded-[32px] border border-white/10 shadow-2xl flex flex-col gap-4">
                         <div class="text-center">
                             <p class="text-slate-400 text-sm">Categorias Selecionadas:</p>
-                            <p id="selectionCount" class="text-white font-bold text-lg">${availableCategories.length}</p>
+                            <p id="selectionCount" class="text-white font-bold text-lg">${isFirstVisit ? availableCategories.length : savedCategories.length}</p>
                             <button id="openModalBtn" class="mt-2 text-sm text-amber-400 hover:text-amber-300 font-semibold">Alterar Seleção</button>
                         </div>
                         <button id="startGameBtn" class="w-full py-3 text-sm rounded-xl bg-amber-500 text-slate-950 font-bold hover:bg-amber-400 transition-all">Iniciar Jogo</button>
@@ -64,18 +69,33 @@ const UI = (() => {
         const selectionCount = document.getElementById('selectionCount');
         const checkboxes = document.querySelectorAll('.category-checkbox');
 
+        const getSelectedCategories = () => {
+            const selected = document.querySelectorAll('.category-checkbox:checked');
+            return Array.from(selected).map(cb => cb.value);
+        };
+
+        const saveSelectedCategories = () => {
+            const selectedFiles = getSelectedCategories();
+            localStorage.setItem('ars_selectedCategories', JSON.stringify(selectedFiles));
+        };
+
         const updateSelectionCount = () => {
-            const count = document.querySelectorAll('.category-checkbox:checked').length;
+            const count = getSelectedCategories().length;
             selectionCount.textContent = `${count}`;
         };
 
         openModalBtn.addEventListener('click', () => categoryModal.classList.remove('hidden'));
-        closeModalBtn.addEventListener('click', () => categoryModal.classList.add('hidden'));
+        
+        closeModalBtn.addEventListener('click', () => {
+            saveSelectedCategories();
+            categoryModal.classList.add('hidden');
+        });
+
         checkboxes.forEach(cb => cb.addEventListener('change', updateSelectionCount));
 
         document.getElementById('startGameBtn').addEventListener('click', () => {
-            const selectedCategoryCheckboxes = document.querySelectorAll('.category-checkbox:checked');
-            const selectedCategoryFiles = Array.from(selectedCategoryCheckboxes).map(cb => cb.value);
+            saveSelectedCategories(); // Save before starting
+            const selectedCategoryFiles = getSelectedCategories();
             if (selectedCategoryFiles.length === 0) {
                 alert('Por favor, selecione pelo menos uma categoria.');
                 return;
@@ -287,7 +307,7 @@ const UI = (() => {
         document.getElementById('continueBtn').addEventListener('click', onContinue);
     };
 
-    const renderGameOverScreen = (gameState) => {
+    const renderGameOverScreen = (gameState, onRestart, onGoToHome) => {
         let summaryHtml = '';
         if (gameState.wrongAnswers.length > 0) {
             summaryHtml += '<h4 class="text-lg font-bold text-slate-300 mt-8 mb-3">Perguntas que você errou:</h4>';
@@ -325,10 +345,34 @@ const UI = (() => {
             </div>
         `;
         renderScreen(gameOverHtml);
-        document.getElementById('restartGameBtn').addEventListener('click', () => window.location.reload());
-        document.getElementById('mainMenuBtn').addEventListener('click', () => window.location.reload());
+        document.getElementById('restartGameBtn').addEventListener('click', onRestart);
+        document.getElementById('mainMenuBtn').addEventListener('click', onGoToHome);
     };
 
+
+    const renderVictoryScreen = (gameState, onRestart, onGoToHome) => {
+        const victoryHtml = `
+            <div class="h-screen w-screen flex flex-col items-center justify-center bg-slate-950 p-6 text-center overflow-hidden">
+                <div class="p-8 md:p-12 rounded-[40px] border border-amber-500/20 bg-amber-950/10 backdrop-blur-xl shadow-2xl max-w-lg w-full animate-slide-up">
+                    <h2 class="text-4xl md:text-6xl font-black mb-4 italic text-amber-400">PARABÉNS!</h2>
+                    <div class="mb-6 p-4 bg-white/5 rounded-2xl italic text-sm font-light leading-relaxed text-slate-300">
+                        "A vitória pertence àquele que acredita nela por mais tempo."
+                        <p class="mt-2 text-[8px] font-bold text-slate-500 uppercase">— Napoleão Bonaparte (adaptado)</p>
+                    </div>
+                    <p class="text-xs text-slate-400 uppercase font-bold tracking-widest mb-1">Pontuação Final</p>
+                    <p class="text-3xl md:text-4xl font-black text-white mb-8">${gameState.currentPrize}</p>
+                    
+                    <div class="grid grid-cols-1 gap-3 mt-8">
+                        <button id="restartGameBtn" class="py-3 text-sm rounded-xl bg-amber-500 text-slate-950 font-bold hover:bg-amber-400 transition-all">Jogar Novamente</button>
+                        <button id="mainMenuBtn" class="py-3 text-sm rounded-xl border border-white/10 text-slate-300 hover:bg-white/5 transition-all">Menu Principal</button>
+                    </div>
+                </div>
+            </div>
+        `;
+        renderScreen(victoryHtml);
+        document.getElementById('restartGameBtn').addEventListener('click', onRestart);
+        document.getElementById('mainMenuBtn').addEventListener('click', onGoToHome);
+    };
 
     const renderHintModal = (hint) => {
         const existingModal = document.getElementById('hintModalContainer');
@@ -361,6 +405,7 @@ const UI = (() => {
         renderQuestionScreen,
         renderFeedbackScreen,
         renderGameOverScreen,
+        renderVictoryScreen,
         renderHintModal
     };
 })();

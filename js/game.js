@@ -159,8 +159,14 @@ const Game = (() => {
         }
     };
 
+    const getGameResult = () => {
+        if (state.errors >= state.maxErrors) return 'LOSE';
+        if (state.currentQuestionIndex >= state.questions.length) return 'WIN';
+        return 'ONGOING';
+    };
+
     const isGameOver = () => {
-        return state.errors >= state.maxErrors || state.currentQuestionIndex >= state.questions.length;
+        return getGameResult() !== 'ONGOING';
     };
 
     const getGameState = () => {
@@ -174,6 +180,7 @@ const Game = (() => {
         nextQuestion,
         isGameOver,
         getGameState,
-        startGameFlow
+        startGameFlow,
+        getGameResult
     };
 })();
