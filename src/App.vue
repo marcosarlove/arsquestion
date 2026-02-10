@@ -1,10 +1,16 @@
 <template>
+  <AppHeader />
   <router-view />
+  <ContinueFab />
 </template>
 
 <script>
+import AppHeader from './components/AppHeader.vue';
+import ContinueFab from './components/ContinueFab.vue';
+
 export default {
   name: 'App',
+  components: { AppHeader, ContinueFab },
 }
 </script>
 

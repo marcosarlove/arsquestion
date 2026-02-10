@@ -41,13 +41,13 @@ const UI = (() => {
 
         const startScreenHtml = `
             <div class="h-screen w-screen flex flex-col items-center justify-center p-4 bg-[#020617] relative overflow-hidden">
-                <div class="absolute inset-0 bg-gradient-to-r from-blue-900/20 via-slate-900/40 to-fuchsia-900/30 pointer-events-none opacity-50 animate-move-gradient"></div>
+                <div class="absolute inset-0 bg-gradient-to-r from-amber-900/20 via-slate-900/40 to-fuchsia-900/30 pointer-events-none opacity-50 animate-move-gradient"></div>
                 <div class="relative z-10 text-center w-full max-w-md space-y-6">
                     <div class="space-y-1">
                         <h1 class="text-4xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-b from-amber-100 via-amber-400 to-amber-700 drop-shadow-xl italic tracking-tighter">
                             ARSQuestion
                         </h1>
-                        <p class="text-blue-400 font-bold tracking-[0.3em] uppercase text-[10px] md:text-xs">Powered by Marcos Arlove</p>
+                        <p class="text-amber-400 font-bold tracking-[0.3em] uppercase text-[10px] md:text-xs">Powered by Marcos Arlove</p>
                     </div>
                     <div class="bg-white/5 backdrop-blur-md p-6 md:p-8 rounded-[32px] border border-white/10 shadow-2xl flex flex-col gap-4">
                         <div class="text-center">
@@ -109,9 +109,9 @@ const UI = (() => {
             <div class="h-screen w-screen flex flex-col items-center justify-center bg-slate-950 p-6">
                 <div class="relative w-24 h-24 mb-6">
                     <div class="absolute inset-0 border-4 border-slate-900 rounded-full"></div>
-                    <div class="absolute inset-0 border-4 border-blue-500 rounded-full border-t-transparent animate-spin"></div>
+                    <div class="absolute inset-0 border-4 border-amber-500 rounded-full border-t-transparent animate-spin"></div>
                 </div>
-                <h2 class="text-xl font-bold text-blue-100 animate-pulse">${message}</h2>
+                <h2 class="text-xl font-bold text-amber-100 animate-pulse">${message}</h2>
             </div>
         `;
         renderScreen(loadingHtml);
@@ -142,7 +142,7 @@ const UI = (() => {
         const progressPercentage = questionsInLevel > 0 ? ((questionsCompletedInLevel + 1) / questionsInLevel) * 100 : 0;
 
         const getProgressColor = () => {
-            if (currentLevelName === 'Fácil') return 'bg-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.6)]';
+            if (currentLevelName === 'Fácil') return 'bg-amber-500 shadow-[0_0_10px_rgba(245,158,11,0.6)]';
             if (currentLevelName === 'Médio') return 'bg-amber-500 shadow-[0_0_10px_rgba(245,158,11,0.6)]';
             return 'bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.6)]';
         };
@@ -153,7 +153,7 @@ const UI = (() => {
             const isActive = gameState.score === idx;
             const isPassed = gameState.score > idx;
             return `
-                <div class="flex justify-between items-center px-3 py-1.5 rounded-lg text-[10px] font-bold transition-all ${isActive ? 'bg-amber-500 text-slate-950 scale-105 shadow-md z-10 translate-x-1' : isPassed ? 'text-blue-400/30' : 'text-slate-600'}">
+                <div class="flex justify-between items-center px-3 py-1.5 rounded-lg text-[10px] font-bold transition-all ${isActive ? 'bg-amber-500 text-slate-950 scale-105 shadow-md z-10 translate-x-1' : isPassed ? 'text-amber-400/30' : 'text-slate-600'}">
                     <span>${level.toString().padStart(2, '0')}</span>
                     <span>${val}</span>
                 </div>
@@ -181,7 +181,7 @@ const UI = (() => {
                     <aside class="hidden lg:flex w-64 bg-slate-900/30 border-r border-white/5 flex-col p-6 overflow-hidden">
                         <div class="mb-6">
                             <h1 class="text-lg font-black text-white italic leading-tight tracking-tighter">ARSQuestion</h1>
-                            <p class="text-[8px] text-blue-500 font-bold uppercase tracking-widest mt-0.5">Powered by Marcos Arlove</p>
+                            <p class="text-[8px] text-amber-500 font-bold uppercase tracking-widest mt-0.5">Powered by Marcos Arlove</p>
                         </div>
                         <div class="flex-1 overflow-y-auto no-scrollbar flex flex-col-reverse gap-1 pr-2">
                             ${prizeLadderHtml}
@@ -214,7 +214,7 @@ const UI = (() => {
                                 </div>
                                 
                                 <footer class="px-4 py-4 md:py-6 flex justify-center gap-4 md:gap-10 shrink-0 mt-8">
-                                    <button id="lifeline-fiftyFifty" ${gameState.lifelines.fiftyFifty ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.fiftyFifty ? 'border-blue-500/30 bg-blue-500/5 text-blue-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
+                                    <button id="lifeline-fiftyFifty" ${gameState.lifelines.fiftyFifty ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.fiftyFifty ? 'border-amber-500/30 bg-amber-500/5 text-amber-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
                                         <span class="text-base md:text-lg mb-0.5">50:50</span>
                                     </button>
                                     <button id="lifeline-skip" ${gameState.lifelines.skip ? '' : 'disabled'} class="w-14 h-14 md:w-16 md:h-16 rounded-2xl flex flex-col items-center justify-center text-[8px] font-black border transition-all duration-300 ${gameState.lifelines.skip ? 'border-amber-500/30 bg-amber-500/5 text-amber-400 hover:scale-105 active:scale-95' : 'border-slate-800 bg-slate-900/50 text-slate-700 cursor-not-allowed grayscale'}">
@@ -249,7 +249,7 @@ const UI = (() => {
 
                 // Highlight the selected button immediately
                 selectedButton.classList.remove('border-slate-700', 'bg-slate-800/50');
-                selectedButton.classList.add('border-blue-500', 'bg-blue-900/50', 'scale-105');
+                selectedButton.classList.add('border-amber-500', 'bg-amber-900/50', 'scale-105');
 
                 // Wait a very short moment for the visual feedback to register before proceeding
                 setTimeout(() => {
@@ -380,10 +380,10 @@ const UI = (() => {
 
         const modalHtml = `
             <div id="hintModalContainer" class="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4">
-                <div class="bg-slate-800 border border-blue-500/30 p-6 rounded-2xl max-w-sm w-full shadow-2xl animate-slide-up">
-                    <h4 class="font-black text-blue-400 uppercase text-sm tracking-widest mb-2">Dica</h4>
-                    <p class="text-blue-100/80 text-base font-light leading-snug mb-4">${hint}</p>
-                    <button id="closeHintBtn" class="w-full py-2 rounded-lg bg-blue-600 text-white font-bold">Entendi</button>
+                <div class="bg-slate-800 border border-amber-500/30 p-6 rounded-2xl max-w-sm w-full shadow-2xl animate-slide-up">
+                    <h4 class="font-black text-amber-400 uppercase text-sm tracking-widest mb-2">Dica</h4>
+                    <p class="text-amber-100/80 text-base font-light leading-snug mb-4">${hint}</p>
+                    <button id="closeHintBtn" class="w-full py-2 rounded-lg bg-amber-600 text-white font-bold">Entendi</button>
                 </div>
             </div>
         `;

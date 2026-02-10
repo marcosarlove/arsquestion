@@ -2,10 +2,6 @@
 <template>
   <div class="app-screen app-screen--scroll app-screen--glow" ref="page">
     <div class="hero fade-in">
-      <div class="hero-logo">
-        <img :src="`${baseUrl}img/logo.png`" alt="Logo do ARSQuestion" />
-        <div class="hero-mark">ARS<span>Question</span></div>
-      </div>
       <div class="badge-row">
         <span class="badge">Quiz Multidisciplinar</span>
         <span class="badge">Aprendizado Ativo</span>
@@ -18,9 +14,12 @@
         conhecimento em perguntas e respostas, cria trilhas de prática e transforma o seu repositório em uma
         rotina contínua de aprendizagem.
       </p>
-      <div class="hero-actions">
-        <button @click="goToLogin" class="button button-primary button-large">Iniciar sessão</button>
-        <button @click="goToSignup" class="button button-ghost button-large">Criar conta</button>
+      <div class="hero-actions" v-if="!isAuthenticated">
+        <button @click="goToLogin" class="button button-primary button-large button-hero">Iniciar sessão</button>
+        <button @click="goToSignup" class="button button-ghost button-large button-hero">Criar conta</button>
+      </div>
+      <div class="hero-actions" v-else>
+        <button @click="goToQuiz" class="button button-primary button-large">Iniciar Quiz</button>
       </div>
     </div>
 
@@ -100,27 +99,36 @@
 
     <div class="cta-card fade-in delay-3">
       <h2 class="section-title">Pronto para começar?</h2>
-      <p class="section-text">
+      <p class="section-text" v-if="!isAuthenticated">
         Entre agora para continuar onde parou ou crie uma conta e comece sua jornada de estudo.
       </p>
-      <div class="cta-row">
-        <button @click="goToLogin" class="button button-primary button-large">Iniciar sessão</button>
-        <button @click="goToSignup" class="button button-secondary button-large">Criar conta</button>
+      <p class="section-text" v-else>
+        Vá para o dashboard e escolha as áreas que deseja praticar hoje.
+      </p>
+      <div class="cta-row" v-if="!isAuthenticated">
+        <button @click="goToLogin" class="button button-primary button-large button-hero">Iniciar sessão</button>
+        <button @click="goToSignup" class="button button-secondary button-large button-hero">Criar conta</button>
+      </div>
+      <div class="cta-row" v-else>
+        <button @click="goToQuiz" class="button button-primary button-large">Iniciar Quiz</button>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import { onMounted, ref } from 'vue';
+import { computed, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
+import { useAuth } from '../services/auth';
 
 export default {
   name: 'StartScreen',
   setup() {
+    const { user } = useAuth();
     const router = useRouter();
     const page = ref(null);
     const baseUrl = process.env.BASE_URL || '/';
+    const isAuthenticated = computed(() => !!user.value);
 
     const goToLogin = () => {
       router.push('/login');
@@ -130,11 +138,16 @@ export default {
       router.push({ path: '/login', query: { mode: 'signup' } });
     };
 
+    const goToQuiz = () => {
+      router.push('/quiz');
+    };
+
+
     onMounted(() => {
       window.scrollTo(0, 0);
     });
 
-    return { goToLogin, goToSignup, baseUrl, page };
+    return { goToLogin, goToSignup, goToQuiz, baseUrl, page, isAuthenticated };
   }
 };
 </script>

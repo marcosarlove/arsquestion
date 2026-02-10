@@ -159,6 +159,11 @@ const Game = (() => {
         return { ...state };
     };
 
+    const loadState = (savedState) => {
+        if (!savedState) return;
+        state = { ...savedState };
+    };
+
     return {
         init,
         getCurrentQuestion,
@@ -168,6 +173,7 @@ const Game = (() => {
         getGameState,
         startGameFlow,
         getGameResult,
+        loadState,
         handleLifeline
     };
 })();
