@@ -1,0 +1,39 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Função auxiliar para verificar se o usuário é Admin
+    function isAdmin() {
+      return request.auth != null && 
+             get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    // Regra para a coleção de Usuários
+    match /users/{userId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null; // Permite criar o próprio perfil ao logar
+      allow update: if isAdmin() || (
+        request.auth.uid == userId && 
+        request.resource.data.diff(resource.data).affectedKeys()
+        .hasOnly(['avatar', 'name', 'stats'])
+      );
+    }
+
+    // Regra para a coleção de Requests (Pedidos)
+    match /requests/{requestId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if isAdmin() || (
+        request.resource.data.diff(resource.data).affectedKeys()
+        .hasOnly(['feature_requested'])
+      );
+      allow delete: if isAdmin();
+    }
+
+    // Regra para as outras coleções (quizzes, categories, progress, notifications)
+    match /{collectionName}/{docId} {
+      allow read: if request.auth != null;
+      allow write: if isAdmin();
+    }
+  }
+}

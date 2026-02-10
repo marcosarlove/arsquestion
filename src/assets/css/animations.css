@@ -1,0 +1,68 @@
+@keyframes slide-up {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.animate-slide-up {
+  animation: slide-up 0.5s ease-out forwards;
+}
+@keyframes grow-x {
+  from { width: 0; }
+  to { width: 100%; }
+}
+.animate-grow-x {
+  animation: grow-x 1.5s ease-in-out forwards;
+}
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 5px rgba(251, 191, 36, 0.2); border-color: rgba(251, 191, 36, 0.3); }
+  50% { box-shadow: 0 0 15px rgba(251, 191, 36, 0.4); border-color: rgba(251, 191, 36, 0.6); }
+}
+.animate-pulse-gold {
+  animation: pulse-gold 2s infinite;
+}
+@keyframes zoom-in-glow {
+  0% { transform: scale(0.9); opacity: 0; filter: blur(10px); }
+  70% { transform: scale(1.05); opacity: 1; filter: blur(0); }
+  100% { transform: scale(1); opacity: 1; filter: blur(0); }
+}
+.animate-zoom-in-glow {
+  animation: zoom-in-glow 1s ease-in-out forwards;
+}
+@keyframes zoom-out-glow {
+  0% { transform: scale(1); opacity: 1; filter: blur(0); }
+  100% { transform: scale(1.1); opacity: 0; filter: blur(5px); }
+}
+.animate-zoom-out-glow {
+  animation: zoom-out-glow 0.5s ease-in-out forwards;
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+@keyframes stamp {
+  0% { opacity: 0; transform: scale(3); }
+  80% { opacity: 1; transform: scale(0.95); }
+  100% { opacity: 1; transform: scale(1); }
+}
+.animate-stamp {
+  animation: stamp 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+@keyframes use-lifeline {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(0.8); opacity: 0.5; }
+  100% { transform: scale(1); opacity: 0.4; }
+}
+.animate-use-lifeline {
+  animation: use-lifeline 0.4s ease-out forwards;
+}
+@keyframes move-gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.animate-move-gradient {
+  background-size: 200% 200%;
+  animation: move-gradient 15s ease-in-out infinite;
+}
